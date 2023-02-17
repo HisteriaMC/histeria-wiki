@@ -10,34 +10,34 @@ erat.
 <div class="crafting-table">
   <div class="row">
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
     </div>
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
     </div>
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
-    </div>
-  </div>
-  <div class="row">
-    <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
-    </div>
-    <div class="cell">
-    </div>
-    <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
     </div>
   </div>
   <div class="row">
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
+     <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
     </div>
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
     </div>
     <div class="cell">
-      ![item](https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png)
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="cell">
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
+    </div>
+    <div class="cell">
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
+    </div>
+    <div class="cell">
+      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png"/>
     </div>
   </div>
 </div>
