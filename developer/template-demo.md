@@ -1,0 +1,1 @@
+Here the future wiki template example for community
