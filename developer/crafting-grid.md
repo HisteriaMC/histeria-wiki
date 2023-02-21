@@ -18,15 +18,15 @@ Les tables de craft stylisé pour le wiki d'Histeria doivent respecter un format
 Table de craft vide avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
 
 -=-
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/blue-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/green-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/magenta-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/orange-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/pink-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/purple-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
--== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/yellow-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/blue-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/green-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/magenta-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/orange-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/pink-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/purple-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/yellow-rectangle.svg
 -=-
 
