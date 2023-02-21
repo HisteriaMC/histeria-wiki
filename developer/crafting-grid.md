@@ -15,7 +15,7 @@ Les tables de craft stylisé pour le wiki d'Histeria doivent respecter un format
 
 ## Exemples
 
-Table de craft vide avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
+Table de craft avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
 ```markdown
 -=-
  ==- blue
@@ -40,6 +40,61 @@ Table de craft vide avec resultat et couleurs indiquant quelle ligne correspond 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/purple-rectangle.svg
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/yellow-rectangle.svg
+-=-
+
+---
+Table de craft sans resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
+```markdown
+-=-
+ ==- blue
+ ==- cyan
+ ==- green
+ ==- magenta
+ ==- orange
+ ==- pink
+ ==- purple
+ ==- red
+ ==- white
+-=-
+```
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/blue-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/green-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/magenta-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/orange-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/pink-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/purple-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
+-=-
+
+---
+Table de craft avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules, ainsi que des cellules sans contenue :
+```markdown
+-=-
+ ==- blue
+ ==- cyan
+ ==- green
+ ==- magenta
+ ==- orange
+ ==- pink
+ ==- purple
+ ==- red
+ ==- white
+-=-
+```
+-=-
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/magenta-rectangle.svg
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/pink-rectangle.svg
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
+ ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/yellow-rectangle.svg
 -=-
 
