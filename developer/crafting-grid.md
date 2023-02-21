@@ -16,20 +16,7 @@ Les tables de craft stylisé pour le wiki d'Histeria doivent respecter un format
 ## Exemples
 
 Table de craft vide avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
-```markdown
--=-
- ==- blue
- ==- cyan
- ==- green
- ==- magenta
- ==- orange
- ==- pink
- ==- purple
- ==- red
- ==- white
- -== yellow
--=-
-```
+
 -=-
 ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/blue-rectangle.svg
 ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
