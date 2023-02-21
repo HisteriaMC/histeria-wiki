@@ -74,15 +74,16 @@ Table de craft sans resultat et couleurs indiquant quelle ligne correspond à qu
 Table de craft avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules, ainsi que des cellules sans contenue :
 ```markdown
 -=-
- ==- blue
+ ==- 
  ==- cyan
- ==- green
+ ==- 
  ==- magenta
- ==- orange
+ ==- 
  ==- pink
- ==- purple
+ ==- 
  ==- red
- ==- white
+ ==-
+ -== yellow
 -=-
 ```
 -=-
