@@ -7,40 +7,18 @@ erat.
 
 ## Craft
 
-<div class="crafting-table">
-  <div class="row">
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-  <div class="row">
-    <div class="cell">
-     <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-  <div class="row">
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-</div>
+-=-
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ ==- https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+ -== https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png
+-=-
 
 ## Utilisation
 
