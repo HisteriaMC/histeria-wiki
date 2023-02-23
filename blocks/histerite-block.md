@@ -5,16 +5,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Craft
 -=-
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
--== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-ingot.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/java-histerite-block.png
 -=-
 
 ## Utilités
