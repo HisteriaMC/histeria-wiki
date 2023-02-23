@@ -7,6 +7,18 @@ erat.
 
 ## Craft
 
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/blue-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/cyan-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/green-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/magenta-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/orange-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/pink-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/purple-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/red-rectangle.svg
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
+-=-
+
 <div class="crafting-table">
   <div class="row">
     <div class="cell">
