@@ -1,6 +1,6 @@
 # Table de craft API Markdown
 Dans ce tutoriel, nous allons voir comment realiser via les balises Markdown customisé differantes tables de craft.  
-> ::warning La stylisation de ces balises n'est effective que sur le site d'Histeria dans l'onglet Wiki 
+> :warning:: La stylisation de ces balises n'est effective que sur le site d'Histeria dans l'onglet Wiki 
 
 ## Syntax  
 
@@ -9,9 +9,9 @@ Les tables de craft stylisé pour le wiki d'Histeria doivent respecter un format
 - ``==- https:// lien de l'image ou vide`` présent au nombre de 9, correspond aux cellules de la table pour la recette
 - ``-== https:// lien de l'image ou vide`` Correspond a la cellule de resultat de la table de craft
 
-> :warning Si vous souhaitez laisser une cellule vide, il faut absolument un espace apres la syntax de cellule : ``==-``  
+> :warning: Si vous souhaitez laisser une cellule vide, il faut absolument un espace apres la syntax de cellule : ``==-``  
 
-> :warning Si vous ne souhaitez pas de resultat, il suffit de retirer la synaxe de resultat `-==` de votre table de craft
+> :warning: Si vous ne souhaitez pas de resultat, il suffit de retirer la synaxe de resultat `-==` de votre table de craft
 
 ## Exemples
 
