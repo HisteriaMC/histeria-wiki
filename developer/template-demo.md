@@ -19,41 +19,6 @@ erat.
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/colors/white-rectangle.svg
 -=-
 
-<div class="crafting-table">
-  <div class="row">
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-  <div class="row">
-    <div class="cell">
-     <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-  <div class="row">
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-    <div class="cell">
-      <img src="https://raw.githubusercontent.com/zelytra/Histeria/master/ressources/img/healstick.png" style="image-rendering:pixelated;"/>
-    </div>
-  </div>
-</div>
-
 ## Utilisation
 
 Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla
