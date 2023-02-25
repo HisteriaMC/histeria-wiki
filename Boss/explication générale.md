@@ -2,7 +2,7 @@
 
 ## Apparition
 Les boss peuvent apparaître en monde de __faction__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés, tournant généralement autour des 9H environ.
-> A noter qu'une commande __+boss__ est disponible sur discord afin d'avoir un timer sur les prochaines apparitions de boss, et dont voici un exemple :
+> A noter qu'une commande __+boss__ est disponible sur discord afin d'avoir un timer sur les prochaines apparitions de boss :
 ![bosstimer](https://raw.githubusercontent.com/xnaveman/histeria-wiki/main/.assets/example-screenshots/bosstimer.png)
 
 ## Le colisée
