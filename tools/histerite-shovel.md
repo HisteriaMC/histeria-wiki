@@ -18,4 +18,4 @@ Un des 5 outils en Histerite.
 -=-
 
 ## Utilité
-Elle creuse les blocs sur 2 de hauteur.
+Elle creuse sur 3 blocs de largeur et de longueur et sur 1 de hauteur.
