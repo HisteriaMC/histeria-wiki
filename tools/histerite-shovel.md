@@ -1,4 +1,4 @@
-# Histerite Pickaxe
+# Histerite Shovel
 
 ## Description
 Un des 5 outils en Histerite.
