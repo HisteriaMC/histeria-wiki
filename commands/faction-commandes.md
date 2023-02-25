@@ -1,13 +1,48 @@
 # Les commandes faction
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+ Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous aider à gérer votre faction dans Minecraft. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettent de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
 
 ## Commandes
 
-```
-/faction create {nom} # Crée une faction
-```
+| Commande | Description |
+| --- | --- |
+| `/f allychat` | Activer/Désactiver le chat allié |
+| `/f ally {faction}` | S'allier avec une autre faction |
+| `/f ban {player}` | Ban un membre de votre faction |
+| `/f chat` | Activer/Désactiver le chat de faction |
+| `/f claim` | Claim un chunk |
+| `/f create {name}` | Créer une faction |
+| `/f demote {player}` | Rétrograder un membre de la faction |
+| `/f deposit {money}` | Déposer de la monnaie dans la banque de faction |
+| `/f description {texte}` | Définir la description de la faction |
+| `/f disband` | Supprimer la faction |
+| `/f enemy {faction}` | Mettre en enemy une faction |
+| `/f help <page>` | Affiche les commandes et leurs informations |
+| `/f home` | Se telepotre au home de faction |
+| `/f info <faction>` | Affiche des informations sur la faction |
+| `/f invite {player}` | Invite un joueurs |
+| `/f join {faction}` | Rejoindre une faction |
+| `/f kick {player}` | Kick un joueur de la faction |
+| `/f leader {player}` | Mettre le rôle de chef a un joueur |
+| `/f leave` | Quitter la faction |
+| `/f logs` | Voir les logs de la faction |
+| `/f map` | Affiche la carte des chunks autour de vous |
+| `/f money` | Affiche la monnaie de faction |
+| `/f name {name}` | Renomme la faction |
+| `/f neutral {faction}` | Réinitialiser les relations de faction |
+| `/f permission` | Définir les permissions d'un rôle dans la faction |
+| `/f player <player>` | Affiche des informations sur un joueur |
+| `/f promote {player}` | Promouvoir un membre de la faction |
+| `/f seechunk` | Afficher les bordures du chunk actuel |
+| `/f sethome` | Pose le home de faction |
+| `/f top <page>` | Affiche le top des factions |
+| `/f truce {faction}` | Met une faction en relation neutre |
+| `/f unally {faction}` | Met fin à une alliance avec une faction |
+| `/f unban {player}` | Deban un joueur de votre faction |
+| `/f unclaim` | Unclaim un chunk claim |
+| `/f unsethome` | Retire le home de faction |
+| `/f withdraw {money}` | Retirer de l'argent de faction |
 
 ## Utilités
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Les commandes vous permettent d'inviter des joueurs dans votre faction ou d'en rejoindre une, créer un home de faction, des bases claim, gérer les relation de faction en ayant des alliés et des ennemies ! Vous avez également accès à un chat réservé à votre faction et avec vos alliés ! Montez en grade dans votre faction et accomplissez de grand objectif commun pour contrôler les arènes et ainsi devenir la meilleure faction du serveur !
