@@ -19,6 +19,10 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 + Des lumenns selon votre position dans le classement des dégâts
 + Des parchemins d'enchantements : __1 à 4__ selon votre chance et votre position dans le classement des dégâts
 
+### Objet unique
++ Eclair de zeus
+  - Frappe l'adversaire par la foudre, et lui enlève une pièce de son armure. USAGE UNIQUE
+
 ## Skin
 
 ![zeus](https://raw.githubusercontent.com/xnaveman/histeria-wiki/main/.assets/boss/zeus.png)
