@@ -17,7 +17,6 @@ Ce block vous permettra de voir ce qui se passe sous le sol. (Pour vous garantir
 -== https://raw.githubusercontent.com/Aair-Dev/histeria-wiki/main/.assets/blocks/cave-block.png
 -=-
 
-
-
 ## Utilités
-Le **Cave-Block** est d'une grande utilité lors de vos recherches pour trouver des bases, ce block à la spécificité de vous montrer ce qui se passe dans le sol ! 
+Le Cave-Block est d'une grande utilité lors de vos recherches pour trouver des bases, ce block à la spécificité de vous montrer ce qui se passe dans le sol ! 
+Pour quitter le mode Cave-Block lorsque vous l'utilisez, vous devez vous sneak/accroupir
