@@ -17,5 +17,5 @@ Un des 5 outils en Histerite.
 -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_sword.png
 -=-
 
-## Utilités
+## Utilité
 Elle permet d'infliger plus de dégats qu'une épée Vanilla, et, peut être enchantée avec des enchantements customs.

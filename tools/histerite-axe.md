@@ -17,5 +17,5 @@ Un des 5 outils en Histerite.
 -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_axe.png
 -=-
 
-## Utilités
+## Utilité
 Elle permet de couper verticalement jusqu'à 7 buches de bois.
