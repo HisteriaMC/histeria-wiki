@@ -10,11 +10,11 @@ Un des 5 outils en Histerite.
 ==-
 ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/emerald.png
 ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/emerald.png
-==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_stick.png
+==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-stick.png
 ==- 
 ==-
 ==-
--== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_sword.png
+-== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-sword.png
 -=-
 
 ## Utilité
