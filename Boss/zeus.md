@@ -10,8 +10,8 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 #### __Arme :__
 + Epée en Histerite 
   - Tranchant V
-  + Strike I
-  + Thunderbolt I
+  - Strike I
+  - Thunderbolt I
 
 ## Récompenses
 
@@ -21,10 +21,10 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 
 ### Objet unique
 + Eclair de zeus
-  - Frappe l'adversaire par la foudre, et lui enlève une pièce de son armure. USAGE UNIQUE
+  - Frappe l'adversaire par la foudre, et lui enlève une pièce de son armure. __USAGE UNIQUE__
 
 ## Skin
 
-![zeus](https://raw.githubusercontent.com/xnaveman/histeria-wiki/main/.assets/boss/zeus.png)
+![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/zeus.png)
 
 

@@ -1,1 +1,7 @@
 # Le monde faction 2
+
+## description 
+Le monde de faction 2 est le deuxième monde faction disponible. Le build du spawn est axé sur le thème du japon, avec de nombreux cerisiers japonais, aisni que des temples et d'autres structures.
+
+![faction2](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/faction2.png)
+

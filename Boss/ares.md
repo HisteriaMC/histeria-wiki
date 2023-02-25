@@ -10,7 +10,7 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 #### __Arme :__
 + Epée en Histerite 
   - Tranchant V
-  + Outrage I
+  - Outrage I
 
 ## Récompenses
 
@@ -20,10 +20,10 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 
 ### Objet unique 
 + Poitrail d'arès
-  - Contient un enchantement unique qui permet, lorsque activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs
+  - Plastron en histerite qui contient un enchantement unique qui permet, lorsque activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs
 
 ## Skin
 
-![ares](https://raw.githubusercontent.com/xnaveman/histeria-wiki/main/.assets/boss/ares.png)
+![ares](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/ares.png)
 
 
