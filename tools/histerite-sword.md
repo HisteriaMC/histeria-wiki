@@ -17,8 +17,10 @@
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png
 -=-
 
-### Utilité
-Elle permet d'infliger plus de dégats qu'une épée Vanilla, elle a 10 de points d'attaque, et, peut être enchantée avec des enchantements customs.
+### Informations
+Elle permet d'infliger plus de dégats qu'une épée Vanilla,et, peut être enchantée avec des enchantements customs.
+Elle a 10 points d'attaque 
+Elle a 15000 de durabilité
 
 ### Condition pour craft la Hache en Histerite
 Être niveau 10 dans le métier de Tueur

@@ -4,8 +4,13 @@
 Item qui sert à améliorer vos enchantements moddé.
 
 ## Mode d'emplois
-Pour utiliser le parchemin d'enchantement, vous devez l'avoir dans votre main. Ensuite, vous devez faire un clic gauche pour ouvrir l'interface d'enchantement. Lorsque vous y êtes, vous verrez les différents enchantements disponibles pour votre item. Une fois que vous avez sélectionné l'enchantement que vous souhaitez appliquer à votre item, vous devez fusionner le parchemin d'enchantement dans une enclume en Histerite avec un item qui est déjà enchanté avec l'enchantement choisi ou avec un livre qui a l'enchantement choisi.
-
+1. Mettre le parchemin d'enchantement dans votre main
+2. Faire un clique gauche et sélectionner l'enchantement souhaité
+3. Prendre l'item ou le livre avec l'enchantement souhaité
+4. Ouvrir une Enclume en Histerite
+5. Les fusionner
 
 ## Utilité
-Le parchemin d'enchantement est un objet très utile dans Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs items. Bien qu'il ne garantisse pas toujours une amélioration, il reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu.
+Le parchemin d'enchantement est un item très utile dans Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs items. Bien qu'il ne garantisse pas toujours une amélioration, il reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu. Lorsque vous choisissez un enchantement, un pourcentage apparaît pour vous dire quelle est la chance d'amélioration.
+
+

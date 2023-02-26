@@ -17,8 +17,9 @@ Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapi
  -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
-### Utilité
-Elle creuse sur 3 blocs de largeur et de longueur et sur 1 de hauteur.
+### Informations
+Elle retirera trois blocs de largeur et de longueur et un bloc de hauteur, ce qui vous permet de creuser des tunnels de manière plus efficace.
+Elle a 5000 de durabilité
 
 ### Condition pour craft la Hache en Histerite
 Être niveau 15 dans le métier d'Agriculteur
