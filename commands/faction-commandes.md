@@ -10,7 +10,7 @@
 
 | Commande | Description |
 | --- | --- |
-| `/f allychat` | Activer/Désactiver le chat allié |
+| `/f allychat` | Activer/Désactiver le chat allié | 
 | `/f ally <faction>` | S'allier avec une autre faction |
 | `/f ban <player>` | Ban un membre de votre faction |
 | `/f chat` | Activer/Désactiver le chat de faction |
