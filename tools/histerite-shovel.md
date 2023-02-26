@@ -1,7 +1,7 @@
 # Histerite Shovel
 
 ## Description
-Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapidement qu'avec une pelle Vanilla
+Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapidement qu'avec une pelle vanilla
 
 ## Craft
 -=-
@@ -18,7 +18,15 @@ Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapi
 -=-
 
 ### Informations
-Elle retirera trois blocs de largeur et de longueur et un bloc de hauteur, ce qui vous permet de creuser des tunnels de manière plus efficace.
+Elle retirera trois blocs de largeur et de longueur (1 bloc de rayon) autour du bloc visé.
+Son usage est restreint à :
++ La terre
++ L'herbe
++ La terre labourée
++ Le sable
++ La terre fertilisée
++ Le gravier
++ Le béton en poudre
 Elle a 5000 de durabilité
 
 ### Condition pour craft la Hache en Histerite

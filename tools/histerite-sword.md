@@ -1,7 +1,7 @@
 # Histerite Sword
 
 ## Description
-Épée améliorée qui vous permettra d'infliger plus de dégâts qu'une épée Vanilla
+Épée améliorée qui vous permettra d'infliger plus de dégâts qu'une épée vanilla
 
 ## Craft
 -=-
@@ -18,7 +18,7 @@
 -=-
 
 ### Informations
-Elle permet d'infliger plus de dégats qu'une épée Vanilla,et, peut être enchantée avec des enchantements customs.
+Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
 Elle a 10 points d'attaque 
 Elle a 15000 de durabilité
 

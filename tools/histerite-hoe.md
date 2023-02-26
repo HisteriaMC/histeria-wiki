@@ -1,7 +1,7 @@
 # Histerite Hoe
 
 ## Description
-Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec une houe Vanilla
+Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec une houe vanilla
 
 ## Craft
 -=-
@@ -18,7 +18,7 @@ Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec
 -=-
 
 ### Informations
-Elle laboure la terre sur 7 blocs de longueur, ou, sur 3x3 blocs lorsque le joueur est accroupi.
+Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irrigués.
 Elle a 5000 de durabilité
 
 ### Condition pour craft la Hache en Histerite

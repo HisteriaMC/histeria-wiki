@@ -1,7 +1,7 @@
 # Histerite Axe
 
 ## Description
-Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec une hache Vanilla
+Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec une hache vanilla
 
 ## Craft
 -=-
@@ -18,7 +18,7 @@ Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec 
 -=-
 
 ### Informations
-Elle permet de couper verticalement jusqu'à 7 buches de bois et horizontalement 1 buche de bois.
+Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
 Elle a 5000 de durabilité
 
 ### Condition pour craft la Hache en Histerite
