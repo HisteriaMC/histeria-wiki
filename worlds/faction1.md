@@ -1,14 +1,14 @@
-# Le monde faction 1
+# Le serveur faction 1
 
-## description
-Le monde faction 1 est le monde de faction le plus visité et le plus animé. Il contient plusieurs exclusivités que les autres mondes n'ont pas. Le build du spawn est axé sur le thème du moyen âge, et est agencé comme une petite ville fortifiée.
+## Description
+Le serveur faction 1 est le plus visité et le plus animé. Il contient plusieurs exclusivités que les autres serveurs n'ont pas. Le build du spawn est axé sur le thème du moyen âge, et est agencé comme une petite ville fortifiée.
 
 ![faction1](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction1.png)
 
 ## Lieux uniques
 
 ### Marché noir
-Le marché noir est un marché secret qui se déplace très souvent, il ne reste jamais au même endroit très longtemps. Il vous permetrra d'acheter des items rares, de désenchanter vos objets tout en récupérant votre livre d'enchantement, ainsi que d'améliorer des pièces d'armures de boss.
+Le marché noir est un marché secret qui se déplace très souvent, et de façon imprévisible. Il peut donc se passer 2 heures, comme 5 minutes avant que son emplacement ne change. Il vous permetrra d'acheter des items rares, de désenchanter vos objets tout en récupérant votre livre d'enchantement, ainsi que d'améliorer des pièces d'armures de boss.
 
 ![blackmarket](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/blackmarket.png)
 
