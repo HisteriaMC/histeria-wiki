@@ -8,4 +8,4 @@ Pour utiliser le parchemin d'enchantement, vous devez l'avoir dans votre main. E
 
 
 ## Utilité
-le parchemin d'enchantement est un objet très utile dans Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs items. Bien qu'il ne garantisse pas toujours une amélioration, il reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu.
+Le parchemin d'enchantement est un objet très utile dans Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs items. Bien qu'il ne garantisse pas toujours une amélioration, il reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu.
