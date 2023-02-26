@@ -5,16 +5,16 @@ Un des 5 outils en Histerite.
 
 ## Craft
 -=-
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==-  
  ==-  
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_stick.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_stick.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite_stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite_stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==-  
  ==-  
- -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite_pickaxe.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite_pickaxe.png
 -=-
 
 ## Utilité

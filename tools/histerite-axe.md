@@ -8,13 +8,13 @@ Un des 5 outils en Histerite.
  ==-  
  ==- 
  ==- 
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- 
- -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-axe.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png
 -=-
 
 ## Utilité
