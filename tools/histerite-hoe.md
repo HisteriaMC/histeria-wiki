@@ -1,7 +1,7 @@
 # Histerite Hoe
 
 ## Description
-Un des 5 outils en Histerite.
+Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec une houe Vanilla
 
 ## Craft
 -=-
@@ -17,5 +17,8 @@ Un des 5 outils en Histerite.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png
 -=-
 
-## Utilités
-Elle fértilise la terre sur 7 blocs de longueur, ou, sur 3x3 blocs lorsque le joueur esr snick.
+### Utilités
+Elle laboure la terre sur 7 blocs de longueur, ou, sur 3x3 blocs lorsque le joueur est accroupi.
+
+### Condition pour craft la Hache en Histerite
+Être niveau 10 dans le métier d'Agriculteur

@@ -1,7 +1,7 @@
 # Histerite Pickaxe
 
 ## Description
-Un des 5 outils en Histerite.
+Pioche améliorée qui vous permettra de miner plus rapidement qu'avec une pioche Vanilla
 
 ## Craft
 -=-
@@ -17,5 +17,8 @@ Un des 5 outils en Histerite.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite_pickaxe.png
 -=-
 
-## Utilité
+### Utilité
 Elle creuse les blocs sur 2 de hauteur.
+
+### Condition pour craft la Hache en Histerite
+Être niveau 10 dans le métier de Mineur

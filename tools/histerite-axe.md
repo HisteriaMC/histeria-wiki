@@ -1,11 +1,11 @@
 # Histerite Axe
 
 ## Description
-Un des 5 outils en Histerite.
+Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec une hache Vanilla
 
 ## Craft
 -=-
- ==-  
+ ==- 
  ==- 
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -17,5 +17,8 @@ Un des 5 outils en Histerite.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png
 -=-
 
-## Utilité
-Elle permet de couper verticalement jusqu'à 7 buches de bois.
+### Utilité
+Elle permet de couper verticalement jusqu'à 7 buches de bois et horizontalement 1 buche de bois.
+
+### Condition pour craft la Hache en Histerite
+Être niveau 10 dans le métier de Bûcheron
