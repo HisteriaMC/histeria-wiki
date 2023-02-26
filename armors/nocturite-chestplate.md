@@ -8,7 +8,7 @@ Le plastron de l'armure en Nocturite.
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
- ==- 
+ ==-  
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
  ==- https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/nocturite-compress.png
