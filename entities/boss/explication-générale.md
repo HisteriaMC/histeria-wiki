@@ -6,7 +6,7 @@ Les boss peuvent apparaître dans les 3 serveurs __faction__. Leur temps avant d
 ![bosstimer](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/bosstimer.png)
 
 ## Le colisée
-Le colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __pas la perte de stuff__. 
+Le colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __vous pouvez y perdre votre stuff__. 
 Une fois en combat contre le boss, votre statut passe en combat, vous ne pouvez donc plus vous déconnecter, comme en combat contre un autre joueur. 
 
 ![colosseum](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/colosseum.png)
