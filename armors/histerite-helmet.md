@@ -7,13 +7,13 @@ Casque en Histerite, partie de la deuxième meilleure armure sur Histeria
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==-    
+ ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- 
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==-    
+ ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-helmet.png
 -=-
 
