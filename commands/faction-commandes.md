@@ -29,7 +29,7 @@
 | `/f invite <player>` | Invite un joueurs |
 | `/f join <faction>` | Rejoindre une faction |
 | `/f kick <player>` | Kick un joueur de la faction |
-| `/f leader <player>` |  Mettre le rôle de chef a un joueur |
+| `/f leader <player>` | Mettre le rôle de chef a un joueur |
 | `/f leave` | Quitter la faction |
 | `/f logs` | Voir les logs de la faction |
 | `/f map` | Affiche la carte des chunks autour de vous |
