@@ -6,7 +6,7 @@
 ## Commandes
 
 
-\<args\> = Argument obligatoir.
+\<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
 
