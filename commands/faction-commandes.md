@@ -33,7 +33,7 @@
 | `/f leave` | Quitter la faction |
 | `/f logs` | Voir les logs de la faction |
 | `/f map` | Affiche la carte des chunks autour de vous |
-| `/f money` |  Affiche la monnaie de faction |
+| `/f money` | Affiche la monnaie de faction |
 | `/f name <name>` | Renomme la faction |
 | `/f neutral <faction>` | Réinitialiser les relations de faction |
 | `/f permission` | Définir les permissions d'un rôle dans la faction |
