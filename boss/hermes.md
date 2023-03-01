@@ -24,4 +24,4 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
 
 ## Skin
 
-![hermes](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/hermes.png)
+![hermes](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png)

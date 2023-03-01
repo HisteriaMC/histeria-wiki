@@ -25,6 +25,6 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 
 ## Skin
 
-![ares](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/ares.png)
+![ares](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/ares.png)
 
 

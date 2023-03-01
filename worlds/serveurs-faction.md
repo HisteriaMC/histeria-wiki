@@ -14,17 +14,14 @@ Les serveurs faction disposent de nombreux lieux spécifiques pour beaucoup d'ut
 Il y à 3 types d'arènes en faction :
 + L'arène 1 - Perte de stuff __désactivée__
 
-    ````
-     Pour y accéder : /arene
-    ````
+    > Pour y accéder : /arene
 + L'arène 2 - Perte de stuff __activée__
-    ````
-    Pour y accéder : /arene 2
-    ````
+
+    >Pour y accéder : /arene 2
+
 + L'arène Boss - Perte de stuff __activée__ mais sans __PvP__
-    ````
-    Pour y accéder : /boss
-    ````
+
+    >Pour y accéder : /boss
 ### Sorties
 Les serveurs factions disposent de sorties du spawn pour chaque direction. Une fois là bas, sneak pour sortir de la zone protégée et arriver en warzone. Vous pouvez ensuite accéder au reste de la map en la traversant.
 

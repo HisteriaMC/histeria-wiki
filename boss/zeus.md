@@ -26,6 +26,6 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 
 ## Skin
 
-![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/zeus.png)
+![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/zeus.png)
 
 
