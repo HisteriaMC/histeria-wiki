@@ -1,7 +1,7 @@
 # Histerite Leggings
 
 ## Description
-Jambières en Histerite, partie la deuxième meilleure armure sur Histeria
+Les jambières en Histerite font partie de la deuxième meilleure armure disponible sur Histeria.
 
 ## Craft des Jambières en Histerite
 -=-

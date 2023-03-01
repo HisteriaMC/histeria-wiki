@@ -1,7 +1,7 @@
 # Nocturite Leggings
 
 ## Description
-Jambière en Nocturite, partie de la meilleure armure sur Histeria.
+Les jambières en Nocturite font partie de la meilleure armure disponible sur Histeria.
 
 ## Craft des Jambières en Nocturite
 -=-

@@ -1,7 +1,7 @@
 # Nocturite Boots
 
 ## Description
-Bottes en Nocturite,partie de la meilleure armure sur Histeria.
+Les bottes en Nocturite font partie de la meilleure armure disponible sur Histeria.
 
 ## Craft des Bottes en Nocturite
 -=-

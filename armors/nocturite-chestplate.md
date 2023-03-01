@@ -1,7 +1,7 @@
 # Nocturite Chestplate
 
 ## Description
-Plastron en Nocturite, partie de la meilleure armure sur Histeria.
+Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histeria.
 
 ## Craft du Plastron en Nocturite
 -=-

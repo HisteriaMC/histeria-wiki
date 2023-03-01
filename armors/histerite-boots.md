@@ -1,7 +1,7 @@
 # Histerite Boots
 
 ## Description
-Bottes en Histerite, partie de la deuxième meilleure armure sur Histeria
+Les bottes en Histerite font partie de la deuxième meilleure armure disponible sur Histeria.
 
 ## Craft des Bottes en Histerite
 -=-

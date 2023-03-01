@@ -23,5 +23,6 @@ Pour pouvoir la craft, vous devez être niveau 10 dans le métier d'agriculteur.
 Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irrigués.
 Elle a 5000 de durabilité.
 
-### Condition pour craft la Hache en Histerite
-Être niveau 10 dans le métier d'Agriculteur.
+| Spécificité | Durabilité |
+| ----------- | ---------- |
+| Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irrigués | 5000 |

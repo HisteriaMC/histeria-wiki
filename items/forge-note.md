@@ -11,9 +11,12 @@ Item qui sert à améliorer vos enchantements moddé.
 5. Les fusionner
 
 ## Utilité
-Le parchemin d'enchantement est un item très utile dans Histeria qui permet aux joueurs d'améliorer
-les enchantements moddés de leurs items. Bien qu'il ne garantisse pas toujours une amélioration, il
-reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu.
-Lorsque vous choisissez un enchantement, un pourcentage apparaît pour vous dire quelle est la chance d'amélioration.
+Le parchemin d'enchantement est un item très utile sur Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs items.
+
+
+Bien qu'il ne garantit pas toujours une amélioration, il reste un outil précieux pour les joueurs cherchant à maximiser les performances de leurs items en jeu.
+
+
+Lorsque vous choisissez un enchantement, un pourcentage apparaît dans la description de ce dernier en passant le curseur dessus dans un inventaire pour vous dire quelle est la probabilité de réussite.
 
 

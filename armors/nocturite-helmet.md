@@ -1,7 +1,7 @@
 # Nocturite Helmet
 
 ## Description
-Casque en Nocturite, partie de la meilleure armure sur Histeria.
+Le casque en Nocturite fait partie de la meilleure armure disponible sur Histeria.
 
 ## Craft du Casque en Nocturite
 -=-

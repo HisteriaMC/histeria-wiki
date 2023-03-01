@@ -20,5 +20,6 @@ Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec 
 Pour pouvoir la craft, vous devez être niveau 10 dans le métier de bûcheron.
 
 ### Informations
-Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
-Elle a 5000 de durabilité.
+| Spécificité | Durabilité |
+| ----------- | ---------- |
+| Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus | 5000 |

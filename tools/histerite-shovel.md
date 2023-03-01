@@ -20,8 +20,10 @@ Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapi
 Pour pouvoir la craft, vous devez être niveau 15 dans le métier d'agriculteur.
 
 ### Informations
-Elle retirera trois blocs de largeur et de longueur (1 bloc de rayon) autour du bloc visé.
-Son usage est restreint à :
+| Spécificité | Durabilité |
+| ----------- | ---------- |
+| Elle retirera trois blocs de largeur et de longueur (1 bloc de rayon) autour du bloc visé | 5000 |
+
 + La terre
 + La terre fertilisée
 + La terre labourée
@@ -29,5 +31,3 @@ Son usage est restreint à :
 + Le sable
 + Le gravier
 + Le béton en poudre
-
-Elle a 5000 de durabilité.

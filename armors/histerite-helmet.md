@@ -1,7 +1,7 @@
 # Histerite Helmet
 
 ## Description
-Casque en Histerite, partie de la deuxième meilleure armure sur Histeria
+Le casque en Histerite fait partie de la deuxième meilleure armure disponible sur Histeria.
 
 ## Craft du Casque en Histerite
 -=-
