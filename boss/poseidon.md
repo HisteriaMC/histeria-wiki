@@ -17,4 +17,4 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 
 ## Skin
 
-![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/boss/poseidon.png)
+![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/poseidon.png)

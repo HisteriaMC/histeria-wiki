@@ -4,7 +4,8 @@
 Le serveur faction 1 est le plus visité et le plus animé. Il contient plusieurs exclusivités que les autres serveurs n'ont pas. Le build du spawn est axé sur le thème du moyen âge, et est agencé comme une petite ville fortifiée.
 
 ### Map
-+ 12 500 x 12 500
+La Map de chaque serveur faction est limitée et définie. Elle s'étend autant dans les coordonnées positives que négatives.
+En faction 1 la map fait 25 000 blocks de rayon soit des coordonnées x et z -12 500 à 12 500.
 
 ![faction1](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction1.png)
 
