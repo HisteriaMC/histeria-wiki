@@ -22,7 +22,3 @@ Pour pouvoir la craft, vous devez être niveau 10 dans le métier de mineur.
 ### Informations
 Elle creuse les blocs sur 2 de hauteur, celui visé ainsi que bloc en dessous de celui-ci.
 Elle a 4500 de durabilité.
-
-| Spécificité | Durabilité |
-| ----------- | ---------- |
-| Elle creuse les blocs sur 2 de hauteur, celui visé ainsi que bloc en dessous de celui-ci | 4500 |
