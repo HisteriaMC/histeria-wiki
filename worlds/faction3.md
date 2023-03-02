@@ -5,7 +5,6 @@ Le serveur faction 3 est le dernier serveur disponible en faction, et très souv
 
 ### Map
 La Map de chaque serveur faction est limitée et définie. Elle s'étend autant dans les coordonnées positives que négatives.
-En faction 3 les mesures de la map sont :
-+ 25 000 blocs de __hauteur__ et de __largeur__ (-12 500 à 12 500)
+En faction 3 la map fait 25 000 blocks de rayon soit des coordonnées x et z -12 500 à 12 500.
 
 ![faction3](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction3.png)
