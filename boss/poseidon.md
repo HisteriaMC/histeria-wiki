@@ -11,12 +11,6 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
   - Tranchant V
   - Tsunami I
 
-## Récompenses
-
-+ De l'argent selon votre position dans le classement des dégâts
-+ Des lumenns selon votre position dans le classement des dégâts
-+ Des parchemins d'enchantements : __1 à 4__ selon votre chance et votre position dans le classement des dégâts
-
 ### Objet unique 
 + Trident de poséidon
   - Le trident légendaire de poséidon. Possède l'enchantement unique __Tsunami I__, ayant le pouvoir de ralentir drastiquement vos adversaires de façon temporaire

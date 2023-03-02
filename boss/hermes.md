@@ -12,12 +12,6 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
   - Recul II
   - Lunarstrike I
 
-## Récompenses
-
-+ De l'argent selon votre position dans le classement des dégâts
-+ Des lumenns selon votre position dans le classement des dégâts
-+ Des parchemins d'enchantements : __1 à 4__ selon votre chance et votre position dans le classement des dégâts
-
 ### Objet unique 
 + Sandales d'Hermès
   - Les sandales d'Hermes possèdent l'enchantement unique __Reset I__ qui permet, lorsque activé, de réinitialiser tout vos cooldown actuels (pomme en histerite, bâton de soin...).

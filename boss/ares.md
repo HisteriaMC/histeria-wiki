@@ -12,13 +12,7 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 + Epée en Histerite 
   - Tranchant V
   - Outrage I
-
-## Récompenses
-
-+ De l'argent selon votre position dans le classement des dégâts
-+ Des lumenns selon votre position dans le classement des dégâts
-+ Des parchemins d'enchantements : __1 à 4__ selon votre chance et votre position dans le classement des dégâts
-
+  
 ### Objet unique 
 + Poitrail d'arès
   - Plastron en histerite qui contient un enchantement unique qui permet, lorsque activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs
