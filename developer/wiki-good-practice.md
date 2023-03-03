@@ -81,6 +81,21 @@ histeria-wiki/ # Racine de la repository github
 └── ...
 ```
 
+## Zone de métadonnées
+
+La zone de métadonnées est une section optionnelle qui peut être ajoutée en haut d'un document pour fournir des informations supplémentaires sur le document. La zone de métadonnées doit être placée à la première ligne du document et entourée de deux caractères `%%`.
+
+Voici un exemple de zone de métadonnées avec les informations suivantes : icône :
+
+```
+%%icon=https://histeria.fr/une-image.png%%
+```
+
+L'ajout d'une icône dans la zone de métadonnées est facultatif et peut être effectué en ajoutant l'élément `icon` suivi de l'URL de l'icône, comme illustré dans l'exemple ci-dessus. L'icône sera alors affichée à côté du titre du document dans la liste des résultats de recherche ou dans la table des matières.
+
+Il est important de respecter le format précis de la zone de métadonnées pour qu'elle soit correctement interprétée et affichée dans le wiki.
+
+
 ## Structurer votre contenu
 
 La structure est importante pour aider les joueurs à trouver rapidement l'information qu'ils recherchent. Voici quelques conseils pour structurer votre contenu :
