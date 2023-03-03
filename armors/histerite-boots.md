@@ -1,3 +1,4 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-boots.png%%
 # Histerite Boots
 
 ## Description

@@ -1,3 +1,4 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/histerite-.svg%%
 # Guide de bonne pratique
 
 ## Introduction
