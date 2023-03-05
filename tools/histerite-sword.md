@@ -1,3 +1,4 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
 # Histerite Sword
 
 ## Description
@@ -21,5 +22,9 @@ Pour pouvoir la craft, vous devez être niveau 10 dans le métier de tueur.
 
 ### Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
+
+
 Elle a 10 points d'attaque.
+
+
 Elle a 15000 de durabilité.

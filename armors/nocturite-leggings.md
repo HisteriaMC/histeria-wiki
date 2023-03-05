@@ -1,3 +1,4 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-leggings.png%%
 # Nocturite Leggings
 
 ## Description
