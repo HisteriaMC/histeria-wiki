@@ -1,7 +1,7 @@
 # Cave-Block
 
 ## Description
-Ce block vous permettra de voir ce qui se passe sous le sol. (Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande /nv si vous posséder un grade, ou bien d'avoir un casque en Histérite / Nocturite pour vous garantir une meilleure performance visuelle)
+Ce block vous permettra de voir ce qui se passe sous le sol. Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande /nightvision (/nv) si vous posséder un grade, ou bien d'avoir un casque en Histerite / Nocturite pour vous garantir une meilleure performance visuelle.
 
 ##Craft
 -=- 
@@ -18,5 +18,5 @@ Ce block vous permettra de voir ce qui se passe sous le sol. (Pour vous garantir
 -=-
 
 ## Utilités
-Le Cave-Block est d'une grande utilité lors de vos recherches pour trouver des bases, ce block à la spécificité de vous montrer ce qui se passe dans le sol ! 
-Pour quitter le mode Cave-Block lorsque vous l'utilisez, vous devez vous sneak/accroupir
+Le Cave Block est d'une grande utilité lors de vos recherches pour trouver des bases, c'est un Cave Finder qui montre les trous d'air dans le sol ou les blocs non pleins similaires à un mode spectateur (et non un XRAY) 
+Lors de son utilisation, vous êtes complètement immobile et intuable et bien évidemment invisible
