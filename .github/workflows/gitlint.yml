@@ -1,0 +1,15 @@
+# .github/workflows/gitlint.yml
+name: Gitlint
+
+on: [pull_request]
+
+jobs:
+  gitlint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install gitlint
+        run: pip install gitlint
+      - name: Run gitlint
+        run: gitlint --commits HEAD~1..HEAD
