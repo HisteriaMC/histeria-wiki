@@ -5,7 +5,7 @@ name: WIKI CI/CD
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
     types:
       - opened
