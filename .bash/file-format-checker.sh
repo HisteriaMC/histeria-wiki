@@ -26,7 +26,6 @@ function is_kebab_case {
 # Fonction récursive pour parcourir tous les fichiers et dossiers
 function traverse {
   for file in "$1"/*; do
-    echo "$file"
     if [[ -d "$file" ]]; then # si le fichier est un répertoire
 
       if [[ "${exclude_list[*]}" =~ $(basename "$file") ]]; then
