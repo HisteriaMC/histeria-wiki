@@ -14,22 +14,22 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 
 | Commande | Description |
 | --- | --- |
-|arene|Permet de se téléporter en arène 1|
-|arene2|Permet de se téléporter en arène 2|
-|boss|Permet de se téléporter au colisée des boss|
+|arene|Se téléporter en arène 1|
+|arene2|Se téléporter en arène 2|
+|boss|Se téléporter au colisée des boss|
 |faction <nombre>|Permet de se transférer au serveur faction choisi|
-|hub|Permet de se téléporter au hub|
+|hub|Se téléporter au hub|
 |minage [nombre]|Permet de se téléporter au monde minage voulu|
 |lobby|Permet de se téléporter au lobby|
 |spawn|Se tp au spawn du monde|
 |rtp|Set tp a des coordonnées aléatoir hors du spawn|
 |tpa|Envoie une demande pour se tp à un joueur|
 |tpaccept|Accepte une demande de tp|
-|tpahere <player>|Envoie une demande pour tp un joueur sur soi.|
+|tpahere <player>|Envoie une demande pour tp un joueur sur soi|
 |sethome <nom>|Permet de poser un home|
-|home [nom]|Permet d'afficher la liste des homes ou de se téléporter au home voulu|
-|delhome <nom>|Permet de supprimer un home|
-|warp [nom]|affiche les warp disponible ou permet de se tp au warp indiqué|
+|home [nom]|Afficher la liste des homes ou de se téléporter au home voulu|
+|delhome <nom>|Supprimer un home|
+|warp [nom]|Affiche les warp disponible ou permet de se tp au warp indiqué|
 |xyz|Affiche les coordonnées|
 
 
@@ -85,7 +85,7 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |feed|Permet de se nourrir complètement| VIP et + |
 |craft|Permet d'ouvrir une table de craft| VIP et + |
 |back|Permet de se téléporter à l'endroit de sa dernière mort| VIP et + |
-|freerepair [all] | Répare l'item de votre main ou tout les items de votre inventaire  gratuitement | VIP et + |
+|freerepair [all] | Répare l'item de votre main ou tout les items de votre inventaire gratuitement | VIP et + |
 |nightvision | Donne l'effet Vision Nocturne | VIP et +|
 |fusion|Permet d'ouvrir une enclume de fusion| Interplanétaire et + |
 |fly|Permet de voler| Interplanétaire et + |
