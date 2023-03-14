@@ -27,8 +27,8 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |tpaccept|Accepte une demande de tp|
 |tpahere <player>|Envoie une demande pour tp un joueur sur soi|
 |sethome <nom>|Permet de poser un home|
-|home [nom]|Afficher la liste des homes ou de se téléporter au home voulu|
-|delhome <nom>|Supprimer un home|
+|home [nom]|Permet d'afficher la liste des homes ou de se téléporter au home voulu|
+|delhome <nom>|Permet de supprimer un home|
 |warp [nom]|Affiche les warp disponible ou permet de se tp au warp indiqué|
 |xyz|Affiche les coordonnées|
 
@@ -43,14 +43,14 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |hdv sell <montant>|Permet de vendre les items en main au hdv|
 |job|Permet d'afficher la liste des métiers|
 |kit|Permet d'afficher la liste des kits disponible|
-|mymoney|Permet de voir son argent|
+|money|Permet de voir son argent|
 |pay <pseudo> <montant>|Permet de donner de l'argent à un joueur|
 |seelumenn [player]|Permet de voir le nombre de lumenn d'un joueur ou de soi.|
 |seemoney [player]|Permet de voir la monnaie d'un joueur ou de soi|
 |shop|Permet d'accéder au shop pour acheter ou vendre des item|
 |topmoney|Affiche le top money|
 |topstats|Affiche le top stats|
-|trade accept|Accepte une demande de tarde|
+|trade accept|Accepte une demande de trade|
 |trade <joueur>|Envoie une demande de trade|
 |vote|Vote sur le serveur et vous donne des récompenses|
 |voteparty|affiche l'avancement du vote party|
@@ -72,7 +72,7 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |staff|Affiche les staff de connectés|
 |stats [player]|Affiche des informations sur soi ou un joueur|
 |suicide|Permet de mourire|
-|tps|Affiche les TPS du monde|
+|tps|Affiche les TPS du serveur sur lequel vous êtes connecté|
 
 
 ### Commandes Gradés
@@ -90,7 +90,7 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |fusion|Permet d'ouvrir une enclume de fusion| Interplanétaire et + |
 |fly|Permet de voler| Interplanétaire et + |
 |hidepseudo|Permet de cacher son pseudo| Oméga et + |
-|ceshop |  | Oméga et + |
-|cesell |  | Oméga et + |
+|ceshop |Permet d'accéder à l'enchanteur | Oméga et + |
+|cesell |Permet d'accéder au désenchanteur | Oméga et + |
 |rename <nom>|Permet de renommer un item| Oméga et + |
-|prefix <prefix> |  | Oméga Perso et + |
+|prefix <prefix> |Permet d'afficher un préfixe personnalisé| Oméga Perso et + |
