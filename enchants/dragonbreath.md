@@ -10,7 +10,31 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui envoyer
 
 **Niveau maximum** : 5
 
-
-| Chances d'activation | Effet |
-| -------------------- | ----- |
- 1,33% à Niv.1 <br> 1,66% à Niv.2 <br> 2% à Niv.3 <br> 2,33% à Niv.4 <br> 2,66% à Niv.5 | Aucun | 
+ <table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>1.33%</td>
+    <td>1</td>
+    <td rowspan="5">Aucun</td>
+  </tr>
+  <tr>
+    <td>1.66%</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2%</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2.33%</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>2.66%</td>
+    <td>5</td>
+   </tr>
+</table>

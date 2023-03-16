@@ -10,6 +10,19 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de le freeze (
 
 **Niveau maximum** : 2
 
-| Chances d'activation | Effet |
-| -------------------- | ----- |
-| 1,50% à Niv.1 <br> 2% à Niv.2 | Aucun | 
+<table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>1,50%</td>
+    <td>1</td>
+    <td rowspan="2">Aucun</td>
+  </tr>
+  <tr>
+    <td>2%</td>
+    <td>2</td>
+  </tr>
+</table>

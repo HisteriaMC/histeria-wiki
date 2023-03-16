@@ -10,6 +10,35 @@ Quand tu frappes un ennemi avec cet enchantement, il a une chance de lui inflige
 
 **Niveau maximum** : 5 
 
-| Chances d'activation | Effet(s) |
-| -------------------- | -------- |
-| 4% à Niv.1 <br> 4% à Niv.2 <br> 4% à Niv.3 <br> 4% à Niv.4 <br> 4% à Niv.5 | Inflige 0,5 coeur de dégâts à Niv.1 <br> Inflige 0,75 coeur de dégâts à Niv.2 <br> Inflige 1 coeur de dégâts à Niv.3 <br> Inflige 1,25 coeur de dégâts à Niv.4 <br> Inflige 1,5 coeur de dégâts à Niv.5 | 
+<table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>1</td>
+    <td>Inflige 0,5 coeur de dégâts</td>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>2</td>
+    <td>Inflige 0,75 coeur de dégâts</td>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>3</td>
+    <td>Inflige 1 coeur de dégâts</td>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>4</td>
+    <td>Inflige 1.25 coeur de dégâts</td>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>5</td>
+    <td>Inflige 1,5 coeur de dégâts</td>
+   </tr>
+</table>

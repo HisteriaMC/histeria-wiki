@@ -10,6 +10,15 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de te soigner 
 
 **Niveau maximum** : 1
 
-| Chances d'activation | Effet |
-| -------------------- | ----- |
-| 75% à Niv.1 | Aucun |
+<table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>75%</td>
+    <td>1</td>
+    <td>Aucun</td>
+  </tr>
+  </table>

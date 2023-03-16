@@ -10,6 +10,31 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui donner 
 
 **Niveau maximum** : 5
 
-| Chances d'activation | Effet |
-| -------------------- | ----- |
-| 5 | 1,50% à Niv.1 <br> 2% à Niv.2 <br> 2,50% à Niv.3 <br> 3% à Niv.4 <br> 3,50% à Niv.5 | Aucun |
+<table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>1.5%</td>
+    <td>1</td>
+    <td rowspan="5">Aucun</td>
+  </tr>
+  <tr>
+    <td>2%</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2.5%</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3%</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>3.5%</td>
+    <td>5</td>
+   </tr>
+</table>

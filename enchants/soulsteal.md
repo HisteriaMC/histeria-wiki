@@ -10,6 +10,34 @@ Quand tu frappes un ennemi avec cet enchantement, il a une chance de te donner H
 
 **Niveau maximum** : 5
 
-| Chances d'activation | Effet(s) |
-| -------------------- | -------- |
-| 3,20% à Niv.1 <br> 3,40% à Niv.2 <br> 3,60% à Niv.3 <br> 3,80% à Niv.4 <br> 4% à Niv.5 | Vole 0,75 coeur, l'effet de Haste dure 3 secondes à Niv.3 <br> Vole 1 coeur, l'effet de Haste dure 4 secondes à Niv.4 <br> Vole 1,25 coeur, l'effet de Haste dure 5 secondes à Niv.5 |
+<table>
+  <tr>
+    <th>Pourcentages d'activation</th>
+    <th>Niveau</th>
+    <th>Effet</th>
+  </tr>
+  <tr>
+    <td>3,20%</td>
+    <td>1</td>
+    <td rowspan="2">Aucun</td>
+  </tr>
+  <tr>
+    <td>3,40%</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3,60%</td>
+    <td>3</td>
+    <td>Vole 0,75 coeur, l'effet de Haste dure 3 secondes à Niv.3</td>
+  </tr>
+  <tr>
+    <td>3,80%</td>
+    <td>4</td>
+    <td>Vole 1 coeur, l'effet de Haste dure 3 secondes à Niv.3</td>
+  </tr>
+  <tr>
+    <td>4%</td>
+    <td>5</td>
+    <td>Vole 1.25 coeur, l'effet de Haste dure 3 secondes à Niv.3</td>
+   </tr>
+</table>
