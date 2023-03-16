@@ -12,13 +12,13 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de te soigner 
 
 <table>
   <tr>
-    <th>Pourcentages d'activation</th>
     <th>Niveau</th>
+    <th>Pourcentages d'activation</th>
     <th>Effet</th>
   </tr>
   <tr>
-    <td>75%</td>
     <td>1</td>
+    <td>75%</td>
     <td>Aucun</td>
   </tr>
   </table>

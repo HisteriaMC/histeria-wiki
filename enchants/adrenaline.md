@@ -12,33 +12,33 @@ Lorsqu'un ennemi est frappé avec cet enchantement, il a une chance de donner Fo
 
 <table>
   <tr>
-    <th>Pourcentages d'activation</th>
     <th>Niveau</th>
+    <th>Pourcentages d'activation</th>
     <th>Effet</th>
   </tr>
   <tr>
-    <td>3.20%</td>
     <td>1</td>
+    <td>3.20%</td>
     <td>Heal 0.25 coeur</td>
   </tr>
   <tr>
-    <td>3.40%</td>
     <td>2</td>
+    <td>3.40%</td>
     <td>Heal 0.5 coeur</td>
   </tr>
   <tr>
-    <td>3.60%</td>
     <td>3</td>
+    <td>3.60%</td>
     <td>Heal 0.75 coeur</td>
   </tr>
   <tr>
-    <td>3.80%</td>
     <td>4</td>
+    <td>3.80%</td>
     <td>Heal 1 coeur</td>
   </tr>
   <tr>
-    <td>4%</td>
     <td>5</td>
+    <td>4%</td>
     <td>Heal 1.25 coeur</td>
    </tr>
 </table>

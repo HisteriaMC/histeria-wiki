@@ -12,33 +12,33 @@ Quand tu frappes un ennemi avec cet enchantement, il a une chance de lui inflige
 
 <table>
   <tr>
-    <th>Pourcentages d'activation</th>
     <th>Niveau</th>
+    <th>Pourcentages d'activation</th>
     <th>Effet</th>
   </tr>
   <tr>
-    <td>4%</td>
     <td>1</td>
+    <td>4%</td>
     <td>Inflige 0,5 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>4%</td>
     <td>2</td>
+    <td>4%</td>
     <td>Inflige 0,75 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>4%</td>
     <td>3</td>
+    <td>4%</td>
     <td>Inflige 1 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>4%</td>
     <td>4</td>
+    <td>4%</td>
     <td>Inflige 1.25 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>4%</td>
     <td>5</td>
+    <td>4%</td>
     <td>Inflige 1,5 coeur de dégâts</td>
    </tr>
 </table>

@@ -12,33 +12,33 @@ Quand tu frappes un ennemi avec cet enchantement, il a une chance de le foudroye
 
 <table>
   <tr>
-    <th>Pourcentages d'activation</th>
     <th>Niveau</th>
+    <th>Pourcentages d'activation</th>
     <th>Effet</th>
   </tr>
   <tr>
-    <td>2.20%</td>
     <td>1</td>
+    <td>2.20%</td>
     <td>Inflige 0,25 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>2.40%</td>
     <td>2</td>
+    <td>2.40%</td>
     <td>Inflige 0,5 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>2.60%</td>
     <td>3</td>
+    <td>2.60%</td>
     <td>Inflige 0,75 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>2.80%</td>
     <td>4</td>
+    <td>2.80%</td>
     <td>Inflige 1 coeur de dégâts</td>
   </tr>
   <tr>
-    <td>3%</td>
     <td>5</td>
+    <td>3%</td>
     <td>Inflige 1,25 coeur de dégâts</td>
    </tr>
 </table>
