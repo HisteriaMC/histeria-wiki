@@ -13,7 +13,7 @@ Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui envoyer
  <table>
   <tr>
     <th>Niveau</th>
-    <th>Pourcentages d'activation</th>>
+    <th>Pourcentages d'activation</th>
     <th>Effet</th>
   </tr>
   <tr>
