@@ -18,5 +18,5 @@ Ce block vous permettra de voir ce qui se passe sous le sol. Pour vous garantir 
 -=-
 
 ## Utilités
-Le Cave Block est d'une grande utilité lors de vos recherches pour trouver des bases, c'est un Cave Finder qui montre les trous d'air dans le sol ou les blocs non pleins similaires à un mode spectateur (et non un XRAY) 
-Lors de son utilisation, vous êtes complètement immobile et intuable et bien évidemment invisible
+Le Cave Block est d'une grande utilité lors de vos recherches pour trouver des bases, c'est un Cave Finder qui montre les trous d'air dans le sol ou les blocs non pleins similaires à un mode spectateur (et non un XRAY).
+Lors de son utilisation, vous êtes complètement immobile et intuable et bien évidemment invisible.
