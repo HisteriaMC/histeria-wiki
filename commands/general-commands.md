@@ -41,7 +41,6 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |calendar|Permet de voir le calendrier des votes|
 |hdv|Permet d'ouvrir l'hôtel des ventes|
 |hdv sell <montant>|Permet de vendre les items en main au hdv|
-|job|Permet d'afficher la liste des métiers|
 |kit|Permet d'afficher la liste des kits disponible|
 |money|Permet de voir son argent|
 |pay <pseudo> <montant>|Permet de donner de l'argent à un joueur|
