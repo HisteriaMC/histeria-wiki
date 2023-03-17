@@ -27,6 +27,7 @@ Les commandes pour Oméga perso sont accessibles aux  Donateur.
 |freerepair [all] | Répare l'item de votre main ou tout les items de votre inventaire gratuitement | VIP |
 |nightvision | Donne l'effet Vision Nocturne | VIP|
 |||
+|ec|Permet d'ouvrir son ender-chest| Interplanétaire |
 |fusion|Permet d'ouvrir une enclume de fusion| Interplanétaire |
 |fly|Permet de voler| Interplanétaire |
 |||

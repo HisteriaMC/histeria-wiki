@@ -17,7 +17,6 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |cleartime|Permet d'afficher le temps du prochain clear lag|
 |cps [joueur]|Permet de voir ses cps où les cps d'un joueur choisi|
 |discord|Donne le lien du discord d'histeria|
-|ec|Permet d'ouvrir son ender-chest|
 |guide|Permet d'afficher les guides connectés|
 |help [page]|Permet d'afficher la liste des commandes|
 |msg <pseudo> <message>|Permet d'envoyer un message privé à un joueur|
