@@ -13,7 +13,6 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 
 | Commande | Description |
 | --- | --- |
-|clear|Permet de clear l'intégralité de son inventaire |
 |cleartime|Permet d'afficher le temps du prochain clear lag|
 |cps [joueur]|Permet de voir ses cps où les cps d'un joueur choisi|
 |discord|Donne le lien du discord d'histeria|
