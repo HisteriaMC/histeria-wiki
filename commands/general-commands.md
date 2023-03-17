@@ -20,6 +20,7 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |help [page]|Permet d'afficher la liste des commandes|
 |msg <pseudo> <message>|Permet d'envoyer un message privé à un joueur|
 |ping [pseudo]|Permet d'afficher son ping ou celui d'un joueur|
+|settings|Pour modifier certain paramètre |
 |staff|Affiche les staff de connectés|
 |stats [player]|Affiche des informations sur soi ou un joueur|
 |suicide|Permet de mourire|
