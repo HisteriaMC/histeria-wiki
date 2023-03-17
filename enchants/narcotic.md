@@ -2,13 +2,11 @@
 # Narcotic 
 
 ## Informations
-L'enchantement *Narcotic* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Narcotic* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
+Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui donner l'effet Poison au niveau 1 (4 secondes).  
 
-Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui donner l'effet Poison au niveau 1 (4 secondes).
-
-
-**Niveau maximum** : 5
+**Niveau maximum** : 5  
 
 <table>
   <tr>

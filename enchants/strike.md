@@ -2,13 +2,11 @@
 # Strike 
 
 ## Informations
-L'enchantement *Attraction* est fusionnable à une Epéé en Histerite. L'enchantement *Strike* est incompatible avec l'enchantement *Execution*.
+L'enchantement *Attraction* est fusionnable à une Epéé en Histerite. L'enchantement *Strike* est incompatible avec l'enchantement *Execution*.  
 
+Quand un ennemi est frappé avec cet enchantement, il a une chance de le foudroyer et de lui infliger des dégats (l'éclair ne fait pas dégats additionnels).  
 
-Quand tu frappes un ennemi avec cet enchantement, il a une chance de le foudroyer et de lui infliger des dégats (l'éclair ne fait pas dégats additionnels).
-
-
-**Niveau maximum** : 5
+**Niveau maximum** : 5  
 
 <table>
   <tr>

@@ -2,13 +2,11 @@
 # SoulSteal
 
 ## Informations
-L'enchantement *SoulSteal* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *SoulSteal* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
+Quand un ennemi est frappé avec cet enchantement, il a une chance de te donner Haste 2 pour 2 secondes et de lui voler 0,5 coeur.  
 
-Quand tu frappes un ennemi avec cet enchantement, il a une chance de te donner Haste 2 pour 2 secondes et de lui voler 0,5 coeur.
-
-
-**Niveau maximum** : 5
+**Niveau maximum** : 5  
 
 <table>
   <tr>

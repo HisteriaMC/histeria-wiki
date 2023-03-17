@@ -2,13 +2,11 @@
 # DragonBreath
 
 ## Informations 
-L'enchantement *DragonBreath* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *DragonBreath* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
+Quand un ennemi est frappé avec cet enchantement, il a une chance de lui envoyer une boule de feu qui lui causera 1,5 coeurs de dégats.  
 
-Quand tu frappes en ennemi avec cet enchantement, il a une chance de lui envoyer une boule de feu qui lui causera 1,5 coeurs de dégats.
-
-
-**Niveau maximum** : 5
+**Niveau maximum** : 5  
 
  <table>
   <tr>

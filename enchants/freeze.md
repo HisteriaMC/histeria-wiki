@@ -2,13 +2,11 @@
 # Freeze 
 
 ## Informations 
-L'enchantement *Freeze* est fusionnable à une Epéé en Histerite. L'enchantement *Freeze* est incompatible avec l'enchantement *Hypothermia*.
+L'enchantement *Freeze* est fusionnable à une Epéé en Histerite. L'enchantement *Freeze* est incompatible avec l'enchantement *Hypothermia*.  
 
+Quand un ennemi est frappé avec cet enchantement, il a une chance de le freeze (bloque tous les mouvements) pour 2 secondes.  
 
-Quand tu frappes en ennemi avec cet enchantement, il a une chance de le freeze (bloque tous les mouvements) pour 2 secondes.
-
-
-**Niveau maximum** : 2
+**Niveau maximum** : 2  
 
 <table>
   <tr>
