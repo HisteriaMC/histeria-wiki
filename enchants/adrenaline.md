@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *Adrénaline* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de donner Force 3 pour 2 secondes et de heal une petite quantité de vie toutes les secondes (3 secondes) au porteur.  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de donner Force 3 pour 2 secondes et de heal une petite quantité de vie toutes les secondes (pendant 3 secondes) au porteur.  
 
 **Niveau maximum** : 5
 

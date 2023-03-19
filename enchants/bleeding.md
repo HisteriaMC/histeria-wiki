@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *Bleeding* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégats toutes les secondes (5 secondes).  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégats toutes les secondes (pendant 5 secondes).  
 
 **Niveau maximum** : 2  
 

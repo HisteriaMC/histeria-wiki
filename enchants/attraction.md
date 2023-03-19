@@ -4,7 +4,7 @@
 ## Informations 
 L'enchantement *Attraction* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de téléporter l'ennemi sur ta position.  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de le téléporter sur la position du joueur ayant donné le coup.  
 
 **Niveau maximum** : 5  
 
