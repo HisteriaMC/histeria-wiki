@@ -23,5 +23,4 @@ Les commandes sont un outil incontournable pour améliorer votre expérience de 
 |settings|Pour modifier certain paramètre |
 |staff|Affiche les staff de connectés|
 |stats [player]|Affiche des informations sur soi ou un joueur|
-|suicide|Permet de mourire|
 |tps|Affiche les TPS du serveur sur lequel vous êtes connecté|
