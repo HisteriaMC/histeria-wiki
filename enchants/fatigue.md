@@ -2,9 +2,9 @@
 # Fatigue
 
 ## Informations
-L'enchantement *Fatigue* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
+L'enchantement *Fatigue* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de lui donner l'effet Mining Fatigue au niveau 3 (4 secondes).  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de lui donner l'effet Mining Fatigue au niveau 3 (pendant 4 secondes).  
 
 **Niveau maximum** : 5  
 

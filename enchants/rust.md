@@ -2,7 +2,7 @@
 # Rust
 
 ## Informations
-L'enchantement *Rust* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
+L'enchantement *Rust* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui retirer plus de durabilité sur son armure (1% durabilité totale).  
 

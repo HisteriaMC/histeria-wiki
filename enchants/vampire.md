@@ -2,7 +2,7 @@
 # Vampire 
 
 ## Informations
-L'enchantement *Vampire* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
+L'enchantement *Vampire* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui voler 1 coeur de vie.  
 

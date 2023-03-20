@@ -2,7 +2,7 @@
 # Demonic
 
 ## Informations
-L'enchantement *Demonic* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
+L'enchantement *Demonic* est fusionnable à une Epéé en Histerite. Aucune incompatibilité. 
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui donner l'effet Wither au niveau 1 (4 secondes).  
 

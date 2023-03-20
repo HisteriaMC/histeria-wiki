@@ -2,7 +2,7 @@
 # Split
 
 ## Informations
-L'enchantement *Split* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.  
+L'enchantement *Split* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégats.  
 
