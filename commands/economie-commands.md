@@ -41,6 +41,7 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans 
 | --- | --- |
 |hdv|Permet d'ouvrir l'hôtel des ventes|
 |hdv sell <montant>|Permet de vendre les items en main au hdv|
+|hdv search <nom>|Permet de rechercher un item avec son nom|
 |shop|Permet d'accéder au shop pour acheter ou vendre des item|
 |  |  |
 |bank <montant>|Permet de créer un chèque avec le montant souhaité|
