@@ -2,11 +2,11 @@
 # Autodestruct
 
 ## Informations 
-L'enchantement *Autodestruct* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *Autodestruct* est fusionnable avec une pièce d'armure.
 
 Quand le porteur de l'enchantement est tué avec cet enchantement, il provoque une explosion qui inflige 6 coeurs de dégats à tous les joueurs dans un rayon de 6 blocs.  
 
-**Niveau maximum** : 1  
+**Niveau maximum :** 1  
 
 <table>
   <tr>

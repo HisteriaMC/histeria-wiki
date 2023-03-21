@@ -2,11 +2,11 @@
 # IronSpirit
 
 ## Informations 
-L'enchantement *IronSpirit* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *IronSpirit* est fusionnable avec une pièce d'armure.
 
 Donne l'effet Résistance permanent au porteur.
  
-**Niveau maximum** : 5
+**Niveau maximum :** 5
 
 <table>
   <tr>

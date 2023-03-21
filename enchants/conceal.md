@@ -2,11 +2,11 @@
 # Conceal
 
 ## Informations 
-L'enchantement *Conceal* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *Conceal* est fusionnable avec une pièce d'armure.
 
-Quand le porteur de l'enchantement est frappé, il à une chance de cacher l'indicateur de vie (dans le nom du porteur de l'enchantement) pour 6 secondes.  
+Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indicateur de vie (dans le nom du porteur de l'enchantement) pour 6 secondes.  
 
-**Niveau maximum** : 1  
+**Niveau maximum :** 1  
 
 <table>
   <tr>

@@ -2,11 +2,11 @@
 # Blasphemy
 
 ## Informations 
-L'enchantement *Blasphemy* est fusionnable à une armure en Histerite ou en Nocturite.L'enchantement est incompatible avec l'enchantement [*Dodge*](https://histeria.fr/wiki/enchants/dodge).
+L'enchantement *Blasphemy* est fusionnable avec une pièce d'armure.L'enchantement est incompatible avec l'enchantement [*Dodge*](https://histeria.fr/wiki/enchants/dodge).
 
 Quand le porteur de l'enchantement est frappé, l'enchantement à une chance de donner les effets Wither 1 pour 4 secondes et Faiblesse 1 pour 3 secondes à l'ennemi.  
  
-**Niveau maximum** : 5   
+**Niveau maximum :** 5   
 
 <table>
   <tr>

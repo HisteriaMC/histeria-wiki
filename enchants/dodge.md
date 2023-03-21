@@ -2,11 +2,11 @@
 # Dodge
 
 ## Informations 
-L'enchantement *Dodge* est fusionnable à une armure en Histerite ou en Nocturite.L'enchantementest incompatible avec l'enchantement [*Blasphemy*](https://histeria.fr/wiki/enchants/blasphemy).
+L'enchantement *Dodge* est fusionnable avec une pièce d'armure. L'enchantement est incompatible avec l'enchantement [*Blasphemy*](https://histeria.fr/wiki/enchants/blasphemy).
 
-Quand le porteur de l'enchantement est frappé, il à une chance de bloquer les dégats reçus.    
+Quand le porteur de l'enchantement est frappé, il a une chance de bloquer les dégats reçus.    
  
-**Niveau maximum** : 5  
+**Niveau maximum :** 5  
 
 <table>
   <tr>

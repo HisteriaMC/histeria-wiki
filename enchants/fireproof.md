@@ -2,11 +2,11 @@
 # Fireproof  
 
 ## Informations 
-L'enchantement *Fireproof* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *Fireproof* est fusionnable avec une pièce d'armure.
 
 Il donne l'effet Résistance au Feu permanent au porteur.  
 
-**Niveau maximum** : 1  
+**Niveau maximum :** 1  
 
 <table>
   <tr>

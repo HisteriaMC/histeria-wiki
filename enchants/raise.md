@@ -2,11 +2,11 @@
 # Raise
 
 ## Informations 
-L'enchantement *Raise* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *Raise* est fusionnable avec une pièce d'armure.
 
-Quand le porteur de l'enchantement est frappé, il à une chance de retirer tous les effets négatifs au porteur (Faiblesse, Lenteur, Cécité, Poison, Wither, Hunger, Mining Fatigue, Nausée).
+Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous les effets négatifs au porteur (Faiblesse, Lenteur, Cécité, Poison, Wither, Hunger, Mining Fatigue, Nausée).
  
-**Niveau maximum** : 5   
+**Niveau maximum :** 5   
 
 <table>
   <tr>

@@ -2,11 +2,11 @@
 # Reflect
 
 ## Informations 
-L'enchantement *Reflect* est fusionnable à une armure en Histerite ou en Nocturite.
+L'enchantement *Reflect* est fusionnable avec une pièce d'armure.
 
-Quand le porteur de l'enchantement est frappé, il à une chance de renvoyer les dégats à l'ennemi.
+Quand le porteur de l'enchantement est frappé, il a une chance de renvoyer les dégats à l'ennemi.
 
-**Niveau maximum** : 1
+**Niveau maximum :** 1
 
 <table>
   <tr>

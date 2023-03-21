@@ -2,11 +2,11 @@
 # SteelBones
 
 ## Informations 
-L'enchantement *SteelBones* est fusionnable à une armure en Histerite ou en Nocturite.  
+L'enchantement *SteelBones* est fusionnable avec une pièce d'armure.  
 
-Quand le porteur de l'enchantement est frappé, il à une chance de diviser les dégats reçus par 2. 
+Quand le porteur de l'enchantement est frappé, il a une chance de diviser les dégats reçus par 2. 
  
-**Niveau maximum** : 5   
+**Niveau maximum :** 5   
 
 <table>
   <tr>
