@@ -12,10 +12,10 @@ Avoir un grade vous donne accès à plusieurs commandes permettant d'améliorer 
 
 [args] = Argument facultatif.
 
-Les commandes pour VIP sont accessibles également aux Interplanétaires, Oméga, et Donateur.
-Les commandes pour Interplanétaires sont accessibles également aux Oméga, et Donateur.
-Les commandes pour Omég sont accessibles également aux et Donateur.
-Les Donnateur ont accès à toutes les commandes
+Les commandes pour VIP sont accessibles également aux Interplanétaires, Omégas, et Donateurs.
+Les commandes pour Interplanétaires sont accessibles également aux Omégas, et Donateurs.
+Les commandes pour Omégas sont accessibles également aux Donateurs.
+Les Donnateurs ont accès à toutes les commandes
 
 | Commande | Description | Grade |
 | --- | --- | --- |
@@ -37,4 +37,4 @@ Les Donnateur ont accès à toutes les commandes
 |cesell |Permet d'accéder au désenchanteur | Oméga |
 |rename <nom>|Permet de renommer un item| Oméga |
 |||
-|prefix <prefix> |Permet d'afficher un préfixe personnalisé| Donateur |
+|prefix <prefix> |Permet d'afficher un préfixe personnalisé| Donateur & Prefix dynamique|

@@ -2,7 +2,7 @@
 # Les commandes TP and Travel
 
 ## Description
-Notre serveur propose un système de téléportation qui vous permet de vous déplacer facilement entre les différentes arènes, factions, minages et le lobby. Vous pouvez également envoyer des demandes de téléportation pour vous téléporter vers des joueurs ou de les téléporter vers vous. Les homes vous permetteront de créer des points de téléportation personnalisés vers vos bases, vos fermes, pillages,... Il existe d'autres commandes pratiques pour vous déplacer rapidement et efficacement à travers le monde du jeu.
+Notre serveur propose un système de téléportation qui vous permet de vous déplacer facilement entre les différentes arènes, factions, minages et le lobby. Vous pouvez également envoyer des demandes de téléportation pour vous téléporter vers des joueurs ou de les téléporter vers vous. Les homes vous permettront de créer des points de téléportation personnalisés vers vos bases, vos fermes, pillages,...
 
 ## Commandes TP and Travel
 
@@ -20,7 +20,7 @@ Notre serveur propose un système de téléportation qui vous permet de vous dé
 |minage [nombre]|Permet de se téléporter dans un monde minage|
 |hub|Se téléporter au hub|
 |spawn|Se tp au spawn du monde|
-|lobby [nombre]|Permet de se téléporter a un lobby|
+|lobby [nombre]|Permet de se téléporter à un lobby|
 |||
 |tpa <player>|Envoie une demande pour se tp à un joueur|
 |tpaccept|Accepte une demande de tp|
