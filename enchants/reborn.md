@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *Reborn* est fusionnable avec une épée en Histerite.
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de soigner son porteurcomplètement.  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de soigner complètement son porteur.
 
 **Niveau maximum :** 1  
 
