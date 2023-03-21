@@ -31,4 +31,4 @@ Notre serveur propose un système de téléportation qui vous permet de vous dé
 |delhome <nom>|Permet de supprimer un home|
 |||
 |rtp|Set tp a des coordonnées aléatoire hors du spawn|
-|xyz|Affiche les coordonnées|
+|xyz [popup/tip/subtitle/message] [direction:bool]|Affiche les coordonnées|
