@@ -6,7 +6,6 @@
 
 ## Commandes
 
-
 \<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
@@ -49,7 +48,3 @@
 | `/f unclaim` | Unclaim un chunk claim |
 | `/f unsethome` | Retire le home de faction |
 | `/f withdraw <money>` | Retirer de l'argent de faction |
-
-
-## Utilités
-Les commandes vous permettent d'inviter des joueurs dans votre faction ou d'en rejoindre une, créer un home de faction, des bases claim, gérer les relation de faction en ayant des alliés et des ennemies ! Vous avez également accès à un chat réservé à votre faction et avec vos alliés ! Montez en grade dans votre faction et accomplissez de grand objectif commun pour contrôler les arènes et ainsi devenir la meilleure faction du serveur !

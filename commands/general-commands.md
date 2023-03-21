@@ -1,15 +1,14 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
+# Les commandes générales 
 
-# Les commandes faction
-
-## Commandes
-Les commandes sont un outil incontournable pour améliorer votre expérience de jeu sur Histeria. Vous pourrez utiliser ces commandes pour effectuer diverses actions, telles que la création de homes, la vente de vos objets dans un shop, un hôtel de ville ou même pour effectuer des trades avec d'autres joueurs. Les commandes vous permettront également de vous déplacer facilement entre les différents serveurs disponibles et les arènes et plein d'autres choses !
+## Description
+Certaines commandes plus générales peuvent être utilisées pour pouvoir obtenir des informations que ce soit sur les joueurs ou sur le serveur. A vous de les utiliser comme bon vous semble.
 
 <args> = Argument obligatoire.
 
 [args] = Argument facultatif.
 
-### Commandes Autre
+## Commandes Autre
 
 | Commande | Description |
 | --- | --- |
