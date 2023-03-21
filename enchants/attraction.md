@@ -2,11 +2,11 @@
 # Attraction 
 
 ## Informations 
-L'enchantement *Attraction* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Attraction* est fusionnable avec une épée en Histerite.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de le téléporter sur la position du joueur ayant donné le coup.  
 
-**Niveau maximum** : 5  
+**Niveau maximum :** 5  
 
 <table>
   <tr>

@@ -2,11 +2,11 @@
 # Reborn
 
 ## Informations
-L'enchantement *Reborn* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Reborn* est fusionnable avec une épée en Histerite.
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de te soigner complètement.  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de soigner son porteurcomplètement.  
 
-**Niveau maximum** : 1  
+**Niveau maximum :** 1  
 
 <table>
   <tr>

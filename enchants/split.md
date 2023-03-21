@@ -2,12 +2,12 @@
 # Split
 
 ## Informations
-L'enchantement *Split* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Split* est fusionnable avec une épée en Histerite.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégats.  
 
 
-**Niveau maximum** : 5  
+**Niveau maximum :** 5  
 
 <table>
   <tr>

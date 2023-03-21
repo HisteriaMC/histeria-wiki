@@ -2,11 +2,11 @@
 # Bleeding
 
 ## Informations
-L'enchantement *Bleeding* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Bleeding* est fusionnable à une avec une épée en Histerite.
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégats toutes les secondes (pendant 5 secondes).  
+Quand un ennemi est frappé avec cet enchantement, il a une chance de lui infliger des dégâts toutes les secondes (pendant 5 secondes).  
 
-**Niveau maximum** : 2  
+**Niveau maximum :** 2  
 
 <table>
   <tr>
@@ -17,11 +17,11 @@ Quand un ennemi est frappé avec cet enchantement, il a une chance de lui inflig
   <tr>
     <td>1</td>
     <td>1,50%</td>
-    <td>Inflige 0,25 coeur de dégats par seconde</td>
+    <td>Inflige 0,25 coeur de dégâts par seconde</td>
   </tr>
   <tr>
     <td>2</td>
     <td>2%</td>
-    <td>Inflige 0,5 coeur de dégats par seconde</td>
+    <td>Inflige 0,5 coeur de dégâts par seconde</td>
   </tr>
 </table>

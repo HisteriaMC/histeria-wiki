@@ -2,11 +2,11 @@
 # Fluctuation
 
 ## Informations
-L'enchantement *Fluctuation* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
+L'enchantement *Fluctuation* est fusionnable avec une épée en Histerite.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance d'enlever 0,75 coeur à tous les joueurs dans un rayon de 6 blocs.  
 
-**Niveau maximum** : 5  
+**Niveau maximum :** 5  
 
 <table>
   <tr>

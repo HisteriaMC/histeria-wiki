@@ -2,12 +2,11 @@
 # Hunger 
 
 ## Informations
-L'enchantement *Hunger* est fusionnable à une Epéé en Histerite. Aucune incompatibilité.
-
+L'enchantement *Hunger* est fusionnable avec une épée en Histerite.
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui retirer la moitié de sa barre de nourriture.  
 
-**Niveau maximum** : 5  
+**Niveau maximum :** 5  
 
 <table>
   <tr>
