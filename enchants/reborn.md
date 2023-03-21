@@ -20,3 +20,4 @@ Quand un ennemi est frappé avec cet enchantement, il a une chance de soigner co
     <td>Aucun</td>
   </tr>
   </table>
+  
