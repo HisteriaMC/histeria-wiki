@@ -1,20 +1,21 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 
-# Les commandes faction
+# Les commandes gradées
+Les commandes 
 
-## Commandes
-Les commandes sont un outil incontournable pour améliorer votre expérience de jeu sur Histeria. Vous pourrez utiliser ces commandes pour effectuer diverses actions, telles que la création de homes, la vente de vos objets dans un shop, un hôtel de ville ou même pour effectuer des trades avec d'autres joueurs. Les commandes vous permettront également de vous déplacer facilement entre les différents serveurs disponibles et les arènes et plein d'autres choses !
+## Description
+Avoir un grade vous donne accès à plusieurs commandes permettant d'améliorer votre expérience de jeu selon votre grade. Plus besoin de faire des allers-retours avec les spawn pour acheter et vendre des enchantements custom,  renommez vos items, accédez à une table de craft à distance et plus encore !
+
+## Commandes Gradés
 
 <args> = Argument obligatoire.
 
 [args] = Argument facultatif.
 
-### Commandes Gradés
-
-Les commandes pour VIP sont accessibles aux Interplanétaires, Oméga, Oméga perso et Donateur.
-Les commandes pour Interplanétaires sont accessibles aux  Oméga, Oméga perso et Donateur.
-Les commandes pour Omég sont accessibles aux  Oméga perso et Donateur.
-Les commandes pour Oméga perso sont accessibles aux  Donateur.
+Les commandes pour VIP sont accessibles également aux Interplanétaires, Oméga, et Donateur.
+Les commandes pour Interplanétaires sont accessibles également aux Oméga, et Donateur.
+Les commandes pour Omég sont accessibles également aux et Donateur.
+Les Donnateur ont accès à toutes les commandes
 
 | Commande | Description | Grade |
 | --- | --- | --- |
@@ -36,4 +37,4 @@ Les commandes pour Oméga perso sont accessibles aux  Donateur.
 |cesell |Permet d'accéder au désenchanteur | Oméga |
 |rename <nom>|Permet de renommer un item| Oméga |
 |||
-|prefix <prefix> |Permet d'afficher un préfixe personnalisé| Oméga Perso |
+|prefix <prefix> |Permet d'afficher un préfixe personnalisé| Donateur |
