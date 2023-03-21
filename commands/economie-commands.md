@@ -20,8 +20,7 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans 
 |shop|Permet d'accéder au shop pour acheter ou vendre des item|
 |  |  |
 |bank <montant>|Permet de créer un chèque avec le montant souhaité|
-|money|Permet de voir son argent|
-|seemoney [player]|Permet de voir la monnaie d'un joueur ou de soi|
+|money [player]|Permet de voir son argent ou celui d'un joueur|
 |topmoney|Affiche le top money|
 |seelumenn [player]|Permet de voir le nombre de lumenn d'un joueur ou de soi.|
 |topstats|Affiche le top stats|
