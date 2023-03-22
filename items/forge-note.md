@@ -4,7 +4,7 @@
 ## Description
 Item qui sert à améliorer vos enchantements moddé.
 
-## Mode d'emplois
+## Mode d'emploi
 1. Mettre le parchemin d'enchantement dans votre main
 2. Faire un clique gauche et sélectionner l'enchantement souhaité
 3. Prendre l'item ou le livre avec l'enchantement souhaité
