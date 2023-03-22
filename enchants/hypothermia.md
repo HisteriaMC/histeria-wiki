@@ -2,7 +2,7 @@
 # Hypothermia
 
 ## Informations
-L'enchantement *Hypothermia* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène, les enchantements obtensibles en tuant des [boss](https://histeria.fr/wiki/boss) et avec l'enchantement [*Freeze*](https://histeria.fr/wiki/enchants/freeze). 
+L'enchantement *Hypothermia* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène, les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss) et avec l'enchantement [*Freeze*](https://histeria.fr/wiki/enchants/freeze). 
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui retirer l'effet Resistance au Feu, le freeze pour 3 secondes et lui infliger 0,75 coeur de dégâts.
 

@@ -2,7 +2,7 @@
 # Fusion
 
 ## Informations
-L'enchantement *Fusion* est fusionnable avec une pièce d'armure, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtensibles en tuant des [boss](https://histeria.fr/wiki/boss).
+L'enchantement *Fusion* est fusionnable avec une pièce d'armure, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
 Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance de te unfreeze (retire l'effet de [freeze](https://histeria.fr/wiki/enchants/freeze)), si tu n'es pas freeze il te soigne de 2 coeurs.
 

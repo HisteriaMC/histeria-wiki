@@ -2,7 +2,7 @@
 # Magic
 
 ## Informations
-L'enchantement *Magic* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtensibles en tuant des [boss](https://histeria.fr/wiki/boss).
+L'enchantement *Magic* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de lui donner des effets : Nausée 3 pour 5 secondes, Cécité 3 pour 4 secondes, Lenteur 3 pour 5 secondes.
 L'enchantement inflige également 0,75 coeur de dégâts à l'ennemi.

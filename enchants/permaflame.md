@@ -2,7 +2,7 @@
 # Permaflame
 
 ## Informations
-L'enchantement *Permaflame* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtensibles en tuant des [boss](https://histeria.fr/wiki/boss).
+L'enchantement *Permaflame* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
 Quand un ennemi est frappé avec cet enchantement, il a une chance de retirer l'effet Resistance au Feu, infliger 0,5 coeur de dégât et mettre en feu pour 30 secondes tous les ennemis dans un rayon de 10 blocs.
 
