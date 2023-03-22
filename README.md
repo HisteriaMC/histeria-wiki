@@ -29,7 +29,6 @@ Nous utilisons des conventions de formatage pour assurer la cohérence et la lis
 
 -   Assurez-vous que votre pull request est ouverte contre la branche principale (main).
 -   Veuillez ne pas inclure de modifications non liées dans la même pull request.
--   Veuillez attendre que votre pull request soit examinée et acceptée avant de la fusionner.
 -   N'oubliez pas de mettre à jour votre fork avec les dernières modifications de la branche principale avant de proposer une nouvelle pull request.
 
 ## Licence
