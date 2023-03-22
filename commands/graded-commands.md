@@ -15,7 +15,7 @@ Avoir un grade vous donne accès à plusieurs commandes permettant d'améliorer 
 Les commandes pour VIP sont accessibles également aux Interplanétaires, Omégas, et Donateurs.
 Les commandes pour Interplanétaires sont accessibles également aux Omégas, et Donateurs.
 Les commandes pour Omégas sont accessibles également aux Donateurs.
-Les Donnateurs ont accès à toutes les commandes
+Les Donateurs ont accès à toutes les commandes
 
 | Commande | Description | Grade |
 | --- | --- | --- |

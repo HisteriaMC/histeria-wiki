@@ -31,7 +31,6 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans 
 |vote|Vote sur le serveur et vous donne des récompenses|
 |voteparty|affiche l'avancement du vote party|
 |kit|Permet d'afficher la liste des kits disponible|
-|calendar|Permet de voir le calendrier des votes|
 
 ## Les commandes de jobs
 Il existe sur le serveur 4 métiers que vous pouvez améliorer pour pouvoir accéder a de nouveau craft et gagner des items ! Vous pouvez voir ces métiers, les moyens pour augmenter votre niveau et les récompenses grâce à la commande indiquée ci-dessous !
