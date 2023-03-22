@@ -23,7 +23,6 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans 
 |money [player]|Permet de voir son argent ou celui d'un joueur|
 |topmoney|Affiche le top money|
 |seelumenn [player]|Permet de voir le nombre de lumenn d'un joueur ou de soi.|
-|topstats|Affiche le top stats|
 |  |  |
 |pay <pseudo> <montant>|Permet de donner de l'argent à un joueur|
 |trade accept|Accepte une demande de trade|

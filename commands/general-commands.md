@@ -23,4 +23,5 @@ Certaines commandes plus générales peuvent être utilisées pour pouvoir obten
 |settings|Pour modifier certain paramètre |
 |staff|Affiche les staff de connectés|
 |stats [player]|Affiche des informations sur soi ou un joueur|
+|topstats|Affiche le top stats|
 |tps|Affiche les TPS du serveur sur lequel vous êtes connecté|
