@@ -12,6 +12,7 @@ Certaines commandes plus générales peuvent être utilisées pour pouvoir obten
 
 | Commande | Description |
 | --- | --- |
+|calendar|Permet de voir le calendrier des votes|
 |cleartime|Permet d'afficher le temps du prochain clear lag|
 |cps [joueur]|Permet de voir ses cps où les cps d'un joueur choisi|
 |discord|Donne le lien du discord d'histeria|
