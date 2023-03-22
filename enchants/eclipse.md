@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *Eclipse* est fusionnable avec une pièce d'armure, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
-Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance de lui donner l'effet Cécité 3 pour 3 secondes et inflige également 0,5 coeur de dégâts.
+Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une probabilité de lui donner l'effet Cécité 3 pendant 3 secondes et de lui infliger par la même occasion 0,5 coeur de dégâts.
 
 **Niveau maximum :** 1
 

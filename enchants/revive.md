@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *Revive* est fusionnable avec une pièce d'armure, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
-Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance soigner le porteur de l'enchantement de 3 coeurs.
+Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance de soigner le porteur de 3 coeurs.
 
 **Niveau maximum :** 1
 

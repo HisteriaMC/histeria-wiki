@@ -4,7 +4,7 @@
 ## Informations
 L'enchantement *LunarStrike* est fusionnable avec une épée en Histerite, il est obtenable que dans les coffres d'arènes. L'enchantement est incompatible avec tout les autres enchantements d'arène et les enchantements obtenables en tuant des [boss](https://histeria.fr/wiki/boss).
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de lui rallonger tous ses cooldowns de 5 secondes, de le foudroyer, ainsi que de lui infliger 1,25 coeurs de dégâts.
+Quand un ennemi est frappé avec cet enchantement, il a une chance de lui rallonger tous ses cooldowns de 5 secondes, de le foudroyer, ainsi que de lui infliger 1,25 coeur de dégâts.
 
 **Niveau maximum :** 1
 
