@@ -30,6 +30,7 @@ Nous utilisons des conventions de formatage pour assurer la cohérence et la lis
 -   Assurez-vous que votre pull request est ouverte contre la branche principale (main).
 -   Veuillez ne pas inclure de modifications non liées dans la même pull request.
 -   N'oubliez pas de mettre à jour votre fork avec les dernières modifications de la branche principale avant de proposer une nouvelle pull request.
+-   Si vous avez besoin d'informations supplémentaires pour documenter le sujet que vous traitez, n'hésitez pas à nous demander ces informations dans l'issue associé au sujet en question (et de la créer si elle n'existe pas). Ces demandes peuvent être par exemple des demandes de code, de loot tables et/ou des probabilités (Ex: liste des récompenses de jobs, reach initial d'un boss, formule de calcul entre les clearlags).
 
 ## Licence
 
