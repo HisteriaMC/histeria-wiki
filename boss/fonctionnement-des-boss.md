@@ -1,4 +1,4 @@
-# Explication des Boss
+# Fonctionnement des Boss
 
 ## Apparition
 Les boss peuvent apparaître dans les 3 serveurs __faction__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés :
