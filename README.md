@@ -11,7 +11,7 @@ Nous sommes une communauté ouverte à tous les joueurs de Minecraft qui souhait
 
 1. Créez un compte GitHub si vous n'en avez pas déjà un.
 2. Fork le dépôt en cliquant sur le bouton "Fork" en haut à droite de la page du dépôt.
-3. Clonez votre fork du dépôt sur votre machine locale avec la commande `git clone https://github.com/HisteriaMC/histeria-wiki.git`.
+3. Clonez votre fork du dépôt sur votre machine locale avec la commande `git clone https://github.com/USERNAME/histeria-wiki.git`.
 4. Créez une nouvelle branche pour vos modifications avec la commande `git checkout -b nom-de-ma-branche`.
 5. Faites vos modifications en suivant les conventions de formatage existantes.
 6. Faites un commit de vos modifications avec la commande `git commit -m "description de mes modifications"`.
