@@ -2,7 +2,7 @@
 # FeatherWalk
 
 ## Informations
-L'enchantement *FeatherWalk* est fusionnable avec une pièce d'armure, il est obtenable seulement en tutant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène.
+L'enchantement *FeatherWalk* est fusionnable avec une pièce d'armure, il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec les enchantements d'arène.
 
 Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance de donner l'effet Rapidité 5 pendant 4 secondes au porteur de l'enchantement ainsi que de donner les effets Lévitation 4 et Cécité 4 pendant 2 secondes à tous les ennemis dans un rayon de 7 blocs.
 

@@ -2,7 +2,7 @@
 # Tsunami
 
 ## Informations
-L'enchantement *Tsunami* est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/tools/histerite-sword), il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène.
+L'enchantement *Tsunami* est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/tools/histerite-sword), il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec les enchantements d'arène.
 
 Quand le porteur de l'enchantement frappe un ennemi, il a une chance de lui donner l'effet Lenteur 3 pendant 10 secondes.
 

@@ -2,7 +2,7 @@
 # Clone
 
 ## Informations
-L'enchantement *Clone* est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/tools/histerite-sword), il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène.
+L'enchantement *Clone* est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/tools/histerite-sword), il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec les enchantements d'arène.
 
 Quand le porteur de l'enchantement frappe un ennemi, il a une chance de clone le porteur de l'enchantement. Le clone attaque l'ennemi et possède le même équipement que celui qui l'a invoqué.
 

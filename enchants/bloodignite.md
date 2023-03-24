@@ -2,7 +2,7 @@
 # BloodIgnite
 
 ## Informations
-L'enchantement *BloodIgnite* est fusionnable avec une pièce d'armure, il est obtenable seulement en tutant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène.
+L'enchantement *BloodIgnite* est fusionnable avec une pièce d'armure, il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec les enchantements d'arène.
 
 Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance d'infliger 1 coeur de dégâts à tous les ennemis dans un rayon de 3 blocs.
 

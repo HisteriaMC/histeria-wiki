@@ -2,7 +2,7 @@
 # Omniscient
 
 ## Informations
-L'enchantement *Omniscient* est fusionnable avec une pièce d'armure, il est obtenable seulement en tutant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène.
+L'enchantement *Omniscient* est fusionnable avec une pièce d'armure, il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec les enchantements d'arène.
 
 Quand le porteur de l'enchantement est frappé par un ennemi, cet enchantement a une chance de rendre complètement invisible le porteur de l'enchantement pendant 5 secondes.
 
