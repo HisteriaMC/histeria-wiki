@@ -6,7 +6,7 @@ Il existe des commandes vous permettant de gérer votre argent et de vous enrich
 
 ## Commandes :
 
-<args> = Argument obligatoire.
+\<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
 

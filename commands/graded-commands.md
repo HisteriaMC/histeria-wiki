@@ -8,7 +8,7 @@ Avoir un grade vous donne accès à plusieurs commandes permettant d'améliorer 
 
 ## Commandes Gradés
 
-<args> = Argument obligatoire.
+\<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
 

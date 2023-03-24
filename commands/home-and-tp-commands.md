@@ -6,7 +6,7 @@ Notre serveur propose un système de téléportation qui vous permet de vous dé
 
 ## Commandes TP and Travel
 
-<args> = Argument obligatoire.
+\<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
 

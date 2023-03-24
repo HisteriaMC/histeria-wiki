@@ -4,7 +4,7 @@
 ## Description
 Certaines commandes plus générales peuvent être utilisées pour pouvoir obtenir des informations que ce soit sur les joueurs ou sur le serveur. A vous de les utiliser comme bon vous semble.
 
-<args> = Argument obligatoire.
+\<args\> = Argument obligatoire.
 
 [args] = Argument facultatif.
 
