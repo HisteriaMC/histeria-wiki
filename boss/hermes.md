@@ -1,3 +1,6 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png%%
+# Hermes
+
 ## Description 
 Messager des dieux, Hermès connaît tout les raccourcis, et possède une force et une rapidité extraordinaire. Faîtes attention aux cooldowns de vos objets de soins, il se pourrait bien qu'Hermès prenne la liberté de les rallonger à sa guise.
 
@@ -12,9 +15,9 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
   - Recul II
   - Lunarstrike I
 
-### Objet unique 
+## Objet unique 
 + Sandales d'Hermès
-  - Les sandales d'Hermes possèdent l'enchantement unique __Reset I__ qui permet, lorsque activé, de réinitialiser tout vos cooldown actuels (pomme en histerite, bâton de soin...).
+  - Les sandales d'Hermes possèdent l'enchantement unique [__Reset__](https://histeria.zelytra.fr/wiki/enchants/reset) qui permet, lorsqu'il est activé, de réinitialiser tout vos cooldown actuels (pomme en histerite, bâton de soin...).
 
 ## Skin
 
