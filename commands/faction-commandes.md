@@ -1,11 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
-# Les commandes faction
+# Les commandes de faction
 
 ## Description
  Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous aider à gérer votre faction dans Minecraft. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettent de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
 
 ## Commandes
-
 
 \<args\> = Argument obligatoire.
 
@@ -49,7 +48,3 @@
 | `/f unclaim` | Unclaim un chunk claim |
 | `/f unsethome` | Retire le home de faction |
 | `/f withdraw <money>` | Retirer de l'argent de faction |
-
-
-## Utilités
-Les commandes vous permettent d'inviter des joueurs dans votre faction ou d'en rejoindre une, créer un home de faction, des bases claim, gérer les relation de faction en ayant des alliés et des ennemies ! Vous avez également accès à un chat réservé à votre faction et avec vos alliés ! Montez en grade dans votre faction et accomplissez de grand objectif commun pour contrôler les arènes et ainsi devenir la meilleure faction du serveur !
