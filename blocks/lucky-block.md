@@ -26,5 +26,17 @@ Ces événements peuvent etre invoqué en brisant le bloc en question.
 | Pauvre dev | Dadodasyra apparaît devant le joueur | 
 | Mon métier ? Fermier ! | Le joueur reçoit une houe en histerite | 
 | DIAMAAAANTS | Le joueur reçoit un bloc de diamant | 
-| Fertilisez moi ça ! | Le joueur reçoit une terre fertilisée | 
+| Fertilisez moi ça ! | Le joueur reçoit une terre fertilisée |
+ soupe de Kitsun | Le joueur reçoit une soupe de Kitsun | 
+| Chasseur de trésor | Le joueur reçoit un chercheur de coffre |
+| Protége ta tête ! | Le joueur reçoit un casque en histerite | 
+| Lotto | Le joueur reçoit un ticket de lotterie |
+| C'est comestible ça ? | Le joueur reçoit une viande putrifiée | 
+| Du sushi  ? | Le joueur reçoit un poisson globe | 
+| J'aggrandis mon espace ! | Le joueur reçoit un tirroir de rangement | 
+| Ah... | Le joueur reçoit un buisson mort | 
+| Very délicious ! | Le joueur reçoit une pomme en histerite |
+| Delicious | Le joueur reçoit une pomme en or | 
+| Not delicious | Le joueur reçoit une pomme empoisonée | 
+| Joli caillou mauve | Le joueur reçoit un crystal en nocturite |
 
