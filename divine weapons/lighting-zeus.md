@@ -9,6 +9,6 @@ L’Éclair de Zeus est une arme redoutable et extrêmement puissante. Un seul c
     - Retire l’effet résistance : L’Éclair de Zeus est également capable de retirer l'effet de résistance de l'ennemi, le laissant ainsi plus vulnérable aux attaques.
     - Gèle l’ennemi pour 5 secondes : Enfin, l’Éclair de Zeus a la capacité de geler l'ennemi pendant 5 secondes, ce qui peut permettre à son porteur de prendre l'avantage pendant le combat.
 
-## Dieu la possédant
+## Divinité la possédant
 
 L’Éclair de Zeus est la propriété exclusive de Zeus, le dieu de la foudre et du tonnerre. Il est capable de lancer des éclairs destructeurs et possède une force incommensurable. Cette arme légendaire est l'une des armes les plus redoutées dans l'Olympe et est crainte par tous les ennemis du dieu. 
