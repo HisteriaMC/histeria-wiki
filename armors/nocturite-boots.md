@@ -15,7 +15,7 @@ Les bottes en Nocturite font partie de la meilleure armure disponible sur Hister
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-boots.png
 -=-
 
 Pour pouvoir les craft, vous devez être niveau 50 dans le métier de Bûcheron.
