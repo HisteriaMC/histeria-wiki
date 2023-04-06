@@ -3,7 +3,7 @@
 # Enclume en Histerite
 
 ## Description
-Les enclumes en histerite sont des enclumes customisées présentes sur le serveur. Elles sont trouvables au spawn des factions mais ne sont pas obtenables ni craftable. Vous pouvez utiliser la commande /fusion qui vous permet d'accéder à une enclume en histerite si vous possédez le grade suffisant pour l'utilisation de la commande.
+Les enclumes en histerite sont des enclumes customisées présentes sur le serveur. Elles sont trouvables au spawn des [factions](https://histeria.zelytra.fr/wiki/worlds/serveurs-faction) mais ne sont pas obtenables ni craftable.
 
 ## Utilité
-Cette enclume vous permettra d'enchanter vos équipements, d'améliorer les enchantements déjà présents avec des parchemin d'enchantement mais également d'ajouter un Kill Tag sur votre épée. Trouvable au spawn des serveurs factions, vous pouvez y accéder grâce à la commande /fusion si vous possédez le grade suffisant pour l'utiliser.
+Cette enclume vous permettra d'enchanter vos équipements, d'améliorer les enchantements déjà présents avec des parchemin d'enchantement mais également d'ajouter un [Kill Tag](https://histeria.zelytra.fr/wiki/item/kill-tag) sur votre épée. Trouvable au spawn des serveurs [factions](https://histeria.zelytra.fr/wiki/worlds/serveurs-faction), vous pouvez y accéder grâce à la commande /fusion si vous possédez le grade suffisant pour l'utiliser.
