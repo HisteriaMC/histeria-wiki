@@ -3,7 +3,7 @@
 # Obsidienne Renforcé 
 
 ## Description 
-L'obsidienne renforcé est une variante de l'obsidienne reconnaissable avec ses filaments rouge donné par l'histerite. L'obsidienne renforcé est plus résistante que l'obsidien classique et pour la casser vous devrez utiliser des casseurs d'obsidienne.
+L'obsidienne renforcé est une variante de l'obsidienne reconnaissable avec ses filaments rouge donnés par l'histerite. L'obsidienne renforcé est plus résistante que l'obsidien classique. Pour la casser vous devrez utiliser des [casseurs d'obsidienne](https://histeria.fr/wiki/items/obsi-breaker).
 
 ## Craft
 -=-
@@ -20,4 +20,4 @@ L'obsidienne renforcé est une variante de l'obsidienne reconnaissable avec ses 
 -=-
 
 ## Utilité 
-Cette Obsidienne est la meilleure pour protéger vos base et base claim grâce à sa résistance générale. Elle peut également être utilisée pour crafter le casseur d'obsidienne.
+Cette obsidienne est très pratique pour protéger vos base et base claim grâce à sa résistance générale. Elle peut également être utilisée pour crafter le [casseur d'obsidienne](https://histeria.fr/wiki/items/obsi-breaker).

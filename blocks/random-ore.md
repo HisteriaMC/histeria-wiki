@@ -3,7 +3,16 @@
 # Random Ore
 
 ## Description 
-Le Random Ore, ou minerais aléatoire, est un minerais spécial sur histeria. Il vous permet une fois miné d'obtenir un minerais aléatoire. Ce minerai est trouvable entre les couches 1 et 32 dans les [serveurs minages](https://histeria.fr/wiki/worlds/monde-minage).
+Le random ore, ou minerai aléatoire, est un minerai spécial sur Histeria. Il vous permet une fois miné d'obtenir un lingot aléatoire. Ce minerai est trouvable entre les couches 1 et 32 dans les [serveurs minages](https://histeria.fr/wiki/worlds/monde-minage).
 
 ## Utilité
-Les random ore vous donne une fois miné un minerais aléatoire entre le deux lingots fer, deux lingots or, un diamant et un [lingot histerite](https://histeria.fr/wiki/items/histerite-ingot) mais vous pouvez également obtenir un [lucky block](https://histeria.fr/wiki/blocks/lucky-block).
+Voici la liste des item que vous pouvez obtenir dans les random ore :
+
+|Objet|Quantité|Probabilité|
+|:---:|:---:|:---:|
+|Lucky block|1|3%|
+|Histerite|1|5%|
+|Lingot de fer x2|2|20%|
+|Lingot d'or x2|2|20%|
+|Diamant|1|20%|
+|Rien| |32%|
