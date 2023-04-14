@@ -25,43 +25,43 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | hub |1.97| Vous Tp au hub|
 | pay |0.84| Pay 200$ a tout les joueurs de connecté |
 | tpahere |0.84| Envoie une demande de tpahere a un joueur aléatoirement|
-| icanfly |1.97| Vous envoie dans les air à 100 blocks|
-| icanfly but not really|1.69| Vous envois dans les air à 2000 blocks|
-| random tp |1.69| vous tp dans un endroit aléatoir autour de vous|
-| every potion effect |1.69| vous donne tous les effets de potion|
+| icanfly |1.97| Vous envoie dans les airs à 100 blocks|
+| icanfly but not really|1.69| Vous envoie dans les air à 2000 blocks|
+| random tp |1.69| Vous tp dans un endroit aléatoire autour de vous|
+| every potion effect |1.69| Vous donne tous les effets de potion|
 | bunny |1.97| Vous donne un effet de saut 5 durant 20 secondes|
 | usain bolt |1.97| Vous donne un effet de speed 5 durant 20 secondes|
-| blindness |1.97| vous donne un effet de blindness 5 durant 20 secondes|
+| blindness |1.97| Vous donne un effet de blindness 5 durant 20 secondes|
 | Drunk |1.97| Vous donne 6 effet négatif durant 20 secondes|
 | Arrow 1 |2.53| Fait tomber des flèches sur vous|
 | Arrow 3 |1.12| Fait tomber plus de flèches sur vous|
 | Anvil 1 |2.53| Fait tomber des enclumes sur vous|
 | Anvil 3 |1.40| Fait tomber plus d’enclumes sur vous|
 | Lucky block |1.40| Fait tomber des lucky block sur vous|
-| tnt 1 |1.40| fait tomber des tnt sur vous|
-| tnt 3 |1.69| fait tomber plus de tnt sur vous|
+| tnt 1 |1.40| Fait tomber des tnt sur vous|
+| tnt 3 |1.69| Fait tomber plus de tnt sur vous|
 | punching ball |1.12| Fait apparaître un punching ball|
 | Siphano Chèque |1.12| Fait apparaître Siphano|
 | Siphano regarde |1.12| Fait apparaître Siphano|
 | fanta cpastoi |1.12| Fait apparaître Fanta|
 | Fanta Tagueule |1.12| Fait apparaître Fanta|
-| aypierre redstone |1.12| Fait apparaîtr Aypierre|
+| aypierre redstone |1.12| Fait apparaître Aypierre|
 | harrylafranc |1.12| Fait apparaître harrylafranc |
 | Fuzeiii |1.12| Fait apparaître FuzeIII|
-| ninjaxxu |1.12| Fait apparaîtr Ninjaxxu|
-| dadodasyra |1.12| Fait apparaître Dadodasyra|
+| ninjaxxu |1.12| Fait apparaître Ninjaxxu|
+| dadodasyra |1.12| Fait apparaître dadodasyra|
 | Mozart |7.32| Joue un des disques me Minecraft|
 | good |1.40| Vous donne une houe en histerite|
 | good |1.40| Vous donne 5 blocks de diamant|
 | good |0.56| Vous donne une terre fertile |
-| good Soup de Kitsun |1.12| Vous donne une soup de betterave |
-| good |1.40| Vous donne un chest funder|
+| good Soup de Kitsun |1.12| Vous donne une soupe de betterave |
+| good |1.40| Vous donne un chest finder|
 | good |1.40| Vous donne une capuche|
 | good |0.84| Vous donne un ticket de loterie |
-| good |1.12| Vous donne un drawer upgrade|
+| good |1.12| Vous donne une amélioration à drawer|
 | good |0.84| Vous donne une pomme en histerite|
 | good |1.12| Vous donne une pomme en or|
-| good |0.56| Vous donne un cristale de noc|
+| good |0.56| Vous donne un cristal de noc|
 | good |1.40| Vous donne un lucky block|
 | good |1.12| Vous donne 2 lucky block |
 | good |0.84| Vous donne une pioche en histerite effi 5|
