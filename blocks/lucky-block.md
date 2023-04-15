@@ -15,16 +15,16 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | deadbuch |1.97| Fait apparaître un deadbush|
 | renforced Obsidian |1.97| Fait apparaître une [obsidienne renforcé](https://histeria.fr/wiki/blocks/obsidienne-renforce)|
 | Pois Obsidian |1.97| Fait apparaître une [obsidienne empoisonné](https://histeria.fr/wiki/blocks/obsidienne-empoisonne) |
-| Fertilized Dirt |1.40| Fait apparaître une [terre fertile](https://histeria.fr/wiki/blocks/terre-fertis)|
+| Fertilized Dirt |1.40| Fait apparaître une [terre fertilisé](https://histeria.fr/wiki/blocks/fertilized-dirt)|
 | 50 |0.28| Clear 50% de votre inventaire|
 | 20 |0.28| Clear 20% de votre inventaire|
 | Half |1.97| Vous met à 5 coeur|
 | lowest |1.12| Vous met à un demi-coeur|
 | 5 |1.97| Vous fait brûler 5 secondes|
 | 20 |1.40| Vous fait brûler 20 secondes|
-| hub |1.97| Vous Tp au hub|
-| pay |0.84| Pay 200$ a tout les joueurs de connecté |
-| tpahere |0.84| Envoie une demande de tpahere a un joueur aléatoirement|
+| hub |1.97| Vous téléporte au hub|
+| pay |0.84| Paie 200$ a tout les joueurs de connecté |
+| tpahere |0.84| Envoie une demande de téléportation vers un joueur aléatoire|
 | icanfly |1.97| Vous envoie dans les airs à 100 blocks|
 | icanfly but not really|1.69| Vous envoie dans les air à 2000 blocks|
 | random tp |1.69| Vous tp dans un endroit aléatoire autour de vous|
@@ -32,7 +32,7 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | bunny |1.97| Vous donne un effet de saut 5 durant 20 secondes|
 | usain bolt |1.97| Vous donne un effet de speed 5 durant 20 secondes|
 | blindness |1.97| Vous donne un effet de blindness 5 durant 20 secondes|
-| Drunk |1.97| Vous donne 6 effet négatif durant 20 secondes|
+| Drunk |1.97| Vous donne 6 effets négatifs durant 20 secondes|
 | Arrow 1 |2.53| Fait tomber des flèches sur vous|
 | Arrow 3 |1.12| Fait tomber plus de flèches sur vous|
 | Anvil 1 |2.53| Fait tomber des enclumes sur vous|
@@ -50,18 +50,18 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | Fuzeiii |1.12| Fait apparaître FuzeIII|
 | ninjaxxu |1.12| Fait apparaître Ninjaxxu|
 | dadodasyra |1.12| Fait apparaître dadodasyra|
-| Mozart |7.32| Joue un des disques me Minecraft|
+| Mozart |7.32| Joue un des disques de Minecraft|
 | good |1.40| Vous donne une [houe en histerite](https://histeria.fr/wiki/tools/histerite-hoe)|
 | good |1.40| Vous donne 5 blocks de diamant|
-| good |0.56| Vous donne une [terre fertile](https://histeria.fr/wiki/blocks/terre-fertis) |
+| good |0.56| Vous donne une [terre fertile](https://histeria.fr/wiki/blocks/fertilized-dirt) |
 | good Soup de Kitsun |1.12| Vous donne une soupe de betterave |
 | good |1.40| Vous donne un [chest finder](https://histeria.fr/wiki/items/unclaim-finder)|
 | good |1.40| Vous donne une [capuche](https://histeria.fr/wiki/items/capuche)|
-| good |0.84| Vous donne un [ticket de loterie](https://histeria.fr/wiki/items/ticket-de-loterie) |
+| good |0.84| Vous donne un [ticket de loterie](https://histeria.fr/wiki/items/lottery-ticket) |
 | good |1.12| Vous donne une [amélioration à drawer](https://histeria.fr/wiki/items/drawer-upgrade)|
-| good |0.84| Vous donne une [pomme en histerite](https://histeria.fr/wiki/items/pomme-en-histerite)||
+| good |0.84| Vous donne une [pomme en histerite](https://histeria.fr/wiki/items/histerite-apple)||
 | good |1.12| Vous donne une pomme en or|
-| good |0.56| Vous donne un [cristal de nocturite](https://histeria.fr/wiki/items/cristal-en-nocturite)||
+| good |0.56| Vous donne un [cristal de nocturite](https://histeria.fr/wiki/items/nocturite-crystal)||
 | good |1.40| Vous donne un [lucky block](https://histeria.fr/wiki/blocks/lucky-block)|
 | good |1.12| Vous donne 2 [lucky block](https://histeria.fr/wiki/blocks/lucky-block) |
 | good |0.84| Vous donne une [pioche en histerite](https://histeria.fr/wiki/tools/histerite-pickaxe) effi 5|
