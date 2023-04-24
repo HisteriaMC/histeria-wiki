@@ -13,9 +13,9 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | delayed |1.97| Fait exploser une TNT au bout de 3 secondes|
 | instant |1.40| Fait exploser une TNT instantanément|
 | deadbuch |1.97| Fait apparaître un deadbush|
-| renforced Obsidian |1.97| Fait apparaître une [obsidienne renforcé](https://histeria.fr/wiki/blocks/renforced-obsidian)|
-| Pois Obsidian |1.97| Fait apparaître une [obsidienne empoisonné](https://histeria.fr/wiki/blocks/poison-obsidian)|
-| Fertilized Dirt |1.40| Fait apparaître une [terre fertilisé](https://histeria.fr/wiki/blocks/fertilized-dirt)|
+| renforced Obsidian |1.97| Fait apparaître une [obsidienne renforcée](https://histeria.fr/wiki/blocks/renforced-obsidian)|
+| Pois Obsidian |1.97| Fait apparaître une [obsidienne empoisonnée](https://histeria.fr/wiki/blocks/poison-obsidian)|
+| Fertilized Dirt |1.40| Fait apparaître une [terre fertilisée](https://histeria.fr/wiki/blocks/fertilized-dirt)|
 | 50 |0.28| Clear 50% de votre inventaire|
 | 20 |0.28| Clear 20% de votre inventaire|
 | Half |1.97| Vous met à 5 coeurs|
@@ -26,7 +26,7 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | pay |0.84| Paie 200$ a tout les joueurs de connectés|
 | tpahere |0.84| Envoie une demande de téléportation à un joueur aléatoire sur soi|
 | icanfly |1.97| Vous envoie dans les airs à 100 blocks|
-| icanfly but not really|1.69| Vous envoie dans les air à 2000 blocks|
+| icanfly but not really|1.69| Vous envoie dans les airs à 2000 blocks|
 | random tp |1.69| Vous tp dans un endroit aléatoire autour de vous|
 | every potion effect |1.69| Vous donne tous les effets de potion|
 | bunny |1.97| Vous donne un effet de saut 5 durant 20 secondes|
@@ -74,11 +74,11 @@ Les lucky block vous permettront d'avoir des items et du stuff mais attention au
 | good |0.56| Vous donne une [clé en histerite](https://histeria.fr/wiki/items/histerite-key)|
 | good |0.28| Vous donne une [clé nocturite](https://histeria.fr/wiki/items/nocturite-key)|
 | good |0.84| Vous donne un gâteau|
-| good |1.40| Vous donne 8 [élévateurs](https://histeria.fr/wiki/blocks/elevator)|
+| good |1.40| Vous donne 8 [ascenceurs](https://histeria.fr/wiki/blocks/elevator)|
 | good |1.40| Vous donne une peinture|
 | good |1.12| Vous donne 4 [dynamites](https://histeria.fr/wiki/items/dynamite)|
 | good |0.84| Vous donne un [chèque](https://histeria.fr/wiki/items/check) de 25 000$|
-| good |0.56| Vous donne un [chèque](https://histeria.fr/wiki/items/check) de 50 000$|
+| good |0.56| Vous donne un [chèque](https://histeria.fr/wiki/items/bank-note) de 50 000$|
 | bad |1.12| Vous donne un dead bush|
 | bad |1.12| Vous donne 8 chaires à zombie|
 | bad |1.12| Vous donne 8 poissons globe|
