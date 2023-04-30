@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidienne-empoisonne.png%%
+%%icon=https://github.com/HisteriaMC/histeria-wiki/blob/main/.assets/blocks/poison-obsidian.png%%
 
 # Obsidienne Empoisonné 
 
@@ -16,7 +16,7 @@ L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec s
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidienne-empoisonne.png
+ -== https://github.com/HisteriaMC/histeria-wiki/blob/main/.assets/blocks/poison-obsidian.png
 -=-
 
 ## Utilité 
