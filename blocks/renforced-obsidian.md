@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidienne-renforce.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png%%
 
 # Obsidienne Renforcé 
 
@@ -16,7 +16,7 @@ L'obsidienne renforcé est une variante de l'obsidienne reconnaissable avec ses 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidienne-renforce.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
 -=-
 
 ## Utilité 
