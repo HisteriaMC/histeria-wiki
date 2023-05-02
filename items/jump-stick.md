@@ -16,7 +16,7 @@ Le bâton de saut est l'un des trois bâtons à effet sur le serveur avec le [b�
  ==- 
  ==- 
  ==- 
- -== 
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/jump-stick.png
 -=-
 
 Le craft est débloqué à partir du niveau 32 dans le métier de tueur.
