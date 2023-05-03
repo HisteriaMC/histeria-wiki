@@ -1,0 +1,24 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/shuriken.png%%
+
+# Shuriken
+
+## Description
+Le shuriken est un projectile fait à base d'histerite et de fer. On l'obtient en le fabriquant, dans les boxs et dans les kits [Omega, Interplanétaire et](https://histeria.fr/shop) et créateur de contenu.
+
+## Craft
+-=-
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- 
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/shuriken.png
+-=-
+
+## Utilité
+Le shuriken est un projectile qui se lance sur les ennemies. Ce dernier est utilisé afin d'éviter à l'ennemie de fuir le combat.
+Il est possible de les stocker par 16.
