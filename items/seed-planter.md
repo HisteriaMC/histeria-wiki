@@ -3,7 +3,7 @@
 # Planteur à graines
 
 ## Description
-Le planteur à graines est un item qui sert à planter des graines sur un rayon de 3x3 blocs. IL permet aussi de récolter les [fruits en Nocturite](https://histeria.fr/wiki/items/nocturite-fruit) sans avoir à casser le plan de la graine.
+Le planteur à graines est un item qui sert à planter des graines dans un rayon de 3 blocs. Il permet aussi de récolter les [fruits de nocturite](https://histeria.fr/wiki/items/nocturite-fruit) sans avoir à casser la plantation.
 
 ## Craft
 -=-
