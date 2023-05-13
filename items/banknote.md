@@ -8,7 +8,7 @@ Le chèque est l'un des nombreux moyens de circulation d'argent sur le serveur. 
 ## Utilisation 
 
 Pour créer un chèque, il faut insérer la commande suivante :
-/bank [montant] 
+/bank [<montant>] 
 Cette commande permet de créer un chèque avec le montant souhaité.
 
 Pour recevoir le chèque, il faut seulement faire un clic droit sur le chèque en main.
