@@ -7,7 +7,7 @@ Le planeur sert à planer lors d'une chute et donc, ne pas prendre de dégâts d
 
 ## Craft
 -=-
- ==-
+ ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/wool-white.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
