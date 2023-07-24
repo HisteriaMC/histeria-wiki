@@ -20,5 +20,5 @@ Le shuriken est un projectile fait à base d'histerite et de fer. On l'obtient e
 -=-
 
 ## Utilité
-Le shuriken est un projectile qui se lance sur les ennemis. Ce dernier est utilisé afin d'éviter à l'ennemie de fuir le combat.
+Le shuriken est un projectile qui se lance sur les ennemis. Ce dernier est utilisé afin d'éviter à l'ennemi de fuir le combat.
 Il est possible de les stocker par 16.

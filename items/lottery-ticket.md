@@ -6,7 +6,7 @@
 Le ticket de lotterie est une aide économique pour les joueurs. Elle s'obtient dans le kit du [grade Omega](https://histeria.fr/shop), ils peuvent s'acheter dans la [boutique](https://histeria.fr/shop), dans les [lucky blocks](https://histeria.fr/wiki/blocks/lucky-block), en [votant](https://histeria.fr/vote), dans le calendrier de vote, dans plusieurs niveaux des différents métiers et dans les boxs.
 
 ## Utilité 
-Le ticket de lotterie, une fois utilisé est un évènement économique qui vous donnera entre 5 000$ pour les moins chanceux jusqu'à 1 millions pour les plus chanceux. Il n'est utilisable qu'une seule fois.
+Le ticket de lotterie, une fois utilisé est un évènement économique qui vous donnera entre 5 000$ pour les moins chanceux jusqu'à 1 million pour les plus chanceux. Il n'est utilisable qu'une seule fois.
 
 | Probabilité     | Montant     | 
 |:---------------:|-------------|
@@ -21,5 +21,5 @@ Le ticket de lotterie, une fois utilisé est un évènement économique qui vous
 | 9%              | 10 000$     |
 | 16%             | 75 000$     |
 | 23%             | 50 000$     |
-| 23%             |25 000$      |
+| 23%             | 25 000$     |
 
