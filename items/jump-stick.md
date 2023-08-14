@@ -7,12 +7,12 @@ Le bâton de saut est l'un des trois bâtons à effet sur le serveur avec le [b�
 
 ## Craft
 -=-
+ ==- 
+ ==- 
+ ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/ender-pearl.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- 
- ==- 
- ==- 
  ==- 
  ==- 
  ==- 

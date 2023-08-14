@@ -15,7 +15,7 @@ Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapi
  ==- 
  ==- 
  ==- 
- -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-shovel.png
+ -== https://raw.githubusercontent.com/HisteriaMc/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
 Pour pouvoir la craft, vous devez être niveau 15 dans le métier d'agriculteur.
