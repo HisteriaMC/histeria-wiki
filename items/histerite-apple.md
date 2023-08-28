@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hi
 # Cobble Compresse
 
 ## Description
-La pomme en histerite est un consommable et excellent moyen de se soigner durant un combat. Il est nécessaire d'avoir atteint le niveau 25 en tueur pour pouvoir les crafter.
+La pomme en histerite est un excellent moyen de se soigner durant un combat.
 
 ## Craft
 -=-
