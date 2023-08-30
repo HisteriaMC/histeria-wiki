@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
 
-# Cobble Compresse
+# Histerite Apple
 
 ## Description
 La pomme en histerite est un excellent moyen de se soigner durant un combat.

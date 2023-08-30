@@ -1,9 +1,9 @@
 https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/drawer-upgrade.png%%
 
-# Amélioration de boîte à rangement
+# Drawer Upgrade
 
 ## Description
-Les améliorations de boîtes de rangement permettent d'améliorer les [boîtes de rangement](https://histeria.fr/wiki/blocks/drawer.md) pour permettre de stocker davantage d'objets dans une même boîte.
+Les améliorations de boîtes de rangement permettent d'améliorer les [boîtes de rangement](https://histeria.fr/wiki/blocks/drawer) pour permettre de stocker davantage d'objets dans une même boîte.
 
 ## Craft
 -=-

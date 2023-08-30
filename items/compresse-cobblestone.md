@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compress-cobble.png%%
 
-# Cobble Compresse
+# Compresse Cobblestone
 
 ## Description
 La pierre compressée est un condensé de pierre qui vous permettra d'obtenir des minerais en les ouvrant dans les cobbles breakers. Ceux-ci sont trouvables dans le spawn des [serveurs factions](https://histeria.fr/wiki/worlds/serveurs-faction) et [serveurs minages](https://histeria.fr/wiki/worlds/serveurs-minage).
