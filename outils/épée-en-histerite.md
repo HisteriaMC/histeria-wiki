@@ -18,7 +18,7 @@
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png
 -=-
 
-Pour pouvoir la craft, vous devez être niveau 10 dans le métier de tueur.
+Pour pouvoir la fabriquer, vous devez être niveau 10 dans le métier de tueur.
 
 ### Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
