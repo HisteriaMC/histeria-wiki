@@ -10,7 +10,7 @@ Il existe des commandes vous permettant de gérer votre argent et de vous enrich
 
 [args] = Argument facultatif.
 
-Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans le shop ou dans l'hôtel des ventes, d'échanger avec d'autres joueurs, de voter pour le serveur pour avoir des récompences, recevoir des kits, consulter les classements, et bien plus encore ! Ces commandes vous permettront de suivre l'économie du serveur et de vous enrichir !
+Sur le serveur, vous avez la possibilité de vendre et d'acheter des items dans le shop ou dans l'hôtel des ventes, d'échanger avec d'autres joueurs, de [voter pour le serveur](https://minecraftpocket-servers.com/server/82450/vote) pour avoir des récompences, recevoir des kits, consulter les classements, et bien plus encore ! Ces commandes vous permettront de suivre l'économie du serveur et de vous enrichir !
 
 | Commande | Description |
 | --- | --- |
