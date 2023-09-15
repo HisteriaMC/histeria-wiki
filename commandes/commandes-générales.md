@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
-# Les commandes générales 
+# Commandes générales 
 
 ## Description
 Certaines commandes plus générales peuvent être utilisées pour pouvoir obtenir des informations que ce soit sur les joueurs ou sur le serveur. A vous de les utiliser comme bon vous semble.

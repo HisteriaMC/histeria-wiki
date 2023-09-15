@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
-# Les commandes économiques
+# Commandes économiques
 
 ## Description
 Il existe des commandes vous permettant de gérer votre argent et de vous enrichir que se soit avec l'hôtel des ventes, le shop ou bien même les échanges avec les autres joueurs ! Il existe d'autres commandes vous permettant d'obtenir des objets pour vous aider dans votre progression et vous donner une meilleure expérience de jeu.

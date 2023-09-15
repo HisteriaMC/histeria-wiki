@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
-# Les commandes TP et de homes
+# Commandes TP et de homes
 
 ## Description
 Notre serveur propose un système de téléportation qui vous permet de vous déplacer facilement entre les différentes arènes, factions, minages et le lobby. Vous pouvez également envoyer des demandes de téléportation pour vous téléporter vers des joueurs ou de les téléporter vers vous. Les homes vous permettront de créer des points de téléportation personnalisés vers vos bases, vos fermes, pillages..
