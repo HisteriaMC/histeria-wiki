@@ -2,7 +2,7 @@
 # Les commandes de faction
 
 ## Description
- Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous aider à gérer votre faction dans Minecraft. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettent de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
+Les commandes de faction sont un ensemble de fonctionnalitées conçuees pour vous aider à gérer votre faction sur Histeria. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettent de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
 
 ## Commandes
 
