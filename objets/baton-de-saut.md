@@ -3,7 +3,7 @@
 # Bâton de saut
 
 ## Description
-Le bâton de saut est l'un des trois bâtons à effet sur le serveur avec le [bâton de vitesse](https://histeria.fr/wiki/items/speed-stick) et le [bâton de soin](https://histeria.fr/wiki/items/heal-stick). Vous pouvez en obtenir en utilisant des clés de vote mais également en les fabriquants dans une table de craft.
+Le bâton de saut est l'un des trois bâtons à effet sur le serveur avec le [bâton de vitesse](https://histeria.fr/wiki/objets/baton-de-vitesse) et le [bâton de soin](https://histeria.fr/wiki/objets/baton-de-soin). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquant dans une table de craft.
 
 ## Craft
 -=-

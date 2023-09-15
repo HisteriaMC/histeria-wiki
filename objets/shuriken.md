@@ -3,7 +3,7 @@
 # Shuriken
 
 ## Description
-Le shuriken est un projectile fait à base d'histerite et de fer. On l'obtient en le fabriquant, dans les boxs, dans les kits [Omega, Interplanétaire](https://histeria.fr/shop) et créateur de contenu.
+Le shuriken est un projectile fait à base d'histerite et de fer. On l'obtient en le fabriquant, dans les boxs, dans les kits [Omega, Interplanétaire](https://shop.histeria.fr/category/grade-a-vie-bedrock) et créateur de contenu.
 
 ## Craft
 -=-

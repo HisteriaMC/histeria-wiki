@@ -3,7 +3,7 @@
 # Kill Tag
 
 ## Description
-Les kill tag sont des badges que vous pouvez mettre sur vos armes grâce aux [enclumes en histerite](https://histeria.fr/wiki/blocks/histerite-anvil). Ils permettent d'afficher un message customisé dans le chat lorsque vous tuez un joueur avec une arme en possèdent un. Vous pouvez uniquement en obtenir en utilisant les [clés en nocturite](https://histeria.fr/wiki/items/nocturite-key) ainsi qu'à des rares évènements organisés par le staff.
+Les kill tag sont des badges que vous pouvez mettre sur vos armes grâce aux [enclumes en histerite](https://histeria.fr/wiki/blocks/histerite-anvil). Ils permettent d'afficher un message personnalisé dans le chat lorsque vous tuez un joueur avec une arme en possèdent un. Vous pouvez uniquement en obtenir en utilisant les [clés en nocturite](https://histeria.fr/wiki/objets/clé-en-nocturite) ainsi qu'à des rares évènements organisés par le staff.
 
 
 ## Utilité
