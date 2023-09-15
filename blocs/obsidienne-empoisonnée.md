@@ -1,9 +1,9 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/poison-obsidian.png%%
 
-# Obsidienne Empoisonné 
+# Obsidienne empoisonnée
 
 ## Description 
-L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassé, le joueur obtient un effet de poison 3 pour une durée de 3 seconde.
+L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de poison 3 pour une durée de 3 secondes.
 
 ## Craft
 -=-

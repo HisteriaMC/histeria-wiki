@@ -3,7 +3,7 @@
 # Terre fertilisée
 
 ## Description
-La terre fertile est une terre améliorée et enrichie à l'histerite. Les plantes classiques ne peuvent pas pousser dessus. Seules les [graines en nocturites](https://histeria.fr/wiki/items/nocturite-seed) le peuvent.
+La terre fertile est une terre améliorée et enrichie à l'histerite. Les plantes classiques ne peuvent pas pousser dessus. Seules les [graines en nocturites](https://histeria.fr/wiki/objets/graine-de-nocturite) le peuvent.
 
 ## Craft
 -=-
@@ -20,4 +20,4 @@ La terre fertile est une terre améliorée et enrichie à l'histerite. Les plant
 -=-
 
 ## Utilité
-Les terres fertiles sont indispensables pour faire pousser les [graines en nocturites](https://histeria.fr/wiki/items/nocturite-seed), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels que des [armures](https://histeria.fr/wiki/armors), [le marteau](https://histeria.fr/wiki/tools/hammer), [le grappin](https://histeria.fr/wiki/tools/grappin) et bien plus encore.
+Les terres fertiles sont indispensables pour faire pousser les [graines en nocturites](https://histeria.fr/wiki/objets/graine-de-nocturite), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels que des [armures](https://histeria.fr/wiki/armures), [le marteau](https://histeria.fr/wiki/outils/marteau), [le grappin](https://histeria.fr/wiki/outils/grappin) et bien plus encore.
