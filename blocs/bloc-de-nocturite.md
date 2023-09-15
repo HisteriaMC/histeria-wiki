@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png%%
 
-# Block de Nocturite
+# Bloc de Nocturite
 
 ## Description
 Le bloc de nocturite est un bloc fait à partir des [cristaux en nocturite](https://histeria.fr/wiki/objets/crystal-en-nocturite). C'est une étape pour vous rapprocher de la création de vos armures et items nécessitant de la nocturite.
