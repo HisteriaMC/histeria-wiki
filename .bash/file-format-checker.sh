@@ -14,7 +14,7 @@ set -o pipefail
 
 # Fonction pour vérifier si une chaîne de caractères est en "kebab case"
 function is_kebab_case {
-  if echo "$1" | grep -Eq "^[a-z0-9éèà]+(-[a-z0-9éèà]+)*$"; then
+  if echo "$1" | grep -Eq "^[a-z0-9'éèà]+(-[a-z0-9'éèà]+)*$"; then
     #echo "$1 Success !"
     return 0 # true
   else
