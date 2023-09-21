@@ -93,6 +93,20 @@ Voici un exemple de zone de métadonnées avec les informations suivantes : icô
 
 L'ajout d'une icône dans la zone de métadonnées est facultatif et peut être effectué en ajoutant l'élément `icon` suivi de l'URL de l'icône, comme illustré dans l'exemple ci-dessus. L'icône sera alors affichée à côté du titre du document dans la liste des résultats de recherche ou dans la table des matières.
 
+Pour spécifier un nom différent du nom du fichier Git, utilisez l'élément name dans la zone de métadonnées :
+
+```
+%%name=Titre personnalisé du document%%
+```
+
+Si name n'est pas spécifié, le nom du fichier Git sera utilisé par défaut.
+
+L'ordre d'affichage du fichier sur le site peut être influencé par l'ajout du paramètre weight. Plus le poids est élevé, plus le document apparaîtra haut dans la liste :
+
+```
+%%weight=5%%
+```
+
 Il est important de respecter le format précis de la zone de métadonnées pour qu'elle soit correctement interprétée et affichée dans le wiki.
 
 
