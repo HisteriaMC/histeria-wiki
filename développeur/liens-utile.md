@@ -1,4 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/link.svg%%
+%%name=Liens utiles%%
 # Liens utiles
 
 Voici une liste de liens utiles pour vous aider dans la collaboration au wiki
