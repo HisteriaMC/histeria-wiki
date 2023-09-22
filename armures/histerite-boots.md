@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-boots.png%%
 %%name=Bottes en Histerite%%
+%%weight=4%%
 # Bottes en Histerite
 
 ## Description

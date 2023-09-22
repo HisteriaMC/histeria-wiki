@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-chestplate.png%%
 %%name=Plastron en Histerite%%
+%%weight=2%%
 # Plastron en Histerite
 
 ## Description
