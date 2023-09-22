@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png%%
 %%name=Obsidienne Renforcé%%
-%%weight=109%%
+%%weight=209%%
 # Obsidienne Renforcé 
 
 ## Description 

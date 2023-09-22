@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png%%
 %%name=Terre fertilisée%%
-%%weight=103%%
+%%weight=203%%
 # Terre fertilisée
 
 ## Description

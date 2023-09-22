@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png%%
 %%name=Bloc de Nocturite%%
-%%weight=106%%
+%%weight=206%%
 # Bloc de Nocturite
 
 ## Description

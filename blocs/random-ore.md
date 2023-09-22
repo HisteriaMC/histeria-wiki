@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/random-ore.png%%
 %%name=Minerai aléatoire%%
-%%weight=108%%
+%%weight=208%%
 # Minerai aléatoire
 
 ## Description 

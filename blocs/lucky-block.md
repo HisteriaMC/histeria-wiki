@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/lucky-block.png%%
 %%name=Lucky block%%
-%%weight=105%%
+%%weight=205%%
 # Lucky block
 
 ## Description 
