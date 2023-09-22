@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png%%
 %%name=Houe en Histerite%%
+%%weight=505%%
 # Houe en Histerite 
 
 ## Description
