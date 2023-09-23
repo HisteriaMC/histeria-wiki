@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-ore.png%%
 %%name=Minerai d'histerite%%
-%%weight=101%
+%%weight=101%%
 
 # Minerai en Histerite 
 
