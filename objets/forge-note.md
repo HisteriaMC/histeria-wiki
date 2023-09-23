@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/forge-note.png%%
 %%name=Parchemin%%
+%%weight=402%%
 # Parchemin
 
 ## Description

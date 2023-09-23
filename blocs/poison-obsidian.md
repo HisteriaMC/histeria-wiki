@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/poison-obsidian.png%%
 %%name=Obsidienne empoisonnée%%
+%%weight=107%%
 # Obsidienne empoisonnée
 
 ## Description 

@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 %%name=Commandes TP et de homes%%
+%%weight=205%%
 # Commandes TP et de homes
 
 ## Description

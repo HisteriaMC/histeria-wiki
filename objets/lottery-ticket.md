@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lottery-ticket.png%%
 %%name=Ticket de lotterie%%
+%%weight=406%%
 # Ticket de lotterie
 
 ## Description
