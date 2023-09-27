@@ -1,4 +1,4 @@
-%%https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compresse-cobblestone.png%%
+%%https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
 %%name=Cobblestone compressé%%
 # Cobblestone compressé
 
