@@ -1,4 +1,4 @@
-%%https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-key.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-key.png%%
 %%name=Clé en Histerite%%
 
 # Clé en Histerite

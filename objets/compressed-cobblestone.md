@@ -1,4 +1,4 @@
-%%https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
 %%name=Cobblestone compressée%%
 # Cobblestone compressée
 
@@ -7,16 +7,16 @@ La pierre compressée est un condensé de pierre qui vous permettra d'obtenir de
 
 ## Craft
 -=-
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
-==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
--== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compresse-cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compresse-cobblestone.png
 -=-
 
 ## Utilité
