@@ -3,7 +3,7 @@
 # Amélioration de boîtes de rangement
 
 ## Description
-Les améliorations de boîtes de rangement permettent d'améliorer les [boîtes de rangement](https://histeria.fr/wiki/blocks/drawer) pour permettre de stocker davantage d'objets dans une même boîte.
+Les améliorations de boîtes de rangement permettent d'améliorer les [boîtes de rangement](https://histeria.fr/wiki/blocs/drawer) pour permettre de stocker davantage d'objets dans une même boîte.
 
 ## Craft
 -=-
