@@ -10,27 +10,27 @@ La clé de vote est obtenable en votant sur le serveur, dans tous les kits, le v
 Grace à ces clés vous pouvez obtenir du stuff :
 | Item                                                                                 | Probabilité (en %) |
 |:------------------------------------------------------------------------------------:|:------------------:|
-| 1 [épée en histerite](https://histeria.fr/wiki/tools/histerite-sword)                | 4,02               |
-| 1 [lingot en histerite](https://histeria.fr/wiki/items/histerite-ingot)              | 4,60               |
+| 1 [épée en histerite](https://histeria.fr/wiki/outils/histerite-sword)                | 4,02               |
+| 1 [lingot en histerite](https://histeria.fr/wiki/objets/histerite-ingot)              | 4,60               |
 | 8 diamants                                                                           | 5,75               |
-| 10 [bâton de saut](https://histeria.fr/wiki/items/jump-stick)                        | 5,75               |
-| 10 [bâton de vitesse](https://histeria.fr/wiki/items/speed-stick)                    | 5,75               |
+| 10 [bâton de saut](https://histeria.fr/wiki/objets/jump-stick)                        | 5,75               |
+| 10 [bâton de vitesse](https://histeria.fr/wiki/objets/speed-stick)                    | 5,75               |
 | 16 diamants                                                                          | 4,60               |
 | 16 lingot d'or                                                                       | 5,75               |
-| 1 [casseur d'obsidienne](https://histeria.fr/wiki/tools/obsidian-breaker)            | 2,87               |
-| 10 [bâton de vie](https://histeria.fr/wiki/items/heal-stick)                         | 4,60               |
+| 1 [casseur d'obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker)            | 2,87               |
+| 10 [bâton de vie](https://histeria.fr/wiki/objets/heal-stick)                         | 4,60               |
 | 5 blocks de fer                                                                      | 3,45               |
-| 2 [clés de vote](https://histeria.fr/wiki/items/vote-key)                            | 3,45               |
-| 5 [bâton en histerite](https://histeria.fr/wiki/items/histerite-stick)               | 5,17               |
-| 1 [pierre compressé](https://histeria.fr/wiki/items/compress-cobble)                 | 5,75               |
-| 1 [clé en histerite](https://histeria.fr/wiki/items/histerite-key)                   | 1,72               |
-| 1 [ticket de loterie](https://histeria.fr/wiki/items/lottery-ticket)                 | 1,15               |
-| 3 [lucky block](https://histeria.fr/wiki/blocks/lucky-block)                         | 0,57               |
-| 1 [lucky block](https://histeria.fr/wiki/blocks/lucky-block)                         | 1,15               |
+| 2 [clés de vote](https://histeria.fr/wiki/objets/vote-key)                            | 3,45               |
+| 5 [bâton en histerite](https://histeria.fr/wiki/objets/histerite-stick)               | 5,17               |
+| 1 [pierre compressé](https://histeria.fr/wiki/objets/compress-cobble)                 | 5,75               |
+| 1 [clé en histerite](https://histeria.fr/wiki/objets/histerite-key)                   | 1,72               |
+| 1 [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)                 | 1,15               |
+| 3 [lucky block](https://histeria.fr/wiki/blocs/lucky-block)                         | 0,57               |
+| 1 [lucky block](https://histeria.fr/wiki/blocs/lucky-block)                         | 1,15               |
 | 8 diamants                                                                           | 4,60               |
 | 32 lingot de fer                                                                     | 4,60               |
 | 32 lingot d'or                                                                       | 4,60               |
 | 1 pioche en diamant délicatesse                                                      | 2,87               |
 | 4 ender pearl                                                                        | 5,75               |
-| 1 [boîte a rangement](https://histeria.fr/wiki/blocks/drawer)                        | 5,75               |
-| 1 [amélioration de boîte a rangement](https://histeria.fr/wiki/items/drawer-upgrade) | 5,75               |
+| 1 [boîte a rangement](https://histeria.fr/wiki/blocs/drawer)                        | 5,75               |
+| 1 [amélioration de boîte a rangement](https://histeria.fr/wiki/objets/drawer-upgrade) | 5,75               |
