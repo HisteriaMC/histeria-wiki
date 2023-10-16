@@ -3,7 +3,7 @@
 # Boîte de rangement
 
 ## Description
-Les boîtes à rangements sont fait à partir de bois. Elles peuvent être améliorées avec des [améliorations de boîte de rangement](https://histeria.fr/wiki/objets/drawer-upgrade) pour augmenter leur capacité de rangement.
+Les boîtes à rangements sont faites à partir de bois. Elles peuvent être améliorées avec des [améliorations de boîte de rangement](https://histeria.fr/wiki/objets/drawer-upgrade) pour augmenter leur capacité de rangement.
 
 ## Craft
 -=-
@@ -20,7 +20,7 @@ Les boîtes à rangements sont fait à partir de bois. Elles peuvent être amél
 -=-
 
 ## Utilité
-Ils permettent de contenir une grande quantité de stuff d'un seul type. Ils en existe 5 niveaux différents.
+Elles permettent de contenir une grande quantité de stuff d'un seul type. Il en existe 5 niveaux différents.
 |Niveaux|Capacités|
 |:-----:|:-------:|
 |1|1024|
