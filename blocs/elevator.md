@@ -3,7 +3,7 @@
 # Ascenseur
 
 ## Utilités
-L'ascenseur permet de ce déplacer entre ascenceurs qui ce trouve les plus proche au dessus ou en dessous de vous avec une distance maximal entre les ascensceurs de 21 blocks. Pour __monter__, il suffit de ___sauter__ et pour descendre de __s'accroupir__.
+L'ascenseur permet de se déplacer entre ascenseur qui se trouve les plus proche au-dessus ou en dessous de vous avec une distance maximale entre les ascenseurs de 20 blocs. Pour __monter__, il suffit de ___sauter__ et pour descendre de __s'accroupir__.
 
 ## Craft  
 -=-
