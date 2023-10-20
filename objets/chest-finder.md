@@ -13,7 +13,7 @@ Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier do
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compass.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compress-histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
