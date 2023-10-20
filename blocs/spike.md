@@ -7,7 +7,7 @@ Les spikes (ou piques) sont fait à base [d'Histerite](https://histeria.fr/wiki/
 
 ## Craft
 -=-
- ==-  
+ ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
