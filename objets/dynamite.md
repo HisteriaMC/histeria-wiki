@@ -17,7 +17,7 @@ La dynamite est un objet qui provoque l'explosion dans un faible rayon.
  ==- 
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
--=- 
+-=-
 
 ## Obtention
 Les dynamites s'obtiennent en les fabriquants, en ouvrants des boxs et des [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block).
