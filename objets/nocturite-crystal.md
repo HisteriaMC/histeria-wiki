@@ -19,3 +19,4 @@ Le crystal en Nocturite permet de fabriquer des [blocs en Nocturite](https://his
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-fruit.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
 -=-
+
