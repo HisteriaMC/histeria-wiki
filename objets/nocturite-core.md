@@ -19,3 +19,4 @@ Le coeur en Nocturite est utile principalement utile pour fabriquer l'[armure en
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
 -=-
+
