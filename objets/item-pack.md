@@ -2,7 +2,7 @@
 %%name=Sac à dos%%
 
 ## Description
-Le sac à dos est un espace de stockage transportable partout avec vous. Il peut vous être utile pour les pillages, pour vous éviter beaucoup d'allers-retours entre le pillage et votre base.
+Le sac à dos vous permet de stocker une grande quantité du même bloc.
 
 ## Craft
 -=-
@@ -18,5 +18,8 @@ Le sac à dos est un espace de stockage transportable partout avec vous. Il peut
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png
 -=-
 
-## Utilité
-Il permet d'avoir avec vous un plus grand espace de stockage.
+## Utilisation
+1. Vous accroupir
+2. Faire un clique droit sur le bloc voulu
+3. Miner
+4. Récuper en faisant un clique droit
