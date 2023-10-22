@@ -1,4 +1,4 @@
-%%name=Les fossils%%
+%%name=Les fossiles%%
 
 # Les fossils
 
