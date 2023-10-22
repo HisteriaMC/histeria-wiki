@@ -20,6 +20,6 @@ Le sac à dos vous permet de stocker une grande quantité du même bloc.
 
 ## Utilisation
 1. Vous accroupir
-2. Faire un clique droit sur le bloc voulu
-3. Miner
-4. Récuper en faisant un clique droit
+2. Pour définir le bloc voulu, faire un clique droit sur ce dernier
+3. Miner, le bloc ira dans le sac-à-dos, même si votre inventaire est plein.
+4. Pour récupérer le contenue, il vous suffit de faire un clique droit et de vous laisser guider par l'interface.
