@@ -3,7 +3,7 @@
 %%weight=500%%
 
 ## Description
-Le grappin est un objet très utilisé en PvP pour se déplacer rapidemenent, s'enfuir d'un combat désespéré ou encore rattraper un ennemi voulant s'enfuir. Vous pouvez en obtenir en le fabriquant.
+Le grappin est un objet très utilisé en PvP pour se déplacer rapidemenent, s'enfuir désespérément d'un combat ou encore rattraper un ennemi voulant s'enfuir. Vous pouvez en obtenir en le fabriquant.
 
 ## Craft
 -=-
