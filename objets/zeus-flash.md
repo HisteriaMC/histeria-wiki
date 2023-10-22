@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/zeus-flash.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/thunderbolt.png%%
 %%name=Éclair de Zeus%%
 
 # Éclair de Zeus

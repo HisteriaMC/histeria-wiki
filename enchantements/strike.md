@@ -1,42 +1,29 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
-# Strike 
+# Strike
 
 ## Informations
-L'enchantement *Attraction* est fusionnable avec une épée en Histerite. Cet enchantement est incompatible avec l'enchantement [*Execution*](https://histeria.fr/wiki/enchants/execution).
+Que les éclairs de la colère divine s'abattent ! L'enchantement Strike est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword).
+Quand un ennemi est frappé avec cet enchantement, il a une chance de le foudroyer et de lui infliger des dégâts (l'éclair ne fait pas de dégats additionnels).
 
-Quand un ennemi est frappé avec cet enchantement, il a une chance de le foudroyer et de lui infliger des dégâts (l'éclair ne fait pas de dégats additionnels).  
-
-**Niveau maximum :** 5  
+**Niveau maximum :** 3
 
 <table>
   <tr>
     <th>Niveau</th>
     <th>Pourcentages d'activation</th>
-    <th>Effet</th>
+    <th>Effets</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>2.20%</td>
-    <td>Inflige 0,25 coeur de dégâts</td>
+    <td>0.6%</td>
+    <td>Un éclair apparaît</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>2.40%</td>
-    <td>Inflige 0,5 coeur de dégâts</td>
-  </tr>
+    <td>3.40%</td>
+    <td>Un éclair apparaît</td>
   <tr>
     <td>3</td>
-    <td>2.60%</td>
-    <td>Inflige 0,75 coeur de dégâts</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>2.80%</td>
-    <td>Inflige 1 coeur de dégâts</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>3%</td>
-    <td>Inflige 1,25 coeur de dégâts</td>
-   </tr>
+    <td>3.60%</td>
+    <td>Un éclair apparaît</td>
 </table>
