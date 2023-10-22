@@ -8,7 +8,7 @@ Les fossils ne peuvent s'obtennir qu'en cassant de la pierre. Leurs taux de drop
 ## Visuels 
 
 ### Pierre fissuré
-![cracked_stone](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/cracked_stone.png)
+![cracked_stone](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/cracked-stone.png)
 
 ### Poisson
 ![fish](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/fish.png)
@@ -20,4 +20,4 @@ Les fossils ne peuvent s'obtennir qu'en cassant de la pierre. Leurs taux de drop
 ![skull](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/skull.png)
 
 ### Veine de pierre
-![stone_vein](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/stone_vein.png)
+![stone_vein](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/stone-vein.png)
