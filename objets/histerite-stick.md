@@ -19,3 +19,5 @@ Le bâton d'Histerite est essentiel pour la fabriquation des [outils en Histerit
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
 -=-
+
+|
