@@ -4,7 +4,7 @@
 # Nocturite compréssée
 
 ## Description
-Le bâton d'Histerite est essentiel pour la fabriquation des [outils en Histerite](https://histeria.fr/wiki/outils)
+La Nocturite compréssée est un élément essentiel pour l'obtention de différents objets en Nocturite tel que [l'amrume en Nocturite](https://histeria.fr/wiki/armures) 
 
 ## Craft
 -=-
