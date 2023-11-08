@@ -25,4 +25,4 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de mineur
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Vitesse II & Hâte II | 3 | 20000 |
+| Vitesse II | 3 | 20000 |
