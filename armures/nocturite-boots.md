@@ -25,4 +25,4 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de Bûche
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- | --------------- | ---------- |
-| Vitesse III | 1,5 | 20000 |
+| Sauts améliorés II| 1,5 | 20000 |
