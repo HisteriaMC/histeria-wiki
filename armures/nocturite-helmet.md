@@ -20,7 +20,7 @@ Le casque en Nocturite fait partie de la meilleure armure disponible sur Histeri
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-helmet.png
 -=-
 
-Pour pouvoir le favriquer, vous devez être niveau 50 dans le métier d'agriculteur.
+Pour pouvoir le favriquer, vous devez être niveau 30 dans le métier d'agriculteur.
 
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
