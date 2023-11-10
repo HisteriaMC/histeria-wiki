@@ -17,6 +17,7 @@ Le sac à dos vous permet de stocker une grande quantité du même bloc.
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png
 -=-
+Le craft du sac à dos est débloqué au niveau 27 du métier de mineur.
 
 ## Utilisation
 1. Vous accroupir
