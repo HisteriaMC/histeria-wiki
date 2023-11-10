@@ -20,4 +20,4 @@ L'Histerite core est un élément essentiel pour la fabriquation de l'[armure en
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-core.png
 -=-
 
-Pour pouvoir le fabriquer, vous devez être niveau 18 dans le métier de mineur.
+Pour pouvoir la fabriquer, vous devez être niveau 18 dans le métier de mineur.
