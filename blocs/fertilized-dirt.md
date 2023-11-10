@@ -5,6 +5,7 @@
 
 ## Description
 La terre fertile est une terre améliorée et enrichie à l'histerite. Les plantes classiques ne peuvent pas pousser dessus. Seules les [graines en nocturites](https://histeria.fr/wiki/objets/graine-de-nocturite) le peuvent.
+Le craft est débloqué au niveau 17 du métier d'agriculteur.
 
 ## Craft
 -=-
