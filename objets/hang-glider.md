@@ -20,7 +20,7 @@ Le planeur sert à planer lors d'une chute et donc, ne pas prendre de dégâts d
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hang-glider.png
 -=-
 
-Pour pouvoir le craft, vous devez être niveau 15 dans le métier de bûcheron.
+Pour pouvoir le craft, vous devez être niveau 10 dans le métier de bûcheron.
 
 ## Obtention
 Le planeur peut s'obtenir en le fabriquant dans une table de craft.
