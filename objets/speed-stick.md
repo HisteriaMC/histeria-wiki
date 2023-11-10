@@ -21,7 +21,7 @@ Le bâton de vitesse est l'un des trois bâtons à effet sur le serveur avec le 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/speed-stick.png
 -=-
 
-Le craft est débloqué à partir du niveau 32 dans le métier de tueur.
+Le craft est débloqué à partir du niveau 21 dans le métier de tueur.
 
 ## Utilité 
 Lorsque vous utilisez ce bâton, il vous donnera l'effet de vitesse de niveau 2 pendant 15 secondes. Il y a un cooldown de 15 secondes entre chaque utilisation.
