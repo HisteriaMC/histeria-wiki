@@ -20,7 +20,7 @@ Pelle améliorée qui vous permettra de casser du sable ou de la terre plus rapi
  -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
-Pour pouvoir la fabriquer, vous devez être niveau 15 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, vous devez être niveau 8 dans le métier d'agriculteur.
 
 ### Informations
 Elle retirera trois blocs de largeur et de longueur (1 bloc de rayon) autour du bloc visé.
