@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
-# Shiel
+# Shield
 
 ## Informations
 Un bouclier Antiémeute ! L'enchantement Shield est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
