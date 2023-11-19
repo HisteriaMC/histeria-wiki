@@ -4,10 +4,10 @@
 # Lucky block
 
 ## Description 
-Les blocs à chance ou lucky block, sont des bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/minerai-aléatoire), en récompense de métier, ou... dans des blocs à chance !
+Les blocs à chance ou lucky blocks, sont des blocs qui, une fois cassés, déclenchent un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/minerai-aléatoire), en récompense de métier, ou... dans des blocs à chance !
 
 ## Utilité
-Les lblocs à chance vous permettront d'avoir des objets et de l'équipement mais attention au coup de malchance ! De terribles choses pourraient vous arriver.
+Les blocs à chance vous permettront d'avoir des objets et de l'équipement mais attention au coup de malchance ! De terribles choses pourraient vous arriver.
 
 | Évènement | Probabilité (%) |                                                           Effet                                                            |
 |:-----:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------:|
