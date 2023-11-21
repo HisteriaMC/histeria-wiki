@@ -8,4 +8,4 @@ Objet de boss qui a une chance de s'obtenir en tuant Zeus en faisant le plus de 
 Un éclair apparait sur le joueur, mais ne lui inflige aucun dégat. Il ne peut qu'être utilisé 1 fois.
 
 ## Utilité
-Elle permet d'augmenter de 225% les dégâts d'[enchantements moddés](https://histeria.fr/wiki/enchantements) reçus par l'adversaire pendant 10 secondes. 
+Objet s'utilisant sur un joueur. Il a pour effet de déplacer une pièce de son armure dans son inventaire, il permet également d'immobiliser votre adversaire en l'air. Lorsqu'il est utilisée, un éclair apparaît sur le joueur, mais ne lui inflige aucun dégât. 

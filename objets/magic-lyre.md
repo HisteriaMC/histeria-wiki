@@ -8,4 +8,4 @@ La lyre magique est un objet obtenable en tuant Apollon en faisant faisant le pl
 Un son de lyre est joué lors de son utilisation ! Elle ne peut qu'être utilisé qu'une seule fois.
 
 ## Utilité
-Objet s'utilisant sur un joueur. Elle a pour effet de déplacer une pièce de son armure dans son inventaire, elle permet également d'immobiliser votre adversaire en l'air. Lorsqu'elle est utilisée, un éclair apparaît sur le joueur, mais ne lui inflige aucun dégât. 
+Elle permet d'augmenter de 225% les dégâts d'[enchantements moddés](https://histeria.fr/wiki/enchantements) reçus par l'adversaire pendant 10 secondes.
