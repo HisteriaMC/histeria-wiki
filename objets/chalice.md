@@ -1,12 +1,12 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chalice.png%%
-%%name=Calice de Dyonisos%%
+%%name=Calice de Dionysos%%
 
-# Calice de Dyonisos
+# Calice de Dionysos
 
 ## Description
 
-
+Le calice de Dionysos, le dieu du vin, est un item de boss. Lorsque le calice est utilisé sur un joueur, celui-ci reçoit tous les effets négatifs du serveur. Un son de potion est également joué.
 
 ## Obtention
 
-La calice est un item de boss obtenable avec de la chance en battant Dyonisos et en ayant fait le plus de dégats.
+Le calice, comme les autres items de boss, est obtensible par les clés de boss.
