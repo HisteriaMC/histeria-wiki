@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
-# Raise
+# Resilient
 
 ## Informations
 L'enchantement Resilient est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
