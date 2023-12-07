@@ -4,7 +4,7 @@
 # Nocturite compréssée
 
 ## Description
-La Nocturite compréssée est un élément essentiel pour l'obtention de différents objets en Nocturite tel que [l'amrume en Nocturite](https://histeria.fr/wiki/armures) 
+La Nocturite compréssée est un élément essentiel pour l'obtention de différents objets en Nocturite tel que [l'armure en Nocturite](https://histeria.fr/wiki/armures) 
 
 ## Craft
 -=-
