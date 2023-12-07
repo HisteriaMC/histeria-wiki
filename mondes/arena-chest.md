@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cchest_front.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest_front.png%%
 %%name=Coffre d'arène%%
 
 # Coffre d'arène 
