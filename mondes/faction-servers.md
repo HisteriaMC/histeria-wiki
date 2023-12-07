@@ -26,11 +26,11 @@ Il y à 3 types d'arènes en faction :
 ## Sorties
 Les serveurs factions disposent de sorties du spawn pour chaque direction. Une fois là bas, s'accroupir pour sortir de la zone protégée et arriver en warzone. Vous pouvez ensuite accéder au reste de la carte en la traversant.
 
-![sortie](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/sorties-faction.png)
+![sortie](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/sortiesv6-5.png)
 
 ## Sauts
 Des parcours de sauts ont été construit un peu partout dans chaque monde faction. Idéal pour passer le temps d'une autre manière, ou simplement pour vous entraîner au parcours.
 
-![jump](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/jump.png)
+![jump](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/jumpv6-5.png)
 
 Les builds de chaque monde faction renferment aussi quelques petits secrets ou easter eggs, a vous de les découvrir !
