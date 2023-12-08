@@ -31,7 +31,7 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
   > Il y a 1 chance sur 6 pour que il y ai également une pomme dorée enchantée.
 <br>
 
-- - 8 [shirikens](https://histeria.fr/wiki/objets/shuriken)
+- - 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
   - 8 pommes en histerite
   - Une [épée en histerite](https://histeria.fr/wiki/outils/histerite-sword)
   > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
