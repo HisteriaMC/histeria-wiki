@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png%%
-# Hermes
+# Hermès
 
 ## Description 
 Messager des dieux, Hermès connaît tout les raccourcis, et possède une force et une rapidité extraordinaire. Faîtes attention aux cooldowns de vos objets de soins, il se pourrait bien qu'Hermès prenne la liberté de les rallonger à sa guise.
