@@ -2,17 +2,17 @@
 %%name=Sac à dos%%
 
 ## Description
-Le sac à dos vous permet de stocker une grande quantité du même bloc.
+Le sac à dos vous permet de stocker 32768 blocs
 
 ## Craft
 -=-
- ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
- ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png
