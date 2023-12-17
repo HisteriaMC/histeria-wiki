@@ -3,7 +3,7 @@
 # Dynamite
 
 ## Description
-La dynamite est un objet qui provoque l'explosion dans un faible rayon.
+La dynamite est un objet qui provoque une explosion dans un faible rayon.
 
 ## Craft
 -=-
@@ -20,7 +20,7 @@ La dynamite est un objet qui provoque l'explosion dans un faible rayon.
 -=-
 
 ## Obtention
-Les dynamites s'obtiennent en les fabriquants, en ouvrants des boxs et des [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block).
+Les dynamites s'obtiennent en les fabriquant, en ouvrant des Boxs et des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
 
 ## Utilité
-La dynamite est utile pour faire une petite explosion afin de pénétrer à l'interieur d'une base protégée par des claims.
+La dynamite est utile pour créer une explosion afin de pénétrer l'intérieur d'une base protégée par des claims.

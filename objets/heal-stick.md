@@ -1,6 +1,7 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png%%
 %%name=Bâton de soin%%
 %%weight=403%%
+
 # Bâton de soin
 
 ## Description
@@ -20,7 +21,8 @@ Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [b�
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png
 -=-
 
-Le craft est débloqué à partir du niveau 21 dans le métier de tueur.
+## Obtention
+Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
 
 ## Utilité
 Lorsque vous utilisez ce bâton, il vous soignera 4 coeurs. Il y a un cooldown de 20 secondes entre chaque utilisation.

@@ -1,6 +1,8 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png%%
 %%name=Sac à dos%%
 
+# Sac à dos
+
 ## Description
 Le sac à dos vous permet de stocker une grande quantité du même bloc.
 

@@ -4,7 +4,7 @@
 # Epee en Histerite 
 
 ## Description
-Épée améliorée qui vous permettra d'infliger plus de dégâts qu'une épée vanilla.
+Épée améliorée qui vous permettra d'infliger plus de dégâts qu'une épée Vanilla.
 
 ## Craft
 -=-
@@ -19,7 +19,6 @@
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png
 -=-
-
 
 ### Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
