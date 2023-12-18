@@ -4,7 +4,7 @@
 # Coeur de Nocturite
 
 ## Description
-Le coeur de Nocturite est utile principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
+Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
 
 ## Craft
 -=-

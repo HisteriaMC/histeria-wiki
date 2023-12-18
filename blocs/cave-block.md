@@ -4,7 +4,7 @@
 # Cave Block
 
 ## Description
-Ce bloc vous permettra de voir ce qu'il se passe sous le sol. Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande [/nightvision (/nv)](https://histeria.fr/wiki/commandes/commandes-des-gradés) si vous possédez un grade, ou bien d'avoir un [casque en Histerite](https://histeria.fr/wiki/armures/casque-en-histerite) / [casque en Nocturite](https://histeria.fr/wiki/armures/casque-en-nocturite) pour vous garantir une meilleure performance visuelle.
+Ce bloc vous permettra de voir ce qu'il se passe sous le sol. Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande [/nightvision (/nv)](https://histeria.fr/wiki/commandes/graded-commands) si vous possédez un grade, ou bien d'avoir un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) / [casque en Nocturite](https://histeria.fr/wiki/armures/nocturite-helmet) pour vous garantir une meilleure performance visuelle.
 
 ## Craft  
 -=-

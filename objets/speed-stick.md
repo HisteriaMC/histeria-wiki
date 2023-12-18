@@ -26,4 +26,4 @@ Le bâton de vitesse est l'un des trois bâtons à effet sur le serveur avec le 
 Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
 
 ## Utilité 
-Lorsque vous utilisez ce bâton, il vous donnera l'effet de vitesse de niveau 2 pendant 15 secondes. Il y a un temps de recharge de 15 secondes entre chaque utilisation.
+Lorsque vous utilisez ce bâton, il vous donnera l'effet Vitesse II pendant 15 secondes. Il y a un temps de recharge de 15 secondes entre chaque utilisation.

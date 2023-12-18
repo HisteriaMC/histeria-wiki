@@ -5,7 +5,7 @@
 # Lucky Block
 
 ## Description 
-Le Lucky Block est des blocs qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/minerai-aléatoire), en récompense de métier, sur le Vote Party ou en cassant un autre Lucky Block.
+Le Lucky Block est des blocs qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party ou en cassant un autre Lucky Block.
 
 ## Utilité
 Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention aux coups de malchance ! De terribles choses pourraient vous arriver.
@@ -83,5 +83,5 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | good |0.56|                         Vous donne un [billet de banque](https://histeria.fr/wiki/objets/banknote) de 50 000 $                          |
 | bad |1.12|                                                  Vous donne un dead bush                                                   |
 | bad |1.12|                                               Vous donne 8 chaires à zombie                                                |
-| bad |1.12|                                                Vous donne 8 poissons globe                                                 |
+| bad |1.12|                                                Vous donne 8 poissons-globe                                                 |
 | bad |1.12|                                             Vous donne une patate empoisonnée                                              |

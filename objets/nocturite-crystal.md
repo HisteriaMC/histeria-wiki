@@ -5,6 +5,7 @@
 
 ## Description
 Le cristal de Nocturite permet de fabriquer des [blocs en Nocturite](https://histeria.fr/wiki/blocs/nocturite-block).
+
 ## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-fruit.png

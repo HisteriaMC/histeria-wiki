@@ -4,7 +4,7 @@
 # Epine
 
 ## Description
-L'épine est faite à base [d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot). Elle permet de défendre vos bases.
+L'épine est faite à base [d'Histerite](https://histeria.fr/wiki/objets/histerite). Elle permet de défendre vos bases.
 
 ## Craft
 -=-

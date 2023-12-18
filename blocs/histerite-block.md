@@ -4,7 +4,7 @@
 # Bloc en Histerite
 
 ## Description
-Le bloc en Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot).
+Le bloc en Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite).
 
 ## Craft
 -=-

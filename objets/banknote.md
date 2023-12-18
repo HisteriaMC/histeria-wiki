@@ -5,7 +5,7 @@
 # Billet de banque
 
 ## Description 
-Le billet de banque est l'un des nombreux moyens permettant de faire circuler de d'argent sur le serveur. Il a un rôle capital dans [l'économie](https://histeria.fr/wiki/commandes/commandes-économiques). Il s'obtient à l'aide d'une commande.
+Le billet de banque est l'un des nombreux moyens permettant de faire circuler de d'argent sur le serveur. Il a un rôle capital dans [l'économie](https://histeria.fr/wiki/commandes/economy-commands). Il s'obtient à l'aide d'une commande.
 
 ## Création
 

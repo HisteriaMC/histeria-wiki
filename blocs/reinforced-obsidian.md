@@ -22,4 +22,4 @@ L'obsidienne renforcée est une variante de l'obsidienne reconnaissable avec ses
 -=-
 
 ## Utilité 
-Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale. Elle peut également être utilisée pour fabriquer le [casseur à obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker).
+Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale. Elle peut également être utilisée pour fabriquer le casseur à obsidienne.
