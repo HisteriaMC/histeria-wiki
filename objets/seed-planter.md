@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/seed-planter.png%%
-%%name=Planteur de graines%%
+%%name=Planteur à graines%%
 
-# Planteur de graines
+# Planteur à graines
 
 ## Description
-Le planteur de graines est un item qui sert à planter des graines dans un rayon de 3 blocs x 3 blocs. Il permet aussi de récolter les [fruits de nocturite](https://histeria.fr/wiki/items/nocturite-fruit) sans avoir à casser la plantation.
+Le planteur à graines est un objet permettant de planter des graines dans une zone de 3 x 3. Il permet également de récolter des [fruits de Nocturite](https://histeria.fr/wiki/items/nocturite-fruit) sans avoir à casser la plantation.
 
 ## Craft
 -=-
@@ -20,4 +20,5 @@ Le planteur de graines est un item qui sert à planter des graines dans un rayon
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/seed-planter.png
 -=-
 
+## Obtention
 Pour pouvoir le fabriquer, vous devez être niveau 20 dans le métier d'agriculteur.

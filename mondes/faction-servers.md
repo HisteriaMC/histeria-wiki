@@ -2,7 +2,7 @@
 # Les serveurs faction
 
 ## Explications générales
-Il existe 3 serveurs faction différents sur Histeria, simplement nommés faction [1](https://histeria.fr/wiki/mondes/faction1), [2](https://histeria.fr/wiki/mondes/faction2) et [3](https://histeria.fr/wiki/mondes/faction3). Ces serveurs sont les plus utilisés , puisque le __PvP y est activé__, des arènes sont accessibles, des warzones et des PNJ utiles en tout genre a la progression des joueurs. Vous pouvez aussi évidemment y construire vos bases pour y stocker de l'équipement par exemple.
+Il existe 3 serveurs factions différents sur Histeria, simplement nommés faction [1](https://histeria.fr/wiki/mondes/faction1), [2](https://histeria.fr/wiki/mondes/faction2) et [3](https://histeria.fr/wiki/mondes/faction3). Ces serveurs sont les plus utilisés , puisque le __PvP y est activé__, des arènes sont accessibles, des warzones et des PNJ utiles en tout genre a la progression des joueurs. Vous pouvez aussi évidemment y construire vos bases pour y stocker de l'équipement par exemple.
 
 ## Map
 Les maps des serveurs factions ne sont __pas réinitialisées__ comme les serveurs minage. Rien n'est supprimé avant la fin de la saison.

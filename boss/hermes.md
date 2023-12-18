@@ -10,14 +10,14 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
 + 11 000 PV
 
 #### __Arme :__
-+ Epée en histerite
++ Epée en Histerite
   - Tranchant V
   - Recul II
   - Lunarstrike I
 
 ## Objet unique 
 + Sandales d'Hermès
-  - Les sandales d'Hermes possèdent l'enchantement unique [__Reset__](https://histeria.zelytra.fr/wiki/enchants/reset) qui permet, lorsqu'il est activé, de réinitialiser tout vos cooldown actuels (pomme en histerite, bâton de soin...).
+  - Les sandales d'Hermes possèdent l'enchantement unique [__Reset__](https://histeria.zelytra.fr/wiki/enchants/reset) qui permet, lorsqu'il est activé, de réinitialiser tout vos temps de recharge actuels (pomme en Histerite, bâton de soin...).
 
 ## Skin
 

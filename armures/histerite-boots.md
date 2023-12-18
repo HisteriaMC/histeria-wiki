@@ -6,7 +6,7 @@
 ## Description
 Les bottes en Histerite font partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft des Bottes en Histerite
+## Craft
 -=-
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -23,4 +23,4 @@ Les bottes en Histerite font partie de la deuxième meilleure armure disponible 
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
-| Vitesse | 1,5 | 1600 |
+| Vitesse           | 1,5             | 1600       |

@@ -4,7 +4,7 @@
 # Lyre magique
 
 ## Description
-La lyre magique est un objet obtenable en tuant Apollon en faisant le plus de dégâts parmi tous les joueurs.
+La lyre magique est un objet obtenable en tuant Apollo en faisant le plus de dégâts parmi tous les joueurs.
 Un son de lyre est joué lors de son utilisation ! Elle ne peut être utilisée qu'une seule fois.
 
 ## Utilité

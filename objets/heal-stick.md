@@ -5,7 +5,7 @@
 # Bâton de soin
 
 ## Description
-Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/objets/baton-de-saut) et le [bâton de vitesse](https://histeria.fr/wiki/objets/baton-de-vitesse). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquants dans une table de craft.
+Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/objets/baton-de-saut) et le [bâton de vitesse](https://histeria.fr/wiki/objets/baton-de-vitesse). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquant sur un établi.
 
 ## Craft
 -=-

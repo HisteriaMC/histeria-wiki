@@ -3,5 +3,5 @@
 # Histerite
 
 ## Description
-L'Histerite est obtenable en minant des [minerais d'Histerite](https://histeria.fr/wiki/blocs/histerite-ore), dans les boxs, et dans le calandrier de vote, et dans les [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block).
+L'Histerite est obtenable en minant des [minerais d'Histerite](https://histeria.fr/wiki/blocs/histerite-ore), dans les boxs, dans le calendrier de vote, en concassant de la pierre taillée compressée, dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
 Il est la base de tout objets moddés.

@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png%%
 %%name=Terre fertilisée%%
 %%weight=103%%
+
 # Terre fertilisée
 
 ## Description
-La terre fertile est une terre améliorée et enrichie à l'histerite. Les plantes classiques ne peuvent pas pousser dessus. Seules les [graines en nocturites](https://histeria.fr/wiki/objets/graine-de-nocturite) le peuvent.
+La terre fertilisée est une terre améliorée et enrichie à l'Histerite. Les graines classiques ne peuvent pas y être semées, seules les [graines de Nocturite](https://histeria.fr/wiki/objets/graine-de-nocturite) le peuvent.
 
 ## Craft
 -=-
@@ -19,7 +20,9 @@ La terre fertile est une terre améliorée et enrichie à l'histerite. Les plant
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png
 -=-
-Le craft de la terre fertile est débloquée au niveau 17 du métier d'agriculteur.
+
+## Obtention
+Pour pouvoir la fabriquer, il faut être niveau 17 dans le métier d'agriculteur.
 
 ## Utilité
-Les terres fertiles sont indispensables pour faire pousser les [graines en nocturites](https://histeria.fr/wiki/objets/graine-de-nocturite), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels que des [armures](https://histeria.fr/wiki/armures), [le marteau](https://histeria.fr/wiki/outils/marteau), [le grappin](https://histeria.fr/wiki/outils/grappin) et bien plus encore.
+La terre fertilisée est indispensable pour faire pousser les [graines de Nocturite](https://histeria.fr/wiki/objets/nocturite-seed), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels l'[armure en Nocturite](https://histeria.fr/wiki/armures), [le marteau](https://histeria.fr/wiki/outils/marteau), [le grappin](https://histeria.fr/wiki/outils/grappin) et bien plus encore.

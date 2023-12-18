@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cave-block.png%%
-%%name=Cave-Bloc%%
+%%name=Cave Block%%
 %%weight=102%%
-# Cave-Block
+# Cave Block
 
 ## Description
-Ce bloc vous permettra de voir ce qui se passe sous le sol. Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande [/nightvision (/nv)](https://histeria.fr/wiki/commandes/commandes-des-gradés) si vous posséder un grade, ou bien d'avoir un casque en [Histerite](https://histeria.fr/wiki/armures/casque-en-histerite) / [Nocturite](https://histeria.fr/wiki/armures/casque-en-nocturite) pour vous garantir une meilleure performance visuelle.
+Ce bloc vous permettra de voir ce qu'il se passe sous le sol. Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande [/nightvision (/nv)](https://histeria.fr/wiki/commandes/commandes-des-gradés) si vous possédez un grade, ou bien d'avoir un [casque en Histerite](https://histeria.fr/wiki/armures/casque-en-histerite) / [casque en Nocturite](https://histeria.fr/wiki/armures/casque-en-nocturite) pour vous garantir une meilleure performance visuelle.
 
 ## Craft  
 -=-

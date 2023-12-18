@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png%%
-%%name=Bloc d'Histerite%%
+%%name=Bloc en Histerite%%
 
-# Bloc d'Histerite
+# Bloc en Histerite
 
 ## Description
-Le bloc d'Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot).
+Le bloc en Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot).
 
 ## Craft
 -=-
@@ -21,5 +21,4 @@ Le bloc d'Histerite est le regroupement de 9 [lingots d'Histerite](https://histe
 -=-
 
 ## Utilité 
-Le bloc d'Histerite est utile pour optimiser le stockage d'Histerite en les rassemblant en blocs. 
-Les blocs d'Histerite sont également très utilisés pour un grand nombre de craft comme la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt).
+Il est également très utilisé pour un grand nombre de crafts comme la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt), le coffre en Histerite, l'obsidienne renforcé et bien plus encore.

@@ -4,7 +4,7 @@
 # Commandes de faction
 
 ## Description
-Les commandes de faction sont un ensemble de fonctionnalitées conçuees pour vous aider à gérer votre faction sur Histeria. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettent de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
+Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous aider à gérer votre faction sur Histeria. Que vous soyez un joueur débutant ou expérimenté, ces commandes vous permettront de créer votre propre faction, d'inviter des membres, de protéger votre territoire et de gérer les relations avec les autres factions. Avec des outils de gestion de factions à portée de main, vous pouvez facilement devenir un expert en matière de gestion de factions.
 
 ## Commandes
 
@@ -17,7 +17,7 @@ Les commandes de faction sont un ensemble de fonctionnalitées conçuees pour vo
 | `/f allychat` | Activer/Désactiver le chat allié | 
 | `/f ally <faction>` | S'allier avec une autre faction |
 | `/f ban <player>` | Ban un membre de votre faction |
-| `/f chat` | Activer/Désactiver le chat de faction |
+| `/f chat` | Activer / Désactiver le chat de faction |
 | `/f claim` | Claim un chunk |
 | `/f create <name>` | Créer une faction |
 | `/f demote <player>` | Rétrograder un membre de la faction |
@@ -31,7 +31,7 @@ Les commandes de faction sont un ensemble de fonctionnalitées conçuees pour vo
 | `/f invite <player>` | Invite un joueurs |
 | `/f join <faction>` | Rejoindre une faction |
 | `/f kick <player>` | Kick un joueur de la faction |
-| `/f leader <player>` | Mettre le rôle de chef a un joueur |
+| `/f leader <player>` | Mettre le rôle de chef à un joueur |
 | `/f leave` | Quitter la faction |
 | `/f logs` | Voir les logs de la faction |
 | `/f map` | Affiche la carte des chunks autour de vous |

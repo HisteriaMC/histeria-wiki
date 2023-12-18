@@ -6,7 +6,7 @@
 ## Description
 Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histeria.
 
-## Craft du Plastron en Nocturite
+## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
@@ -20,6 +20,7 @@ Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histe
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-chestplate.png
 -=-
 
+## Obtention
 Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier mineur.
 
 ### Informations

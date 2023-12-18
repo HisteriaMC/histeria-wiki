@@ -5,7 +5,7 @@
 
 ## Description
 Objet de boss qui a une chance de s'obtenir en tuant Zeus en faisant le plus de dégâts parmis tous les joueurs. 
-Un éclair apparait sur le joueur, mais ne lui inflige aucun dégat. Il ne peut qu'être utilisé 1 fois.
+Un éclair apparait sur le joueur, mais ne lui inflige aucun dégât. Il ne peut qu'être utilisé 1 fois.
 
 ## Utilité
-Objet s'utilisant sur un joueur. Il a pour effet de déplacer une pièce de son armure dans son inventaire, il permet également d'immobiliser votre adversaire en l'air. Lorsqu'il est utilisée, un éclair apparaît sur le joueur, mais ne lui inflige aucun dégât. 
+Objet s'utilisant sur un joueur. Il a pour effet de déplacer une pièce de son armure dans son inventaire, il permet également d'immobiliser votre adversaire.

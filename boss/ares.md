@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/ares.png%%
 %%name=Arès%%
+
 # Arès
 
 ## Description 
@@ -17,7 +18,7 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
   
 ## Objet unique 
 + Poitrail d'arès
-  - Plastron en histerite qui contient un enchantement unique qui permet, lorsqu'il est activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs
+  - Plastron en Histerite qui contient un enchantement unique qui permet, lorsqu'il est activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs.
 
 ## Skin
 

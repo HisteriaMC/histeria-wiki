@@ -3,7 +3,7 @@
 # Archéologie
 
 ## Informations
-L'enchantement Archéologie vous permet d'augmenter vos chances de trouver des fossils.
+L'enchantement Archéologie permet d'augmenter vos chances de trouver des fossiles.
 
 
 **Niveau maximum :** 3

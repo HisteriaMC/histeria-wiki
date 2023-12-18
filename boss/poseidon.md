@@ -16,7 +16,7 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 
 ## Objet unique 
 + Trident de poséidon
-  - Le trident légendaire de poséidon. Possède l'enchantement unique [__Tsunami__](https://histeria.zelytra.fr/wiki/enchants/tsunami), ayant le pouvoir de ralentir drastiquement vos adversaires de façon temporaire
+  - Le trident légendaire de poséidon. Possède l'enchantement unique [__Tsunami__](https://histeria.zelytra.fr/wiki/enchants/tsunami), ayant le pouvoir de ralentir drastiquement vos adversaires de façon temporaire.
 
 ## Skin
 

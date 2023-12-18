@@ -21,4 +21,4 @@ Le casseur à obsidienne est un objet pouvant se montrer particulièrement utile
 -=-
 
 ## Utilité 
-Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou moddée partout, et cela même dans les claims ennemis. 
+Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou moddée, et cela même dans les claims ennemis. 

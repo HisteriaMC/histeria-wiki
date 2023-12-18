@@ -1,9 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/spike.png%%
-%%name=Spike%%
-# Spike
+%%name=Epine%%
+
+# Epine
 
 ## Description
-Les spikes (ou piques) sont fait à base [d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot). Ils permettent de défendre vos bases.
+L'épine est faite à base [d'Histerite](https://histeria.fr/wiki/objets/histerite-ingot). Elle permet de défendre vos bases.
 
 ## Craft
 -=-
@@ -19,5 +20,5 @@ Les spikes (ou piques) sont fait à base [d'Histerite](https://histeria.fr/wiki/
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/spike.png
 -=-
 
-## Utilités
-Les spikes permettent d'ajouter une défense supplémentaire dans vos bases et bases claims et infligent des dégâts au contact. Très utile contre les envahisseurs!
+## Utilité
+Elle permet d'ajouter une défense supplémentaire dans vos bases et infligent des dégâts au contact. Très utile contre les envahisseurs !
