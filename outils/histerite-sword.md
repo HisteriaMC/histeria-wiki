@@ -1,7 +1,7 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
-%%name=Epee en Histerite%%
+%%name=Épée en Histerite%%
 %%weight=506%%
-# Epee en Histerite 
+# Épée en Histerite 
 
 ## Description
 Épée améliorée qui vous permettra d'infliger plus de dégâts qu'une épée Vanilla.
