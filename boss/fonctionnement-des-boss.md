@@ -1,3 +1,6 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/ares.png%%
+%%name=Fonctionnement des Boss%%
+
 # Fonctionnement des Boss
 
 ## Apparition

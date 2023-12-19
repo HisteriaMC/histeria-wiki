@@ -2,7 +2,7 @@
 # Berserk
 
 ## Informations
-Un outil bien tranchant. L'enchantement Berserk est fusionnable avec une [hache](https://histeria.fr/wiki/outils/histerite-axe).
+Un outil bien tranchant. L'enchantement Berserk est fusionnable avec une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
 Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et de recevoir l'effet Force I pendant 3 secondes.
 
 **Niveau maximum :** 3
