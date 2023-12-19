@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/forge-note.png%%
-%%name=Parchemin%%
+%%name=Parchemin d'enchantement%%
 %%weight=402%%
 
 # Parchemin d'enchantement
@@ -17,4 +17,4 @@ Il faut mettre l'objet enchanté dans la case à gauche et le parchemin dans la 
 ## Utilité
 Le parchemin d'enchantement est un objet très utile sur Histeria qui permet aux joueurs d'améliorer les enchantements moddés de leurs objets. Il est un outil précieux pour les joueurs cherchant à maximiser les performances de leurs armures et de leurs outils en jeu.
 
-Il est obtenable par les combats de boss.
+Il est obtenable par les combats de boss en leur infligeant au minimum 250 dégâts.

@@ -17,7 +17,7 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
   - Outrage I
   
 ## Objet unique 
-+ Poitrail d'arès
++ Poitrail d'Arès
   - Plastron en Histerite qui contient un enchantement unique qui permet, lorsqu'il est activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs.
 
 ## Skin

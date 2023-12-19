@@ -4,7 +4,7 @@
 # Commode
 
 ## Description
-La commode est un bloc fabriqué à partir de bois. Elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) pour augmenter leur capacité de stockage.
+La commode est un bloc servant à stocker votre stuff, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) pour augmenter leur capacité de stockage.
 
 ## Craft
 -=-

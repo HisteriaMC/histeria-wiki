@@ -4,7 +4,7 @@
 # Sac à dos
 
 ## Description
-Le sac à dos vous permet de stocker 32 780 fois un même bloc en son sein.
+Le sac à dos vous permet de stocker 32 768 fois un même bloc en son sein.
 
 ## Craft
 -=-
@@ -20,7 +20,6 @@ Le sac à dos vous permet de stocker 32 780 fois un même bloc en son sein.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png
 -=-
 
-## Obtention
 Pour pouvoir le fabriquer, il faut être niveau 27 dans le métier de mineur.
 
 ## Utilisation

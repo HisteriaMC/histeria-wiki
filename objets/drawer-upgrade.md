@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/drawer-upgrade.png%%
-%%name=Amélioration de boîtes de rangement%%
+%%name=Amélioration de commode%%
 
 # Amélioration de commode
 
 ## Description
-L'amélioration de commode vous permet d'améliorer une [commode](https://histeria.fr/wiki/blocs/drawer) pour y stocker davantage d'objets dans la même commode.
+L'amélioration de commode vous permet d'améliorer la capacité de stockage d'une [commode](https://histeria.fr/wiki/blocs/drawer).
 
 ## Craft
 -=-
@@ -20,8 +20,6 @@ L'amélioration de commode vous permet d'améliorer une [commode](https://hister
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/drawer-upgrade.png
 -=-
 
-## Utilité
-Les améliorations de commode vous permettront d'augmenter la capacité de stockage de celle-ci.
 | Nombre d'améliorations | Niv. Boite | Capacité |
 |:----------:|:----------------------:|:--------:|
 |1           |1                       |1024      |

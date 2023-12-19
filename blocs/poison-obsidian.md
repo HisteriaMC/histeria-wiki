@@ -5,7 +5,7 @@
 # Obsidienne empoisonnée
 
 ## Description 
-L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser vous devrez utiliser un [casseur à obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker).
+L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser dans des bases claims, vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker).
 
 ## Craft
 -=-
@@ -22,4 +22,4 @@ L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec s
 -=-
 
 ## Utilité 
-Cette obsidienne pourra vous être utile que ce soit pour protéger vos bases, faire de la décoration ou embêter vos amis !
+Cette obsidienne peut vous être utile que ce soit pour protéger vos bases, décorer ou embêter vos amis !

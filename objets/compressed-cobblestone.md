@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
 %%name=Cobblestone compressée%%
 
-# Pierre taillée compressée
+# Cobblestone compressée
 
 ## Description
-La pierre taillée compressée est un condensé de pierre qui vous permettra d'obtenir des minerais en les cassant sur un brise-roche. Celui-ci est trouvable aux spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
+La cobblestone compressée est un condensé de pierre qui vous permettra d'obtenir des minerais en les cassant sur un cobble-breaker. Celui-ci est trouvable aux spawns des [serveurs faction](https://histeria.fr/wiki/mondes/faction-servers) et [serveurs minage](https://histeria.fr/wiki/mondes/minage-servers).
 
 ## Craft
 -=-
@@ -20,8 +20,6 @@ La pierre taillée compressée est un condensé de pierre qui vous permettra d'o
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png
 -=-
 
-## Utilité
-Cet objet vous permettra d'obtenir des minerais en plus grand nombre à partir de la pierre.
 | Items                | Probabilité (en %) |
 |:--------------------:|:------------------:|
 | 1 lingot d'Histerite | 2                  |

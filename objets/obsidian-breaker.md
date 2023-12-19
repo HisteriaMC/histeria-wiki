@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/obsidian-breaker.png%%
-%%name=Casseur à obsidienne%%
+%%name=Casseur d'obsidienne%%
 
 # Casseur à obsidienne
 
 ## Description
-Le casseur à obsidienne est un objet pouvant se montrer particulièrement utile lors de vos pillages de bases claims. Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/vote-key) mais également en le fabriquant. Il n'a pas de durabilité, mais le nombre qu'il vous faut pour casser un bloc d'obsidienne est aléatoire.
+Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile lors de vos pillages de bases claims. Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/vote-key) mais également en le fabriquant. Il n'a pas de durabilité, mais le nombre qu'il vous faut pour casser un bloc d'obsidienne est aléatoire.
 
 ## Craft
 -=-

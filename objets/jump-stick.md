@@ -21,7 +21,6 @@ Le bâton de saut est l'un des trois bâtons à effet sur le serveur avec le [b�
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/jump-stick.png
 -=-
 
-## Obtention
 Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
 
 ## Utilité

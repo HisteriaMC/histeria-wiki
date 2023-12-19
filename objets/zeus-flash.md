@@ -4,7 +4,7 @@
 # Éclair de Zeus
 
 ## Description
-Objet de boss qui a une chance de s'obtenir en tuant Zeus en faisant le plus de dégâts parmis tous les joueurs. 
+Objet de boss qui a une chance de s'obtenir en tuant Zeus : en faisant le plus de dégâts parmis tous les joueurs. 
 Un éclair apparait sur le joueur, mais ne lui inflige aucun dégât. Il ne peut qu'être utilisé 1 fois.
 
 ## Utilité

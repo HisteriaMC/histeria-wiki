@@ -20,7 +20,6 @@ Le planeur sert à planer lors d'une chute et donc, ne pas prendre de dégâts d
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hang-glider.png
 -=-
 
-## Obtention
 Pour pouvoir le fabriquer, il faut être niveau 10 dans le métier de bûcheron.
 
 ## Utilité

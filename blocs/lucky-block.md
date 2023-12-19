@@ -5,7 +5,7 @@
 # Lucky Block
 
 ## Description 
-Le Lucky Block est des blocs qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party ou en cassant un autre Lucky Block.
+Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party ou en cassant un autre Lucky Block.
 
 ## Utilité
 Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention aux coups de malchance ! De terribles choses pourraient vous arriver.
@@ -39,10 +39,10 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | Arrow 3 |1.12|                                            Fait tomber plus de flèches sur vous                                                           |
 | Anvil 1 |2.53|                                             Fait tomber des enclumes sur vous                                                             |
 | Anvil 3 |1.40|                                            Fait tomber plus d’enclumes sur vous                                                           |
-| Lucky block |1.40|                  Fait tomber des [Luckys Blocks](https://histeria.fr/wiki/blocs/lucky-block) sur vous                             |
+| Lucky block |1.40|                  Fait tomber des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) sur vous                             |
 | tnt 1 |1.40|                                                Fait tomber des TNT sur vous                                                                 |
 | tnt 3 |1.69|                                              Fait tomber plus de TNT sur vous                                                               |
-| punching ball |1.12|                     Fait apparaître une [Boule de frappe](https://histeria.fr/wiki/objets/punching-ball)                               |
+| punching ball |1.12|                     Fait apparaître un [Punching-ball](https://histeria.fr/wiki/objets/punching-ball)                               |
 | Siphano Chèque |1.12|                                                  Fait apparaître Siphano                                                           |
 | Siphano regarde |1.12|                                                  Fait apparaître Siphano                                                          |
 | fanta cpastoi |1.12|                                                   Fait apparaître Fanta                                                             |
@@ -53,14 +53,14 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | ninjaxxu |1.12|                                                  Fait apparaître Ninjaxxu                                                  |
 | dadodasyra |1.12|                                                 Fait apparaître dadodasyra                                                 |
 | Mozart |7.32|                                              Joue un des disques de Minecraft                                              |
-| good |1.40|                   Vous donne une [houe en histerite](https://histeria.fr/wiki/outils/histerite-hoe)                    |
+| good |1.40|                   Vous donne une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe)                    |
 | good |1.40|                                               Vous donne 5 blocs de diamant                                               |
 | good |0.56|                     Vous donne une [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt)                     |
 | good Soup de Kitsun |1.12|                                             Vous donne une soupe de betterave                                              |
 | good |1.40|                        Vous donne un [chercheur de coffre](https://histeria.fr/wiki/objets/chest-finder)                        |
 | good |1.40|                             Vous donne une [capuche](https://histeria.fr/wiki/objets/hood-helmet)                              |
 | good |0.84|                   Vous donne un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)                    |
-| good |1.12|   Vous donne une [amélioration de boîtes à rangement](https://histeria.fr/wiki/objets/drawer-upgrade)   |
+| good |1.12|   Vous donne une [amélioration de commode](https://histeria.fr/wiki/objets/drawer-upgrade)   |
 | good |0.84|                  Vous donne une [pomme en Histerite](https://histeria.fr/wiki/objets/histerite-apple)                   |
 | good |1.12|                                                 Vous donne une pomme dorée                                               |
 | good |0.56|                 Vous donne un [cristal de Nocturite](https://histeria.fr/wiki/objets/nocturite-crystal)                 ||
@@ -79,9 +79,9 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | good |1.40|                            Vous donne 8 [ascenceurs](https://histeria.fr/wiki/blocs/ascenseur)                             |
 | good |1.40|                                                  Vous donne une peinture                                                   |
 | good |1.12|                             Vous donne 4 [dynamites](https://histeria.fr/wiki/objets/dynamite)                             |
-| good |0.84|                         Vous donne un [billet de banque](https://histeria.fr/wiki/objets/banknote) de 25 000 $                          |
-| good |0.56|                         Vous donne un [billet de banque](https://histeria.fr/wiki/objets/banknote) de 50 000 $                          |
+| good |0.84|                         Vous donne un [chèque](https://histeria.fr/wiki/objets/banknote) de 25 000 $                          |
+| good |0.56|                         Vous donne un [chèque](https://histeria.fr/wiki/objets/banknote) de 50 000 $                          |
 | bad |1.12|                                                  Vous donne un dead bush                                                   |
-| bad |1.12|                                               Vous donne 8 chaires à zombie                                                |
+| bad |1.12|                                               Vous donne 8 chairs de zombie                                                |
 | bad |1.12|                                                Vous donne 8 poissons-globe                                                 |
 | bad |1.12|                                             Vous donne une patate empoisonnée                                              |

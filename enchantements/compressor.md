@@ -2,7 +2,7 @@
 # Compressor
 
 ## Informations
-L'enchantement Compressor est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe). Quand le porteur mine de la pierre, cette pierre s'auto-craft en [pierre taillée compressée](https://histeria.fr/wiki/objets/compressed-cobblestone) !
+L'enchantement Compressor est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe). Quand le porteur mine de la pierre, cette pierre s'auto-craft en [cobblestone compressée](https://histeria.fr/wiki/objets/compressed-cobblestone) !
 
 
 **Niveau maximum :** 3
@@ -16,15 +16,15 @@ L'enchantement Compressor est fusionnable avec une [pioche](https://histeria.fr/
   <tr>
     <td>1</td>
     <td>0.06%</td>
-    <td>Fabrique des cobblestone compréssées</td>
+    <td>Fabrique des cobblestones compressées</td>
   </tr>
   <tr>
     <td>2</td>
     <td>0.07%</td>
-    <td>Fabrique des cobblestone compréssées</td>
+    <td>Fabrique des cobblestones compressées</td>
   </tr>
   <tr>
     <td>3</td>
     <td>0.08%</td>
-    <td>Fabrique des cobblestone compréssées</td>
+    <td>Fabrique des cobblestones compressées</td>
 </table>

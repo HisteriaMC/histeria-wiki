@@ -16,7 +16,7 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
   - Thunderbolt I
 
 ## Objet unique
-+ Eclair de zeus
++ Eclair de Zeus
   - Frappe l'adversaire par la foudre, et lui enlève une pièce de son armure. __USAGE UNIQUE__
 
 ## Skin

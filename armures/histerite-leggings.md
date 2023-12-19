@@ -23,4 +23,4 @@ Les jambières en Histerite font partie de la deuxième meilleure armure disponi
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
-| Bonus de vie II   | 3               | 1700       |
+| Bonus de vie II   | 3               | 1 700      |

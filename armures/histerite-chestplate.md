@@ -23,4 +23,4 @@ Le plastron en Histerite fait partie de la deuxième meilleure armure disponible
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
-| Résistance & Bonus de vie III | 4   | 1700       |
+| Résistance & Bonus de vie III | 4   | 1 700      |

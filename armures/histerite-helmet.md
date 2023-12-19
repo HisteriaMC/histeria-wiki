@@ -23,4 +23,4 @@ Le casque en Histerite fait partie de la deuxième meilleure armure disponible s
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
-| Vision Nocturne   | 1,5             | 1600       |
+| Vision Nocturne   | 1,5             | 1 600      |

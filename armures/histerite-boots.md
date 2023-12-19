@@ -23,4 +23,4 @@ Les bottes en Histerite font partie de la deuxième meilleure armure disponible 
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
-| Vitesse           | 1,5             | 1600       |
+| Vitesse           | 1,5             | 1 600      |

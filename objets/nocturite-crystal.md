@@ -4,7 +4,7 @@
 # Cristal de Nocturite
 
 ## Description
-Le cristal de Nocturite permet de fabriquer des [blocs en Nocturite](https://histeria.fr/wiki/blocs/nocturite-block).
+Le cristal de Nocturite permet de fabriquer des [blocs de Nocturite](https://histeria.fr/wiki/blocs/nocturite-block).
 
 ## Craft
 -=-
