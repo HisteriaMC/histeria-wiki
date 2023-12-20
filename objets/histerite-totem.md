@@ -14,6 +14,6 @@ De plus, tous les cooldowns des bâtons, des ender pearls, et des autres objets 
 
 Tout comme le totem d'immortalité, après que le joueur ait échappé à la mort, le totem en histerite est détruit.
 
-## Optention
+## Obtention
 
 L'unique moyen d'obtention du totem en histerite est grâce aux box de boss.
