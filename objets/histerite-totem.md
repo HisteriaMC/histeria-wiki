@@ -10,7 +10,9 @@ Le totem en histerite est semblable au totem d'immortalité, mais celui en histe
 - Résistance au feu pendant 40 secondes
 - Absorption 3 pendant 5 secondes
 
-De plus, tous les cooldowns sont remis à zéro.
+De plus, tous les cooldowns des bâtons, des ender pearls, et des autres objets qui en ont sont remis à zéro.
+
+Tout comme le totem d'immortalité, après que le joueur ait échappé à la mort, le totem en histerite est détruit.
 
 ## Optention
 
