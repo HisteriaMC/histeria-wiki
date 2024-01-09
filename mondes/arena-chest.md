@@ -25,7 +25,7 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 - 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick)
 - 8 [bâtons de vitesse](https://histeria.fr/wiki/objets/speed-stick)
 - 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick)
-- 8 pommes en histerite
+- 8 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
 
 ---
 
@@ -38,7 +38,7 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 ---
 
 - 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
-- 8 pommes en histerite
+- 8 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
 - Une [épée en histerite](https://histeria.fr/wiki/outils/histerite-sword)
   > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
 
@@ -54,6 +54,6 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 
 ---
 
-- 4 pommes en histerite
+- 4 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
 - 2 bâtons de vitesse
     > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archéologie](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
