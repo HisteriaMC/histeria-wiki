@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest_front.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png%%
 %%name=Coffre d'arène%%
 
 # Coffre d'arène 
@@ -10,8 +10,10 @@ Un coffre se trouve dans chaque arène. Il se remplit automatiquement de butin i
 ## Butin
 
 Le loot de chaque coffre est aléatoire entre 8 possibilités :
-- - Une armure en histerite complète
+
+- Une armure en histerite complète
     > Il y a 1 chance sur 6 pour que le plastron et les jambières soient enchantés protection 4, et 1 autre chance sur 6 pour que ce soit le casque et les bottes.
+    
   - [Un ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)
 <br>
 
@@ -34,8 +36,8 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 - - 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
   - 8 pommes en Histerite
   - Une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword)
+
   > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
-<br>
 
 - - 22 perles de l'Ender
 <br>
@@ -48,3 +50,4 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 - - 4 pommes en Histerite
   - 2 bâtons de vitesse
     > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archeology](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
+

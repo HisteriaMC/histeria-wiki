@@ -9,3 +9,4 @@ Vous pouvez le récupérer en le tapant avec une hache en bois.
 
 ## Obtention 
 Il peut être obtenu seulement dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
+
