@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-core.png%%
-%%name=Histerite core%%
+%%name=Coeur en Histerite%%
 
 # Coeur en Histerite
 
