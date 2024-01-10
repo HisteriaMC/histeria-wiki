@@ -21,4 +21,4 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/objets/histerit
 -=-
 
 ## Utilité
-IL permet d'ajouter une défense supplémentaire à vos bases et inflige des dégâts au contact. Très utile contre les envahisseurs !
+Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !

@@ -20,4 +20,4 @@ Le chercheur de coffre est utile pour trouver des coffres à piller. Ce dernier 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-finder.png
 -=-
 
-Le chercheur de coffre s'obtient via craft ou dans les boxs, toutefois il reste disponible au /shop.
+Le chercheur de coffre s'obtient via craft ou dans les boxs, il est également disponible au /shop.

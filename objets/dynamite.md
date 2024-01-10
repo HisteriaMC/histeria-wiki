@@ -4,7 +4,7 @@
 # Dynamite
 
 ## Description
-La dynamite est un objet qui provoque une explosion dans un faible rayon.
+La dynamite est un objet qui provoque une explosion.
 
 ## Craft
 -=-

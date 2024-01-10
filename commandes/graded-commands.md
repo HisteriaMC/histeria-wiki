@@ -26,7 +26,7 @@ Les Donateurs ont accès à toutes les commandes.
 |`/feed`|Permet de se nourrir complètement| VIP |
 |`/craft`|Permet d'ouvrir une table de craft| VIP |
 |`/back`|Permet de se téléporter à l'endroit de sa dernière mort| VIP |
-|`/freerepair [all]` | Répare l'objet de votre main ou tout les items de votre inventaire gratuitement | VIP |
+|`/freerepair [all]` | Répare l'objet de votre main ou tous les items de votre inventaire gratuitement | VIP |
 |`/nightvision `| Donne l'effet Vision Nocturne | VIP|
 |||
 |`/ec`|Permet d'ouvrir son coffre de l'Ender| Interplanétaire |

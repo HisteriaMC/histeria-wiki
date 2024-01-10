@@ -12,7 +12,7 @@ Le chèque est l'un des nombreux moyens permettant de faire circuler de d'argent
 Pour créer un chèque, il faut insérer la commande suivante :
 >/bank <\montant\> 
 
-Cette commande permet de créer un billet avec le montant souhaité.
+Cette commande permet de créer un chèque avec le montant souhaité.
 
 Pour récupérer l'argent du chèque, il vous suffit simplement de faire un clic droit avec, en main.
 

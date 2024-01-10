@@ -3,7 +3,7 @@
 
 ## Informations
 Un bouclier Antiémeute ! L'enchantement Shield est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
-Quand le porteur est frappé, tout les dégâts du coup reçu s'annulent !
+Quand le porteur est frappé, tous les dégâts du coup reçu s'annulent !
 
 **Niveau maximum :** 3
 
