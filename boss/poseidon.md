@@ -9,15 +9,10 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 ## Caractéristiques
 
 #### __Points de Vie__
-+ 13 000 PV
 
 #### __Arme :__
-+ Trident 
-  -
 
 ## Objet unique 
-+ Trident de Poséidon
-  - Le trident légendaire de poséidon. Possède l'enchantement unique [](), ayant le pouvoir de ralentir drastiquement vos adversaires de façon temporaire.
 
 ## Skin
 

@@ -11,16 +11,10 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 ## Caractéristiques
 
 #### __Points de Vie__
-+ 12 000 PV
 
 #### __Arme :__
-+ Epée en Histerite 
-  - Tranchant V
-  - Outrage I
   
 ## Objet unique 
-+ Poitrail d'Arès
-  - Plastron en Histerite qui contient un enchantement unique qui permet, lorsqu'il est activé, d'infliger de lourds dégâts à tous vos ennemis dans un rayon de quelques blocs.
 
 ## Skin
 

@@ -9,11 +9,8 @@ Messager des dieux, Hermès connaît tous les raccourcis, et possède une force 
 ## Caractéristiques
 
 #### __Points de Vie__
-+ 0 PV
 
 #### __Arme :__
-+ 
-  - 
 
 ## Objet unique 
 
