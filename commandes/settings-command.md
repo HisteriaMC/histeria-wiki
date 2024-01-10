@@ -37,7 +37,7 @@ La seconde est de filtrer les blocs obtenus grâce aux outils. Cela signifie que
 
 ## Interface
 
-Cette petite catégorie s'occupe de la vente et des achats. Elle permet de choisir s'il faut une confirmation avant l'achat d'un objet ou d'un bloc, si le joueur pet acheter même si son inventaire est plein, et si le joueur peut vendre des objets sans valeur monétaire, comme des déchets. 
+Cette petite catégorie s'occupe de la vente et des achats. Elle permet de choisir s'il faut une confirmation avant l'achat d'un objet ou d'un bloc, si le joueur peut acheter même si son inventaire est plein, et si le joueur peut vendre des objets sans valeur monétaire, comme des déchets. 
 
 Elle permet également de définir les objets à ne pas vendre avec la commande /sellinv, qui n'est disponible que pour les joueurs gradés.
 
@@ -62,4 +62,4 @@ Si le préréglage *Custom* est choisi, alors le deuxième menu rentre en jeu. I
 
 ## PVP
 
-La dernière configuration permet de choisir la couleur des particules de potions. Cette option n'est disponible que pour les joueurs gradés. Elle permet également de choisir les items qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
+La dernière configuration permet de choisir la couleur des particules de potions. Cette option n'est disponible que pour les [joueurs gradés](https://histeria.fr/wiki/commandes/graded-commands). Elle permet également de choisir les objets qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
