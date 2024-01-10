@@ -43,7 +43,7 @@ Elle permet également de définir les objets à ne pas vendre avec la commande 
 
 ## Boxs
 
-La catégorie des **Boxs** ne propose que deux options:
+La catégorie des **Boxs** propose deux options:
 
 La première est l'ouverture automatique des boxs si le joueur a plusieurs clés en main. 
 
@@ -62,4 +62,6 @@ Si le préréglage *Custom* est choisi, alors le deuxième menu rentre en jeu. I
 
 ## PVP
 
-La dernière configuration permet de choisir la couleur des particules de potions. Cette option n'est disponible que pour les [joueurs gradés](https://histeria.fr/wiki/commandes/graded-commands). Elle permet également de choisir les objets qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
+La dernière configuration permet de choisir la couleur des particules de potions. Cette option n'est disponible que pour les [joueurs gradés](https://histeria.fr/wiki/commandes/graded-commands). 
+
+Elle permet également de choisir les objets qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
