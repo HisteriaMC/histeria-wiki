@@ -19,9 +19,9 @@ La catégorie **Autres** donne accès à deux paramètres. Le premier est le cho
 
 ## Notifications
 
-La catégorie **Notification** englobe les 3 trois types de notifications que les joueurs peuvent choisir leur apparition durant le jeu :
+La catégorie **Notifications** englobe les 3 trois types de notifications que les joueurs peuvent choisir leur apparition durant le jeu :
 
-- Le chat : Ces notifications se situent dans le chat, en haut à gauche de l'écran. Ces notifications surviennent par exemple lors d'une mort d'un joueur, lors d'une connexion ou dexonnexion, et beaucoup plus encore. Les messages des joueurs sont également des notifications de chat pouvant être désactivés.
+- Le chat : Ces notifications se situent dans le chat, en haut à gauche de l'écran. Ces notifications surviennent par exemple lors d'une mort d'un joueur, lors d'une connexion ou déconnexion, et beaucoup plus encore. Les messages des joueurs sont également des notifications de chat pouvant être désactivés.
   
 - Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/objets/fossils), lorsque le joueur gagne de l'xp pour un métier ou des Lumenn, ou lors d'un clear lag.
   
@@ -31,15 +31,15 @@ La catégorie **Notification** englobe les 3 trois types de notifications que le
 
 Cette catégorie permet de configurer les outils. Elle offre deux possibilités:
 
-La première est d'annuler le pouvoir spécial des outils moddés, comme la destruction de deux blocs à la fois pour la [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe), lorsque  le joueur est accroupi.
+La première est d'annuler le pouvoir spécial des outils moddés, comme la destruction de deux blocs à la fois pour la [pioche en histerite](https://histeria.fr/wiki/outils/histerite-pickaxe), lorsque  le joueur est accroupi.
 
 La seconde est de filtrer les blocs obtenus grâce aux outils. Cela signifie que les blocs définis dans ce menu de configuration ne seront pas obtenu par le joueur.
 
 ## Interface
 
-Cette petite catégorie s'occupe de la vente et des achats. Elle permet de choisir s'il faut une confirmation avant l'achat d'un item ou d'un bloc, si le joueur pet acheter même si son inventaire est plein, et si le joueur peut vendre des items sans valeur monétaire, comme des déchets. 
+Cette petite catégorie s'occupe de la vente et des achats. Elle permet de choisir s'il faut une confirmation avant l'achat d'un objet ou d'un bloc, si le joueur pet acheter même si son inventaire est plein, et si le joueur peut vendre des objets sans valeur monétaire, comme des déchets. 
 
-Elle permet également de définir les items à ne pas vendre avec la commande /sellinv, qui n'est disponible que pour les joueurs gradés.
+Elle permet également de définir les objets à ne pas vendre avec la commande /sellinv, qui n'est disponible que pour les joueurs gradés.
 
 ## Boxs
 
@@ -62,4 +62,4 @@ Si le préréglage *Custom* est choisi, alors le deuxième menu rentre en jeu. I
 
 ## PVP
 
-La dernière configuration permet de choisir la couleur des particules de pots. Cette option n'est disponible que pour les joueurs gradés. Elle permet également de choisir les items qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
+La dernière configuration permet de choisir la couleur des particules de potions. Cette option n'est disponible que pour les joueurs gradés. Elle permet également de choisir les items qui seront filtrés pour être pris dans l'inventaire du joueur en arène 2.
