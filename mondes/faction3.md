@@ -1,3 +1,6 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/faction3-icon.png%%
+%%name=Faction 3%%
+
 # Le serveur faction 3
 
 ## Description 
@@ -5,6 +8,6 @@ Le serveur faction 3 est le dernier serveur disponible en faction, et très souv
 
 ### Map
 La carte de chaque serveur faction est limitée et définie. Elle s'étend autant dans les coordonnées positives que négatives.
-En faction 3 la map fait 25 000 blocks de longueur soit des coordonnées x et z -12 500 à 12 500.
+En faction 3 la map fait 25 000 blocs de longueur soit des coordonnées x et z -12 500 à 12 500.
 
 ![faction3](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction3v6-5.png)

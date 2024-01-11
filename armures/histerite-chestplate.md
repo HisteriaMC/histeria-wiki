@@ -6,7 +6,7 @@
 ## Description
 Le plastron en Histerite fait partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft du Plastron en Histerite
+## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -22,5 +22,5 @@ Le plastron en Histerite fait partie de la deuxième meilleure armure disponible
 
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
-| ----------------- |-----------------|----------|
-| Résistance & Bonus de vie III | 4 | 1700 |
+| ----------------- |-----------------|------------|
+| Résistance & Bonus de vie III | 4   | 1 700      |
