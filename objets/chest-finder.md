@@ -4,7 +4,7 @@
 # Chercheur de coffre
 
 ## Description
-Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de coffre(s) dans un carré de 7 chunks autour du joueur.
+Le chercheur de coffre est utile pour trouver des coffres à piller. Ce dernier donne le nombre de coffre(s) dans un carré de 7 chunks autour du joueur.
 
 ## Craft
 -=-
@@ -20,5 +20,4 @@ Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier do
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-finder.png
 -=-
 
-## Obtention
-L'unclaim finder s'obtient en le craftant ou dans les box, il est disponible au /shop.
+Le chercheur de coffre s'obtient via craft ou dans les boxs, il est également disponible au /shop.

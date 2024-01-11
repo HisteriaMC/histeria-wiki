@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-fruit.png%%
-%%name=Fruit en Nocturite%%
+%%name=Fruit de Nocturite%%
 
-# Fruit en Nocturite
+# Fruit de Nocturite
 
 ## Description
-Le fruit en Nocturite permet de fabriquer des [crystaux en Nocturite](https://histeria.fr/wiki/blocs/nocturite-crystal) eux-mêmes utiles pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
+Le fruit de Nocturite permet de fabriquer des [cristaux de Nocturite](https://histeria.fr/wiki/blocs/nocturite-crystal).
 
 ## Obtention
-Ils ne peuvent que s'obtenir en cassant des [graines en Nocturite](https://histeria.fr/wiki/items/nocturite-seed) elles-mêmes plantées sur des [terres fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt). Vous pourrez récolter des fruit en Nocturite seulement si la plante de Nocturite est au stage 3.
+Ils ne peuvent que s'obtenir en cassant des [pousses de Nocturite](https://histeria.fr/wiki/objets/nocturite-seed) elles-mêmes plantées sur de la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt).
+ Vous pourrez récolter des fruit de Nocturite seulement si la pousse de Nocturite est au stage 3.

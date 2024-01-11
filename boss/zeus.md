@@ -7,17 +7,10 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 ## Caractéristiques
 
 #### __Points de Vie__
-+ 17 000 PV
 
 #### __Arme :__
-+ Epée en Histerite 
-  - Tranchant V
-  - Strike I
-  - Thunderbolt I
 
 ## Objet unique
-+ Eclair de zeus
-  - Frappe l'adversaire par la foudre, et lui enlève une pièce de son armure. __USAGE UNIQUE__
 
 ## Skin
 

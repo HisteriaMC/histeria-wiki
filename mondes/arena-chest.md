@@ -13,47 +13,41 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 
 - Une armure en histerite complète
     > Il y a 1 chance sur 6 pour que le plastron et les jambières soient enchantés protection 4, et 1 autre chance sur 6 pour que ce soit le casque et les bottes.
-- Un [ticket de lotterie](https://histeria.fr/wiki/objets/lottery-ticket)
+    
+  - [Un ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)
+<br>
 
----
+- - [20 pommes en Histerite](https://histeria.fr/wiki/objets/histerite-apple)
+<br>
 
-- 3 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
-- 20 pommes en or
+- - 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick)
+  - 8 [bâtons de vitesse](https://histeria.fr/wiki/objets/speed-stick)
+  - 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick)
+  - 8 pommes en histerite
+<br>
 
----
+- - 4 pommes en or
+  - 1 totem d'immortalité
+  - 16 poissons-globes
+  - 32 carottes dorées
+  > Il y a 1 chance sur 6 pour que il y ai également une pomme dorée enchantée.
+<br>
 
-- 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick)
-- 8 [bâtons de vitesse](https://histeria.fr/wiki/objets/speed-stick)
-- 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick)
-- 8 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
+- - 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
+  - 8 pommes en Histerite
+  - Une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword)
 
----
-
-- 4 pommes en or
-- Un totem d'immortalité
-- 16 poissons globes
-- 32 carottes en or
-  > Il y a 1 chance sur 6 pour que il y ait également une pomme dorée enchantée.
-
----
-
-- 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
-- 8 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
-- Une [épée en histerite](https://histeria.fr/wiki/outils/histerite-sword)
   > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
 
----
+- - 22 perles de l'Ender
+<br>
 
-- 22 perles de l'end
+- - 22 bâtons de soin
+  - Une [clé en Histerite](https://histeria.fr/wiki/objets/histerite-key)
+  - Un [parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)
+<br>
 
----
+- - 4 pommes en Histerite
+  - 2 bâtons de vitesse
+    > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archeology](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
 
-- 22 bâtons de soin
-- Une [clé en histerite](https://histeria.fr/wiki/objets/histerite-key)
-- Un [parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)
-
----
-
-- 4 [pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
-- 2 [bâtons de vitesse](https://histeria.fr/wiki/objets/speed-stick)
-    > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archéologie](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
