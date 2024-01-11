@@ -14,6 +14,14 @@ Une fois en combat contre le boss, votre statut passe en combat, vous ne pouvez 
 
 Vous pouvez quitter le statut de combat en vous éloignant du boss et attendre le temps nécessaire comme en PvP.
 
+## Les différentes arènes de boss
+
+![elysian-gardens](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/elysian-gardens.png)
+![colosseum](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/colosseum.png)
+![hell](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/hell.png)
+![olympus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/olympus.png)
+![atlantis](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/atlantis.png)
+
 ## Classement
 
 Un classement des joueurs ayant infligé le plus de dégâts aux boss est ensuite fait.
@@ -32,7 +40,24 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
 
 >Si vous faites partie des joueurs les plus acharnés au combat, votre nom sera affiché à l'entrée de l'arène avec votre nombre total de __dégâts infligés__ ainsi que le nombre total de __boss tués__.
 
+## Liste des boss
+Voici la liste des boss disponibles en jeu :
+
+| Boss | Arène de boss | 
+|:----------:|:----------------------:|
+|Zeus               |Olympe                       |
+|Poséidon           |Atlantis                     |
+|Héra               |Jardin élyséen               |
+|Hermès             |Olympe                       |
+|Hadès              |Royaume des enfers           |
+|Dionysos           |Olympe                       |
+|Apollo             |Jardin élyséen               |
+|Demeter            |Jardin élyséen               |
+|Aphrodite          |Jardin élyséen               |
+|Arès               |Colisée                      |
+|Athéna             |Olympe                       |
+|Hestia             |Colisée                      |
+
 ### Récompenses uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss reçoit une petite chance d'obtenir la récompense unique du boss vaincu. Cette petite probabilité rend ces objets particulièrement rares et convoités.
-> (objets uniques référencés dans les pages des boss spécifiques)
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a une petite chance d'obtenir la récompense unique du boss vaincu, la clé boss.
