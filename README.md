@@ -25,12 +25,12 @@ Nous sommes une communauté ouverte à tous les joueurs de Minecraft qui souhait
 
 Nous utilisons des conventions de formatage pour assurer la cohérence et la lisibilité du wiki. Avant de proposer une modification, veuillez consulter notre guide de formatage pour vous familiariser avec les conventions en vigueur.
 
-### Notes sur les pull requests
+### Notes sur les Pull Requests
 
--   Assurez-vous que votre pull request est ouverte contre la branche principale (main).
--   Veuillez ne pas inclure de modifications non liées dans la même pull request.
--   N'oubliez pas de mettre à jour votre fork avec les dernières modifications de la branche principale avant de proposer une nouvelle pull request.
--   Si vous avez besoin d'informations supplémentaires pour documenter le sujet que vous traitez, n'hésitez pas à nous demander ces informations dans l'issue associé au sujet en question (et de la créer si elle n'existe pas). Ces demandes peuvent être par exemple des demandes de code, de loot tables et/ou des probabilités.
+-   Assurez-vous que votre Pull Request est ouverte contre la branche principale (main).
+-   Veuillez ne pas inclure de modifications non liées dans la même Pull Request.
+-   N'oubliez pas de mettre à jour votre fork avec les dernières modifications de la branche principale avant de proposer une nouvelle Pull Request.
+-   Si vous avez besoin d'informations supplémentaires pour documenter le sujet que vous traitez, n'hésitez pas à nous demander ces informations dans l'issue associé au sujet en question (et de la créer si elle n'existe pas). Ces demandes peuvent être par exemple des demandes de code, de loot-tables et/ou des probabilités.
 
 ## Licence
 

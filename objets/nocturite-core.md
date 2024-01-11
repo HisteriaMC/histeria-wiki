@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png%%
-%%name=Coeur en Nocturite%%
+%%name=Coeur de Nocturite%%
 
-# Coeur en Nocturite
+# Coeur de Nocturite
 
 ## Description
-Le coeur en Nocturite est utile principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
+Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
 
 ## Craft
 -=-

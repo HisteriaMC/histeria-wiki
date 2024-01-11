@@ -1,13 +1,16 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/ares.png%%
+%%name=Fonctionnement des Boss%%
+
 # Fonctionnement des Boss
 
 ## Apparition
-Les boss peuvent apparaître dans les 3 serveurs __faction__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés :
+Les boss peuvent apparaître dans les 3 serveurs __factions__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés :
 + 2h Minimum si 84 joueurs ou plus sont connectés sur le même serveur
 + 12h Maximum si aucun joueur n'est connecté sur le serveur
 >Voici la [Fonction mathématique](https://www.desmos.com/calculator/jf8s5sjjwq?lang=fr) qui définit le taux de respawn
 
-## Le colisée
-Le colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __vous pouvez y perdre votre stuff__. 
+## Le Colisée
+Le Colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __vous pouvez y perdre votre stuff__. 
 Une fois en combat contre le boss, votre statut passe en combat, vous ne pouvez donc plus vous déconnecter, comme en combat contre un autre joueur. 
 
 ![colosseum](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/colosseum.png)
@@ -28,7 +31,7 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
 + Des parchemins d'enchantement :
     - 2e ou mieux  - entre 2 et 4
     - 3e et plus - 1 seul
-    - plus de 2500 dégâts infligés - 1 ajouté au total
+    - plus de 2 500 dégâts infligés - 1 ajouté au total
 
 >Si vous faites partie des joueurs les plus acharnés au combat, votre nom sera affiché à l'entrée de l'arène avec votre nombre total de __dégâts infligés__ ainsi que le nombre total de __boss tués__.
 

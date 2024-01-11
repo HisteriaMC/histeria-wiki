@@ -3,7 +3,7 @@
 
 ## Informations
 Que les éclairs de la colère divine s'abattent ! L'enchantement Strike est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword).
-Quand un ennemi est frappé avec cet enchantement, il a une chance de le foudroyer et de lui infliger des dégâts (l'éclair ne fait pas de dégats additionnels).
+Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire foudroyer et de subir des dégâts.
 
 **Niveau maximum :** 3
 

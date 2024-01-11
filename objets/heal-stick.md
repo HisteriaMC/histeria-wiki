@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png%%
 %%name=Bâton de soin%%
 %%weight=403%%
+
 # Bâton de soin
 
 ## Description
-Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/objets/baton-de-saut) et le [bâton de vitesse](https://histeria.fr/wiki/objets/baton-de-vitesse). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquants dans une table de craft.
+Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/objets/jump-stick) et le [bâton de vitesse](https://histeria.fr/wiki/objets/speed-stick). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquant.
 
 ## Craft
 -=-
@@ -20,7 +21,7 @@ Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [b�
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png
 -=-
 
-Le craft est débloqué à partir du niveau 21 dans le métier de tueur.
+Pour pouvoir en fabriquer, il faut être niveau 21 dans le métier de tueur.
 
 ## Utilité
-Lorsque vous utilisez ce bâton, il vous soignera 4 coeurs. Il y a un cooldown de 20 secondes entre chaque utilisation.
+Lorsque vous utilisez ce bâton, il vous soignera 4 coeurs. Il y a un temps de recharge de 20 secondes entre chaque utilisation.

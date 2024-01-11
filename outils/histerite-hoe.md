@@ -4,7 +4,7 @@
 # Houe en Histerite 
 
 ## Description
-Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec une houe vanilla.
+Houe améliorée qui vous permet de labourer la terre plus rapidement qu'avec une houe Vanilla.
 
 ## Craft
 -=-
@@ -20,8 +20,8 @@ Houe améliorée qui vous permettra de labourer la terre plus rapidement qu'avec
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png
 -=-
 
-Pour pouvoir la fabriquer, vous devez être niveau 5 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier d'agriculteur.
 
 ### Informations
 Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irriguées.
-Elle a 5000 de durabilité.
+Elle a 5 000 de durabilité.
