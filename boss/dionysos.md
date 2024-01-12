@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/dionysos.png%%
-%%weight=706%%
+%%weight=708%%
 # Dionysos
 
 ## Description 
