@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/demeter.png%%
-%%weight=706%%
+%%weight=705%%
 # Demeter
 
 ## Description 
