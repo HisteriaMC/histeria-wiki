@@ -22,7 +22,7 @@ Il y à 3 types d'arènes en faction :
 
     >Pour y accéder : /arene 2
 
-+ L'arène Boss - Perte de stuff __activée__ mais sans __PvP__
++ L'arène boss - Perte de stuff __activée__ mais sans __PvP__
 
     >Pour y accéder : /boss
 ## Sorties
