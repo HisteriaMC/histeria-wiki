@@ -10,7 +10,7 @@ Apollo, le dieu grec du soleil, de la musique, de la poésie et des arts, se dre
 #### __Points de Vie__
 + 11 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
   - Lyre I
@@ -27,7 +27,6 @@ La lyre, comme les autres items de boss, est obtenable grâce aux clés de boss.
 ![magic-lyre](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/magic-lyre.png)
 
 ## Skin
-
 ![apollo](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/apollo.png)
 
 

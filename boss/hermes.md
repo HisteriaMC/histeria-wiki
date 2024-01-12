@@ -10,11 +10,10 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
 #### __Points de Vie__
 + 11 000 PV
 
-#### __Arme :__
-+ Epée en histerite
+#### __Arme__
++ Epée en Histerite
   - Tranchant V
   - Recul II
 
 ## Skin
-
 ![hermes](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png)

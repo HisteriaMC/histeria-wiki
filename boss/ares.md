@@ -10,12 +10,11 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 #### __Points de Vie__
 + 12 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
   
 ## Skin
-
 ![ares](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/ares.png)
 
 

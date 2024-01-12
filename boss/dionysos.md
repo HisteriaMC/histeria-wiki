@@ -9,7 +9,7 @@ Dionysos, le dieu du vin, de la fête et de l'extase, se dresse en tant que figu
 #### __Points de Vie__
 + 10 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
 
@@ -24,7 +24,6 @@ Le calice, comme les autres items de boss, est obtenable grâce aux clés de bos
 ![chalice](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chalice.png)
 
 ## Skin
-
 ![dionysos](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/dionysos.png)
 
 

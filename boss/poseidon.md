@@ -10,7 +10,7 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 #### __Points de Vie__
 + 13 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Trident 
   - Tranchant V
   - Tsunami I
@@ -24,5 +24,4 @@ Le trident légendaire de Poséidon. Possède l'enchantement unique __Tsunami__,
 ![trident](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/trident.png)
 
 ## Skin
-
 ![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/poseidon.png)

@@ -9,13 +9,17 @@ Hades, le sombre seigneur des Enfers, se dresse en tant que maître implacable d
 #### __Points de Vie__
 + 14 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
   - Permaflame I
 
-## Skin
+## Enchantement unique : Permaflame
 
+## Description
+Enchantement unique __Permaflame__, ayant le pouvoir de mettre en feu le joueur.
+
+## Skin
 ![hades](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hades.png)
 
 

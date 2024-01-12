@@ -9,13 +9,12 @@ Hestia, déesse vénérée dans les arènes mythiques, se tient comme la gardien
 #### __Points de Vie__
 + 15 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
   - Strike I
 
 ## Skin
-
 ![hestia](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hestia.png)
 
 

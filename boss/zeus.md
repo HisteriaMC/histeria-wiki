@@ -9,7 +9,7 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 #### __Points de Vie__
 + 17 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Epée en Histerite 
   - Tranchant V
   - Strike I
@@ -27,7 +27,6 @@ L'éclair, comme les autres items de boss, est obtenable grâce aux clés de bos
 ![thunderbolt](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/thunderbolt.png)
 
 ## Skin
-
 ![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/zeus.png)
 
 

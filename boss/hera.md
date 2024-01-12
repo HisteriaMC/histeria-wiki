@@ -10,7 +10,7 @@ Héra, la reine majestueuse des dieux, se tient en tant que figure imposante au 
 #### __Points de Vie__
 + 10 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Sceptre du Lotus
   - Tranchant V
   - Clone I
@@ -24,7 +24,6 @@ Le Sceptre du Lotus de Héra. Possède l'enchantement unique __Clone__, ayant le
 ![lotus-staff](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lotus-staff.png)
 
 ## Skin
-
 ![hera](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hera.png)
 
 

@@ -10,12 +10,11 @@ Athena, la déesse de la sagesse, de la guerre stratégique, et des arts, se pro
 #### __Points de Vie__
 + 9 000 PV
 
-#### __Arme :__
+#### __Arme__
 + Lance d'Athéna
   - Tranchant V
 
 ## Skin
-
 ![athena](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/athena.png)
 
 
