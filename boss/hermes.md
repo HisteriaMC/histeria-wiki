@@ -1,19 +1,19 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hermes.png%%
+%%name=Hermès%%
 # Hermès
 
-OUTDATED
-
 ## Description 
-Messager des dieux, Hermès connaît tous les raccourcis, et possède une force et une rapidité extraordinaire. Faîtes attention aux temps de recharge de vos objets de soins, il se pourrait bien qu'Hermès prenne la liberté de les rallonger à sa guise.
+Messager des dieux, Hermès connaît tout les raccourcis, et possède une force et une rapidité extraordinaire.
 
 ## Caractéristiques
 
 #### __Points de Vie__
++ 11 000 PV
 
-#### __Arme :__
-
-## Objet unique 
+#### __Arme__
++ Epée en Histerite
+  - Tranchant V
+  - Recul II
 
 ## Skin
-
 ![hermes](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png)
