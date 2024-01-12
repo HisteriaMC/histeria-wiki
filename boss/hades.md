@@ -1,4 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hades.png%%
+%%weight=707%%
 # Hades
 
 ## Description 
