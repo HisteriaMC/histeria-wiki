@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest_front.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png%%
 %%name=Coffre d'arène%%
 
 # Coffre d'arène 
@@ -10,12 +10,14 @@ Un coffre se trouve dans chaque arène. Il se remplit automatiquement de butin i
 ## Butin
 
 Le loot de chaque coffre est aléatoire entre 8 possibilités :
-- - Une armure en histerite complète
+
+- Une armure en histerite complète
     > Il y a 1 chance sur 6 pour que le plastron et les jambières soient enchantés protection 4, et 1 autre chance sur 6 pour que ce soit le casque et les bottes.
-  - [Un ticket de lotterie](https://histeria.fr/wiki/objets/lottery-ticket)
+    
+  - [Un ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)
 <br>
 
-- - [20 pommes en histerite](https://histeria.fr/wiki/objets/histerite-apple)
+- - [20 pommes en Histerite](https://histeria.fr/wiki/objets/histerite-apple)
 <br>
 
 - - 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick)
@@ -25,26 +27,27 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 <br>
 
 - - 4 pommes en or
-  - Un totem d'immortalité
-  - 16 poissons globes
-  - 32 carottes en or
+  - 1 totem d'immortalité
+  - 16 poissons-globes
+  - 32 carottes dorées
   > Il y a 1 chance sur 6 pour que il y ai également une pomme dorée enchantée.
 <br>
 
 - - 8 [shurikens](https://histeria.fr/wiki/objets/shuriken)
-  - 8 pommes en histerite
-  - Une [épée en histerite](https://histeria.fr/wiki/outils/histerite-sword)
-  > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
-<br>
+  - 8 pommes en Histerite
+  - Une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword)
 
-- - 22 perles de l'end
+  > Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5.
+
+- - 22 perles de l'Ender
 <br>
 
 - - 22 bâtons de soin
-  - Une [clé en histerite](https://histeria.fr/wiki/objets/histerite-key)
+  - Une [clé en Histerite](https://histeria.fr/wiki/objets/histerite-key)
   - Un [parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)
 <br>
 
-- - 4 pommes en histerite
+- - 4 pommes en Histerite
   - 2 bâtons de vitesse
-    > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archéologie](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
+    > Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archeology](https://histeria.fr/wiki/enchantements/archeologie), [Execution](https://histeria.fr/wiki/enchantements/execution) et [Gravity](https://histeria.fr/wiki/enchantements/gravity), soit également présent.
+

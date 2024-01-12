@@ -2,23 +2,23 @@
 %%name=Table de craft%%
 %%weight=301%%
 # Table de craft API Markdown
-Dans ce tutoriel, nous allons voir comment realiser via les balises Markdown customisé differantes tables de craft.  
+Dans ce tutoriel, nous allons voir comment realiser via les balises Markdown customisées différentes tables de craft.  
 > :warning: La stylisation de ces balises n'est effective que sur le site d'Histeria dans l'onglet Wiki 
 
-## Syntax  
+## Syntaxe  
 
-Les tables de craft stylisé pour le wiki d'Histeria doivent respecter un format spécifique.  
+Les tables de craft stylisées pour le wiki d'Histeria doivent respecter un format spécifique.  
 - ``-=-`` Entoure l'ensemble des balises concernant la table de craft
 - ``==- https:// lien de l'image ou vide`` présent au nombre de 9, correspond aux cellules de la table pour la recette
-- ``-== https:// lien de l'image ou vide`` Correspond a la cellule de resultat de la table de craft
+- ``-== https:// lien de l'image ou vide`` Correspond à la cellule de résultat de la table de craft
 
-> :warning: Si vous souhaitez laisser une cellule vide, il faut absolument un espace apres la syntax de cellule : ``==-``  
+> :warning: Si vous souhaitez laisser une cellule vide, il faut absolument un espace apres la syntaxe de cellule : ``==-``  
 
-> :warning: Si vous ne souhaitez pas de resultat, il suffit de retirer la synaxe de resultat `-==` de votre table de craft
+> :warning: Si vous ne souhaitez pas de résultat, il suffit de retirer la syntaxe de résultat `-==` de votre table de craft
 
 ## Exemples
 
-Table de craft avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
+Table de craft avec résultat et couleurs indiquant quelle ligne correspond à quelle balise de cellule :
 ```markdown
 -=-
  ==- blue
@@ -47,7 +47,7 @@ Table de craft avec resultat et couleurs indiquant quelle ligne correspond à qu
 -=-
 
 ---
-Table de craft sans resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules :
+Table de craft sans résultat et couleurs indiquant quelle ligne correspond à quelle balise de cellule :
 ```markdown
 -=-
  ==- blue
@@ -74,7 +74,7 @@ Table de craft sans resultat et couleurs indiquant quelle ligne correspond à qu
 -=-
 
 ---
-Table de craft avec resultat et couleurs indiquant quelle ligne correspond à quelles balises de cellules, ainsi que des cellules sans contenue :
+Table de craft avec résultat et couleurs indiquant quelle ligne correspond à quelle balise de cellule, ainsi que des cellules sans contenu :
 ```markdown
 -=-
  ==- 

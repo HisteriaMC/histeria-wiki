@@ -4,7 +4,7 @@
 # Hache en Histerite
 
 ## Description
-Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec une hache vanilla.
+Hache améliorée qui vous permet de casser du bois plus rapidement qu'avec une hache Vanilla.
 
 ## Craft
 -=-
@@ -20,8 +20,8 @@ Hâche améliorée qui vous permettra de casser du bois plus rapidement qu'avec 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png
 -=-
 
-Pour pouvoir la fabriquer, vous devez être niveau 5 dans le métier de bûcheron.
+Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier de bûcheron.
 
 ### Informations
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
-Elle a 5000 de durabilité.
+Elle a 5 000 de durabilité.

@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png%%
-%%name=Nocturite compréssée%%
+%%name=Nocturite compressée%%
 
-# Nocturite compréssée
+# Nocturite compressée
 
 ## Description
-La Nocturite compréssée est un élément essentiel pour l'obtention de différents objets en Nocturite tel que [l'armure en Nocturite](https://histeria.fr/wiki/armures) 
+La Nocturite compressée est un élément essentiel pour l'obtention de différents objets en Nocturite tels que la [marteau](https://histeria.fr/wiki/outils/hammer) et le [Coeur de Nocturite](https://histeria.fr/wiki/objets/nocturite-core).
 
 ## Craft
 -=-
@@ -20,4 +20,5 @@ La Nocturite compréssée est un élément essentiel pour l'obtention de différ
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png
 -=-
 
-Pour pouvoir la fabriquer, vous devez être niveau 27 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 27 dans le métier de d'agriculteur.
+
