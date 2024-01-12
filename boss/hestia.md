@@ -1,4 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hestia.png%%
+%%weight=710%%
 # Hestia
 
 ## Description 
