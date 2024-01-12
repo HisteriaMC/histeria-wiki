@@ -1,9 +1,10 @@
-# Fonctionnement des Boss
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/boss-icon.png%%
+# Fonctionnement des boss
 
 ## Apparition
 Les boss peuvent apparaître dans les 3 serveurs __faction__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés :
-+ 2h Minimum si 84 joueurs ou plus sont connectés sur le même serveur
-+ 12h Maximum si aucun joueur n'est connecté sur le serveur
++ 2h Minimum si 84 joueurs ou plus sont connectés sur le même serveur.
++ 12h Maximum si aucun joueur n'est connecté sur le serveur.
 >Voici la [Fonction mathématique](https://www.desmos.com/calculator/jf8s5sjjwq?lang=fr) qui définit le taux de respawn
 
 ## Le colisée
@@ -60,4 +61,4 @@ Voici la liste des boss disponibles en jeu :
 
 ### Récompenses uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a une petite chance d'obtenir la récompense unique du boss vaincu, la clé boss.
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a une petite chance d'obtenir la récompense du boss vaincu, la [clé boss](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png).

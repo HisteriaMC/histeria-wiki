@@ -21,7 +21,10 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
 Un éclair apparaît sur le joueur, mais ne lui inflige aucun dégât. Il ne peut être utilisé qu'1 fois. 
 
 Objet s'utilisant sur un joueur. Il a pour effet de déplacer une pièce de son armure dans son inventaire, il permet également d'immobiliser votre adversaire en l'air.
-L'éclair, comme les autres items de boss, est obtenable grâce aux clés de Boss.
+L'éclair, comme les autres items de boss, est obtenable grâce aux clés de boss.
+
+## Aperçu
+![thunderbolt](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/thunderbolt.png)
 
 ## Skin
 

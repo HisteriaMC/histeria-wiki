@@ -18,7 +18,10 @@ Dionysos, le dieu du vin, de la fête et de l'extase, se dresse en tant que figu
 ## Description
 Objet s'utilisant sur un joueur. Lorsque le calice est utilisé sur un joueur, celui-ci reçoit tous les effets négatifs. Un son de potion est également joué. Il ne peut être utilisé qu'1 fois. 
 
-Le calice, comme les autres items de boss, est obtenable grâce aux clés de Boss.
+Le calice, comme les autres items de boss, est obtenable grâce aux clés de boss.
+
+## Aperçu
+![chalice](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chalice.png)
 
 ## Skin
 

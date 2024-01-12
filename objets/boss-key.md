@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png%%
-%%name=Clé Boss%%
+%%name=Clé boss%%
 
-# Clé Boss
+# Clé boss
 
 ## Description
-La clé Boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/monde-minage) et [serveurs factions](https://histeria.fr/wiki/mondes/serveurs-faction).
+La clé boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/monde-minage) et [serveurs factions](https://histeria.fr/wiki/mondes/serveurs-faction).
 
 ## Utilité
 Grâce à ces clés vous pouvez obtenir du stuff d'excellente qualité :

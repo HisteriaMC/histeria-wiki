@@ -15,4 +15,4 @@ Tout comme le totem d'immortalité, après que le joueur ait échappé à la mor
 
 ## Obtention
 
-L'unique moyen d'obtention du totem en Histerite est en utilisant une clé Boss sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/monde-minage) et [serveurs factions](https://histeria.fr/wiki/mondes/serveurs-faction).
+L'unique moyen d'obtention du totem en Histerite est en utilisant une clé boss sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/monde-minage) et [serveurs factions](https://histeria.fr/wiki/mondes/serveurs-faction).
