@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/apollo.png%%
-%%weight=712%%
+%%weight=711%%
 # Apollo
 
 ## Description 

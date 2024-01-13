@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/aphrodite.png%%
-%%weight=713%%
+%%weight=712%%
 # Aphrodite
 
 ## Description 
