@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/boss-icon.png%%
-%%weight=701%%
+%%weight=713%%
 # Fonctionnement des boss
 
 ## Apparition
@@ -20,12 +20,6 @@ Vous pouvez quitter le statut de combat en vous éloignant du boss et attendre l
 
 ### Jardin élyséen
 ![elysian-gardens](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/elysian-gardens.png)
-<img
-  src="https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/elysian-gardens.png"
-  alt="elysian-gardens"
-  height="1080"
-  weight="1920"
-   />
 
 ### Colisée
 ![colosseum](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/colosseum.png)
