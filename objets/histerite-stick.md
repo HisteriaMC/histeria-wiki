@@ -4,7 +4,7 @@
 # Bâton d'Histerite
 
 ## Description
-Le bâton d'Histerite est essentiel pour la fabriquation des [outils en Histerite](https://histeria.fr/wiki/outils)
+Le bâton d'Histerite est essentiel pour la fabrication des [outils en Histerite](https://histeria.fr/wiki/outils).
 
 ## Craft
 -=-
@@ -19,3 +19,4 @@ Le bâton d'Histerite est essentiel pour la fabriquation des [outils en Histerit
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
 -=-
+

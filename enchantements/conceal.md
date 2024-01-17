@@ -1,12 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 # Conceal
 
-## Informations 
-L'enchantement *Conceal* est fusionnable avec une pièce d'armure.
+## Informations
+L'enchantement Conceal est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
+Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indicateur de sa vie (dans le nom de ce dernier) pour 6 secondes.
 
-Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indicateur de vie (dans le nom du porteur de l'enchantement) pour 6 secondes.  
-
-**Niveau maximum :** 1  
+**Niveau maximum :** 3
 
 <table>
   <tr>
@@ -16,7 +15,16 @@ Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indi
   </tr>
   <tr>
     <td>1</td>
-    <td>2%</td>
-    <td>Aucun</td>
+    <td>0.3%</td>
+    <td>Cache l'indicateur de vie</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>0.35%</td>
+    <td>Cache l'indicateur de vie</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>0.4%</td>
+    <td>Cache l'indicateur de vie</td>
 </table>

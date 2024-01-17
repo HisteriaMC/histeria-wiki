@@ -2,21 +2,28 @@
 # Execution
 
 ## Informations
-L'enchantement *Execution* est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/tools/histerite-sword), il est obtenable seulement en tuant un [boss](https://histeria.fr/wiki/boss). L'enchantement est incompatible avec tout les enchantements d'arène et avec l'enchantement [Strike](https://histeria.fr/wiki/enchants/strike).
+Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword).
+Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie supplémentaires à son adversaire.
 
-Quand le porteur de l'enchantement frappe un ennemi, il a une chance de retirer 2 coeurs à son ennemi.
-
-**Niveau maximum :** 1
+**Niveau maximum :** 3
 
 <table>
   <tr>
     <th>Niveau</th>
     <th>Pourcentages d'activation</th>
-    <th>Effet</th>
+    <th>Effets</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>1%</td>
-    <td>Aucun</td>
+    <td>0.6%</td>
+    <td>Retire 2 coeurs de vie à son adversaire</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>3.40%</td>
+    <td>Retire 2 coeurs de vie à son adversaire</td>
+  <tr>
+    <td>3</td>
+    <td>3.60%</td>
+    <td>Retire 2 coeurs de vie à son adversaire</td>
 </table>

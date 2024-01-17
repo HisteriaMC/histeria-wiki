@@ -9,10 +9,10 @@ Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile 
 ## Craft
 -=-
  ==- 
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
@@ -21,4 +21,4 @@ Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile 
 -=-
 
 ## Utilité 
-Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou moddée partout, et cela même dans les claims ennemis. 
+Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou moddée, et cela même dans les claims ennemis. 

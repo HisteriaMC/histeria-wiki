@@ -1,9 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
 %%name=Pomme en Histerite%%
+
 # Pomme en Histerite
 
 ## Description
-La pomme en histerite est un excellent moyen de se soigner durant un combat.
+La pomme en histerite est un excellent objet pour se soigner durant un combat.
 
 ## Craft
 -=-
@@ -19,10 +20,12 @@ La pomme en histerite est un excellent moyen de se soigner durant un combat.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png
 -=-
 
+Pour pouvoir en fabriquer, il faut être niveau 15 dans le métier de tueur.
+
 ## Utilité
-Cette item vous permettra vous donnera les effets suivant :
+Cet objet vous donne les effets suivant :
 | Effet | Niveau | temps (en seconde) |
 |:-----:|:------:|:------------------:|
 | Absorption | 2 | 60 |
-| Resistance | 3 | 10 |
+| Résistance | 3 | 10 |
 | Régénération | 5 | 2 |
