@@ -18,13 +18,13 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 6 | 64 [spikes](https://histeria.fr/wiki/blocs/spike) |
 | 7 | 128 [cobblestone compressée](https://histeria.fr/wiki/objets/compressed-cobblestone) |
 | 8 | Un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) & un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) |
-| 9 | Des [jambières en Histerite](https://histeria.fr/wiki/armures/histerite-leggings) & des [bottes en Histerite](https://histeria.fr/wiki/armors/histerite-boots) |
+| 9 | Des [jambières en Histerite](https://histeria.fr/wiki/armures/histerite-leggings) & des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) |
 | 10 | 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick) |
 | 11 | 1 [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) incassable |
 | 12 | 1 [pelle en Histerite](https://histeria.fr/wiki/outils/histerite-shovel) incassable |
-| 13 | 1 [hache en Histerite](https://histeria.fr/wiki/tools/histerite-axe) incassable |
+| 13 | 1 [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe) incassable |
 | 14 | 16 [ascenceurs](https://histeria.fr/wiki/blocs/elevator) |
-| 15 | Code promo de 20% sur la [boutique](shop.histeria.fr) |
+| 15 | Code promo de 20% sur la [boutique](https://shop.histeria.fr/) |
 | 16 | 9 potions jetables de soins instantanés II |
 | 17 | 128 [obsidiennes empoisonnées](https://histeria.fr/wiki/blocs/poison-obsidian) |
 | 18 | 5 potions jetables de dégâts instantané II |
@@ -42,13 +42,13 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 30 | 1 [Nocturite compressée](https://histeria.fr/wiki/objets/nocturite-compress) |
 | 33 | Fast learner (+1 niveau sur chaque métier) |
 | 35 | 1 pomme enchantée |
-| 40 | [Grade Omega](shop.histeria.fr) pendant 2 semaines | 
+| 40 | [Grade Omega](https://shop.histeria.fr/) pendant 2 semaines | 
 | 50 | Mega Fast Learner (+2 niveaux sur chaque métier) |
-| 60 | Code promo de 40% sur la [boutique](shop.histeria.fr) |
+| 60 | Code promo de 40% sur la [boutique](https://shop.histeria.fr/) |
 | 65 | Giga Fast Learner (+3 niveaux sur chaque métier) |
 | 75 | 1 Nitro Basic Discord - _limité_ |
 | 90 | 1 [coeur en Nocturite](https://histeria.fr/wiki/objets/nocturite-core)                                                                                    |
-| 105 | [Grade Omega](shop.histeria.fr) pendant 2 semaines | 
+| 105 | [Grade Omega](https://shop.histeria.fr/) pendant 2 semaines | 
 | 115 | 3 [coeurs en Nocturite](https://histeria.fr/wiki/objets/nocturite-core) |
 | 135 | 3 [clés en Nocturite](https://histeria.fr/wiki/objets/nocturite-key) |
 | 140 | Demande libre au staff sous conditions |
