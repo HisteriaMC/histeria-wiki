@@ -16,15 +16,15 @@ Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous 
   <tr>
     <td>1</td>
     <td>0.3%</td>
-    <td>Dissparition des effets négatifs</td>
+    <td>Disparition des effets négatifs</td>
   </tr>
   <tr>
     <td>2</td>
     <td>0.35%</td>
-    <td>Dissparition des effets négatifs</td>
+    <td>Disparition des effets négatifs</td>
   </tr>
   <tr>
     <td>3</td>
     <td>0.4%</td>
-    <td>Dissparition des effets négatifs</td>
+    <td>Disparition des effets négatifs</td>
 </table>

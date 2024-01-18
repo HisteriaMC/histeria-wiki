@@ -3,7 +3,7 @@
 
 ## Informations
 L'enchantement Gravity est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
-Quand le porteur de l'enchantement est frappé, il a une chance de donner un effet de jump boost au porteur de l'enchantement.
+Quand le porteur de l'enchantement est frappé, il a une chance de donner un effet de Saut amélioré au porteur de l'enchantement.
 
 **Niveau maximum :** 3
 
@@ -16,15 +16,15 @@ Quand le porteur de l'enchantement est frappé, il a une chance de donner un eff
   <tr>
     <td>1</td>
     <td>0.3%</td>
-    <td>Effet de saut amélioré</td>
+    <td>Effet de Saut amélioré</td>
   </tr>
   <tr>
     <td>2</td>
     <td>0.35%</td>
-    <td>Effet de saut amélioré</td>
+    <td>Effet de Saut amélioré</td>
   </tr>
   <tr>
     <td>3</td>
     <td>0.4%</td>
-    <td>Effet de saut amélioré</td>
+    <td>Effet de Saut amélioré</td>
 </table>

@@ -1,10 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png%%
-%%name=Histerite compréssée%%
+%%name=Histerite compressée%%
 
-# Histerite compréssée
+# Histerite compressée
 
 ## Description
-L'Histerite compréssée est un élément essentiel pour la fabriquation de l'[armure en Nocturite](https://histeria.fr/wiki/armures)
+L'Histerite compressée est un élément essentiel pour la fabrication du [coeur d'Histerite](https://histeria.fr/wiki/objets/histerite-core).
 
 ## Craft
 -=-
@@ -20,4 +20,4 @@ L'Histerite compréssée est un élément essentiel pour la fabriquation de l'[a
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
 -=-
 
-Pour pouvoir la fabriquer, vous devez être niveau 12 dans le métier de mineur.
+Pour pouvoir la fabriquer, il faut être niveau 12 dans le métier de mineur.

@@ -2,7 +2,8 @@
 # Clean
 
 ## Informations
-C'est propre tout ça ! L'enchantement Clean est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe). Il permet de supprimer les blocs suivants :
+C'est propre tout ça ! L'enchantement Clean est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/outils/histerite-pickaxe). Il permet de supprimer les blocs suivants :
+
 + Le gravier
 + La terre
 + L'herbe

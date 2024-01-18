@@ -2,8 +2,8 @@
 # Infuse
 
 ## Informations
-Experience a tout va ! L'enchantement Infuse est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe).
-Quand le porteur casse un bloc, il gagne 5x plus d'experience qu'en temps normal !
+Expérience à tout va ! L'enchantement Infuse est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/outils/histerite-pickaxe).
+Quand le porteur casse un bloc, il gagne 5x plus d'expérience qu'en temps normal !
 
 **Niveau maximum :** 3
 
