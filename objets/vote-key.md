@@ -4,7 +4,7 @@
 # Clé de Vote
 
 ## Description
-La clé de vote est obtenable en votant sur le serveur, dans tous les kits, le Vote Party et dans des [Lucky Blocks](https://histeria.fr/wiki/blocks/lucky-block). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs minages](https://histeria.fr/wiki/worlds/monde-minage) et [serveurs factions](https://histeria.fr/wiki/worlds/serveurs-faction).
+La clé de vote est obtenable en votant sur le serveur, dans tous les [kits](https://histeria.fr/wiki/récompenses/kits), le Vote Party et dans des [Lucky Blocks](https://histeria.fr/wiki/blocks/lucky-block). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs minages](https://histeria.fr/wiki/worlds/monde-minage) et [serveurs factions](https://histeria.fr/wiki/worlds/serveurs-faction).
 
 ## Utilité
 Grâce à cette clé vous pouvez obtenir du stuff de bonne qualité :
