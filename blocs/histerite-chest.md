@@ -1,7 +1,7 @@
 %%name=Coffre en Histerite%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-chest.png%%
 
-# Coffre en histerite
+# Coffre en Histerite
 
 ## Description
 
