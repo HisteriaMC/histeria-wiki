@@ -2,7 +2,7 @@
 
 # Récompenses du calendrier de vote
 
-Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite), 10 [cobblestone compressée](https://histeria.fr/wiki/objets/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block). Ils ont également avec de la chance un [ticket de lotterie](https://histeria.fr/wiki/objets/lottery-ticket).
+Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite), 10 [cobblestones compressées](https://histeria.fr/wiki/objets/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block). Ils ont également avec de la chance un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket).
 
 Mais des récompenses bien plus intéressantes attendent les joueurs qui votent chaque jour de suite :
 
@@ -11,12 +11,12 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 
 | Jours de vote consécutifs | Récompenses                                                                                                                                             |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2 | Tout les [outils en Histerite](https://histeria.fr/wiki/outils) |
+| 2 | Tous les [outils en Histerite](https://histeria.fr/wiki/outils) |
 | 3 | 10 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite) |
 | 4 | 1 [graine en Nocturite](https://histeria.fr/wiki/objets/nocturite-seed) |
 | 5 | 3 [tickets de loterie](https://histeria.fr/wiki/objets/lottery-ticket) |
 | 6 | 64 [spikes](https://histeria.fr/wiki/blocs/spike) |
-| 7 | 128 [cobblestone compressée](https://histeria.fr/wiki/objets/compressed-cobblestone) |
+| 7 | 128 [cobblestones compressées](https://histeria.fr/wiki/objets/compressed-cobblestone) |
 | 8 | Un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) & un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) |
 | 9 | Des [jambières en Histerite](https://histeria.fr/wiki/armures/histerite-leggings) & des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) |
 | 10 | 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick) |
