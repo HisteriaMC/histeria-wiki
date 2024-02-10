@@ -5,13 +5,13 @@
 
 Les kits sont des ensembles d'objets pouvant être obtenus toutes les 24 heures. Ils sont accessibles avec la commande **/kit**.
 
-Ces ensembles peuvent être récupérés dans un coffre ou directement dans l'inventaire.
+Il existe 6 kits différents avec chacun une condition d'obtention différente:
 
-| Kit | Condition d'obtention | Contenu |
-|-------- | --------- | ---------- |
-| Histerien | Aucune, chaque joueur sans grade peut l'obtenir | Une armure en fer, 32 torches, 16 lingots de fer, 32 steaks cuits, une pioche en fer efficacité II solidité I et 2 potions jetables d'eau |
-| Vote | Il faut avoir voté le jour-même | Un casque et des bottes en diamant protection I, un plastron et des jambières en fer protection III solidité III, une pioche en diamant efficacité III, une épée en diamant, 3 pommes en or, une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block) |
-| Créateur de contenu | Certains critères doivent être remplis, et faire un ticket sur Discord | Un casque, un plastron et des jambières en diamant protection II solidité II, des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) protection II solidité II, une pioche en diamant efficacité II solidité II, une épée en diamant tranchant II solidité II, 64 blocs de béton vert clair, 8 [shurikens](https://histeria.fr/wiki/objets/shuriken), 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick), 4 [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block), 6 pommes en or, 8 diamants, 5 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite) et 3 [clés de vote](https://histeria.fr/wiki/objets/vote-key) |
-| VIP | Grade VIP indispensable | Un casque et des jambières en diamant, un plastron et des bottes en diamant protection I, une épée en diamant tranchant I solidité I, une pioche en diamant efficacité I solidité I, 64 blocs de béton vert, 4 pommes en or, une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block) |
-| Interplanétaire | Grade Interplanétaire indispensable | Un casque, un plastron et des jambières en diamant protection II solidité II, des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) protection II solidité II, une pioche en diamant efficacité II solidité II, une épée en diamant tranchant II solidité II, 8 [shurikens](https://histeria.fr/wiki/objets/shuriken), 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick), 2 [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block), 6 pommes en or, 8 diamants, 5 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite) et 2 [clés de vote](https://histeria.fr/wiki/objets/vote-key) |
-| Omega | Grade Omega indispensable | Un casque en diamant protection III solidité IV, des jambières en diamant protection II solidité IV, un [plastron](https://histeria.fr/wiki/armures/histerite-chestplate) et des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) protection III, une pioche en diamant efficacité III solidité III, une épée en diamant tranchant III solidité III, 16 [shurikens](https://histeria.fr/wiki/objets/shuriken), 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick), 3 [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block), 12 pommes en or, 16 diamants, 7 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite), 3 [clés de vote](https://histeria.fr/wiki/objets/vote-key), 1 [clé en Histerite](https://histeria.fr/wiki/objets/histerite-key) et 1 [ticket de lotterie](https://histeria.fr/wiki/objets/lottery-ticket) |
+- **Histerien**: Chaque joueur non gradé peut l'obtenir. Ce kit est idéal pour débuter car il comprend tous les objets indispensables en début d'aventure.
+- **Vote**: Ce kit est disponible pour chaque joueur ayant [voté](vote.histeria.fr) le jour-même.
+- **Créateur de contenu**: Les créateurs de contenu ont accès à ce kit.
+- **VIP**: Seul les joueurs avec le grade VIP peuvent obtenir ce kit.
+- **Interplanétaire**: Les joueurs possédant le grade Interplanétaire peuvent récupérer ce kit.
+- **Omega**: Ce kit est disponible uniquement pour les joueurs possédant le grade Omega.
+
+Le contenu de chaque kit peut être aperçu en jeu. Les kits peuvent être récupérés dans un coffre ou directement dans l'inventaire.
