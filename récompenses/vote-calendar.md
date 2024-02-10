@@ -1,8 +1,8 @@
-%%name=Calendrier de vote%%
+%%name=Récompenses de vote%%
 
-# Récompenses du calendrier de vote
+# Récompenses de vote
 
-Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite), 10 [cobblestones compressées](https://histeria.fr/wiki/objets/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block). Ils ont également avec de la chance un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket).
+Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite), 10 [cobblestone compressées](https://histeria.fr/wiki/objets/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/objets/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block). Les joueurs ont une chance sur 6 d'obtenir un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket), de même pour une graine en Nocturite. Le nombre de ticket de loterie ou de graine en Nocturite pouvant être obtenus avec de la chance passe à 2 pour les joueurs possédant le grade VIP, et à 3 pour les joueurs possédant le grade Interplanétaire ou Omega.
 
 Mais des récompenses bien plus intéressantes attendent les joueurs qui votent chaque jour de suite :
 
@@ -16,7 +16,7 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 4 | 1 [graine en Nocturite](https://histeria.fr/wiki/objets/nocturite-seed) |
 | 5 | 3 [tickets de loterie](https://histeria.fr/wiki/objets/lottery-ticket) |
 | 6 | 64 [spikes](https://histeria.fr/wiki/blocs/spike) |
-| 7 | 128 [cobblestones compressées](https://histeria.fr/wiki/objets/compressed-cobblestone) |
+| 7 | 128 [cobblestone compressées](https://histeria.fr/wiki/objets/compressed-cobblestone) |
 | 8 | Un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) & un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) |
 | 9 | Des [jambières en Histerite](https://histeria.fr/wiki/armures/histerite-leggings) & des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) |
 | 10 | 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick) |
@@ -47,7 +47,7 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 60 | Code promo de 40% sur la [boutique](https://shop.histeria.fr/) |
 | 65 | Giga Fast Learner (+3 niveaux sur chaque métier) |
 | 75 | 1 Nitro Basic Discord - _limité_ |
-| 90 | 1 [coeur en Nocturite](https://histeria.fr/wiki/objets/nocturite-core)                                                                                    |
+| 90 | 1 [coeur en Nocturite](https://histeria.fr/wiki/objets/nocturite-core) |
 | 105 | [Grade Omega](https://shop.histeria.fr/) pendant 2 semaines | 
 | 115 | 3 [coeurs en Nocturite](https://histeria.fr/wiki/objets/nocturite-core) |
 | 135 | 3 [clés en Nocturite](https://histeria.fr/wiki/objets/nocturite-key) |
