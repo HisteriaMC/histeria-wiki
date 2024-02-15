@@ -20,7 +20,6 @@ Les Donateurs ont accès à toutes les commandes.
 
 | Commande | Description | Grade |
 | --- | --- | --- |
-|`/kit`|Debloquer le kit correspondant à votre grade| VIP |
 |`/heal`|Permet de se soigner complètement| VIP |
 |`/furnace`|Permet de faire cuire les minerais dans sa main| VIP |
 |`/feed`|Permet de se nourrir complètement| VIP |
