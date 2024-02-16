@@ -15,11 +15,11 @@ Il existe 2 tailles de maisons de factions, les prix de base ainsi que les taill
 Pour éviter de se servir d'une maison de faction comme une base, les blocs pouvant stocker des objets sont interdits.
 
 ### Terres fertilisées  
-Il est également interdit d’utiliser vos maison de factions comme ferme. C'est pourquoi les [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) sont limitées au nombre de 16.
+Il est également interdit d’utiliser vos maisons de factions comme ferme. C'est pourquoi les [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) sont limitées au nombre de 16.
 
 
 ## Améliorations
 
-Il est possible d'ajouter aux maisons de faction 2 extentions coûtant chacune 4 millions.
+Il est possible d'ajouter aux maisons de faction 2 extensions coûtant chacune 4 millions.
  
 Des PNJ sont aussi disponibles à l'achat avec diverses améliorations possibles.
