@@ -9,10 +9,10 @@ Pour un AP simple de 1 chunk, les prix varient entre 8 et 12 millions.
 
 ## Restrictions
 
-Certaines restrictions sont en vigueur dans les avant-postes:
+Certaines restrictions sont en vigueur dans les avant-postes :
 
 ### Conteneurs
-Les blocs permettants de stocker n'importe quel type d'objet sont interdits.
+Les blocs permettant de stocker n'importe quel type d'objet sont interdits.
 
 ### Terres fertilisées
 Pour éviter que les avant-postes ne soient utilisés comme une ferme, le nombre de [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) est limité à 16.
@@ -26,5 +26,5 @@ Poser un home dans un AP qui ne vous appartient pas n’est pas autorisé.
 
 ## Améliorations
 
-Il est possible d'augmenter la taille des AP à l'aide d'extentions: La 1ère donne un chunk de 16 par 16 blocs supplémentaire pour 5 millions, et la seconde donne 2 chunks, soit 16 par 32 blocs supplémentaires pour 10 millions.
+Il est possible d'augmenter la taille des AP à l'aide d'extentions: La première donne un chunk ( 16 par 16 blocs ) supplémentaire pour 5 millions. La seconde donne 2 chunks ( 2 fois 16 par 16 ) blocs supplémentaires pour 10 millions.
 Des PNJ sont aussi disponibles à l'achat pour les placer dans les AP.
