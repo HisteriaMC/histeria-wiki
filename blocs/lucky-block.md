@@ -5,7 +5,7 @@
 # Lucky Block
 
 ## Description 
-Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party ou en cassant un autre Lucky Block.
+Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party, dans les [kits](https://histeria.fr/wiki/récompenses/kits) ou en cassant un autre Lucky Block.
 
 ## Utilité
 Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention aux coups de malchance ! De terribles choses pourraient vous arriver.
