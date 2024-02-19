@@ -36,3 +36,11 @@ Des parcours de sauts ont été construit un peu partout dans chaque monde facti
 ![jump](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/jumpv6-5.png)
 
 Les builds de chaque monde faction renferment aussi quelques petits secrets ou easter eggs, à vous de les découvrir !
+
+## Avant-postes
+
+Des [avant-postes](https://histeria.fr/wiki/mondes/ap) sont disponibles à l'achat en warzone.
+
+## Maisons de faction
+
+Des [maisons de factions(https://histeria.fr/wiki/mondes/mdf)] sont disponibles dans un monde spécial sur chaque serveur faction.
