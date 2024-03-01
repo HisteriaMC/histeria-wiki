@@ -5,8 +5,8 @@
 
 ## Description
 
-L'éponge puissante est un objet permettant de retirer une grande quantité d'eau en très peu de temps.
+L'éponge puissante est un objet permettant de retirer une grande quantité d'eau ou de lave en très peu de temps.
 
-Elle enlève de l'eau sur un volume d'un cube de 6 blocs tout autour du joueur. Sa durabilité est de 256, sachant que la durabilité diminue en fonction des blocs d'eau retirés.
+Elle enlève le liquide sur un rayon de 6 blocs dans les 3 dimensions autour du joueur. Sa durabilité est de 256, sachant que la durabilité diminue en fonction des blocs retirés.
 
 ## Craft
