@@ -1,5 +1,5 @@
 %%name=Éponge puissante%%
-%%icon=%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/sponger.png%%
 
 # Éponge puissante
 
@@ -7,6 +7,19 @@
 
 L'éponge puissante est un objet permettant de retirer une grande quantité d'eau ou de lave en très peu de temps.
 
-Elle enlève le liquide sur un rayon de 6 blocs dans les 3 dimensions autour du joueur. Sa durabilité est de 256, sachant que la durabilité diminue en fonction des blocs retirés.
+Elle enlève le liquide sur un rayon de 3 blocs autour du joueur. Sa durabilité est de 256, sachant que la durabilité diminue en fonction des blocs retirés.
 
 ## Craft
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/bucket.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- 
+ ==- 
+ ==- 
+ ==- 
+ ==- 
+ ==- 
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/sponger.png
+-=-
