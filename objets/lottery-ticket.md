@@ -25,3 +25,5 @@ Le ticket de loterie, une fois utilisé est un évènement économique qui vous 
 | 23%             | 50 000 $     |
 | 23%             | 25 000 $     |
 
+
+Malheureusement, l'état s'en mêle parfois et lorsqu'un ticket est utilisé, il y a 5% de chance qu'un contrôle fiscal s'impose. Le montant d'argent plus 40% qui était destiné est alors prélevé du compte du joueur.
