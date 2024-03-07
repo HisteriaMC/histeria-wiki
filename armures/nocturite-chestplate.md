@@ -25,6 +25,6 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
 ### Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Hâte III & Résistance & Bonus de vie IV & Saturation III | 4 | 20 000 |
+| Célérité III & Résistance & Bonus de vie IV & Saturation III | 4 | 20 000 |
 
 
