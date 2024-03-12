@@ -1,9 +1,9 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/apollo.png%%
 %%weight=711%%
-# Apollo
+# Apollon
 
 ## Description 
-Apollo, le dieu grec du soleil, de la musique, de la poésie et des arts, se dresse en tant que figure lumineuse et multidimensionnelle dans l'arène mythique.
+Apollon, le dieu grec du soleil, de la musique, de la poésie et des arts, se dresse en tant que figure lumineuse et multidimensionnelle dans l'arène mythique.
  Il a le pouvoir de vous affaiblir à l'aide de sa lyre enchantée.
 
 ## Caractéristiques
@@ -16,7 +16,7 @@ Apollo, le dieu grec du soleil, de la musique, de la poésie et des arts, se dre
   - Tranchant V
   - Lyre I
 
-## Objet unique : Lyre d'Apollo
+## Objet unique : Lyre d'Apollon
 
 ## Description
 Objet s'utilisant sur un joueur. Lorsque la lyre est utilisé sur un joueur, celui-ci reçoit 225% des dégâts d'enchantements par l'ennemi pendant 10 secondes.
