@@ -27,6 +27,7 @@ Les Donateurs ont accès à toutes les commandes.
 |`/back`|Permet de se téléporter à l'endroit de sa dernière mort| VIP |
 |`/freerepair [all]` | Répare l'objet de votre main ou tous les items de votre inventaire gratuitement | VIP |
 |`/nightvision `| Donne l'effet Vision Nocturne | VIP|
+| `/sit` | Permet de s'assoir | VIP |
 |||
 |`/ec`|Permet d'ouvrir son coffre de l'Ender| Interplanétaire |
 |`/fusion`|Permet d'ouvrir une enclume en Histerite| Interplanétaire |
