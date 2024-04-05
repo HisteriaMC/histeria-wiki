@@ -13,7 +13,7 @@ Grâce à cette clé vous pouvez obtenir du stuff de très bonne qualité :
 | 1 diamant                                                                                       | 4,39               |
 | 1 [Cave Block](https://histeria.fr/wiki/blocs/cave-block)                                       | 0,88               |
 | 1 [Chercheur de coffre](https://histeria.fr/wiki/objets/chest-finder)                         | 3,95               |
-| 1 [Explorateur de coffre](https://histeria.fr/wiki/objets/chest-explorer) (à écrire, aucune page)                        | 3,95               |
+| 1 [Explorateur de coffre](https://histeria.fr/wiki/objets/chest-explorer)                        | 3,95               |
 | 1 [Lucky Block](https://histeria.fr/wiki/blocs/lucky-block)                                     | 3,51               |
 | 1 [Parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)                                       | 3,07               |
 | 1 [Parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)                                       | 3,07               |
@@ -42,7 +42,7 @@ Grâce à cette clé vous pouvez obtenir du stuff de très bonne qualité :
 | 1 [Hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe)                           | 3,07               |               
 | 1 [Houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe)                            | 3,07               |
 | 1 [Pelle en Histerite](https://histeria.fr/wiki/outils/histerite-shovel)                        | 3,07               |
-| 1 [Eponge puissante](https://histeria.fr/wiki/objets/sponge) (à écrire, aucune page)                                   | 3,51               |
+| 1 [Eponge puissante](https://histeria.fr/wiki/objets/sponger)                                   | 3,51               |
 | 1 [Planeur](https://histeria.fr/wiki/objets/hang-glider)                                             | 4,39               |
 | 1 [Bloc d'Histerite](https://histeria.fr/wiki/blocs/histerite-block)                           | 4,39               |
 | 1 [Bloc de Nocturite](https://histeria.fr/wiki/blocs/nocturite-block)                           | 0,44               |
