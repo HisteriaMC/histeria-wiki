@@ -2,7 +2,6 @@
 %%name=Commandes gradés%%
 %%weight=204%%
 # Commandes gradés
-Les commandes 
 
 ## Description
 Avoir un grade vous donne accès à plusieurs commandes permettant d'améliorer votre expérience de jeu selon votre grade. Plus besoin de faire des allers-retours avec les spawns pour acheter et vendre des enchantements custom,  renommer vos objets, accéder à une table de craft à distance et plus encore !
