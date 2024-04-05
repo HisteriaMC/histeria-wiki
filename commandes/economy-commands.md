@@ -27,6 +27,7 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des objets dans
 |`/seelumenn [player]`|Permet de voir le nombre de lumenns d'un joueur ou le nôtre.|
 |  |  |
 |`/pay <pseudo> <montant>`|Permet de donner de l'argent à un joueur|
+|`/paylumenn <pseudo> <montant>`|Permet d'envoyer du lumenn à un joueur|
 |`/trade accept`|Accepte une demande de trade|
 |`/trade <joueur>`|Envoie une demande de trade|
 |`/vote`|Vote sur le serveur et vous donne des récompenses|
