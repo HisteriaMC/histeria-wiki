@@ -1,4 +1,5 @@
 %%name=Avant-Postes%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/faction-icon.png%%
 
 # Avant-Postes
 
