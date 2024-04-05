@@ -43,4 +43,4 @@ Des [avant-postes](https://histeria.fr/wiki/mondes/ap) sont disponibles à l'ach
 
 ## Maisons de faction
 
-Des [maisons de factions(https://histeria.fr/wiki/mondes/mdf)] sont disponibles dans un monde spécial sur chaque serveur faction.
+Des [maisons de factions](https://histeria.fr/wiki/mondes/mdf) sont disponibles dans un monde spécial sur chaque serveur faction.
