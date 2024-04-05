@@ -1,4 +1,5 @@
 %%name=Maisons de faction%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/faction-icon.png%%
 
 # Maisons de faction
 
