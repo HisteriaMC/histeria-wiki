@@ -5,7 +5,7 @@
 
 ## Description
 
-Le bloc néon est un bloc décoratif, et très joli ! Ce bloc animé alterne entre toutes les couleurs. 
+Le bloc néon est un bloc décoratif. Ce bloc animé alterne entre plusieurs couleurs. 
 
 Ce bloc peut être crafté, et est disponible à l'achat au shop.
 
