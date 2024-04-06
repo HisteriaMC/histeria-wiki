@@ -9,7 +9,7 @@ Le brise-roche est un bloc qui permet de transformer la cobblestone en minerais 
 
 Les probabilités sont disponibles sur la page de la [cobblestone compressée](https://histeria.fr/wiki/objets/compressed-cobblestone).
 
-Le brise-roche est disponible aux **spawns de chaque serveur**, mais il peut également être construit.
+Le brise-roche est disponible aux **spawns de chaque serveur**, mais un craft est également disponible.
 
 ## Craft
 
