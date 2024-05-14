@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/obsidian-breaker.png%%
 %%name=Casseur d'obsidienne%%
+%%weight=300%%
 
 # Casseur d'obsidienne
 
