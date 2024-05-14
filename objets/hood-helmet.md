@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hood-helmet.png%%
 %%name=Capuche%%
+%%weight=301%%
 
 # Capuche
 
