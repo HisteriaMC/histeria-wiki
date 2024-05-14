@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-pickaxe.png%%
 %%name=Les serveurs minage%%
+%%weight=403%%
 
 # Les serveurs minage
 
