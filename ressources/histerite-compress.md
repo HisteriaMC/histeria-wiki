@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png%%
 %%name=Histerite compressée%%
+%%weight=111%%
 
 # Histerite compressée
 
