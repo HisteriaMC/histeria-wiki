@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/faction2-icon.png%%
 %%name=Faction 2%%
+%%weight=405%%
 
 # Le serveur faction 2
 
