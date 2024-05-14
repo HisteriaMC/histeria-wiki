@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png%%
 %%name=Cristal de Nocturite%%
+%%weight=103%%
 
 # Cristal de Nocturite
 
