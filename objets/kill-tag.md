@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/kill-tag.png%%
-%%weight=405%%
+%%weight=317%%
 
 # Kill-Tag
 
