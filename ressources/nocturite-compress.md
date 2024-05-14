@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png%%
 %%name=Nocturite compressée%%
+%%weight=105%%
 
 # Nocturite compressée
 
