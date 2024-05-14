@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-seed.png%%
 %%name=Graines de Nocturite%%
+%%weight=101%%
 
 # Graines de Nocturite
 
