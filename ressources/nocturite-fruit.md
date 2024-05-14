@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-fruit.png%%
 %%name=Fruit de Nocturite%%
+%%weight=102%%
 
 # Fruit de Nocturite
 
