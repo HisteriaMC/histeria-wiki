@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/shuriken.png%%
-%%weight=407%%
+%%weight=314%%
 %%name=Shuriken%%
 
 # Shuriken
