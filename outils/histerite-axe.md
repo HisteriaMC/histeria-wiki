@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png%%
 %%name=Hache en Histerite%%
-%%weight=504%%
+%%weight=204%%
 # Hache en Histerite
 
 ## Description
