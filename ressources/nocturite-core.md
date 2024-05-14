@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png%%
 %%name=Coeur de Nocturite%%
+%%weight=106%%
 
 # Coeur de Nocturite
 
