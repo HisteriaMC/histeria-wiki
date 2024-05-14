@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png%%
 %%name=Bloc d'Histerite%%
+%%weight=110%%
 
 # Bloc d'Histerite
 
