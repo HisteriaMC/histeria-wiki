@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hera.png%%
-%%weight=705%%
+%%weight=1004%%
 %%name=Héra%%
 # Héra
 
