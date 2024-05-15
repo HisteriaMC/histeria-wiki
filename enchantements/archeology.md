@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Archeology%%
+%%weight=515%%
 # Archeology
 
 ## Informations
