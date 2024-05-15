@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png%%
 %%name=Clé boss%%
+%%weight=803%%
 
 # Clé boss
 
