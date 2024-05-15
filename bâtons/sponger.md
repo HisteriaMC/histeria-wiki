@@ -1,5 +1,6 @@
 %%name=Éponge puissante%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/sponger.png%%
+%%weight=900%%
 
 # Éponge puissante
 
