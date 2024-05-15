@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-key.png%%
 %%name=Clé en Histerite%%
+%%weight=801%%
 
 # Clé en Histerite
 
