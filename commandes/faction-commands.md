@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 %%name=Commandes de faction%%
-%%weight=202%%
+%%weight=703%%
 # Commandes de faction
 
 ## Description
