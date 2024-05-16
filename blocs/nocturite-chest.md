@@ -1,5 +1,6 @@
 %%name=Coffre en Nocturite%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-chest.png%%
+%%weight=1101%%
 
 # Coffre en Nocturite
 
