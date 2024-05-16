@@ -5,7 +5,7 @@
 # Spike
 
 ## Description
-Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/objets/histerite).
+Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/histerite).
 
 ## Craft
 -=-
