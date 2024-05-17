@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/elevator.png%%
 %%name=Ascenseur%%
-%%weight=1110%%
+%%weight=1010%%
 
 # Ascenseur
 
