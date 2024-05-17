@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/jump-stick.png%%
 %%name=Bâton de saut%%
-%%weight=901%%
+%%weight=1101%%
 
 # Bâton de saut
 
