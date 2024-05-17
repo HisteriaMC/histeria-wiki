@@ -5,7 +5,7 @@
 # Casseur d'obsidienne
 
 ## Description
-Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile lors de vos pillages de bases claims. Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/vote-key) mais également en le fabriquant. Il n'a pas de durabilité, mais le nombre qu'il vous faut pour casser un bloc d'obsidienne est aléatoire.
+Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile lors de vos pillages de bases claims. Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/clés/vote-key) mais également en le fabriquant. Il n'a pas de durabilité, mais le nombre qu'il vous faut pour casser un bloc d'obsidienne est aléatoire.
 
 ## Craft
 -=-
