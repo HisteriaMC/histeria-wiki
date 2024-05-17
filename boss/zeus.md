@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/zeus.png%%
-%%weight=1000%%
+%%weight=900%%
 # Zeus
 
 ## Description 
