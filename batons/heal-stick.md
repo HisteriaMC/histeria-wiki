@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png%%
 %%name=Bâton de soin%%
-%%weight=903%%
+%%weight=1103%%
 
 # Bâton de soin
 
