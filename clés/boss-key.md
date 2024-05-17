@@ -12,6 +12,6 @@ Grâce à ces clés vous pouvez obtenir du stuff d'excellente qualité :
 | Item                                                                                         | Probabilité (en %) |
 |:--------------------------------------------------------------------------------------------:|:------------------:|
 | 1 [Totem en Histerite](https://histeria.fr/wiki/objets/histerite-totem)                      | 25                 |
-| 1 [Eclair de Zeus](https://histeria.fr/wiki/objets/thunderbolt)                              | 25                 |
-| 1 [Lyre d'Apollo](https://histeria.fr/wiki/objets/magic-lyre)                                | 25                 |
-| 1 [Calice de Dionysos](https://histeria.fr/wiki/objets/chalice)                              | 25                 |
+| 1 [Eclair de Zeus](https://histeria.fr/wiki/boss/zeus)                              | 25                 |
+| 1 [Lyre d'Apollo](https://histeria.fr/wiki/boss/apollo)                                | 25                 |
+| 1 [Calice de Dionysos](https://histeria.fr/wiki/boss/dionysos)                              | 25                 |
