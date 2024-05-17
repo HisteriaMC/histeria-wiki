@@ -5,7 +5,7 @@
 # Histerite compressée
 
 ## Description
-L'Histerite compressée est un élément essentiel pour la fabrication du [coeur d'Histerite](https://histeria.fr/wiki/objets/histerite-core).
+L'Histerite compressée est un élément essentiel pour la fabrication du [coeur d'Histerite](https://histeria.fr/wiki/ressources/histerite-core).
 
 ## Craft
 -=-
