@@ -5,7 +5,7 @@
 # Bloc de Nocturite
 
 ## Description
-Le bloc de Nocturite est un bloc fait à partir de [cristaux de Nocturite](https://histeria.fr/wiki/objets/nocturite-crystal). C'est une étape pour vous rapprocher de la création de vos armures et objets nécessitant de la Nocturite.
+Le bloc de Nocturite est un bloc fait à partir de [cristaux de Nocturite](https://histeria.fr/wiki/ressources/nocturite-crystal). C'est une étape pour vous rapprocher de la création de vos armures et objets nécessitant de la Nocturite.
 
 ## Craft
 -=-
@@ -22,4 +22,4 @@ Le bloc de Nocturite est un bloc fait à partir de [cristaux de Nocturite](https
 -=-
 
 ## Utilité
-Vous pouvez utiliser ce bloc pour faire de la décoration dans vos bases, mais surtout fabriquer de la [Nocturite compressée](https://histeria.fr/wiki/objets/nocturite-compress) pour vous approcher des fabrications importantes à base de Nocturite.
+Vous pouvez utiliser ce bloc pour faire de la décoration dans vos bases, mais surtout fabriquer de la [Nocturite compressée](https://histeria.fr/wiki/ressources/nocturite-compress) pour vous approcher des fabrications importantes à base de Nocturite.
