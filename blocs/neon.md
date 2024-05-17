@@ -1,6 +1,6 @@
 %%name=Bloc néon%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/neon.webp%%
-%%weight=1100%%
+%%weight=1000%%
 
 # Bloc néon
 
