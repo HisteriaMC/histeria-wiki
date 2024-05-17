@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/boss-icon.png%%
-%%weight=1012%%
+%%weight=912%%
 # Fonctionnement des boss
 
 ## Apparition
