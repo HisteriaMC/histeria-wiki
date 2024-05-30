@@ -1,5 +1,6 @@
 %%name=Explorateur de coffre%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-explorer.png%%
+%%weight=304%%
 
 # Explorateur de coffre
 
@@ -7,7 +8,7 @@
 
 L'explorateur de coffre permet de voir le contenu d'un coffre alors qu'il se situe dans une zone claim d'une faction ennemie. Il peut être utilisé 10 fois.
 
-Il est obtensible dans les [boxs en Histerite](https://histeria.fr/wiki/objets/histerite-key), mais il peut aussi se craft.
+Il est obtensible dans les [boxs en Histerite](https://histeria.fr/wiki/clés/histerite-key), mais il peut aussi se craft.
 
 ## Craft
 

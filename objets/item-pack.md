@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png%%
 %%name=Sac à dos%%
+%%weight=305%%
 
 # Sac à dos
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-pickaxe.png%%
 %%name=Pioche en Histerite%%
-%%weight=505%%
+%%weight=205%%
 # Pioche en Histerite 
 
 ## Description

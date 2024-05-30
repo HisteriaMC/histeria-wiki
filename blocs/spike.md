@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/spike.png%%
 %%name=Spike%%
+%%weight=1003%%
 
 # Spike
 
 ## Description
-Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/objets/histerite).
+Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/histerite).
 
 ## Craft
 -=-

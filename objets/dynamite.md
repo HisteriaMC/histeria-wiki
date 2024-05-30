@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png%%
 %%name=Dynamite%%
+%%weight=312%%
 
 # Dynamite
 

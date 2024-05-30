@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 %%name=Commandes économiques%%
-%%weight=201%%
+%%weight=702%%
 # Commandes économiques
 
 ## Description

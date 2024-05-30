@@ -1,11 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png%%
 %%name=Bâton de soin%%
-%%weight=403%%
+%%weight=1103%%
 
 # Bâton de soin
 
 ## Description
-Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/objets/jump-stick) et le [bâton de vitesse](https://histeria.fr/wiki/objets/speed-stick). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/objets/clé-de-vote) mais également en les fabriquant.
+Le bâton de soin est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/bâtons/jump-stick) et le [bâton de vitesse](https://histeria.fr/wiki/bâtons/speed-stick). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/clés/vote-key) mais également en les fabriquant.
 
 ## Craft
 -=-

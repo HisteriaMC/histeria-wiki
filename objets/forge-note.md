@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/forge-note.png%%
 %%name=Parchemin d'enchantement%%
-%%weight=402%%
+%%weight=302%%
 
 # Parchemin d'enchantement
 

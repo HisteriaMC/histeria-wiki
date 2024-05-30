@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-core.png%%
 %%name=Coeur d'Histerite%%
+%%weight=112%%
 
 # Coeur d'Histerite
 
 ## Description
-Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure en Nocturite](https://histeria.fr/wiki/armures), car il permet de fabriquer des [coeurs de Nocturite](https://histeria.fr/wiki/objets/nocturite-core).
+Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure en Nocturite](https://histeria.fr/wiki/armures), car il permet de fabriquer des [coeurs de Nocturite](https://histeria.fr/wiki/ressources/nocturite-core).
 
 ## Craft
 -=-

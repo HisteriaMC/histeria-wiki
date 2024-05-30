@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png%%
 %%name=Bloc d'Histerite%%
+%%weight=110%%
 
 # Bloc d'Histerite
 
 ## Description
-Le bloc d'Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/objets/histerite).
+Le bloc d'Histerite est le regroupement de 9 [lingots d'Histerite](https://histeria.fr/wiki/ressources/histerite).
 
 ## Craft
 -=-

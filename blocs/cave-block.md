@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cave-block.png%%
 %%name=Cave Block%%
-%%weight=102%%
+%%weight=1009%%
 # Cave Block
 
 ## Description

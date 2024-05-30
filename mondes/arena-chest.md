@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png%%
 %%name=Coffre d'arène%%
+%%weight=400%%
 
 # Coffre d'arène 
 
@@ -17,9 +18,9 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 ---
 - - [20 pommes en Histerite](https://histeria.fr/wiki/objets/histerite-apple)
 ---
-- - 8 [bâtons de saut](https://histeria.fr/wiki/objets/jump-stick)
-  - 8 [bâtons de vitesse](https://histeria.fr/wiki/objets/speed-stick)
-  - 16 [bâtons de soin](https://histeria.fr/wiki/objets/heal-stick)
+- - 8 [bâtons de saut](https://histeria.fr/wiki/bâtons/jump-stick)
+  - 8 [bâtons de vitesse](https://histeria.fr/wiki/bâtons/speed-stick)
+  - 16 [bâtons de soin](https://histeria.fr/wiki/bâtons/heal-stick)
   - 8 pommes en histerite
 ---
 - - 4 pommes en or
@@ -36,7 +37,7 @@ Le loot de chaque coffre est aléatoire entre 8 possibilités :
 - - 22 perles de l'Ender
 ---
 - - 22 bâtons de soin
-  - Une [clé en Histerite](https://histeria.fr/wiki/objets/histerite-key)
+  - Une [clé en Histerite](https://histeria.fr/wiki/clés/histerite-key)
   - Un [parchemin d'enchantement](https://histeria.fr/wiki/objets/forge-note)
 ---
 - - 4 pommes en Histerite

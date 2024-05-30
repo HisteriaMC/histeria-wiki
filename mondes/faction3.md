@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/faction3-icon.png%%
 %%name=Faction 3%%
+%%weight=404%%
 
 # Le serveur faction 3
 

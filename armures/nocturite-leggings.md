@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-leggings.png%%
 %%name=Jambières en Nocturite%%
-%%weight=2%%
+%%weight=1201%%
 # Jambières en Nocturite 
 
 ## Description

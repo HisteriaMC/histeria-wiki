@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/lucky-block.png%%
 %%name=Lucky Block%%
-%%weight=105%%
+%%weight=1013%%
 
 # Lucky Block
 
@@ -63,18 +63,18 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | good |1.12|   Vous donne une [amélioration de commode](https://histeria.fr/wiki/objets/drawer-upgrade)   |
 | good |0.84|                  Vous donne une [pomme en Histerite](https://histeria.fr/wiki/objets/histerite-apple)                   |
 | good |1.12|                                                 Vous donne une pomme dorée                                               |
-| good |0.56|                 Vous donne un [cristal de Nocturite](https://histeria.fr/wiki/objets/nocturite-crystal)                 ||
+| good |0.56|                 Vous donne un [cristal de Nocturite](https://histeria.fr/wiki/ressources/nocturite-crystal)                 ||
 | good |1.40|                        Vous donne un [Lucky Block](https://histeria.fr/wiki/blocs/lucky-block)                         |
 | good |1.12|                        Vous donne 2 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block)                         |
 | good |0.84|           Vous donne une [pioche en Histerite](https://histeria.fr/wiki/outils/histerite-pickaxe) Efficacité V           |
 | good |0.84|            Vous donne une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe) Efficacité V          |
 | good |0.84|             Vous donne une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) Efficacité V            |
 | good |0.84|             Vous donne une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) Tranchant I              |
-| good |1.40|                    Vous donne un [bloc d'Histerite](https://histeria.fr/wiki/blocs/histerite-block)                     |
+| good |1.40|                    Vous donne un [bloc d'Histerite](https://histeria.fr/wiki/ressources/histerite-block)                     |
 | good |0.84|                                                    Vous donne une terre                                                    |
-| good |1.40|                         Vous donne une [clé de vote](https://histeria.fr/wiki/objets/clé-de-vote)                          |
-| good |0.56|                    Vous donne une [clé en Histerite](https://histeria.fr/wiki/objets/clé-en-histerite)                     |
-| good |0.28|                      Vous donne une [clé en Nocturite](https://histeria.fr/wiki/objets/clé-en-nocturite)                      |
+| good |1.40|                         Vous donne une [clé de vote](https://histeria.fr/wiki/clés/clé-de-vote)                          |
+| good |0.56|                    Vous donne une [clé en Histerite](https://histeria.fr/wiki/clés/clé-en-histerite)                     |
+| good |0.28|                      Vous donne une [clé en Nocturite](https://histeria.fr/wiki/clés/clé-en-nocturite)                      |
 | good |0.84|                                                    Vous donne un gâteau                                                    |
 | good |1.40|                            Vous donne 8 [ascenceurs](https://histeria.fr/wiki/blocs/ascenseur)                             |
 | good |1.40|                                                  Vous donne une peinture                                                   |

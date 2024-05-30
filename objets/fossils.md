@@ -1,10 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/fossil.webp%% 
 %%name=Les fossiles%%
+%%weight=307%%
 
 # Les fossiles
 
 ## Description
-Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent s'améliorer par l'enchantement [Archéologie](https://histeria.fr/wiki/enchantements/archeologie). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/mondes/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/objets/histerite).
+Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent s'améliorer par l'enchantement [Archéologie](https://histeria.fr/wiki/enchantements/archeologie). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/mondes/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/ressources/histerite).
 
 ## Visuels 
 

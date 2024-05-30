@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/banknote.png%%
 %%name=Chèque%%
-%%weight=401%%
+%%weight=310%%
 
 # Chèque
 

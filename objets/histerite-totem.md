@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-totem.png%%
 %%name=Totem en Histerite%%
+%%weight=316%%
 
 # Totem en histerite
 

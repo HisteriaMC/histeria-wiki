@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
 %%name=Pomme en Histerite%%
+%%weight=315%%
 
 # Pomme en Histerite
 
