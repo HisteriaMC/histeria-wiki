@@ -47,7 +47,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
-| Bûche, bois ou bois ecorcé | 0 - 3 | 5 |
-| Bûche, bois ou bois ecorcé | 4 - 12 | 3 |
-| Bûche, bois ou bois ecorcé | 13 - 21 | 2 |
-| Bûche, bois ou bois ecorcé | 22 - 30 | 1 |
+| Bûche | 0 - 3 | 5 |
+| Bûche | 4 - 12 | 3 |
+| Bûche | 13 - 21 | 2 |
+| Bûche | 22 - 30 | 1 |
