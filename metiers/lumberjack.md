@@ -47,7 +47,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
-| Bûche | 0 - 3 | 5 |
-| Bûche | 4 - 12 | 3 |
-| Bûche | 13 - 21 | 2 |
-| Bûche | 22 - 30 | 1 |
+| Bûches | 0 - 3 | 5 |
+| Bûches | 4 - 12 | 3 |
+| Bûches | 13 - 21 | 2 |
+| Bûches | 22 - 30 | 1 |
