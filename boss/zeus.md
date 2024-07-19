@@ -15,8 +15,12 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
   - Tranchant V
   - Strike I
   - Thunderbolt I
+ 
+  
+## Skin
+![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/zeus.png)
 
-## Objet unique : Eclair de Zeus
+# Eclair de Zeus
 
 ## Description
 Un éclair apparaît sur le joueur, mais ne lui inflige aucun dégât. Il ne peut être utilisé qu'1 fois. 
@@ -27,7 +31,5 @@ L'éclair, comme les autres items de boss, est obtenable grâce aux clés de bos
 ## Aperçu
 ![thunderbolt](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/thunderbolt.png)
 
-## Skin
-![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/zeus.png)
 
 
