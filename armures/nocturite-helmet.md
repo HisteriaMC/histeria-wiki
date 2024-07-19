@@ -22,8 +22,8 @@ Le casque en Nocturite fait partie de la meilleure armure disponible sur Histeri
 
 Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier d'agriculteur.
 
-### Informations
+## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Réspiration aquatique & Vision nocturne | 1,5 | 20 000 |
+| Réspiration aquatique & Vision nocturne | 1,5 | 3516 |
 
