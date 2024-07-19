@@ -4,7 +4,7 @@
 # Archeology
 
 ## Informations
-L'enchantement Archeology permet d'augmenter vos chances de trouver des fossiles. Il est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-axe) ou un [marteau](https://histeria.fr/wiki/outils/hammer).
+L'enchantement Archeology permet d'augmenter vos chances de trouver des fossiles. Il est fusionnable avec une [pioche](https://histeria.fr/wiki/outils/histerite-pickaxe) ou un [marteau](https://histeria.fr/wiki/outils/hammer).
 
 
 **Niveau maximum :** 3
