@@ -5,7 +5,7 @@
 # Bâton de vitesse
 
 ## Description 
-Le bâton de vitesse est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/bâtons/jump-stick) et le [bâton de soin](https://histeria.fr/wiki/bâtons/heal-stick). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/clés/vote-key) mais également en les fabriquant sur un établi.
+Le bâton de vitesse est l'un des trois bâtons à effet sur le serveur avec le [bâton de saut](https://histeria.fr/wiki/batons/jump-stick) et le [bâton de soin](https://histeria.fr/wiki/batons/heal-stick). Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/clés/vote-key) mais également en les fabriquant sur un établi.
 
 ## Craft 
 
@@ -26,4 +26,4 @@ Le bâton de vitesse est l'un des trois bâtons à effet sur le serveur avec le 
 Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
 
 ## Utilité 
-Lorsque vous utilisez ce bâton, il vous donnera l'effet Vitesse II pendant 15 secondes. Il y a un temps de recharge de 15 secondes entre chaque utilisation.
+Lorsque vous utilisez ce bâton, il vous donnera l'effet Vitesse II pendant 2 secondes. Il y a un temps de recharge de 20 secondes entre chaque utilisation.

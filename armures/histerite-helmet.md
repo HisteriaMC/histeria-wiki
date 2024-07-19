@@ -20,7 +20,7 @@ Le casque en Histerite fait partie de la deuxième meilleure armure disponible s
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-helmet.png
 -=-
 
-### Informations
+## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
 | Vision Nocturne   | 1,5             | 1 600      |

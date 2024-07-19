@@ -13,7 +13,7 @@ Voici la liste des objets que vous pouvez obtenir dans les minerais aléatoires 
 |Objet|Quantité|Probabilité|
 |:---:|:---:|:---:|
 |Lucky Block|1|3%|
-|Lingot d'Histerite|1|5%|
+|[Lingot d'Histerite](https://histeria.fr/wiki/ressources/histerite)|1|5%|
 |Lingot de fer |2|20%|
 |Lingot d'or |2|20%|
 |Diamant|1|20%|

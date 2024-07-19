@@ -5,7 +5,7 @@
 # Lucky Block
 
 ## Description 
-Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/lucky-block), en récompense de métier, sur le Vote Party, dans les [kits](https://histeria.fr/wiki/récompenses/kits) ou en cassant un autre Lucky Block.
+Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléatoire positif ou négatif. Vous pouvez en obtenir en minant des [minerais aléatoires](https://histeria.fr/wiki/blocs/random-ore), en récompense de métier, sur le Vote Party, dans les [kits](https://histeria.fr/wiki/récompenses/kits) ou en cassant un autre Lucky Block.
 
 ## Utilité
 Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention aux coups de malchance ! De terribles choses pourraient vous arriver.
@@ -39,7 +39,7 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | Arrow 3 |1.12|                                            Fait tomber plus de flèches sur vous                                                           |
 | Anvil 1 |2.53|                                             Fait tomber des enclumes sur vous                                                             |
 | Anvil 3 |1.40|                                            Fait tomber plus d’enclumes sur vous                                                           |
-| Lucky block |1.40|                  Fait tomber des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) sur vous                             |
+| Lucky block |1.40|                  Fait tomber des Lucky Blocks sur vous                             |
 | tnt 1 |1.40|                                                Fait tomber des TNT sur vous                                                                 |
 | tnt 3 |1.69|                                              Fait tomber plus de TNT sur vous                                                               |
 | punching ball |1.12|                     Fait apparaître un [Punching-ball](https://histeria.fr/wiki/objets/punching-ball)                               |
@@ -56,7 +56,7 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | good |1.40|                   Vous donne une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe)                    |
 | good |1.40|                                               Vous donne 5 blocs de diamant                                               |
 | good |0.56|                     Vous donne une [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt)                     |
-| good Soup de Kitsun |1.12|                                             Vous donne une soupe de betterave                                              |
+| Soupe de Kitsun |1.12|                                             Vous donne une soupe de betterave                                              |
 | good |1.40|                        Vous donne un [chercheur de coffre](https://histeria.fr/wiki/objets/chest-finder)                        |
 | good |1.40|                             Vous donne une [capuche](https://histeria.fr/wiki/objets/hood-helmet)                              |
 | good |0.84|                   Vous donne un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket)                    |
@@ -72,11 +72,11 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | good |0.84|             Vous donne une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) Tranchant I              |
 | good |1.40|                    Vous donne un [bloc d'Histerite](https://histeria.fr/wiki/ressources/histerite-block)                     |
 | good |0.84|                                                    Vous donne une terre                                                    |
-| good |1.40|                         Vous donne une [clé de vote](https://histeria.fr/wiki/clés/clé-de-vote)                          |
-| good |0.56|                    Vous donne une [clé en Histerite](https://histeria.fr/wiki/clés/clé-en-histerite)                     |
-| good |0.28|                      Vous donne une [clé en Nocturite](https://histeria.fr/wiki/clés/clé-en-nocturite)                      |
+| good |1.40|                         Vous donne une [clé de vote](https://histeria.fr/wiki/clés/vote_key)                          |
+| good |0.56|                    Vous donne une [clé en Histerite](https://histeria.fr/wiki/clés/histerite-key)                     |
+| good |0.28|                      Vous donne une [clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key)                      |
 | good |0.84|                                                    Vous donne un gâteau                                                    |
-| good |1.40|                            Vous donne 8 [ascenceurs](https://histeria.fr/wiki/blocs/ascenseur)                             |
+| good |1.40|                            Vous donne 8 [ascenceurs](https://histeria.fr/wiki/blocs/elevator)                             |
 | good |1.40|                                                  Vous donne une peinture                                                   |
 | good |1.12|                             Vous donne 4 [dynamites](https://histeria.fr/wiki/objets/dynamite)                             |
 | good |0.84|                         Vous donne un [chèque](https://histeria.fr/wiki/objets/banknote) de 25 000 $                          |

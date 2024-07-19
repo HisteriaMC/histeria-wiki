@@ -20,7 +20,7 @@ Les bottes en Histerite font partie de la deuxième meilleure armure disponible 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-boots.png
 -=-
 
-### Informations
+## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
 | Vitesse           | 1,5             | 1 600      |

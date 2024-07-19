@@ -3,7 +3,7 @@
 # Gravity
 
 ## Informations
-L'enchantement Gravity est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
+L'enchantement d'arène Gravity est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/armures).
 Quand le porteur de l'enchantement est frappé, il a une chance de donner un effet de Saut amélioré au porteur de l'enchantement.
 
 **Niveau maximum :** 3

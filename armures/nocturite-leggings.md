@@ -22,7 +22,7 @@ Les jambières en Nocturite font partie de la meilleure armure disponible sur Hi
 
 Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de mineur.
 
-### Informations
+## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Vitesse II        | 3               | 20 000     |
+| Vitesse II        | 3               | 4792       |

@@ -22,9 +22,9 @@ Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histe
 
 Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
 
-### Informations
+## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Célérité III & Résistance & Bonus de vie IV & Saturation III | 4 | 20 000 |
+| Célérité III & Résistance & Bonus de vie IV & Saturation III | 4 | 5113 |
 
 

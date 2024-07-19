@@ -5,7 +5,7 @@
 # Spike
 
 ## Description
-Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/histerite).
+Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/histerite). Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
 
 ## Craft
 -=-
@@ -20,6 +20,3 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/hist
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/spike.png
 -=-
-
-## Utilité
-Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
