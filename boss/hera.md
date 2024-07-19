@@ -16,7 +16,7 @@ Héra, la reine majestueuse des dieux, se tient en tant que figure imposante au 
   - Tranchant V
   - Clone I
 
-> Le Sceptre du Lotus de Héra. Possède l'enchantement unique __Clone__, ayant le pouvoir de créer des clones infligeant des dégâts au joueur.
+> Le Sceptre du Lotus de Héra possède l'enchantement unique __Clone__, ayant le pouvoir de créer des clones infligeant des dégâts aux joueurs.
 
 ## Skin
 ![hera](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hera.png)
