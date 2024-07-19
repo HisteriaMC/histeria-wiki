@@ -9,20 +9,7 @@ L'enchantement Archeology permet d'augmenter vos chances de trouver des fossiles
 
 **Niveau maximum :** 3
 
-<table>
-  <tr>
-    <th>Niveau</th>
-    <th>Chances de trouver un fossile</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>0.0972%</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>0.1134%</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>0.1296%</td>
-</table>
+| Niveau |Chances de trouver un fossile |
+| 1 |	0.0972% |
+| 2 |	0.1134% |
+| 3 |	0.1296% |
