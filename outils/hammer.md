@@ -4,7 +4,7 @@
 # Marteau
 
 ## Description
-Le marteau est le meilleur outil pour miner, il est aussi le plus dur à obtenir.
+Le marteau ne sert à rien.
 
 ## Craft
 -=-
