@@ -47,7 +47,7 @@ L'avancée des métiers est disponible avec la commande `/job`.
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
-| Joueur tué ou + de 250 dégats au [boss](https://histeria.fr/wiki/boss) | 0 - 6 | 500 |
-| Joueur tué ou + de 250 dégats au [boss](https://histeria.fr/wiki/boss) | 7 - 15 | 400 |
-| Joueur tué ou + de 250 dégats au [boss](https://histeria.fr/wiki/boss) | 16 - 30 | 300 |
+| Joueur tué ou + de 250 dégâts au [boss](https://histeria.fr/wiki/boss) | 0 - 6 | 500 |
+| Joueur tué ou + de 250 dégâts au [boss](https://histeria.fr/wiki/boss) | 7 - 15 | 400 |
+| Joueur tué ou + de 250 dégâts au [boss](https://histeria.fr/wiki/boss) | 16 - 30 | 300 |
 | PNJ des [lucky blocks](https://histeria.fr/wiki/blocs/lucky-block) | 0 - 30 | 350 |
