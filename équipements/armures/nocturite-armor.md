@@ -1,12 +1,16 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-helmet.png%%
-%%name=Casque en Nocturite%%
+%%name=Armure en Nocturite%%
 %%weight=1203%%
-# Casque en Nocturite 
 
-## Description
+# Armure en Nocturite 
+L'armure en Nocturite est l'armure la plus puissante sur Histeria, elle est parfaite pour les meilleurs joueurs en PvP.
+
+## Casque en Nocturite
+
+### Description
 Le casque en Nocturite fait partie de la meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
@@ -29,15 +33,12 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier d'agricult
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-chestplate.png%%
-%%name=Plastron en Nocturite%%
-%%weight=1202%%
-# Plastron en Nocturite
+## Plastron en Nocturite
 
-## Description
+### Description
 Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
@@ -60,15 +61,12 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-leggings.png%%
-%%name=Jambières en Nocturite%%
-%%weight=1201%%
-# Jambières en Nocturite 
+## Jambières en Nocturite 
 
-## Description
+### Description
 Les jambières en Nocturite font partie de la meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png
@@ -91,15 +89,12 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de mineur
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-boots.png%%
-%%name=Bottes en Nocturite%%
-%%weight=1200%%
-# Bottes en Nocturite
+## Bottes en Nocturite
 
-## Description
+### Description
 Les bottes en Nocturite font partie de la meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png

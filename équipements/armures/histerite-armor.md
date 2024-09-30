@@ -1,12 +1,16 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-helmet.png%%
-%%name=Casque en Histerite%%
+%%name=Armure en Histerite%%
 %%weight=1207%%
-# Casque en Histerite
 
-## Description
+# Armure en Histerite
+L'armure en histerite est la seconde armure la plus puissante disponible sur histeria, elle est idéale pour tout combattant débutant.
+
+## Casque en Histerite
+
+### Description
 Le casque en Histerite fait partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -27,15 +31,12 @@ Le casque en Histerite fait partie de la deuxième meilleure armure disponible s
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-chestplate.png%%
-%%name=Plastron en Histerite%%
-%%weight=1206%%
-# Plastron en Histerite
+## Plastron en Histerite
 
-## Description
+### Description
 Le plastron en Histerite fait partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -56,15 +57,12 @@ Le plastron en Histerite fait partie de la deuxième meilleure armure disponible
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-leggings.png%%
-%%name=Jambières en Histerite%%
-%%weight=1205%%
-# Jambières en Histerite
+## Jambières en Histerite
 
-## Description
+### Description
 Les jambières en Histerite font partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -85,15 +83,12 @@ Les jambières en Histerite font partie de la deuxième meilleure armure disponi
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-boots.png%%
-%%name=Bottes en Histerite%%
-%%weight=1204%%
-# Bottes en Histerite
+## Bottes en Histerite
 
-## Description
+### Description
 Les bottes en Histerite font partie de la deuxième meilleure armure disponible sur Histeria.
 
-## Craft
+### Fabrication
 -=-
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
