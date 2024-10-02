@@ -1,13 +1,15 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
-%%name=Cobblestone compressée%%
+%%name=Autres Ressources%%
 %%weight=100%%
 
-# Cobblestone compressée
+# Autres Ressources
+Voici les autres ressources fabricables disponibles sur Histeria.
 
-## Description
+## Cobblestone compressée
+
+### Description
 La cobblestone compressée est un condensé de pierre qui vous permettra d'obtenir des minerais en les cassant sur un [brise-roche](https://histeria.fr/wiki/blocs/cobble-breaker). Celui-ci est trouvable aux spawns des [serveurs faction](https://histeria.fr/wiki/mondes/faction-servers) et [serveurs minage](https://histeria.fr/wiki/mondes/minage-servers).
 
-## Craft
+### Fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobblestone.png
