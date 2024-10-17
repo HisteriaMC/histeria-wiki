@@ -1,6 +1,9 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png%%
-%%name=Bâton de soin%%
+%%name=PvP%%
 %%weight=1103%%
+
+# PvP
+Voici une liste de tous les items en rapport avec le PvP disponible sur Histeria.
 
 # Bâton de soin
 
@@ -28,10 +31,6 @@ Lorsque vous utilisez ce bâton, il vous soignera 4 coeurs. Il y a un temps de r
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/jump-stick.png%%
-%%name=Bâton de saut%%
-%%weight=1101%%
-
 # Bâton de saut
 
 ## Description
@@ -58,9 +57,6 @@ Lorsque vous utilisez ce bâton, il vous donnera l'effet Saut amélioré qui vou
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/speed-stick.png%%
-%%name=Bâton de vitesse%%
-%%weight=1102%%
 
 # Bâton de vitesse
 
@@ -90,17 +86,12 @@ Lorsque vous utilisez ce bâton, il vous donnera l'effet Vitesse II pendant 15 s
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
-%%name=Pomme en Histerite%%
-%%weight=315%%
 
 # Pomme en Histerite
 
 ## Description
-La pomme en histerite est un excellent objet pour se soigner durant un combat.
-
+La pomme en Histerite est un excellent objet de défense et de regéneration.
 ## Craft
--=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
@@ -125,9 +116,6 @@ Cet objet vous donne les effets suivant :
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-totem.png%%
-%%name=Totem en Histerite%%
-%%weight=316%%
 
 # Totem en histerite
 
@@ -147,9 +135,6 @@ L'unique moyen d'obtention du totem en Histerite est en utilisant une clé boss 
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/shuriken.png%%
-%%weight=314%%
-%%name=Shuriken%%
 
 # Shuriken
 

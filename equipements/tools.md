@@ -1,6 +1,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
-%%name=Épée en Histerite%%
+%%name=Outils%%
 %%weight=206%%
+
+# Outils
+Voici la liste des outils disponibles sur Histeria.
+
 # Épée en Histerite 
 
 ## Description
@@ -20,16 +24,13 @@
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png
 -=-
 
-### Informations
+## Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
 Elle a 10 points d'attaque.
 Elle a 15 000 de durabilité.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-shovel.png%%
-%%name=Pelle en Histerite%%
-%%weight=203%%
 # Pelle en Histerite 
 
 ## Description
@@ -51,7 +52,7 @@ Pelle améliorée qui vous permet de casser du sable ou de la terre plus rapidem
 
 Pour pouvoir la fabriquer, il faut être niveau 8 dans le métier d'agriculteur.
 
-### Informations
+## Informations
 Elle retire trois blocs de largeur et de longueur autour du bloc visé.
 Elle a x de durabilité.
 
@@ -66,9 +67,6 @@ Son usage est restreint à :
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-pickaxe.png%%
-%%name=Pioche en Histerite%%
-%%weight=205%%
 # Pioche en Histerite 
 
 ## Description
@@ -90,15 +88,12 @@ Pioche améliorée qui vous permet de miner plus rapidement qu'avec une pioche V
 
 Pour pouvoir la fabriquer, il faut être niveau 6 dans le métier de mineur.
 
-### Informations
+## Informations
 Elle creuse les blocs sur 2 de hauteur, celui visé ainsi que le bloc en dessous de celui-ci.
 Elle a 4 500 de durabilité.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png%%
-%%name=Houe en Histerite%%
-%%weight=202%%
 # Houe en Histerite 
 
 ## Description
@@ -120,15 +115,12 @@ Houe améliorée qui vous permet de labourer la terre plus rapidement qu'avec un
 
 Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier d'agriculteur.
 
-### Informations
+## Informations
 Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irriguées.
 Elle a 5 000 de durabilité.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png%%
-%%name=Hache en Histerite%%
-%%weight=204%%
 # Hache en Histerite
 
 ## Description
@@ -150,15 +142,12 @@ Hache améliorée qui vous permet de casser du bois plus rapidement qu'avec une 
 
 Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier de bûcheron.
 
-### Informations
+## Informations
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
 Elle a 5 000 de durabilité.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hammer.png%%
-%%name=Marteau%%
-%%weight=201%%
 # Marteau
 
 ## Description
@@ -180,15 +169,12 @@ Le marteau est le meilleur outil pour miner, il est aussi le plus dur à obtenir
 
 Pour pouvoir le fabriquer, il faut être niveau 24 dans le métier de mineur.
 
-### Informations
+## Informations
 Lorsque le joueur casse un bloc, les blocs dans une zone de 3x3x3 autour du bloc cassé seront également détruits si jamais ils sont du même type que celui visé par le joueur.
 Il a 10 000 de durabilité.
 
 
 
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/grapnel.png%%
-%%name=Grappin%%
-%%weight=200%%
 # Grappin
 
 ## Description
