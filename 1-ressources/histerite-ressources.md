@@ -1,16 +1,9 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png%%
-%%name=Ressources en Histerite%%
-%%weight=108%%
-
-# Ressources en Histerite
-Voici toutes le ressources en Histerite fabricables sur Histeria.
-
 # Histerite
 
 ## Description
-L'Histerite est obtenable en minant des [minerais d'Histerite](https://histeria.fr/wiki/ressources/histerite-ore), dans les boxs, dans le calendrier de vote, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/ressources/compressed-cobblestone) et dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
-Il est la base de tout objet moddé.
+L'Histerite est obtenable en minant des [minerais d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources), dans les boxs, dans le calendrier de vote, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) et dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
 
+Il est la base de tout objet moddé.
 
 
 # Minerai d'Histerite 
@@ -20,7 +13,6 @@ Le minerai d'Histerite est un minerai rare trouvable dans les [serveurs minage](
 
 ## Utilité
 Ce minerai vous permet d'obtenir des [lingots en Histerite](https://histeria.fr/wiki/ressources/histerite) qui sont à la base de nombreux crafts.
-
 
 
 # Bloc d'Histerite
@@ -43,9 +35,7 @@ Le bloc d'Histerite est le regroupement de 9 [lingots d'Histerite](https://histe
 -=-
 
 ## Utilité 
-Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt), le coffre en Histerite, l'[obsidienne renforcée](https://histeria.fr/wiki/blocs/reinforced-obsidian) et bien plus encore.
-
-
+Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt), le [coffre en Histerite](), l'[obsidienne renforcée](https://histeria.fr/wiki/blocs/reinforced-obsidian) et bien plus encore.
 
 
 # Histerite compressée
@@ -70,7 +60,6 @@ L'Histerite compressée est un élément essentiel pour la fabrication du [coeur
 Pour pouvoir la fabriquer, il faut être niveau 12 dans le métier de mineur.
 
 
-
 # Coeur d'Histerite
 
 ## Description
@@ -93,8 +82,6 @@ Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure
 Pour pouvoir le fabriquer, il faut être niveau 18 dans le métier de mineur.
 
 
-
-
 # Bâton d'Histerite
 
 ## Description
@@ -113,6 +100,3 @@ Le bâton d'Histerite est essentiel pour la fabrication des [outils en Histerite
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
 -=-
-
-
-
