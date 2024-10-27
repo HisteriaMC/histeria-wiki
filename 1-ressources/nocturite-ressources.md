@@ -12,10 +12,10 @@ Vous avez 25% d'en obtenir 2 en cassant une pousse de Nocturite au stage 3.
 # Fruit de Nocturite
 
 ## Description
-Le fruit de Nocturite permet de fabriquer des [cristaux de Nocturite](https://histeria.fr/wiki/ressources/nocturite-crystal).
+Le fruit de Nocturite permet de fabriquer des cristaux de Nocturite.
 
 ## Obtention
-Il ne peut que s'obtenir en cassant des [pousses de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) elles-mêmes plantées sur de la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt).
+Il ne peut que s'obtenir en cassant des pousses de Nocturite, elles-mêmes plantées sur de la [terre fertilisée](https://histeria.fr/wiki/2-équipement/farm).
 
  Vous pourrez récolter des fruit de Nocturite seulement si la pousse de Nocturite est au stage 3.
 
@@ -23,7 +23,7 @@ Il ne peut que s'obtenir en cassant des [pousses de Nocturite](https://histeria.
 # Cristal de Nocturite
 
 ## Description
-Le cristal de Nocturite permet de fabriquer des [blocs de Nocturite](https://histeria.fr/wiki/ressources/nocturite-block).
+Le cristal de Nocturite permet de fabriquer des blocs de Nocturite.
 
 ## Fabrication
 -=-
@@ -43,7 +43,7 @@ Le cristal de Nocturite permet de fabriquer des [blocs de Nocturite](https://his
 # Bloc de Nocturite
 
 ## Description
-Le bloc de Nocturite est un bloc fait à partir de [cristaux de Nocturite](https://histeria.fr/wiki/ressources/nocturite-crystal). C'est une étape pour vous rapprocher de la création de vos armures et objets nécessitant de la Nocturite.
+Le bloc de Nocturite est un bloc fait à partir de cristaux de Nocturite. C'est une étape pour vous rapprocher de la création de vos armures et objets nécessitant de la Nocturite.
 
 ## Fabrication
 -=-
@@ -60,13 +60,13 @@ Le bloc de Nocturite est un bloc fait à partir de [cristaux de Nocturite](https
 -=-
 
 ## Utilité
-Vous pouvez utiliser ce bloc pour faire de la décoration dans vos bases, mais surtout fabriquer de la [Nocturite compressée](https://histeria.fr/wiki/ressources/nocturite-compress) pour vous approcher des fabrications importantes à base de Nocturite.
+Vous pouvez utiliser ce bloc pour faire de la décoration dans vos bases, mais surtout fabriquer de la Nocturite compressée pour vous approcher des fabrications importantes à base de Nocturite.
 
 
 # Nocturite compressée
 
 ## Description
-La Nocturite compressée est un élément essentiel pour l'obtention de différents objets en Nocturite tels que la [marteau](https://histeria.fr/wiki/outils/hammer) et le [Coeur de Nocturite](https://histeria.fr/wiki/ressources/nocturite-core).
+La Nocturite compressée est un élément essentiel pour l'obtention de différents objets en Nocturite tels que le [marteau](https://histeria.fr/wiki/2-équipement/tools) et le coeur de Nocturite.
 
 ## Fabrication
 -=-
@@ -88,7 +88,7 @@ Pour pouvoir la fabriquer, il faut être niveau 27 dans le métier de d'agricult
 # Coeur de Nocturite
 
 ## Description
-Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/armures).
+Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/2-équipement/nocturite-armor).
 
 ## Fabrication
 -=-
