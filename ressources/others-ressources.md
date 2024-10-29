@@ -1,8 +1,6 @@
 %%name=Autres Ressources%%
 %%weight=100%%
 
-# Autres Ressources
-Voici les autres ressources fabricables disponibles sur Histeria.
 
 ## Cobblestone compressée
 

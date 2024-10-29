@@ -2,8 +2,6 @@
 %%name=Outils%%
 %%weight=206%%
 
-# Outils
-Voici la liste des outils disponibles sur Histeria.
 
 # Épée en Histerite 
 

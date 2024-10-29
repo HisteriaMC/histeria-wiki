@@ -1,8 +1,7 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-seed.png%%
 %%name=Ressources en Nocturite%%
 %%weight=101%%
-# Ressources en Nocturite
-Voici toutes les ressources en Nocturite fabricables sur Histeria.
+
 
 # Graines de Nocturite
 

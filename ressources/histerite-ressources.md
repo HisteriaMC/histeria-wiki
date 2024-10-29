@@ -2,8 +2,6 @@
 %%name=Ressources en Histerite%%
 %%weight=108%%
 
-# Ressources en Histerite
-Voici toutes le ressources en Histerite fabricables sur Histeria.
 
 # Histerite
 
