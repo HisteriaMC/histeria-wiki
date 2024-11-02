@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
 %%name=Les serveurs factions%%
-%%weight=407%%
+%%weight=506%%
 
 # Les serveurs faction
 

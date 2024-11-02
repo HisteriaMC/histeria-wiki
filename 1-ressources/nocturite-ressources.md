@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-fruit.png%%
+%%weight=701%%
+%%name=Ressources en Nocturite%%
+
 # Graines de Nocturite
 
 ## Description

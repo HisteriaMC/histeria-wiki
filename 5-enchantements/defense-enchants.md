@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
+%%weight=301%%
+%%name=Enchantements de défense%%
+
 # Conceal
 
 ## Informations

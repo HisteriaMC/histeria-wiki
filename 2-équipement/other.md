@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/lucky-block.png%%
+%%weight=600%%
+%%name=Autre équipement%%
+
 # Lucky Block
 
 ## Description 

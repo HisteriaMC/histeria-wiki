@@ -1,5 +1,5 @@
 %%name=Récompenses de vote%%
-%%weight=1%%
+%%weight=500%%
 
 # Récompenses de vote
 

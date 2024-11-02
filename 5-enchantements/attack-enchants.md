@@ -1,5 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
-%%weight=514%%
+%%weight=302%%
+%%name=Enchantements d'attaque%%
 
 # Berserk
 

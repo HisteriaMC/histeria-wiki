@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 %%name=Commandes générales%%
-%%weight=705%%
+%%weight=405%%
 # Commandes générales 
 
 ## Description

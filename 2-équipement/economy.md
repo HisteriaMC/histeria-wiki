@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lottery-ticket.png%%
+%%weight=603%%
+%%name=Equipement pour l'économie%%
+
 # Ticket de loterie
 
 ## Description

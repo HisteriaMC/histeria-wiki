@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-chest.png%%
+%%weight=601%%
+%%name=Equipement pour sa base%%
+
 # Coffre en Histerite
 
 ## Description

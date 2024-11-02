@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png%%
+%%weight=702%%
+%%name=Ressources en Histerite%%
+
 # Histerite
 
 ## Description

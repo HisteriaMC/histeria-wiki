@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/vote-key.png%%
+%%weight=606%%
+%%name=Clés%%
+
 # Clé de Vote
 
 ## Description

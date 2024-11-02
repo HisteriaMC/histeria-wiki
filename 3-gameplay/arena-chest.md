@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png%%
 %%name=Coffre d'arène%%
-%%weight=400%%
+%%weight=504%%
 
 # Coffre d'arène 
 

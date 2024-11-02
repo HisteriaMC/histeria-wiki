@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/command.svg%%
 %%name=Commandes gradés%%
-%%weight=704%%
+%%weight=404%%
 # Commandes gradés
 
 ## Description
