@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/diamond-sword.png%%
 %%name=Métier de tueur%%
-%%weight=453%%
+%%weight=103%%
 
 # Métier de mineur
 ## Description

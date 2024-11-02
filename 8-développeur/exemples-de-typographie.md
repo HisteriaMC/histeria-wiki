@@ -1,4 +1,6 @@
-%%weight=602%%
+%%weight=3%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/link.svg%%
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading

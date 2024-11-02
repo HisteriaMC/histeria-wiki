@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/diamond-pickaxe.png%%
 %%name=Métier de mineur%%
-%%weight=452%%
+%%weight=102%%
 
 # Métier de mineur
 ## Description

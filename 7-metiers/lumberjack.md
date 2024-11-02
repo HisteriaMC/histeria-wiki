@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/diamond-axe.png%%
 %%name=Métier de bûcheron%%
-%%weight=451%%
+%%weight=101%%
 
 # Métier de bûcheron
 ## Description

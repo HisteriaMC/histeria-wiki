@@ -1,4 +1,6 @@
-%%weight=603%%
+%%weight=4%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/link.svg%%
+
 # Histerite Pickaxe
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet,
