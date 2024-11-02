@@ -4,7 +4,7 @@
 # Berserk
 
 ## Informations
-Un outil bien tranchant. L'enchantement Berserk est fusionnable avec une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
+Un outil bien tranchant. L'enchantement Berserk est fusionnable avec une [hache en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et de recevoir l'effet Force I pendant 3 secondes.
 
 **Niveau maximum :** 3
@@ -35,8 +35,8 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 # Corrupt
 
 ## Informations
-Improcable ! L'enchantement Corrupt est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
-Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et d'empêcher les [autres enchantements](https://histeria.fr/wiki/enchantements) de son adversaire de fonctionner (50% de malchance).
+Improcable ! L'enchantement Corrupt est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-équipement/tools).
+Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et d'empêcher les [autres enchantements](https://histeria.fr/wiki/4-enchantements) de son adversaire de fonctionner (50% de malchance).
 
 **Niveau maximum :** 3
 
@@ -66,7 +66,7 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 # Cryogenize
 
 ## Informations
-Tu souhaites jeter un froid avec ton arme ? L'enchantement Cryogenize est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
+Tu souhaites jeter un froid avec ton arme ? L'enchantement Cryogenize est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Il ajoute un coeur de dégât au coup infligé et donne un effet de congélation pendant 2 secondes à l'ennemi qui réduiront de 45% sa vitesse, et un effet de congélation apparaîtra sur l'écran de l'ennemi.
 
 **Niveau maximum :** 3
@@ -96,7 +96,7 @@ Il ajoute un coeur de dégât au coup infligé et donne un effet de congélation
 # Execution
 
 ## Informations
-Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword).
+Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie supplémentaires à son adversaire.
 
 **Niveau maximum :** 3
@@ -126,7 +126,7 @@ Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie sup
 # Lift
 
 ## Informations
-Wingardium Leviosa ! L'enchantement Lift est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
+Wingardium Leviosa ! L'enchantement Lift est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et de propulser en l'air ce dernier.
 
 **Niveau maximum :** 3
@@ -156,7 +156,7 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 # Meteor
 
 ## Informations
-L'enchantement Meteor est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe).
+L'enchantement Meteor est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et de brûler ce dernier durant 5 secondes.
 
 **Niveau maximum :** 3
@@ -186,7 +186,7 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 # Strike
 
 ## Informations
-Que les éclairs de la colère divine s'abattent ! L'enchantement Strike est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/outils/histerite-sword).
+Que les éclairs de la colère divine s'abattent ! L'enchantement Strike est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-équipement/tools).
 Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire foudroyer et de subir des dégâts.
 
 **Niveau maximum :** 3
