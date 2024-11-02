@@ -2,7 +2,7 @@
 
 ## Description
 
-Le coffre en Histerite est utile pour contenir beaucoup d'objets en un seul coffre. En effet, le coffre en Histerite a 81 emplacements, soit l'équivalent d'un double coffre en plus d'un coffre simple, malgré le fait qu'il ne compte que pour un seul coffre sur le [chercheur de coffre](https://histeria.fr/wiki/objets/chest-finder).
+Le coffre en Histerite est utile pour contenir beaucoup d'objets en un seul coffre. En effet, le coffre en Histerite a 81 emplacements, soit l'équivalent d'un double coffre en plus d'un coffre simple, malgré le fait qu'il ne compte que pour un seul coffre sur le [chercheur de coffre](https://histeria.fr/wiki/2-équipement/pillage).
 
 ## Craft
 
@@ -24,7 +24,7 @@ Le coffre en Histerite est utile pour contenir beaucoup d'objets en un seul coff
 
 ## Description
 
-Le coffre en Nocturite n'a que 9 emplacements, cependant il n'est pas détectable par le [chercheur de coffre](https://histeria.fr/wiki/objets/chest-finder).
+Le coffre en Nocturite n'a que 9 emplacements, cependant il n'est pas détectable par le [chercheur de coffre](https://histeria.fr/wiki/2-équipement/pillage).
 
 ## Craft
 
@@ -45,7 +45,7 @@ Le coffre en Nocturite n'a que 9 emplacements, cependant il n'est pas détectabl
 # Obsidienne empoisonnée
 
 ## Description 
-L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser dans des bases claims, vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker).
+L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser dans des bases claims, vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-équipement/pillage).
 
 ## Craft
 -=-
@@ -68,7 +68,7 @@ Cette obsidienne peut vous être utile que ce soit pour protéger vos bases, dé
 # Obsidienne Renforcée
 
 ## Description 
-L'obsidienne renforcée est une variante de l'obsidienne reconnaissable avec ses filaments rouges qui la parcourent. L'obsidienne renforcée est plus résistante que l'obsidienne classique. Pour la casser vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/objets/obsidian-breaker).
+L'obsidienne renforcée est une variante de l'obsidienne reconnaissable avec ses filaments rouges qui la parcourent. L'obsidienne renforcée est plus résistante que l'obsidienne classique. Pour la casser vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-équipement/pillage).
 
 ## Craft
 -=-
@@ -91,7 +91,7 @@ Cette obsidienne est très pratique pour protéger vos bases grâce à sa résis
 # Spike
 
 ## Description
-Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/histerite). Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
+Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources). Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
 
 ## Craft
 -=-
@@ -111,7 +111,7 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/ressources/hist
 # Commode
 
 ## Description
-La commode est un bloc servant à stocker votre stuff, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) pour augmenter leur capacité de stockage.
+La commode est un bloc servant à stocker votre stuff, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/2-équipement/base) pour augmenter leur capacité de stockage.
 
 ## Craft
 -=-
@@ -141,7 +141,7 @@ Elle permet de contenir une grande quantité de stuff d'un seul type. Il en exis
 # Amélioration de commode
 
 ## Description
-L'amélioration de commode vous permet d'améliorer la capacité de stockage d'une [commode](https://histeria.fr/wiki/blocs/drawer).
+L'amélioration de commode vous permet d'améliorer la capacité de stockage d'une [commode](https://histeria.fr/wiki/2-équipement/base).
 
 ## Craft
 -=-

@@ -1,7 +1,7 @@
 # Terre fertilisée
 
 ## Description
-La terre fertilisée est une terre améliorée et enrichie à l'Histerite. Les graines classiques ne peuvent pas y être semées, seules les [graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) le peuvent.
+La terre fertilisée est une terre améliorée et enrichie à l'Histerite. Les graines classiques ne peuvent pas y être semées, seules les [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) le peuvent.
 
 ## Craft
 -=-
@@ -20,16 +20,16 @@ La terre fertilisée est une terre améliorée et enrichie à l'Histerite. Les g
 Pour pouvoir la fabriquer, il faut être niveau 17 dans le métier d'agriculteur.
 
 ## Utilité
-La terre fertilisée est indispensable pour faire pousser les [graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels que l'[armure en Nocturite](https://histeria.fr/wiki/armures), [le marteau](https://histeria.fr/wiki/outils/hammer), [le grappin](https://histeria.fr/wiki/outils/grapnel) et bien plus encore.
+La terre fertilisée est indispensable pour faire pousser les [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources), une ressource rare qui est nécessaire pour la fabrication des équipements les plus puissants du serveur, tels que l'[armure en Nocturite](https://histeria.fr/wiki/2-équipement/nocturite-armor), [le marteau](https://histeria.fr/wiki/2-équipement/tools), [le grappin](https://histeria.fr/wiki/2-équipement/tools) et bien plus encore.
 
 
 # Brise-roche
 
 ## Description
 
-Le brise-roche est un bloc qui permet de transformer la cobblestone en minerais plus précieux. En effet, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/ressources/compressed-cobblestone) avec le brise-roche, les joueurs peuvent recevoir en échange du diamant, de l'or, de l'obsidienne mais également de l'[Histerite](https://histeria.fr/wiki/ressources/histerite) ! Malheureusement, il est possible que les joueurs n'obtiennent rien en échange.
+Le brise-roche est un bloc qui permet de transformer la cobblestone en minerais plus précieux. En effet, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) avec le brise-roche, les joueurs peuvent recevoir en échange du diamant, de l'or, de l'obsidienne mais également de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) ! Malheureusement, il est possible que les joueurs n'obtiennent rien en échange.
 
-Les probabilités sont disponibles sur la page de la [cobblestone compressée](https://histeria.fr/wiki/ressources/compressed-cobblestone).
+Les probabilités sont disponibles sur la page de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources).
 
 Le brise-roche est disponible aux **spawns de chaque serveur**, mais un craft est également disponible.
 
@@ -52,7 +52,7 @@ Le brise-roche est disponible aux **spawns de chaque serveur**, mais un craft es
 # Les fossiles
 
 ## Description
-Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent s'améliorer par l'enchantement [Archéologie](https://histeria.fr/wiki/enchantements/archeology). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/mondes/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/ressources/histerite).
+Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent s'améliorer par l'enchantement [Archéologie](https://histeria.fr/wiki/5-enchantements/archeology). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/3-gameplay/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources).
 
 ## Visuels 
 
