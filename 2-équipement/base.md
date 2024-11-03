@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-chest.png%%
-%%weight=601%%
+%%weight=602%%
 %%name=Equipement pour sa base%%
 
 # Coffre en Histerite
@@ -46,52 +46,6 @@ Le coffre en Nocturite n'a que 9 emplacements, cependant il n'est pas détectabl
 -=-
 
 
-# Obsidienne empoisonnée
-
-## Description 
-L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser dans des bases claims, vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-équipement/pillage).
-
-## Craft
--=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/poison-obsidian.png
--=-
-
-## Utilité 
-Cette obsidienne peut vous être utile que ce soit pour protéger vos bases, décorer ou embêter vos amis !
-
-
-# Obsidienne Renforcée
-
-## Description 
-L'obsidienne renforcée est une variante de l'obsidienne reconnaissable avec ses filaments rouges qui la parcourent. L'obsidienne renforcée est plus résistante que l'obsidienne classique. Pour la casser vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-équipement/pillage).
-
-## Craft
--=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
--=-
-
-## Utilité 
-Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale. Elle peut également être utilisée pour fabriquer le casseur d'obsidienne.
-
-
 # Spike
 
 ## Description
@@ -115,7 +69,7 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/1-ressources/hi
 # Commode
 
 ## Description
-La commode est un bloc servant à stocker votre stuff, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/2-équipement/base) pour augmenter leur capacité de stockage.
+La commode est un bloc servant à stocker en très grosse quantité un seul type d'objet ou de bloc, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/2-équipement/base) pour augmenter leur capacité de stockage.
 
 ## Craft
 -=-
@@ -133,13 +87,8 @@ La commode est un bloc servant à stocker votre stuff, elle peut être amélior�
 
 ## Utilité
 Elle permet de contenir une grande quantité de stuff d'un seul type. Il en existe 5 niveaux différents.
-|Niveaux|Capacités|
-|:-----:|:-------:|
-|1      |1024     |
-|2      |2048     |
-|3      |4096     |
-|4      |8192     |
-|5      |16384    |
+
+Les capacités de chaque niveau sont décrites dans le descriptif de l'amélioration de commode juste en dessous.
 
 
 # Amélioration de commode

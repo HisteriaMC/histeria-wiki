@@ -1,14 +1,14 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/vote-key.png%%
-%%weight=606%%
+%%weight=607%%
 %%name=Clés%%
 
 # Clé de Vote
 
 ## Description
-La clé de vote est obtenable en votant sur le serveur, dans tous les [kits](https://histeria.fr/wiki/récompenses/kits), le Vote Party et dans des [Lucky Blocks](https://histeria.fr/wiki/blocks/lucky-block). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) et [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
+La clé de vote est obtenable en votant sur le serveur, dans tous les [kits](https://histeria.fr/wiki/récompenses/kits), le Vote Party et dans des [Lucky Blocks](https://histeria.fr/wiki/blocks/lucky-block). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers)
 
 ## Utilité
-Grâce à cette clé vous pouvez obtenir du stuff de bonne qualité :
+Grâce à cette clé vous pouvez obtenir de l'équipement de bonne qualité :
 | Items                                                                                 | Probabilité (en %) |
 |:-------------------------------------------------------------------------------------:|:------------------:|
 | 1 [Epée en histerite](https://histeria.fr/wiki/outils/histerite-sword)                | 4,02               |
@@ -40,10 +40,10 @@ Grâce à cette clé vous pouvez obtenir du stuff de bonne qualité :
 # Clé en Histerite
 
 ## Description
-La clé en Histerite est une clé intermédiaire entre la [clé de vote](https://histeria.fr/wiki/clés/vote-key) et la [clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key). Obtenable dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) et [kit Oméga](https://histeria.fr/wiki/récompenses/kits). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) et [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
+La clé en Histerite est une clé intermédiaire entre la [clé de vote](https://histeria.fr/wiki/clés/vote-key) et la [clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key). Obtenable dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) et [kit Oméga](https://histeria.fr/wiki/récompenses/kits). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
 
 ## Utilité
-Grâce à cette clé vous pouvez obtenir du stuff de très bonne qualité :
+Grâce à cette clé vous pouvez obtenir de l'équipement de très bonne qualité :
 | Items                                                                                           | Probabilité (en %) |
 |:-----------------------------------------------------------------------------------------------:|:------------------:|
 | 1 diamant                                                                                       | 4,39               |
@@ -88,10 +88,10 @@ Grâce à cette clé vous pouvez obtenir du stuff de très bonne qualité :
 
 ## Description
 La clé en Nocturite est obtenable en votant sur le serveur dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
-Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) ou [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
+Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
 
 ## Utilité
-Grace à ces clés vous pouvez obtenir du stuff :
+Grace à ces clés vous pouvez obtenir de l'équipement rare et de très bonne qualité :
 | Item                                                                                   | Probabilité (en %) |
 |:--------------------------------------------------------------------------------------:|:------------------:|
 | 5 [Parchemins d'enchantement](https://histeria.fr/wiki/objets/forge-note)                             | 10                 |
@@ -117,7 +117,7 @@ Grace à ces clés vous pouvez obtenir du stuff :
 La clé boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) et [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
 
 ## Utilité
-Grâce à ces clés vous pouvez obtenir du stuff d'excellente qualité :
+Grâce à ces clés vous pouvez obtenir de l'équipement d'une excellente qualité :
 | Item                                                                                         | Probabilité (en %) |
 |:--------------------------------------------------------------------------------------------:|:------------------:|
 | 1 [Totem en Histerite](https://histeria.fr/wiki/objets/histerite-totem)                      | 25                 |

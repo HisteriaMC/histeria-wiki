@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png%%
-%%weight=604%%
+%%weight=605%%
 %%name=Equipement pour farm%%
 
 # Terre fertilisée
@@ -31,7 +31,7 @@ La terre fertilisée est indispensable pour faire pousser les [graines de Noctur
 
 ## Description
 
-Le brise-roche est un bloc qui permet de transformer la cobblestone en minerais plus précieux. En effet, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) avec le brise-roche, les joueurs peuvent recevoir en échange du diamant, de l'or, de l'obsidienne mais également de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) ! Malheureusement, il est possible que les joueurs n'obtiennent rien en échange.
+Le brise-roche est un bloc qui permet de transformer la cobblestone compressée en minerais plus précieux. En effet, en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) avec le brise-roche, les joueurs peuvent recevoir en échange du diamant, de l'or, de l'obsidienne mais également de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) ! Malheureusement, il est possible que les joueurs n'obtiennent rien en échange.
 
 Les probabilités sont disponibles sur la page de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources).
 

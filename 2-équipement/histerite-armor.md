@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armor/histerite-chestplate.png%%
-%%weight=610%%
+%%weight=611%%
 %%name=Armure en Histerite%%
 
 # Casque en Histerite

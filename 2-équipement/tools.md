@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
-%%weight=608%%
+%%weight=609%%
 %%name=Outils%%
 
 # Épée en Histerite 
@@ -23,8 +23,8 @@
 
 ## Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
-Elle a 10 points d'attaque.
-Elle a 15 000 de durabilité.
+Elle a 13 points d'attaque.
+Elle a 15 000 points de durabilité.
 
 
 # Pelle en Histerite 
@@ -50,7 +50,9 @@ Pour pouvoir la fabriquer, il faut être niveau 8 dans le métier d'agriculteur.
 
 ## Informations
 Elle retire trois blocs de largeur et de longueur autour du bloc visé.
-Elle a x de durabilité.
+
+Elle a 5 points d'attaque.
+Elle a 5 000 points de durabilité.
 
 Son usage est restreint à :
 
@@ -138,6 +140,7 @@ Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier de bûcheron.
 ## Informations
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
 Elle a 5 000 de durabilité.
+Elle a 7 points d'attaque.
 
 
 # Marteau

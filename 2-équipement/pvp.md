@@ -1,11 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
-%%weight=605%%
+%%weight=606%%
 %%name=Equipement pvp%%
 
 # Pomme en Histerite
 
 ## Description
-La pomme en histerite est un excellent objet pour se soigner durant un combat.
+La pomme en Histerite est un excellent objet pour se soigner durant un combat.
 
 ## Craft
 -=-
@@ -48,7 +48,7 @@ Tout comme le totem d'immortalité, après que le joueur ait échappé à la mor
 
 ## Obtention
 
-L'unique moyen d'obtention du totem en Histerite est en utilisant une [clé boss](https://histeria.fr/wiki/clés/boss-key) sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) et [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
+L'unique moyen d'obtention du totem en Histerite est en utilisant une [clé boss](https://histeria.fr/wiki/clés/boss-key) sur les box qui se trouvent dans le spawn des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
 
 
 # Shuriken
@@ -78,7 +78,7 @@ Il est possible de les stocker par 16.
 # Kill-Tag
 
 ## Description
-Un Kill-Tag est un badge applicable sur votre épée grâce à [l'enclume en Histerite](https://histeria.fr/wiki/blocs/histerite-anvil). Il permet d'afficher un message personnalisé dans le chat lorsque vous tuez un joueur avec une épée en possèdent un. Vous pouvez uniquement en obtenir en utilisant des [clés en nocturite](https://histeria.fr/wiki/clés/nocturite-key).
+Un Kill-Tag est un badge applicable sur votre épée grâce à [l'enclume en Histerite](https://histeria.fr/wiki/blocs/histerite-anvil). Il permet d'afficher un message personnalisé dans le chat lorsque vous tuez un joueur avec une épée en possédant un. Vous pouvez uniquement en obtenir en utilisant des [clés en nocturite](https://histeria.fr/wiki/clés/nocturite-key).
 
 ## Utilité
 Il existe de nombreux Kill-Tags avec des messages différents et de raretés différentes selon le message. Ils sont uniquement à des fins cosmétiques.

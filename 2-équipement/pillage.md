@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cave-block.png%%
-%%weight=602%%
+%%weight=603%%
 %%name=Equipement pour les pillages%%
 
 # Cave Block

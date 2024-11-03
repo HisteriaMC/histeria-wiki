@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armor/nocturite-chestplate.png%%
-%%weight=609%%
+%%weight=610%%
 %%name=Armure en Nocturite%%
 
 # Casque en Nocturite
