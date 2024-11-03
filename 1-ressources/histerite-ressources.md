@@ -5,15 +5,15 @@
 # Histerite
 
 ## Description
-L'Histerite est obtenable en minant des minerais d'Histerite, dans les [boxs](https://histeria.fr/wiki/2-équipement/keys), dans le [calendrier de vote](https://histeria.fr/wiki/3-gameplay/récompenses-de-vote), en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) et dans les [Lucky Blocks](https://histeria.fr/wiki/2-équipement/other).
+L'Histerite est le minerai principal sur Histeria. Il est la base de la plupart des objets moddés, ce qui fait de lui une ressource primordiale.
 
-Il est la base de tout objet moddé.
+Il est obtenable en minant des minerais d'Histerite, dans les [boxs](https://histeria.fr/wiki/2-équipement/keys), dans le [calendrier de vote](https://histeria.fr/wiki/3-gameplay/récompenses-de-vote), en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) et dans les [Lucky Blocks](https://histeria.fr/wiki/2-équipement/other).
 
 
 # Minerai d'Histerite 
 
 ## Description 
-Le minerai d'Histerite est un minerai rare trouvable dans les [serveurs minage](https://histeria.fr/wiki/3-gameplay/minage-servers) entre la couche 0 et 16.
+Le minerai d'Histerite est un minerai rare trouvable dans les [serveurs minage](https://histeria.fr/wiki/3-gameplay/minage-servers) de la couche 0 à 16.
 
 ## Utilité
 Ce minerai vous permet d'obtenir des lingots en Histerite qui sont à la base de nombreux crafts.
