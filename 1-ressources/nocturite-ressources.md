@@ -15,16 +15,16 @@ Vous avez 25% d'en obtenir 2 en cassant une pousse de Nocturite au stage 3.
 ## Visuels des pousses
 
 ### Stage 0
-![cracked_stone](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-0.png)
+![stage-0](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-0.png)
 
 ### Stage 1
-![fish](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-1.png)
+![stage-1](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-1.png)
 
 ### Stage 2
-![shell](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-2.png)
+![stage-2](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-2-2.png)
 
 ### Stage 3
-![skull](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-3.png)
+![stage-3](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/nocturite-plant-stage-3.png)
 
 
 
