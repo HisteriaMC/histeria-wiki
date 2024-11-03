@@ -56,7 +56,7 @@ Le brise-roche est disponible aux **spawns de chaque serveur**, mais un craft es
 # Les fossiles
 
 ## Description
-Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent s'améliorer par l'enchantement [Archéologie](https://histeria.fr/wiki/5-enchantements/archeology). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/3-gameplay/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources).
+Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leurs taux de drop peuvent augmenter grâce à l'enchantement [Archéologie](https://histeria.fr/wiki/5-enchantements/archeology). Il en existe 5 sortes et sont échangeables aux hubs des [serveurs faction](https://histeria.fr/wiki/3-gameplay/faction-servers) contre des lumenns et de l'[Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources).
 
 ## Visuels 
 
