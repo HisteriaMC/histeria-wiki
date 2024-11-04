@@ -32,7 +32,7 @@ Lors de son utilisation, vous êtes complètement immobile, intuable et bien év
 
 L'explorateur de coffre permet de voir le contenu d'un coffre alors qu'il se situe dans une zone claim d'une faction ennemie. Il peut être utilisé 10 fois.
 
-Il est obtensible dans les [boxs en Histerite](https://histeria.fr/wiki/clés/histerite-key), mais il peut aussi se craft.
+Il est obtenable dans les [boxs en Histerite](https://histeria.fr/wiki/clés/histerite-key), mais il peut aussi se craft.
 
 ## Craft
 
@@ -53,7 +53,7 @@ Il est obtensible dans les [boxs en Histerite](https://histeria.fr/wiki/clés/hi
 # Chercheur de coffre
 
 ## Description
-Le chercheur de coffre est utile pour trouver des coffres à piller. Ce dernier donne le nombre de coffre(s) dans un carré de 7 chunks autour du joueur.
+Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de coffres dans un carré de 7 chunks autour du joueur.
 
 ## Craft
 -=-
@@ -98,7 +98,7 @@ Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou modd
 # Dynamite
 
 ## Description
-La dynamite est un objet qui provoque une explosion.
+La dynamite est un objet qui provoque une explosion. Contrairement à la TNT, la dynamite peut être lancée par le joueur.
 
 ## Craft
 -=-
