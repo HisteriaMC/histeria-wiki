@@ -32,7 +32,7 @@ Lors de son utilisation, vous êtes complètement immobile, intuable et bien év
 
 L'explorateur de coffre permet de voir le contenu d'un coffre alors qu'il se situe dans une zone claim d'une faction ennemie. Il peut être utilisé 10 fois.
 
-Il est obtenable dans les [boxs en Histerite](https://histeria.fr/wiki/clés/histerite-key), mais il peut aussi se craft.
+Il est obtenable dans les [boxs en Histerite](https://histeria.fr/wiki/2-équipement/keys), mais il peut aussi se craft.
 
 ## Craft
 
@@ -53,7 +53,7 @@ Il est obtenable dans les [boxs en Histerite](https://histeria.fr/wiki/clés/his
 # Chercheur de coffre
 
 ## Description
-Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de coffres dans un carré de 7 chunks autour du joueur.
+Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de conteneur(s), comme les coffres, les tonneaux, les fours, etc... dans un carré de 7 chunks autour du joueur. Seul le [coffre en Nocturite](https://histeria.fr/wiki/2-équipement/base) n'est pas repéré par le chercheur de coffre.
 
 ## Craft
 -=-
