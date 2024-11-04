@@ -7,7 +7,7 @@
 ## Description
 La terre fertilisée est une terre améliorée et enrichie à l'Histerite. Les graines classiques ne peuvent pas y être semées, seules les [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) le peuvent.
 
-## Craft
+## fabrication
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
@@ -35,9 +35,9 @@ Le brise-roche est un bloc qui permet de transformer la cobblestone compressée 
 
 Les probabilités sont disponibles sur la page de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources).
 
-Le brise-roche est disponible aux **spawns de chaque serveur**, mais un craft est également disponible.
+Le brise-roche est disponible aux **spawns de chaque serveur**, mais il peut aussi être fabriqué.
 
-## Craft
+## Fabrication
 
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/furnace.png
