@@ -112,12 +112,16 @@ Pour pouvoir le fabriquer, il faut être niveau 10 dans le métier de bûcheron.
 Le planeur est idéal pour se déplacer plus rapidement afin de chercher des pillages.
 Il fait planer le joueur qui l'a en main et annule tout dégât de chute.
 
+Il peut être utilisé pendant 10h avant de ne plus avoir de durabilité.
+
 
 # Capuche
 
 ## Description
 La capuche sert à cacher le pseudonyme du joueur qui la porte. Cette dernière est utile pour les pillages discrets.
 Elle peut également être utile dans sa base ou dans sa ferme afin que les autres joueurs ne puissent voir le pseudonyme du porteur depuis la surface.
+
+Elle peut être utilisé pendant 48h avant de ne plus avoir de durabilité.
 
 ## Obtention
 La capuche est obtenable dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).

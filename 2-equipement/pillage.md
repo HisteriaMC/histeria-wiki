@@ -55,6 +55,8 @@ Il est obtenable dans les [boxs en Histerite](https://histeria.fr/wiki/2-équipe
 ## Description
 Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de conteneur(s), comme les coffres, les tonneaux, les fours, etc... dans un carré de 7 chunks autour du joueur. Seul le [coffre en Nocturite](https://histeria.fr/wiki/2-équipement/base) n'est pas repéré par le chercheur de coffre.
 
+Il peut être utilisé pendant 10h avant de ne plus avoir de durabilité.
+
 ## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png

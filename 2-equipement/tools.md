@@ -193,6 +193,8 @@ Pour pouvoir le fabriquer, il faut être niveau 24 dans le métier de tueur.
 ## Utilité
 Il permet de se propulser à plusieurs dizaines de blocs et de ne pas prendre de dégâts de chute lorsqu'il est en main. 
 
+Il a une durabilité de 10000 utilisations.
+
 
 # Planteur de graines
 
