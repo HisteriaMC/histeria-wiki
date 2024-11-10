@@ -7,7 +7,7 @@
 ## Description
 L'Histerite est le minerai principal sur Histeria. Il est la base de la plupart des objets moddés, ce qui fait de lui une ressource primordiale.
 
-Il est obtenable en minant des minerais d'Histerite, dans les [boxs](https://histeria.fr/wiki/2-équipement/keys), dans le [calendrier de vote](https://histeria.fr/wiki/3-gameplay/récompenses-de-vote), en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) et dans les [Lucky Blocks](https://histeria.fr/wiki/2-équipement/other).
+Il est obtenable en minant des minerais d'Histerite, dans les [boxs](https://histeria.fr/wiki/2-equipement/keys), dans le [calendrier de vote](https://histeria.fr/wiki/3-gameplay/récompenses-de-vote), en utilisant de la [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) et dans les [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other).
 
 
 # Minerai d'Histerite 
@@ -39,7 +39,7 @@ Le bloc d'Histerite est le regroupement de 9 lingots d'Histerite.
 -=-
 
 ## Utilité 
-Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/2-équipement/farm), le [coffre en Histerite](https://histeria.fr/wiki/2-équipement/base), l'[obsidienne renforcée](https://histeria.fr/wiki/2-équipement/base) et bien plus encore.
+Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/2-equipement/farm), le [coffre en Histerite](https://histeria.fr/wiki/2-equipement/base), l'[obsidienne renforcée](https://histeria.fr/wiki/2-equipement/base) et bien plus encore.
 
 
 # Histerite compressée
@@ -67,7 +67,7 @@ Pour pouvoir la fabriquer, il faut être niveau 12 dans le métier de mineur.
 # Coeur d'Histerite
 
 ## Description
-Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure en Nocturite](https://histeria.fr/wiki/2-équipement/nocturite-armor), car il permet de fabriquer des [coeurs de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources).
+Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor), car il permet de fabriquer des [coeurs de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources).
 
 ## Fabrication
 -=-
@@ -89,7 +89,7 @@ Pour pouvoir le fabriquer, il faut être niveau 18 dans le métier de mineur.
 # Bâton d'Histerite
 
 ## Description
-Le bâton d'Histerite est essentiel pour la fabrication des [outils en Histerite](https://histeria.fr/wiki/2-équipement/tools).
+Le bâton d'Histerite est essentiel pour la fabrication des [outils en Histerite](https://histeria.fr/wiki/2-equipement/tools).
 
 ## Fabrication
 -=-
