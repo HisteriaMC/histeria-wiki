@@ -26,7 +26,7 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier d'agricult
 ## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Réspiration aquatique & Vision nocturne | 1,5 | 20 000 |
+| Réspiration aquatique & Vision nocturne | 2,5 | 20 000 |
 
 
 # Plastron en Nocturite
@@ -53,7 +53,7 @@ Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
 ## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
-| Célérité III & Résistance & Bonus de vie IV & Saturation III | 4 | 20 000 |
+| Célérité III, Résistance, Bonus de vie IV, Saturation III & Force I | 4 | 20 000 |
 
 
 # Jambières en Nocturite 
@@ -107,4 +107,4 @@ Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de bûche
 ## Informations
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- | --------------- | ---------- |
-| Sauts améliorés II| 1,5             | 20 000     |
+| Sauts améliorés II| 2,5             | 20 000     |
