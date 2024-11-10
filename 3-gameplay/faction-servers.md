@@ -58,7 +58,7 @@ Le serveur faction 1 est le plus visité et le plus animé. Le spawn est un peti
 
 ## Map
 La carte de chaque serveur faction est limitée et définie. Elle s'étend autant dans les coordonnées positives que négatives.
-En faction 1 la map fait 24 000 blocs de longueur soit des coordonnées x et z -12 000 à 12 000.
+En faction 1 la map fait 24 000 blocs de longueur soit des coordonnées x et z -10 000 à 10 000.
 
 ![faction1](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction1v6-5.png)
 
@@ -82,6 +82,6 @@ Le serveur faction 3 est le dernier serveur disponible en faction, et très souv
 
 ## Map
 La carte de chaque serveur faction est limitée et définie. Elle s'étend autant dans les coordonnées positives que négatives.
-En faction 3 la map fait 25 000 blocs de longueur soit des coordonnées x et z -12 500 à 12 500.
+En faction 3 la map fait 25 000 blocs de longueur soit des coordonnées x et z -10 000 à 10 000.
 
 ![faction3](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/pictures/faction3v6-5.png)
