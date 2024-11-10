@@ -10,7 +10,16 @@ Les graines de Nocturite sont la base de tout objet en Nocturite.
 ## Obtention
 Elles peuvent s'obtenir en cassant des hautes herbes et en cassant des pousses de Nocturite au stage 3.
 
-Vous avez 25% d'en obtenir 2 en cassant une pousse de Nocturite au stage 3.
+Voici les chances de récolte:
+- 3% de recevoir 4 fruits
+- 27% de recevoir 3 fruits
+- 25% de recevoir 2 fruits
+- 20% de recevoir 1 fruit
+- 25% de ne pas recevoir de fruit
+
+- 10% de recevoir 2 graines
+- 60% de recevoir 1 graine
+- 30% de ne pas recevoir de graine
 
 ## Visuels des pousses
 
