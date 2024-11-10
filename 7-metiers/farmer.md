@@ -5,44 +5,44 @@
 # Métier d'agriculteur
 
 ## Description
-Le métier d'agriculteur est l'un des 4 métiers d'Histeria. Toutes les sources d'xp sont des plantes à cultiver, c'est pour cela que la construction d'une ferme en [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) est recommandée.
-Le métier d'agriculteur permet, une fois terminé, de débloquer le craft du [casque en Nocturite](https://histeria.fr/wiki/armures/nocturite-helmet).
+Le métier d'agriculteur est l'un des 4 métiers d'Histeria. Toutes les sources d'xp sont des plantes à cultiver, c'est pour cela que la construction d'une ferme en [serveurs factions](https://histeria.fr/wiki/3-gameplay/faction-servers) est recommandée.
+Le métier d'agriculteur permet, une fois terminé, de débloquer le craft du [casque en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
 L'avancée des métiers est disponible avec la commande `/job`.
 
 ## Récompenses
 
 | Niveau | Récompense |
 |:---:|:---:|
-| 1 | 128 graines |
-| 2 | 3 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 3 | 16 [ascenseurs](https://histeria.fr/wiki/blocs/elevator) |
-| 4 | Un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) |
-| 5 | Craft de la [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) |
-| 6 | Une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) |
-| 7 | 25.000 $ |
-| 8 | Craft de la [pelle en Histerite](https://histeria.fr/wiki/outils/histerite-shovel) |
-| 9 | 3 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 10 | 32 [Histerite](https://histeria.fr/wiki/ressources/histerite) |
-| 11 | Un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket) |
-| 12 | Un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) protection IV |
-| 13 | Des [jambières en Histerite](https://histeria.fr/wiki/armures/histerite-leggings) protection IV |
-| 14 | 3 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
-| 15 | Un [cave block](https://histeria.fr/wiki/blocs/cave-block) |
-| 16 | Une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) efficacité V solidité IV |
-| 17 | Craft de la [terre fertilisée](https://histeria.fr/wiki/blocs/fertilized-dirt) |
-| 18 | 75.000 $ |
-| 19 | 32 [graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) |
-| 20 | Craft du [planteur de graines](https://histeria.fr/wiki/objets/seed-planter) |
-| 21 | 5 [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) |
-| 22 | Une [houe en Histerite](https://histeria.fr/wiki/outils/histerite-hoe) incassable |
-| 23 | 5 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
-| 24 | 64 [graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) |
-| 25 | 16 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 26 | Une [clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key) |
-| 27 | Craft de la [nocturite compressée](https://histeria.fr/wiki/ressources/nocturite-compress) |
-| 28 | Un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) protection IV solidité IV |
-| 29 | Des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) protection IV solidité IV |
-| 30 | Craft du [casque en Nocturite](https://histeria.fr/wiki/armures/nocturite-helmet) |
+| 1 | Une houe en diamant efficacité III |
+| 2 | 5 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 3 | 15000 $ |
+| 4 | Craft de la [pelle en Histerite](https://histeria.fr/wiki/2-equipement/tools) et de la [houe en Histerite](https://histeria.fr/wiki/é-equipement/tools) |
+| 5 | 16 [ascenseurs](https://histeria.fr/2-equipement/base) |
+| 6 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 7 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 8 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
+| 9 | 10 [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) |
+| 10 | 3 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
+| 11 | Des [jambières en Histerite](https://histeria.fr/wiki/2-equipement/histerite-armor) protection IV solidité IV |
+| 12 | 3 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
+| 13 | 50000 $ |
+| 14 | 5 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
+| 15 | Craft de la [terre fertilisée](https://histeria.fr/wiki/2-equipement/farm) |
+| 16 | 15 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 17 | 32 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
+| 18 | 2 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 19 | 32 [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) |
+| 20 | Craft du [planteur de graines](https://histeria.fr/wiki/2-equipement/tools) |
+| 21 | 12 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
+| 22 | 75000 $ |
+| 23 | Une [pelle en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité IV incassable |
+| 24 | 20 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 25 | Craft de la [Nocturite compressée](https://histeria.fr/wiki/1-ressources/nocturite-ressources) |
+| 26 | 3 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
+| 27 | 2 [clés en Nocturite](https://histeria.fr/wiki/2-equipement/keys) |
+| 28 | 100000 $ |
+| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 30 | Craft du [casque en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor) |
 
 ## Moyen d'amélioration
 
