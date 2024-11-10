@@ -37,7 +37,7 @@ Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indi
 
 ## Informations
 L'enchantement d'arène Gravity est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
-Quand le porteur de l'enchantement est frappé, il a une chance de donner un effet de Saut amélioré au porteur de l'enchantement.
+Quand le porteur de l'enchantement est frappé, il a une chance de donner double saut au porteur de l'enchantement.
 
 **Niveau maximum :** 3
 
@@ -50,17 +50,17 @@ Quand le porteur de l'enchantement est frappé, il a une chance de donner un eff
   <tr>
     <td>1</td>
     <td>0.3%</td>
-    <td>Effet de Saut amélioré</td>
+    <td>Double saut toutes les 30s</td>
   </tr>
   <tr>
     <td>2</td>
     <td>0.35%</td>
-    <td>Effet de Saut amélioré</td>
+    <td>Double saut toutes les 25s</td>
   </tr>
   <tr>
     <td>3</td>
     <td>0.4%</td>
-    <td>Effet de Saut amélioré</td>
+    <td>Double saut toutes les 20s</td>
 </table>
 
 
@@ -68,7 +68,7 @@ Quand le porteur de l'enchantement est frappé, il a une chance de donner un eff
 
 ## Informations
 Bye Bye les malus ! L'enchantement Raise est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
-Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous les effets négatifs au porteur (Faiblesse, Lenteur, Cécité, Poison, Wither, Hunger, Mining Fatigue, Nausée).
+Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous les effets négatifs au porteur (Faiblesse, Lenteur, Cécité, Poison, Wither, Hunger, Mining Fatigue, Nausée), ou de lui soigner un coeur.
 
 **Niveau maximum :** 3
 
@@ -81,17 +81,17 @@ Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous 
   <tr>
     <td>1</td>
     <td>0.3%</td>
-    <td>Disparition des effets négatifs</td>
+    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
   </tr>
   <tr>
     <td>2</td>
     <td>0.35%</td>
-    <td>Disparition des effets négatifs</td>
+    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
   </tr>
   <tr>
     <td>3</td>
     <td>0.4%</td>
-    <td>Disparition des effets négatifs</td>
+    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
 </table>
 
 

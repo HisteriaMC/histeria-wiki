@@ -171,16 +171,16 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
   <tr>
     <td>1</td>
     <td>0.6%</td>
-    <td>Retire 1 coeur de vie à son adversaire et le brûle (5s)</td>
+    <td>Retire 1 coeur de vie à son adversaire et le brûle (8s)</td>
   </tr>
   <tr>
     <td>2</td>
     <td>3.40%</td>
-    <td>Retire 1 coeur de vie à son adversaire et le brûle (5s)</td>
+    <td>Retire 1 coeur de vie à son adversaire et le brûle (8s)</td>
   <tr>
     <td>3</td>
     <td>3.60%</td>
-    <td>Retire 1 coeur de vie à son adversaire et le brûle (5s)</td>
+    <td>Retire 1 coeur de vie à son adversaire et le brûle (8s)</td>
 </table>
 
 
