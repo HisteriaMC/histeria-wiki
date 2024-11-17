@@ -46,11 +46,11 @@ Le coffre en Nocturite n'a que 9 emplacements, cependant il n'est pas détectabl
 -=-
 
 
-# Vault
+# Coffre-fort
 
 ## Description
 
-Le vault est un excellent moyen de garder votre équipement à l'abri. Il ne peut s'ouvrir par des ennemis qu'avec un pied de biche et un QTE.
+Le coffre-fort est un excellent moyen de garder votre équipement à l'abri. Il ne peut s'ouvrir par des ennemis qu'avec un pied de biche et un QTE.
 
 ## Craft
 
@@ -88,11 +88,11 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/1-ressources/hi
 -=-
 
 
-# Reflector
+# Renvoyeur
 
 ## Description
 
-Le reflector est un bloc de défense éléctrique qui renvoie toutes les TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM.
+Le renvoyeur est un bloc de défense éléctrique qui renvoie toutes les TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM.
 
 ## Craft
 
@@ -132,26 +132,28 @@ Le générateur est le moyen d'alimenter toutes les défenses nécessitant de l'
 -=-
 
 
-# Cataclyst
+# Catalyseur
 
 ## Description
 
-Le cataclyst est une défense éléctrique qui, alimenté, effectue une action permanente entre:
-- 
+Le catalyseur est une défense éléctrique qui, alimenté, effectue une action permanente entre:
+- soin des allié
+- aveuglement des ennemis
+- mise en statut de combat des ennemis
 
 ## Craft
 
 -=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/hiisterite-chest.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/reflector.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/item/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/hardened-glass.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/catalyst.webp
 -=-
 
 
