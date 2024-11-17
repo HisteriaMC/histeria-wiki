@@ -102,29 +102,38 @@
   + Retrait de l'effet de saut amélioré II et ajout de l'effet vitesse II sur les bottes.
   + Ajout d'un point de défense sur bottes et casque.
 
-- 🗡️ **Hache en histerite**: Elle a désormais 17 points d'attaque.
+- 🗡️ **Hache en Histerite**: Elle a désormais 17 points d'attaque.
 
-- ⚔️ **Armes de combat :** Dégats de 13 à 17
-- ⚖️ **Nerf Sponger** : 15 durabilités et cooldown de 30s pour équilibrer l'utilisation.
-- ✨ **Buff des enchantements custom** : Buff multiplié par 2.5.
-- **Autres :** Les métiers, le shop, les craft. Plein de choses encore rééquilibrés.
+- ⚔️ **Armes**: Les points de dégats de toutes les armes équivalentes à l'épée en Histerite sont désormais à 17.
+
+- ⚖️ **Bâton de sécheresse**: Anciennement appelé l'éponge puissante, le bâton de sécheresse a 15 de durabilité, et posède un cooldown de 30s.
+
+- ✨ **Buff des enchantements custom**: Buff multiplié par 2,5.
+
+- **Autres**: Les métiers, le shop, les craft... Plein de choses encore rééquilibrées.
  
 ## Événements
  
-- 🗿 **Event Totem** : Nouveau type d'événement. PLACEHOLDER AILFE
-- 📦 **Largage :** Événement quotidien (1 par jour sur un des 3 factions) avec les coordonnées d'un colis stratégiques communiqués en avance ainsi que son heure d'arrivée */airdrop*
-- 🖤 **Marché noir :** Ouverture automatique de 9h à 12h ainsi que de 20h à 22h, maintenant caché dans la warzone */blackmarket*
+- 🗿 **Event Totem**: Nouveau type d'événement quotidient présent en warzone.
+
+- 📦 **Largage**: Événement quotidien (1 par jour sur un des 3 factions) avec les coordonnées d'un colis communiquées en avance ainsi que son heure d'arrivée (`/airdrop`)
+
+- 🖤 **Marché noir**: Ouverture automatique de 9h à 12h ainsi que de 20h à 22h, maintenant caché dans la warzone (`/blackmarket`)
  
 ## Lumen
  
-- 🍼 **Bouteilles :** Le Lumen rentre maintenant dans une bouteille, facilitant son utilisation.
-- 💎 **Obtention :** Les blocks en minages ne donnent plus de lumens
+- 🍼 **Bouteilles de lumen**: Le lumen rentre maintenant dans une bouteille, facilitant son utilisation, grâce à `/lumenbottle`.
+
+- 💎 **Obtention en minage**: Les blocs en minage ne donnent plus de lumen.
  
 ## Autres changements mineurs
  
-- 🏅 **Affichage des ranks avec émojis** : Les joueurs ont maintenant des émojis sur leur nom pour représenter leur rang.
-- 🛒 **Boutique :** Nouvelle implémentation permettant l'automatisation entière des achats boutiques 
-- ⚙️ **Paramètres** : Nouvelles options de configuration pour désactiver les messages privés, les duels et les échanges et autres.
-- 🛠️ **Enchantements vanilla :** Baisse des prix d'achat de 50000\$ à 2500\$
-- 💬 **Arguments de commandes :** Les arguments de commandes sont maintenant mieux automatiquement rempli avec les propositions (par exemple la liste du /home et du /warp).
-- 🖼️ **Visuel hang glider :** Le hang glider dispose maintenant d'un modèle lorsqu'il est porté
+- 🏅 **Affichage des rangs avec émojis**: Les joueurs ont maintenant des émojis sur leur nom pour représenter leur rang.
+
+- ⚙️ **Paramètres**: Nouvelles options de configuration de `/settings` pour désactiver les messages privés, les duels et les échanges.
+
+- 🛠️ **Enchantements vanilla**: Prix des enchantements vanilla à 12 500$/niveau
+
+- 💬 **Arguments des commandes**: Les arguments des commandes sont maintenant automatiquement remplis avec les propositions (par exemple la liste du /home et du /warp).
+
+- 🖼️ **Visuel du planeur**: Le planeur dispose maintenant d'un modèle visible au dos du joueur lorsqu'il est porté.
