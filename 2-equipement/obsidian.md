@@ -18,7 +18,7 @@ L'obsidienne en Histerite est une variante de l'obsidienne reconnaissable avec s
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
 -=-
 
 ## Utilité 
@@ -32,40 +32,63 @@ L'obsidienne en Nocturite est la meilleure obsidienne du jeu. Elle résiste à t
 
 ## Craft
 -=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-cristal.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-cristal.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-cristal.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-cristal.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-obsidian.png
 -=-
 
 ## Utilité 
-Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale.
+Cette obsidienne est utile pour protéger la salle des coffres de vos bases.
 
 
 # Obsidienne empoisonnée
 
 ## Description 
-L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec ses filaments verts qui la parcourent. Une fois cette obsidienne cassée, le joueur obtient un effet de Poison III pour une durée de 3 secondes. Pour la casser dans des bases claims, vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-equipement/pillage).
+L'obsidienne empoisonnée est une variante de l'obsidienne en Histerite, avec des teints verts. Une fois cette obsidienne cassée, le joueur obtient un effet de poison.
 
 ## Craft
 -=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cactus.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/poison-obsidian.png
 -=-
 
 ## Utilité 
 Cette obsidienne peut vous être utile que ce soit pour protéger vos bases, décorer ou embêter vos amis !
+
+
+# Obsidienne de lévitation
+
+## Description 
+L'obsidienne de lévitation est une variante de l'obsidienne en Histerite, mais qui donne un effet de lévitation aux joueurs aux alentours une fois cassée.
+
+## Craft
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/ender-pearl.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/levitation-obsidian.png
+-=-
+
+## Utilité 
+Cette obsidienne est utile pour ralentir vos ennemis qui essaieraient de piller votre base claim.
