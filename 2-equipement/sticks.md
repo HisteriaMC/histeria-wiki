@@ -79,13 +79,13 @@ Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
 Lorsque vous utilisez ce bâton, il vous donne l'effet Vitesse II pendant 2 secondes. Il y a un temps de recharge de 20 secondes entre chaque utilisation.
 
 
-# Éponge puissante
+# Bâton de sécheresse
 
 ## Description
 
-L'éponge puissante est un objet permettant de retirer une grande quantité d'eau ou de lave en très peu de temps.
+Le bâton de sécheresse est un objet permettant de retirer une grande quantité d'eau ou de lave en très peu de temps.
 
-Elle enlève le liquide sur un rayon de 3 blocs autour du joueur. Sa durabilité est de 256, sachant que la durabilité diminue en fonction des blocs retirés.
+Elle enlève le liquide sur un rayon de 3 blocs autour du joueur. Sa durabilité est de 15, et il y a un cooldown de 30 secondes entre chaque utilisation..
 
 ## Fabrication
 
