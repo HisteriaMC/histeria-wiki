@@ -88,6 +88,15 @@ Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/1-ressources/hi
 -=-
 
 
+# Reflector
+
+## Description
+
+Le reflector est un bloc de défense éléctrique qui renvoie toutes les TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM.
+
+## Craft
+
+
 # Commode
 
 ## Description
