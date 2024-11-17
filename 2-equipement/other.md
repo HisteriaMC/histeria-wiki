@@ -179,6 +179,13 @@ Ce bloc peut être crafté, et est disponible à l'achat au shop.
 
 
 # Sac à dos
+## Explications
+Le sac à dos est un objet qui permet de transporter plusieurs autres objets en un seul. Le sac à dos a 27 slots pouvant accueillir différents objets.
+
+Il ne peut que en avoir 2 par coffre, et aucun dans les coffres de l'end.
+
+
+# Sac pochon
 
 ## Description
 
