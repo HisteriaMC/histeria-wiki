@@ -128,3 +128,15 @@ Voici ce que les joueurs peuvent obtenir:
 | 3 | Un chèque de 5 000 $, un chèque de 7 500 $, 3 clés de vote, 3 Lucky Blocks, 3 blocs en Histerite |
 | 4 | Un chèque de 7 500 $, un chèque de 10 000 $, une clé en Histerite, 2 terres fertilisées, 5 blocs en Histerite, une pièce d'armure en Histerite protection IV |
 | 5 | Un chèque de 50 000, 12 Lucky Blocks, 1 ticket de lotterie, une clé en Histerite, 3 clés en Histerite, W6 terres fertilisées |
+
+
+# Marché noir
+
+## Description
+
+Le marché noir est un pnj disponible de 9h à 12h, et de 20h à 22h, qui échange des objets contre une somme d'argent bien plus faible qu'au `/shop`. 
+
+Il se situe à différents endroits aléatoires dans chaque warzone de chaque faction:
+- Dans des temples aux coins de la warzone en faction 1
+- Dans le grand arbre ou le tunnel en warzone en faction 2
+- Dans le grand château en faction 3
