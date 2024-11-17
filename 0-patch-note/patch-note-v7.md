@@ -2,6 +2,8 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%
 %%weight=800%%
 
+![patchnote](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/patchnote.png)
+
 # Patch note de la v7
 
 ## Bases claim
