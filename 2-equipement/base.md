@@ -123,12 +123,12 @@ Le générateur est le moyen d'alimenter toutes les défenses nécessitant de l'
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/hiisterite-chest.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-chest.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/reflector.webp
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/generator.webp
 -=-
 
 
@@ -144,15 +144,15 @@ Le catalyseur est une défense éléctrique qui, alimenté, effectue une action 
 ## Craft
 
 -=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/item/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/glass.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/catalyst.webp
 -=-
 
@@ -167,13 +167,13 @@ Quand ce bloc posé dans le claim d'une faction est cassé, tous les joueurs de 
 
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/detector.webp
 -=-
@@ -239,15 +239,15 @@ Le sable mélangé est une fusion de sable et d'Histerite. Il est bien plus rés
 
 ## Craft  
 -=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/mixed-sand.png
 -=-
 

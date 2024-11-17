@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armor/nocturite-chestplate.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-chestplate.png%%
 %%weight=611%%
 %%name=Armure en Nocturite%%
 
