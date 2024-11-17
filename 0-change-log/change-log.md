@@ -34,7 +34,7 @@
   
 - 🏦 **Coffre-fort**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
   
-- 🔄 **Renvoyeur**: Une défense éléctrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM
+- 🔄 **Réflecteur**: Une défense éléctrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM
 
 - ⚙️ **Générateur**: C'est le moyen d'alimenter toutes vos défenses avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
 
