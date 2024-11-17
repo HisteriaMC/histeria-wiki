@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armor/histerite-chestplate.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-chestplate.png%%
 %%weight=612%%
 %%name=Armure en Histerite%%
 
