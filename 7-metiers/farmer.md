@@ -7,7 +7,7 @@
 ## Description
 Le métier d'agriculteur est l'un des 4 métiers d'Histeria. Toutes les sources d'xp sont des plantes à cultiver, c'est pour cela que la construction d'une ferme en [serveurs factions](https://histeria.fr/wiki/3-gameplay/faction-servers) est recommandée.
 Le métier d'agriculteur permet, une fois terminé, de débloquer le craft du [casque en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
-L'avancée des métiers est disponible avec la commande `/job`.
+L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses
 
