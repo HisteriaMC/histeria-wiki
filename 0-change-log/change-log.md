@@ -4,7 +4,9 @@
 
 ![patchnote](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/patchnote.png)
 
-# Patch note de la v7
+# Change Log de la v7
+
+Le 17 novembre 2024
 
 ![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
 
