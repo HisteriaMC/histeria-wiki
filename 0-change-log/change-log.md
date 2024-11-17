@@ -103,6 +103,8 @@
 - ⚖️ **Equilibrage des objets de boss**: Ajout de nouveaux objets & nouvelles armes de boss et rééquilibrage des objets déjà existants.
 
 - 🛡️ **Durabilité**: Le chercheur de coffre, la capuche, le grappin ou encore le planeur ont maintenant des durabilités limitées sur leur usage.
+
+- ⛏️ **Réinitialisation des métiers**: Les métiers peuvent être réinitialisés, afin de recevoir à nouveau les récompenses.
  
 ## Rééquilibrage
  
