@@ -4,9 +4,7 @@
 
 # Change Log de la v7
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png">
-p>
+![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
 
 > 17/11/2024 par Tonmou, dadodasyra
 
