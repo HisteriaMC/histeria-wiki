@@ -112,7 +112,7 @@ Pour pouvoir le fabriquer, il faut être niveau 10 dans le métier de bûcheron.
 Le planeur est idéal pour se déplacer plus rapidement afin de chercher des pillages.
 Il fait planer le joueur qui l'a en main et annule tout dégât de chute.
 
-Il peut être utilisé pendant 10h avant de ne plus avoir de durabilité.
+Il peut être utilisé pendant 30m avant de ne plus avoir de durabilité.
 
 
 # Capuche
