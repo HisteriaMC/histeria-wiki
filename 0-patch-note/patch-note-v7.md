@@ -39,6 +39,8 @@
 - 🚨 **Bloc d'alerte**: C'est une défense éléctrique. Si elle est détruite et qu'elle est alimentée, alors toute votre faction sera prévenue (bientot via discord!).
   
 - 🗿 **Altar**: Un piedestal permettant de projetter vos TNT custom sur les bases de vos adversaires, il suffit de poser une TNT dessus et viser en frappant la TNT.
+
+- 🔓 **Pied de biche**: Nouvel objet qui permet d'ouvrir les vaults
   
 - 🛠️ **Suppression des casseurs d'obsidienne**
 
