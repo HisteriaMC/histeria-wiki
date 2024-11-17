@@ -6,6 +6,8 @@
 
 # Patch note de la v7
 
+![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
+
 ## Bases claim
 
 - TNT
