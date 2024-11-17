@@ -6,7 +6,7 @@
 ## Description
 Le métier de mineur est l'un des 4 métiers d'Histeria. L'unique moyen de l'augmenter est d'aller miner, les [mondes minages](https://histeria.fr/wiki/mondes/minage-servers) sont prévus à cet effet.
 Le métier de mineur a comme récompense finale le craft du [plastron en Nocturite](https://histeria.fr/wiki/armures/nocturite-chestplate).
-L'avancée des métiers est disponible avec la commande `/job`.
+L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses
 
