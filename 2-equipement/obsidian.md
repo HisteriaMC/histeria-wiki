@@ -2,6 +2,52 @@
 %%weight=601%%
 %%name=Obsidiennes%%
 
+# Obsidienne en Histerite
+
+## Description 
+L'obsidienne en Histerite est une variante de l'obsidienne reconnaissable avec ses traces rouges. Elle est plus résistante que l'obsidienne classique.
+
+## Craft
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
+-=-
+
+## Utilité 
+Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale.
+
+
+# Obsidienne en Nocturite
+
+## Description 
+L'obsidienne en Nocturite est la meilleure obsidienne du jeu. Elle résiste à tout sauf aux  TNT en Nocturite.
+
+## Craft
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
+-=-
+
+## Utilité 
+Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale.
+
+
 # Obsidienne empoisonnée
 
 ## Description 
@@ -23,26 +69,3 @@ L'obsidienne empoisonnée est une variante de l'obsidienne reconnaissable avec s
 
 ## Utilité 
 Cette obsidienne peut vous être utile que ce soit pour protéger vos bases, décorer ou embêter vos amis !
-
-
-# Obsidienne Renforcée
-
-## Description 
-L'obsidienne renforcée est une variante de l'obsidienne reconnaissable avec ses filaments rouges qui la parcourent. L'obsidienne renforcée est plus résistante que l'obsidienne classique. Pour la casser vous devrez utiliser un [casseur d'obsidienne](https://histeria.fr/wiki/2-equipement/pillage).
-
-## Craft
--=-
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
--=-
-
-## Utilité 
-Cette obsidienne est très pratique pour protéger vos bases grâce à sa résistance générale. Elle peut également être utilisée pour fabriquer le casseur d'obsidienne.
