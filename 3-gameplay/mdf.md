@@ -10,6 +10,8 @@ Il existe 2 tailles de maisons de factions, les prix de base ainsi que les taill
 - Maison de faction classique
 - Grande maison de faction
 
+En ce début de version v7, les mdf ne sont pas encore à vendre.
+
  
 ## Restrictions
 
