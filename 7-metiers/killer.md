@@ -6,7 +6,7 @@
 ## Description
 Le métier de tueur fait parti des 4 métiers d'Histeria. On peut l'augmenter en tuant d'autres joueurs, ou en participant aux [boss](https://histeria.fr/wiki/6-boss).
 La récompense finale du métier de tueur est le craft des [jambières en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
-L'avancée des métiers est disponible avec la commande `/job`.
+L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses
 
