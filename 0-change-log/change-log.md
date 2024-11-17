@@ -2,13 +2,13 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%
 %%weight=800%%
 
-![patchnote](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/patchnote.png)
-
 # Change Log de la v7
 
-> 17/11/2024 par Tonmou, dadodasyra
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png">
+p>
 
-![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
+> 17/11/2024 par Tonmou, dadodasyra
 
 ## Bases claim
 
