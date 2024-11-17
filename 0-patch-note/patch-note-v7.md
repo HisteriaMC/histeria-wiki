@@ -27,6 +27,8 @@
   + 🌪️ **Obsidienne de levitation**: Elle équivaut à une obsidienne en histerite, mais accompagnée d'effets. Elle vaut plus cher, mais plus intérressante pour ralentir vos ennemis.
   
   + ☠️ **Obsidienne empoisonnée**: Cette obsidienne est comme une obsidienne en histerite, mais elle est accompagnée d'un effet de poison pour affaiblir vos ennemis durant le pillage.
+
+- 🏖️ **Sable mélangé**: Un sable mélangé à de l'Histerite, resistant aux dynamites.
   
 - 🏦 **Vault**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
   
