@@ -167,13 +167,13 @@ Quand ce bloc posé dans le claim d'une faction est cassé, tous les joueurs de 
 
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
- ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/detector.webp
 -=-
