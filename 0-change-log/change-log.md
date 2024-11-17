@@ -36,7 +36,7 @@
   
 - 🔄 **Renvoyeur**: Une défense éléctrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM
 
-- ⚙️ **Générateur**: C'est le moyen d'alimenter toutes vos défenses en avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
+- ⚙️ **Générateur**: C'est le moyen d'alimenter toutes vos défenses avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
 
 - 💡 **Catalyseur**: Une défense éléctrique, un projecteur d'effet assez couteux personnalisable qui permet de soigner les alliés, aveugler les ennemis, ou de les mettre en statut de combat.
 
@@ -82,7 +82,7 @@
  
 - ❄️ **Cryogenise**: La durée est passée de 2 secondes à 3,5 secondes, et la vitesse de -45%  à -65%.
 
-- 🌠 **Météore**: La durée des flammes est passée de 5 secondes à 8 secondes de bâtons de feux
+- 🌠 **Météore**: La durée des flammes est passée de 5 secondes à 8 secondes
 
 - 🪂 **Lift**: Le recul à l'impact est passé de 0,90 à 1,70.
 
