@@ -15,9 +15,9 @@
   
   + 💥 **TNT en Histerite**: Elle est très utile pour détruire la plupart des défenses des bases claim.
 
-  + ⚡ **TNT IEM**: Elle permet de désactiver les défenses éléctriques dans un rayon de 10x10x10 pour 10 secondes, et ne cause aucun dégat matériel et ignore l'effet du reflecteur.
+  + ⚡ **TNT IEM (à impulsion éléctromagnétique)**: Elle permet de désactiver les défenses éléctriques dans un rayon de 10x10x10 pour 10 secondes, et ne cause aucun dégat matériel et ignore l'effet du reflecteur.
   
-  + 🧨 **TNT Duping**: C'est une TNT peu puissante, mais qui cause de grands ravages aux blocs sensibles, car elle se divise en 3 avant d'exploser.
+  + 🧨 **TNT à dédoublement**: C'est une TNT peu puissante, mais qui cause de grands ravages aux blocs sensibles, car elle se divise en 3 avant d'exploser.
   
 - Obsidiennes
   + 🛡️ **Obsidienne en Nocturite**: Cette obsidienne est la meilleure protection du jeu, elle est donc à privilégier pour les salles de coffres. Elle est très onéreuse.
@@ -30,15 +30,15 @@
 
 - 🏖️ **Sable mélangé**: Un sable mélangé à de l'Histerite, resistant aux dynamites.
   
-- 🏦 **Vault**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
+- 🏦 **Coffre-fort**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
   
-- 🔄 **Reflector**: Une défense éléctrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM
+- 🔄 **Renvoyeur**: Une défense éléctrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM
 
-- ⚙️ **Generator**: C'est le moyen d'alimenter toutes vos défenses en avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
+- ⚙️ **Générateur**: C'est le moyen d'alimenter toutes vos défenses en avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
 
-- 💡 **Catalyst**: Une défense éléctrique, un projecteur d'effet assez couteux personnalisable qui permet de soigner les alliés, aveugler les ennemis, ou de les mettre en statut de combat.
+- 💡 **Catalyseur**: Une défense éléctrique, un projecteur d'effet assez couteux personnalisable qui permet de soigner les alliés, aveugler les ennemis, ou de les mettre en statut de combat.
 
-- 🚨 **Bloc d'alerte**: C'est une défense éléctrique. Si elle est détruite et qu'elle est alimentée, alors toute votre faction sera prévenue (bientot via discord!).
+- 🚨 **Alarme**: C'est une défense éléctrique. Si elle est détruite et qu'elle est alimentée, alors toute votre faction sera prévenue (bientot via discord!).
   
 - 🗿 **Altar**: Un piedestal permettant de projetter vos TNT custom sur les bases de vos adversaires, il suffit de poser une TNT dessus et viser en frappant la TNT.
 
