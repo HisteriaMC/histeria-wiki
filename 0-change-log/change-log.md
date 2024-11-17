@@ -6,7 +6,7 @@
 
 # Change Log de la v7
 
-Le 17 novembre 2024
+> Le 17 novembre 2024
 
 ![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
 
@@ -120,6 +120,8 @@ Le 17 novembre 2024
 - ⚖️ **Bâton de sécheresse**: Anciennement appelé l'éponge puissante, le bâton de sécheresse a 15 de durabilité, et posède un cooldown de 30s.
 
 - ✨ **Buff des enchantements custom**: Buff multiplié par 2,5.
+
+- 🌿 **Récolte des graines de Nocturite**: Les chances et le nombre de fruits lors d'une récolte sont modifiés.
 
 - **Autres**: Les métiers, le shop, les craft... Plein de choses encore rééquilibrées.
  
