@@ -23,7 +23,7 @@
 
 ## Informations
 Elle inflige plus de dégâts qu'une épée en diamant et peut être enchantée avec des enchantements customs.
-Elle a 14 points d'attaque.
+Elle a 17 points d'attaque.
 Elle a 15 000 points de durabilité.
 
 
@@ -140,7 +140,7 @@ Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier de bûcheron.
 ## Informations
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
 Elle a 5 000 de durabilité.
-Elle a 13 points d'attaque.
+Elle a 17 points d'attaque.
 
 
 # Marteau
