@@ -2,6 +2,10 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chair.png%%
 %%weight=601%%
 
+# Blocs de décoration
+
+Chaque bloc est disponible au `/shop` ou par fabrication.
+
 ## Chaise
 
 ![chaise](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chair.png)
