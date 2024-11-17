@@ -7,35 +7,36 @@
 ## Bases claim
 
 - TNT
-  + **TNT en Nocturite**: Elle est capable de détruire tous les blocs du jeu, sauf le vault et la bedrock. C'est seul moyen de détruire l'obsidienne en Nocturite.
+  + 🔥 **TNT en Nocturite**: Elle est capable de détruire tous les blocs du jeu, sauf le vault et la bedrock. C'est seul moyen de détruire l'obsidienne en Nocturite.
   
-  + **TNT en Histerite**: Elle est très utile pour détruire la plupart des défenses des bases claim.
-  + **TNT IEM**: Elle permet de désactiver les défenses éléctriques dans un rayon de 10x10x10 pour 10 secondes, et ne cause aucun dégat matériel et ignore l'effet du reflecteur.
+  + 💥 **TNT en Histerite**: Elle est très utile pour détruire la plupart des défenses des bases claim.
+
+  + ⚡ **TNT IEM**: Elle permet de désactiver les défenses éléctriques dans un rayon de 10x10x10 pour 10 secondes, et ne cause aucun dégat matériel et ignore l'effet du reflecteur.
   
-  + **TNT Duping**: C'est une TNT peu puissante, mais qui cause de grands ravages aux blocs sensibles, car elle se divise en 3 avant d'exploser.
+  + 🧨 **TNT Duping**: C'est une TNT peu puissante, mais qui cause de grands ravages aux blocs sensibles, car elle se divise en 3 avant d'exploser.
   
 - Obsidiennes
-  + **Obsidienne en Nocturite**: Cette obsidienne est la meilleure protection du jeu, elle est donc à privilégier pour les salles de coffres. Elle est très onéreuse.
+  + 🛡️ **Obsidienne en Nocturite**: Cette obsidienne est la meilleure protection du jeu, elle est donc à privilégier pour les salles de coffres. Elle est très onéreuse.
   
-  + **Obsidienne en Histerite**: C'est la défense garantissant le meilleur rapport qualité prix, elle et donc à utiliser en priorité pour les couches externes.
+  + 🧱 **Obsidienne en Histerite**: C'est la défense garantissant le meilleur rapport qualité prix, elle et donc à utiliser en priorité pour les couches externes.
   
-  + **Obsidienne de levitation**: Elle équivaut à une obsidienne en histerite, mais accompagnée d'effets. Elle vaut plus cher, mais plus intérressante pour ralentir vos ennemis.
+  + 🌪️ **Obsidienne de levitation**: Elle équivaut à une obsidienne en histerite, mais accompagnée d'effets. Elle vaut plus cher, mais plus intérressante pour ralentir vos ennemis.
   
-  + **Obsidienne empoisonnée**: Cette obsidienne est comme une obsidienne en histerite, mais elle est accompagnée d'un effet de poison pour affaiblir vos ennemis durant le pillage.
+  + ☠️ **Obsidienne empoisonnée**: Cette obsidienne est comme une obsidienne en histerite, mais elle est accompagnée d'un effet de poison pour affaiblir vos ennemis durant le pillage.
   
-- **Vault**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
+- 🏦 **Vault**: Le gardien du stuff par excellence, indestructible, il est seulement pillable grace à un pied de biche qui coute très cher et via un QTE à résoudre pour le déverouiller.
   
-- **Reflector**: Une défense electrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT
+- 🔄 **Reflector**: Une défense electrique qui permet de renvoyer toute TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT
 
-- **Generator**: C'est le moyen d'alimenter toutes vos défenses en avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
+- ⚙️ **Generator**: C'est le moyen d'alimenter toutes vos défenses en avec de l'Histerite, s'il est détruit, alors l'énergie qu'il fournit sera détruite avec.
 
-- **Catalyst**: Une défense éléctrique, un projecteur d'effet assez couteux personnalisable qui permet de soigner les alliés, aveugler les ennemis, ou de les mettre en statut de combat.
+- 💡 **Catalyst**: Une défense éléctrique, un projecteur d'effet assez couteux personnalisable qui permet de soigner les alliés, aveugler les ennemis, ou de les mettre en statut de combat.
 
-- **Bloc d'alerte**: C'est une défense éléctrique. Si elle est détruite et qu'elle est alimentée, alors toute votre faction sera prévenue (bientot via discord!).
+- 🚨 **Bloc d'alerte**: C'est une défense éléctrique. Si elle est détruite et qu'elle est alimentée, alors toute votre faction sera prévenue (bientot via discord!).
   
-- **Altar**: Un piedestal permettant de projetter vos TNT custom sur les bases de vos adversaires, il suffit de poser une TNT dessus et viser en frappant la TNT.
+- 🗿 **Altar**: Un piedestal permettant de projetter vos TNT custom sur les bases de vos adversaires, il suffit de poser une TNT dessus et viser en frappant la TNT.
   
-- **Suppression des casseurs d'obsidienne**
+- 🛠️ **Suppression des casseurs d'obsidienne**
 
 ## Blocks et Items
  
