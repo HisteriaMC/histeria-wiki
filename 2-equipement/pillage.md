@@ -74,29 +74,33 @@ Il peut être utilisé pendant 10h avant de ne plus avoir de durabilité.
 Le chercheur de coffre s'obtient via craft ou dans les boxs, il est également disponible au /shop.
 
 
-# Casseur d'obsidienne
+# Altar
 
 ## Description
-Le casseur d'obsidienne est un objet pouvant se montrer particulièrement utile lors de vos pillages de bases claims. Vous pouvez en obtenir en utilisant des [clés de vote](https://histeria.fr/wiki/clés/vote-key) mais également en le fabriquant. Il n'a pas de durabilité, mais il se casse après un nombre aléatoire d'utilisations.
 
-Le nombre d'utilisation qu'il vous faut pour casser un bloc d'obsidienne est également aléatoire.
+L'altar est un bloc qui permet d'envoyer des TNT à distance. Pour l'utiliser, il suffit de poser la TNT sur l'altar, de viser et de cliquer. Il est disponible à l'achat au `/shop`.
+
+
+# Pied de biche
+
+## Description
+
+Le pied de biche est un objet indispensable pour le déverouillage d'un coffre-fort.
 
 ## Craft
--=-
- ==- 
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- 
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/renforced-obsidian.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
- ==- 
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- 
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/obsidian-breaker.png
--=-
 
-## Utilité 
-Il permet de casser de l'obsidienne, que ce soit de l'obsidienne vanilla ou moddée, et cela même dans les claims ennemis. 
+-=-
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
+ ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- 
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/vault-breacher.png
+-=-
 
 
 # Dynamite
