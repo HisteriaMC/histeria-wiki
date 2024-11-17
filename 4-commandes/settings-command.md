@@ -16,7 +16,7 @@ Le moteur de recherche permet de rechercher des paramètres précis parmi tous c
 
 ## Autres
 
-La catégorie **Autres** donne accès à deux paramètres. Le premier est le choix de la langue entre le français, l'anglais et l'espagnol, et le second est la possibilité d'activer les demandes de téléportation.
+La catégorie **Autres** donne accès à plusieurs paramètres. Le premier est le choix de la langue entre le français, l'anglais et l'espagnol, les autres sont la possibilité d'activer les demandes de téléportation, les échanges, les duels et les messages privés.
 
 ## Notifications
 
@@ -24,7 +24,7 @@ La catégorie **Notifications** englobe les 3 trois types de notifications que l
 
 - Le chat : Ces notifications se situent dans le chat, en haut à gauche de l'écran. Ces notifications surviennent par exemple lors d'une mort d'un joueur, lors d'une connexion ou déconnexion, et beaucoup plus encore. Les messages des joueurs sont également des notifications de chat pouvant être désactivés.
   
-- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/objets/fossils), lorsque le joueur gagne de l'xp pour un métier ou des Lumenn, ou lors d'un clear lag.
+- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/objets/fossils), lorsque le joueur gagne de l'xp pour un métier ou des lumen, ou lors d'un clear lag.
   
 - Les toasts : Ces notifications apparaîssent tout en haut de l'écran. Elles surviennent lors du [coffre d'arène](https://histeria.fr/wiki/mondes/arena-chest), lors d'un passage d'un niveau de métier, lors d'un recu d'argent, et lors d'une vente à l'hotel de vente.
 

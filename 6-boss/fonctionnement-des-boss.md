@@ -41,7 +41,7 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
 + De l'argent :
     - 2e ou mieux - (45 000 + Les dégâts infligés) multiplié par un nombre aléatoire entre __1.8 et 2__, le tout __divisé par 2__
     - 3e ou plus - le nombre aléatoire est entre __0.45 et 0.5__
-+ Des Lumenns :
++ Des lumens :
     - 2e ou mieux - (450 + Les dégâts infligés divisés par 100) multiplié par un nombre aléatoire entre __1.8 et 2__
     - 3e ou plus - le nombre aléatoire est entre __0.45 et 0.5__
 + Des parchemins d'enchantement :

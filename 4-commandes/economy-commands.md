@@ -22,12 +22,14 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des objets dans
 |`/shop`|Permet d'accéder au shop pour acheter ou vendre des objets|
 |  |  |
 |`/bank <montant>`|Permet de créer un chèque avec le montant souhaité|
+|`/lumenbottle <montant>`|Permet de créer une bouteille de lumen|
+|`/xpbottle <montant>`|Permet de créer une bouteille d'xp|
 |`/money [player]`|Permet de voir son argent ou celui d'un joueur|
 |`/topmoney`|Affiche le top money|
-|`/seelumenn [player]`|Permet de voir le nombre de lumenns d'un joueur ou le nôtre.|
+|`/seelumen [player]`|Permet de voir le nombre de lumens d'un joueur ou le nôtre.|
 |  |  |
 |`/pay <pseudo> <montant>`|Permet de donner de l'argent à un joueur|
-|`/paylumenn <pseudo> <montant>`|Permet d'envoyer du lumenn à un joueur|
+|`/paylumen <pseudo> <montant>`|Permet d'envoyer du lumen à un joueur|
 |`/trade accept`|Accepte une demande de trade|
 |`/trade <joueur>`|Envoie une demande de trade|
 |`/vote`|Vote sur le serveur et vous donne des récompenses|

@@ -4,44 +4,44 @@
 
 # Métier de bûcheron
 ## Description
-Le métier de bûcheron est l'un des 4 métiers d'Histeria. Pour l'augmenter efficacement, de grands arbres peuvent être trouvés dans les [mondes minages](https://histeria.fr/wiki/mondes/minage-servers).
-La récompense finale est le craft des [bottes en Nocturite](https://histeria.fr/wiki/armures/nocturite-boots).
-L'avancée des métiers est disponible avec la commande `/job`.
+Le métier de bûcheron est l'un des 4 métiers d'Histeria. Pour l'augmenter efficacement, de grands arbres peuvent être trouvés dans les [mondes minages](https://histeria.fr/wiki/3-gameplay/minage-servers).
+La récompense finale est le craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
+L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses
 
 | Niveau | Récompense |
 |:---:|:---:|
-| 1 | 8 [commodes](https://histeria.fr/wiki/blocs/drawer) |
-| 2 | Une pioche en diamant efficacité III |
-| 3 | Des [bottes en Histerite](https://histeria.fr/wiki/armures/histerite-boots) |
-| 4 | 7500 $ |
-| 5 | Craft de la [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe) |
-| 6 | 8 [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) |
-| 7 | 3 [clés de vote](https://histeria.fr/wiki/clés/vote-key) |
-| 8 | 20000 $ |
-| 9 | 8 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 10 | Craft du [planeur](https://histeria.fr/wiki/objets/hang-glider) |
-| 11 | 16 [Histerites](https://histeria.fr/wiki/ressources/histerite) |
-| 12 | 16 [graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed) |
-| 13 | Un [tickets de loterie](https://histeria.fr/wiki/objets/lottery-ticket) |
-| 14 | Un [plastron en Histerite](https://histeria.fr/wiki/armures/histerite-chestplate) protection IV |
-| 15 | 32 [améliorations de commode](https://histeria.fr/wiki/objets/drawer-upgrade) |
-| 16 | 32 [Histerites](https://histeria.fr/wiki/ressources/histerite) |
-| 17 | 5 [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) |
-| 18 | 1 [clé en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
-| 19 | 5 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 20 | 8 [blocs en Histerite](https://histeria.fr/wiki/ressources/histerite-block) |
-| 21 | Une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe) efficacité V |
+| 1 | Une pioche en diamant efficacité III |
+| 2 | 5 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 3 | 15000 $ |
+| 4 | Craft de la [hache en Histerite](https://histeria.fr/wiki/2-equipement/tools) |
+| 5 | 3 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
+| 6 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 7 | 8 [améliorations de commode](https://histeria.fr/wiki/2-equipement/base) |
+| 8 | Craft du [planeur](https://histeria.fr/wiki/2-equipement/other) |
+| 9 | 2 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
+| 10 | 16 [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) |
+| 11 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
+| 12 | Un [plastron en Histerite](https://histeria.fr/wiki/2-equipement/histerite-armor) protection IV solidité IV |
+| 13 | 50000 $ |
+| 14 | 24 [améliorations de commode](https://histeria.fr/wiki/2-equipement/base) |
+| 15 | 5 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
+| 16 | 8 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
+| 17 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 18 | Une [hache en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité V |
+| 19 | 3 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
+| 20 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
+| 21 | 15 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
 | 22 | 75000 $ |
-| 23 | 5 [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) |
-| 24 | Une [hache en Histerite](https://histeria.fr/wiki/outils/histerite-axe) incassable |
-| 25 | 2 [clés en Histerite](https://histeria.fr/wiki/clés/histerite-key) |
-| 26 | 100000 $ |
-| 27 | 10 [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) |
-| 28 | 2 [clés en Nocturite](https://histeria.fr/wiki/clés/nocturite-key) |
-| 29 | 3 [parchemins](https://histeria.fr/wiki/objets/forge-note) |
-| 30 | Craft des [bottes en Nocturite](https://histeria.fr/wiki/armures/nocturite-boots) |
+| 23 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 24 | Une [hache en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité IV incassable |
+| 25 | 2 [clés en Nocturite](https://histeria.fr/wiki/clés/histerite-key) |
+| 26 | 4 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
+| 27 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 28 | 100000 $ |
+| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 30 | Craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor) |
 
 ## Moyen d'amélioration
 
