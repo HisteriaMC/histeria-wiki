@@ -1,6 +1,6 @@
 %%name=Blocs de décoration%%
-%%icon=%%
-%%weight=%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chair.png%%
+%%weight=601%%
 
 ## Chaise
 
