@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png%%
-%%weight=605%%
+%%weight=606%%
 %%name=Equipement pour farm%%
 
 # Terre fertilisée

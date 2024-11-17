@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
-%%weight=606%%
+%%weight=607%%
 %%name=Equipement pvp%%
 
 # Pomme en Histerite

@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.webp%%
-%%weight=601%%
+%%weight=602%%
 %%name=Obsidiennes%%
 
 # Obsidienne en Histerite
