@@ -6,7 +6,7 @@
 
 # Change Log de la v7
 
-> Le 17 novembre 2024
+> 17/11/2024 par Tonmou, dadodasyra
 
 ![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
 
