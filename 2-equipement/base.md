@@ -157,6 +157,28 @@ Le catalyseur est une défense éléctrique qui, alimenté, effectue une action 
 -=-
 
 
+# Alarme
+
+## Description
+
+Quand ce bloc posé dans le claim d'une faction est cassé, tous les joueurs de cette faction reçoivent un message.
+
+## Craft
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
+ ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
+ ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png
+ ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
+ ==- ttps://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone-torch.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-crystal.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/detector.webp
+-=-
+
+
 # Commode
 
 ## Description
@@ -208,6 +230,26 @@ L'amélioration de commode vous permet d'améliorer la capacité de stockage d'u
 |3           |3                       |4096      |
 |4           |4                       |8192      |
 |-           |5                       |16384     |
+
+
+# Sable mélangé
+
+## Description
+Le sable mélangé est une fusion de sable et d'Histerite. Il est bien plus résistant que le sable vanilla, notamment face aux dynamites.
+
+## Craft  
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/mixed-sand.png
+-=-
 
 
 # Ascenseur
