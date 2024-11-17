@@ -16,7 +16,7 @@ Le moteur de recherche permet de rechercher des paramètres précis parmi tous c
 
 ## Autres
 
-La catégorie **Autres** donne accès à deux paramètres. Le premier est le choix de la langue entre le français, l'anglais et l'espagnol, et le second est la possibilité d'activer les demandes de téléportation.
+La catégorie **Autres** donne accès à plusieurs paramètres. Le premier est le choix de la langue entre le français, l'anglais et l'espagnol, les autres sont la possibilité d'activer les demandes de téléportation, les échanges, les duels et les messages privés.
 
 ## Notifications
 
