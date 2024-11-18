@@ -14,17 +14,14 @@ Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous
 
 | Commande | Description |
 | --- | --- |
-| `/f allychat` | Activer/Désactiver le chat allié | 
 | `/f ally <faction>` | S'allier avec une autre faction |
-| `/f ban <player>` | Ban un membre de votre faction |
-| `/f chat` | Activer / Désactiver le chat de faction |
-| `/f claim` | Claim un chunk |
+| `/f chat [all/faction/ally]` | Activer / Désactiver le chat de faction |
+| `/f claim [auto/circle/square]` | Claim un chunk |
 | `/f create <name>` | Créer une faction |
 | `/f demote <player>` | Rétrograder un membre de la faction |
 | `/f deposit <money>` | Déposer de la monnaie dans la banque de faction |
 | `/f description <texte>` | Définir la description de la faction |
 | `/f disband` | Supprimer la faction |
-| `/f enemy <faction>` | Mettre en enemy une faction |
 | `/f help [page]` | Affiche les commandes et leurs informations |
 | `/f home` | Se telepotre au home de faction |
 | `/f info [faction]` | Affiche des informations sur la faction |
@@ -37,14 +34,15 @@ Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous
 | `/f map` | Affiche la carte des chunks autour de vous |
 | `/f money` | Affiche la monnaie de faction |
 | `/f name <name>` | Renomme la faction |
-| `/f neutral <faction>` | Réinitialiser les relations de faction |
 | `/f permission` | Définir les permissions d'un rôle dans la faction |
-| `/f player [player]` | Affiche des informations sur un joueur |
 | `/f promote <player>` | Promouvoir un membre de la faction |
 | `/f seechunk` | Afficher les bordures du chunk actuel |
 | `/f sethome` | Pose le home de faction |
 | `/f top [page]` | Affiche le top des factions |
-| `/f truce <faction>` | Met une faction en relation neutre |
+| `/f unally <faction>` | Met fin à une alliance avec une faction |
+| `/f unclaim` | Unclaim un chunk claim |
+| `/f unsethome` | Retire le home de faction |
+| `/f withdraw <money>` | Retirer de l'argent de faction |
 | `/f unally <faction>` | Met fin à une alliance avec une faction |
 | `/f unban <player>` | Deban un joueur de votre faction |
 | `/f unclaim` | Unclaim un chunk claim |
