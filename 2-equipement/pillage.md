@@ -26,6 +26,94 @@ Le Cave Block est d'une grande utilité lors de vos recherches pour trouver des 
 Lors de son utilisation, vous êtes complètement immobile, intuable et bien évidemment invisible.
 
 
+# TNT en Histerite
+
+## Description
+
+La TNT en Histerite est très utile pour affaiblir les défenses des bases claim.
+
+## Craft 
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+-=-
+
+
+# TNT en Nocturite
+
+## Description
+
+La TNT en Nocturite est le meilleur moyen de piller une base claim. Elle vient à bout de toutes les défenses, mais est très onéreuse.
+
+## Craft 
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-tnt.png
+-=-
+
+
+# TNT à impulsion éléctromagnétique
+
+## Description
+
+La TNT à impulsion éléctromagnétique, abrégé TNT IEM, désactive les défenses éléctriques dans un rayon de 5 blocs durant 10 secondes, ce qui rend la base claim très vulnérable.
+
+## Craft 
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-finder.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/redstone.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iem-tnt.png
+-=-
+
+
+# TNT à dédoublement
+
+## Description
+
+La TNT à dédoublement n'est pas très puissante, mais très efficace contre les défenses peu résistantes. Cette TNT se divise en 3 TNT avant d'exploser.
+
+## Craft 
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/sand.webp
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/duping-tnt.png
+-=-
+
+
 # Explorateur de coffre
 
 ## Description
@@ -91,13 +179,13 @@ Le pied de biche est un objet indispensable pour le déverouillage d'un coffre-f
 
 -=-
  ==- 
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
+ ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- 
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
- ==- 
- ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/vault-breacher.png
 -=-
