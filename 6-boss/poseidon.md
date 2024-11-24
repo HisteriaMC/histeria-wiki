@@ -20,3 +20,7 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 
 ## Skin
 ![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/poseidon.png)
+
+## Butin spécial
+
+Poséidon a une petite chance de donner son trident enchanté au meilleur joueur.

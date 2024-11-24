@@ -40,10 +40,6 @@ Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous
 | `/f sethome` | Pose le home de faction |
 | `/f top [page]` | Affiche le top des factions |
 | `/f unally <faction>` | Met fin à une alliance avec une faction |
-| `/f unclaim` | Unclaim un chunk claim |
-| `/f unsethome` | Retire le home de faction |
-| `/f withdraw <money>` | Retirer de l'argent de faction |
-| `/f unally <faction>` | Met fin à une alliance avec une faction |
 | `/f unban <player>` | Deban un joueur de votre faction |
 | `/f unclaim` | Unclaim un chunk claim |
 | `/f unsethome` | Retire le home de faction |
