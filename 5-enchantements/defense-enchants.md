@@ -35,6 +35,9 @@ Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indi
 
 # Gravity
 
+## Obtention
+Cet enchantement n'est disponible **que dans les coffres légendaires**
+
 ## Informations
 L'enchantement d'arène Gravity est fusionnable avec une [pièce d'armure](https://histeria.fr/wiki/2-equipement).
 Quand le porteur de l'enchantement est frappé, il a une chance de donner double saut au porteur de l'enchantement.
