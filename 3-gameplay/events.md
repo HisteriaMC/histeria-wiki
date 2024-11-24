@@ -2,7 +2,7 @@
 %%name=Evénements journaliers%%
 %%weight=504%%
 
-# Coffre d'arène 
+# Coffre légendaire
 
 ## Description
 
@@ -10,7 +10,7 @@ Un coffre se trouve dans chaque arène et warzone. Il se remplit automatiquement
 
 ## Butin
 
-Le loot de chaque coffre est aléatoire entre 8 possibilités :
+Le butin de chaque coffre est aléatoire entre 8 possibilités :
 
 - Une armure en histerite complète
 > Il y a 1 chance sur 6 pour que le plastron et les jambières soient enchantés protection 4, et 1 autre chance sur 6 pour que ce soit le casque et les bottes.
@@ -127,7 +127,7 @@ Voici ce que les joueurs peuvent obtenir:
 | 2 | Un chèque de 4 000 \$, un chèque de 5 000 \$, 2 clés de vote, 2 Lucky Blocks, 2 blocs en Histerite |
 | 3 | Un chèque de 5 000 \$, un chèque de 7 500 \$, 3 clés de vote, 3 Lucky Blocks, 3 blocs en Histerite |
 | 4 | Un chèque de 7 500 \$, un chèque de 10 000 \$, une clé en Histerite, 2 terres fertilisées, 5 blocs en Histerite, une pièce d'armure en Histerite protection IV |
-| 5 | Un chèque de 50 000 \$, 12 Lucky Blocks, 1 ticket de lotterie, une clé en Histerite, 3 clés en Histerite, W6 terres fertilisées |
+| 5 | Un chèque de 50 000 \$, 12 Lucky Blocks, 1 ticket de lotterie, une clé en Histerite, 3 clés en Histerite, 6 terres fertilisées |
 
 
 # Marché noir
