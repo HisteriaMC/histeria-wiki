@@ -96,6 +96,9 @@ Il ajoute un coeur de dégât au coup infligé et donne un effet de congélation
 
 # Execution
 
+## Obtention
+Cet enchantement n'est disponible **que dans les coffres légendaires**
+
 ## Informations
 Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/tools).
 Quand le porteur frappe un enemi, il a une chance de retirer 2 coeurs de vie supplémentaires à son adversaire.
