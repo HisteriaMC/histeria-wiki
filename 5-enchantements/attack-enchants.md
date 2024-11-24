@@ -215,3 +215,13 @@ Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire f
     <td>3.60%</td>
     <td>Un éclair apparaît</td>
 </table>
+
+
+# Weaken
+
+## Obtention
+Cet enchantement n'est disponible **que dans les coffres légendaires**
+
+## Informations
+
+Cet enchantement d'arène est fusionnable avec une épée ou une hache en Histerite. Quand un joueur frappe un ennemi, il a une chance de lui retirer un coeur supplémentaire et d'augmenter tous ses cooldowns de 5 secondes.
