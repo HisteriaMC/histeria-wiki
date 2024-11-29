@@ -184,12 +184,27 @@ Le sac à dos est un objet qui permet de transporter plusieurs autres objets en 
 
 Il ne peut que en avoir 2 par coffre, et aucun dans les coffres de l'end.
 
+## Craft
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/backpack.png
+-=-
+
 
 # Sac pochon
 
 ## Description
 
-Le sac à dos vous permet de stocker 32 768 fois un même bloc en son sein.
+Le sac pochon vous permet de stocker 32 768 fois un même bloc en son sein.
 
 ## Craft
 -=-
@@ -202,15 +217,13 @@ Le sac à dos vous permet de stocker 32 768 fois un même bloc en son sein.
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iron-block.png
- -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/item-pack.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/itempack.png
 -=-
-
-Pour pouvoir le fabriquer, il faut être niveau 27 dans le métier de mineur.
 
 ## Utilisation
 1. Vous accroupir.
 2. Pour définir le bloc voulu, faire un clic droit sur ce dernier.
-3. Miner, le bloc ira dans le sac-à-dos, même si votre inventaire est plein.
+3. Miner, le bloc ira dans le sac pochon, même si votre inventaire est plein.
 4. Pour récupérer le contenu, il vous suffit de faire un clic droit et de vous laisser guider par l'interface.
 
 
