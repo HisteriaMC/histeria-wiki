@@ -188,7 +188,7 @@ Le grappin est un objet très utilisé en PvP pour se déplacer rapidemenent, s'
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/grapnel.png
 -=-
 
-Pour pouvoir le fabriquer, il faut être niveau 24 dans le métier de tueur.
+Pour pouvoir le fabriquer, il faut être niveau 21 dans le métier de tueur.
 
 ## Utilité
 Il permet de se propulser à plusieurs dizaines de blocs et de ne pas prendre de dégâts de chute lorsqu'il est en main. 
