@@ -75,7 +75,7 @@ Les jambières en Nocturite font partie de la meilleure armure disponible sur Hi
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-leggings.png
 -=-
 
-Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de mineur.
+Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de tueur.
 
 ## Informations
 | Effets de potions | Points d'armure | Durabilité |
