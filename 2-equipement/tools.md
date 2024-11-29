@@ -46,7 +46,7 @@ Pelle améliorée qui vous permet de casser du sable ou de la terre plus rapidem
  -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 8 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier d'agriculteur.
 
 ## Informations
 Elle retire trois blocs de largeur et de longueur autour du bloc visé.
@@ -109,7 +109,7 @@ Houe améliorée qui vous permet de labourer la terre plus rapidement qu'avec un
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier d'agriculteur.
 
 ## Informations
 Elle laboure la terre sur 7 blocs de longueur, ou alors sur 3x3 blocs (1 bloc de rayon) lorsque le joueur est accroupi. Par défaut ces terres seront irriguées.
@@ -135,7 +135,7 @@ Hache améliorée qui vous permet de casser du bois plus rapidement qu'avec une 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 5 dans le métier de bûcheron.
+Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier de bûcheron.
 
 ## Informations
 Elle permet de couper verticalement jusqu'à 8 bûches de bois, 1 bûche en dessous de celle visée et 6 au dessus.
