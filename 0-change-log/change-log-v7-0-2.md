@@ -1,5 +1,5 @@
 %%name=Change log V7.0.2%%
-%%icon=[https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%)
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%
 %%weight=802%%
 
 # Change Log de la v7.0.2
@@ -7,6 +7,8 @@
 ![changelog](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/changelog.png)
 
 > 04/12/2024 par dadodasyra
+
+Passage du serveur en 1.21.50.
 
 ## Ajouts, équilibrages et modifications
 
@@ -24,6 +26,7 @@
 - 🛠️ Le /repair all (et variantes) prend maintenant en compte la seconde main.
 - 📅 Implémentation du calendrier de l'avent relié au vote
 - 😶‍🌫️ Mise en place de sécurité de surveillance de stuff sur les shulker box
+- 💥 Désactivation temporaire de l'enchantement Gravity suite à la mise à jour.
 
 ## Corrections de bugs
 
