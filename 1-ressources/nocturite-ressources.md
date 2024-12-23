@@ -110,7 +110,7 @@ La Nocturite compressée est un élément essentiel pour l'obtention de différe
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-compress.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 27 dans le métier de d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 25 dans le métier de d'agriculteur.
 
 
 # Coeur de Nocturite
