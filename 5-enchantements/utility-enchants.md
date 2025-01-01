@@ -4,6 +4,9 @@
 
 # Archeology
 
+## Obtention
+Cet enchantement n'est disponible **que dans les coffres légendaires**
+
 ## Informations
 L'enchantement d'arène Archeology permet d'augmenter vos chances de trouver des fossiles. Il est fusionnable avec une [pioche](https://histeria.fr/wiki/2-equipement/tools) ou un [marteau](https://histeria.fr/wiki/2-equipement/tools).
 
@@ -35,7 +38,7 @@ C'est propre tout ça ! L'enchantement Clean est fusionnable avec une [pioche en
 # Compressor
 
 ## Informations
-L'enchantement Compressor est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/tools). Quand le porteur mine de la pierre, cette pierre s'auto-craft en [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources) !
+L'enchantement Compressor est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/tools). Quand le porteur mine de la pierre, cette pierre s'auto-craft en [cobblestone compressée](https://histeria.fr/wiki/1-ressources/other-ressources), et quanf il mine un minerai d'Histerite, le lingot se compresse en Histerite compressée !
 
 
 **Niveau maximum :** 3

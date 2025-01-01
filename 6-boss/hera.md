@@ -22,3 +22,6 @@ Héra, la reine majestueuse des dieux, se tient en tant que figure imposante au 
 ![hera](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hera.png)
 
 
+## Butin spécial
+
+Héra a une petite chance de donner son Sceptre du Lotus enchanté au meilleur joueur.

@@ -3,10 +3,13 @@
 # Fonctionnement des boss
 
 ## Apparition
-Les boss peuvent apparaître dans les 3 serveurs __faction__. Leur temps avant d'apparaître varie en fonction du nombre de joueurs connectés :
-+ 2h minimum si 84 joueurs ou plus sont connectés sur le même serveur.
-+ 12h maximum si aucun joueur n'est connecté sur le serveur.
->Voici la [Fonction mathématique](https://www.desmos.com/calculator/jf8s5sjjwq?lang=fr) qui définit le taux de respawn
+Les boss apparaîssent dans les 3 serveurs __faction__ à des heures précises :
+ - 10h
+ - 12h
+ - 14h
+ - 16h
+ - 18h
+ - 22h
 
 ## Le colisée
 Le colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __vous pouvez y perdre votre stuff__. 
@@ -71,4 +74,4 @@ Voici la liste des boss disponibles en jeu :
 
 ### Récompenses uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a une petite chance d'obtenir la récompense du boss vaincu, la [clé boss](https://histeria.fr/wiki/clés/boss-key).
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 1 chance sur 9 d'obtenir la récompense du boss vaincu, la [clé boss](https://histeria.fr/wiki/clés/boss-key). Pour certains boss, et avec de la chance, ils peuvent donner leur arme au meilleur joueur.
