@@ -10,9 +10,12 @@ L’event Totem est un event axé sur le pvp entre factions qui prend place dans
 
 Chaque zone de combat est accessible avec la commande `/warp totem`.
 
-Les horaires, aussi disponibles avec la commande `/totem`, sont les suivants:
+Les horaires sont disponibles avec la commande `/totem`
+
+La faction gagnante obtient 300 lumen.
 
 # Coffre légendaire
+
 
 ## Description
 
