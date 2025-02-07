@@ -76,7 +76,7 @@ Objet à usage unique, voici ce qui ce passe une fois utilisé sur un joueur:
 
 ## Description
 
-Objet ayant 500 utilisations possibles, il fait pousser les plants de nocturite au niveau maximum immédiatement.
+Objet ayant 1500 utilisations possibles, il fait pousser les plants de nocturite au niveau maximum immédiatement.
 
 # Totem en Histerite
 
