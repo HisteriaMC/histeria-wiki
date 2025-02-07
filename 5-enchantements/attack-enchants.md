@@ -191,7 +191,7 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 
 ## Informations
 Que les éclairs de la colère divine s'abattent ! L'enchantement Strike est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/tools).
-Quand un enmi est frappé avec cet enchantement, il a une chance de se faire foudroyer et de subir des dégâts.
+Quand un ennemi est frappé avec cet enchantement, il a une chance de se faire foudroyer et de subir des dégâts.
 
 **Niveau maximum :** 3
 
