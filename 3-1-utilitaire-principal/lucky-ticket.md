@@ -1,7 +1,7 @@
 # Ticket de loterie chanceux
 
 ## Explication
-Le tciket de loterie chanceux est une variante du ticket de loterie qui permet d'obtenir une grosse somme dans tous les cas.
+Le ticket de loterie chanceux est une variante du ticket de loterie qui permet d'obtenir une grosse somme dans tous les cas.
 
 ## Récompenses
 | Probabilité | Montant |
