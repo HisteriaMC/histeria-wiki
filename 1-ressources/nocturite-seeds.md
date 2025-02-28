@@ -1,9 +1,11 @@
 # Graines de Nocturite
 
 ## Description
+
 Les graines de Nocturite sont la base de tout objet en Nocturite.  
 
 ## Obtention
+
 Elles peuvent s'obtenir en cassant des hautes herbes et en cassant des pousses de Nocturite au stage 3.
 
 Voici les chances de récolte:

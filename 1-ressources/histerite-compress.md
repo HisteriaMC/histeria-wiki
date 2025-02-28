@@ -1,7 +1,8 @@
 # Histerite compressée
 
 ## Description
-L'Histerite compressée est un élément essentiel pour la fabrication du coeur d'Histerite.
+
+L'Histerite compressée est un élément essentiel pour la fabrication du coeur d'Histerite. Elle rassemble 9 [blocs en Histerite]().
 
 ## Fabrication
 -=-

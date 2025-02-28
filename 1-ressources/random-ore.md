@@ -1,9 +1,11 @@
 # Minerai aléatoire
 
 ## Description 
+
 Le minerai aléatoire permet, une fois miné d'obtenir un objet aléatoire. Ce minerai est trouvable entre les couches 1 et 32 dans les [serveurs minage](https://histeria.fr/wiki/3-gameplay/minage-servers).
 
 ## Utilité
+
 Voici la liste des objets que vous pouvez obtenir dans les minerais aléatoires :
 
 |Objet|Quantité|Probabilité|
