@@ -1,7 +1,11 @@
 # Pioche en Histerite 
 
 ## Description
-Pioche améliorée qui vous permet de miner plus rapidement qu'avec une pioche Vanilla.
+La pioche en Histerite est une pioche améliorée qui vous permet de miner plus rapidement qu'avec une pioche vanilla.
+
+Elle creuse les blocs sur 2 de hauteur, celui visé ainsi que le bloc en dessous de celui-ci.
+
+Elle a 4 500 de durabilité.
 
 ## Craft
 -=-
@@ -18,7 +22,3 @@ Pioche améliorée qui vous permet de miner plus rapidement qu'avec une pioche V
 -=-
 
 Pour pouvoir la fabriquer, il faut être niveau 6 dans le métier de mineur.
-
-## Informations
-Elle creuse les blocs sur 2 de hauteur, celui visé ainsi que le bloc en dessous de celui-ci.
-Elle a 4 500 de durabilité.

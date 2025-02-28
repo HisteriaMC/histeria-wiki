@@ -17,7 +17,7 @@ Les jambières en Histerite font partie de la deuxième meilleure armure disponi
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/histerite-leggings.png
 -=-
 
-## Informations
+## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------|------------|
 | Bonus de vie II   | 3               | 1 700      |

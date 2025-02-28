@@ -1,9 +1,15 @@
 # Grappin
 
 ## Description
+
 Le grappin est un objet très utilisé en PvP pour se déplacer rapidemenent, s'enfuir désespérément d'un combat ou encore rattraper un ennemi voulant s'enfuir. Vous pouvez en obtenir en le fabriquant.
 
-## Craft
+Il permet de se propulser à plusieurs dizaines de blocs et de ne pas prendre de dégâts de chute lorsqu'il est en main. 
+
+Il a une durabilité de 10000 utilisations.
+
+## Fabrication
+
 -=-
  ==- 
  ==- 
@@ -19,8 +25,4 @@ Le grappin est un objet très utilisé en PvP pour se déplacer rapidemenent, s'
 
 Pour pouvoir le fabriquer, il faut être niveau 21 dans le métier de tueur.
 
-## Utilité
-Il permet de se propulser à plusieurs dizaines de blocs et de ne pas prendre de dégâts de chute lorsqu'il est en main. 
-
-Il a une durabilité de 10000 utilisations.
 

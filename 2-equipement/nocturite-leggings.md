@@ -19,7 +19,7 @@ Les jambières en Nocturite font partie de la meilleure armure disponible sur Hi
 
 Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de tueur.
 
-## Informations
+## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- |-----------------| ---------- |
 | Force I        | 3               | 20 000     |

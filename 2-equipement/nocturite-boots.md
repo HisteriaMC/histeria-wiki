@@ -19,7 +19,7 @@ Les bottes en Nocturite font partie de la meilleure armure disponible sur Hister
 
 Pour pouvoir les fabriquer, vous devez être niveau 30 dans le métier de bûcheron.
 
-## Informations
+## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |
 | ----------------- | --------------- | ---------- |
 | Vitesse II | 2,5             | 20 000     |
