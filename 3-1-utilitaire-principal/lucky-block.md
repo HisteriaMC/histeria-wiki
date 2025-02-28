@@ -140,3 +140,12 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | Gâteau | 0.84 | Donne un gâteau |
 
 ## Événements malchanceux
+
+| TNT à retardement | 1.97 | Fait exploser une TNT au bout de 3 secondes |
+| TNT instantanée | 1.40 | Fait exploser une TNT instantanément |
+| - 20% | 0.28 | Retire 20% de l'inventaire |
+| On coupe la vien en 2 | 1.97 | Met à 5 coeurs | 
+| On peut pas faire plus bas que ça | 1.12 | Met à 0.5 coeurs |
+| /pay | 0.84 | Fait payer 200 $ à tous les joueurs connectés |
+| /tpahere | 0.84 | Envoie une demande de téléportation sur le joueur |
+| I can fly | 1.97 | 
