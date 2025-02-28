@@ -6,7 +6,7 @@ Le Lucky Block est un bloc qui, une fois cassé, déclenche un événement aléa
 ## Utilité
 Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention aux coups de malchance ! De terribles choses pourraient vous arriver.
 
-| Évènement | Probabilité (%) |                                                           Effet                                                            |
+| Événement | Probabilité (%) |                                                           Effet                                                            |
 |:-----:|:---------------:|:------------------------------------------------------------------------------------------------------------------------------:|
 | delayed |1.97|                                        Fait exploser une TNT au bout de 3 secondes                                                        |
 | instant |1.40|                                            Fait exploser une TNT instantanément                                                           |
@@ -81,3 +81,62 @@ Le Lucky Block permet d'avoir des objets utiles à votre aventure mais attention
 | bad |1.12|                                               Vous donne 8 chairs de zombie                                                |
 | bad |1.12|                                                Vous donne 8 poissons-globe                                                 |
 | bad |1.12|                                             Vous donne une patate empoisonnée                                              |
+
+
+## Événements chanceux
+
+| Événement | Probabilité (%) | Effet |
+| --- | :---: | --- |
+| Terre fertilisée | 0.56 | Fait apparaître une terre fertilisée |
+| Saut de lapin | 1.97 | Donne un effet de saut V durant 20 secondes |
+| Usain Bolt | 1.97 | Donne un effet de vitesse V durant 20 secondes |
+| Pluie de chance | 1.40 | Fait tomber des Lucky Blocs |
+| Siphano | 1.12 | Fait apparaître Siphano |
+| Siphano 2 | 1.12 | Fait apparaître Siphano |
+| Fantasio | 1.12 | Fait apparaître Fantasio |
+| Fantasio 2 | 1.12 | Fait apparaître Fantasio |
+| Aypierre | 1.12 | Fait apparaître Aypierre |
+| HarryLaFranc | 1.12 | Fait apparaître HarryLaFranc |
+| FuzeIII | 1.12 | Fait apparaître FuzeIII |
+| Ninjaxxu | 1.12 | Fait apparaître Ninjaxxu |
+| dadodasyra | 1.12 | Fait apparaître dadodasyra |
+| Mozart | 7.32 | Joue un des disques de Minecraft |
+| Houe | 1.40 | Donne une houe en Histerite |
+| Blocs de diamant | 1.40 | Donne 5 blocs de diamant |
+| Chercheur de coffre | 1.40 | Donne unchercheur de coffre |
+| Capuche | 1.40 | Donne une capuche |
+| Ticket de loterie | 0.84 | Donne un ticket de loterie |
+| Amélioration de commode | 1.12 | Donne une amélioration de commode |
+| Pomme en Histerite | 0.84 | Donne une pomme en Histerite |
+| Pomme dorée | 1.12 | Donne une pomme dorée |
+| Cristal de Nocturite | 0.56 | Donne un cristal de Nocturite |
+| Lucky Block | 1.40 | Donne un Lucky Block |
+| 2 Lucky Blocks | 1.12 | Donne 2 Lucky Blocks |
+| Pioche efficace | 0.84 | Donne une pioche efficacité V |
+| Hache efficace | 0.84 | Donne une hache efficacité V |
+| Houe efficace | 0.84 | Donne une houe efficacité V |
+| Epée tranchante | 0.84 | Donne une épée tranchant I |
+| Bloc en Histerite | 1.40 | Donne un bloc en Histerite |
+| Clé de vote | 1.40 | Donne une clé de vote |
+| Clé en Histerite | 0.56 | Donne une clé en Histerite |
+| Clé en Nocturite | 0.28 | Donne une clé en Nocturite |
+| Ascenceurs | 1.40 | Donne 8 ascenceurs |
+| Dynamites | 1.12 | Donne 8 dynamites |
+| Chèque | 0.84 | Donne un chèque de 25 000 $ |
+| Chèque 2 | 0.56 | Donne un chèque de 50 000 $ |
+| Punching-ball | 1.12 | Fait apparaître un punching-ball |
+
+## Événements normaux
+
+| Arbuste mort | 1.97 | Fait apparaître un arbuste mort |
+| Arbuste mort 2 | 1.12 | Vous donne un arbuste mort |
+| Obsidienne en Histerite | 1.97 | Fait apparaître une obsidienne renforcée |
+| Obsidienne empoisonnée | 1.97 | Fait apparaître une obsidienne empoisonnée |
+| Retour au bercaille | 1.97 | Téléporte au spawn |
+| Je suis où là ? | 1.69 | Téléporte aléatoirement à proximité |
+| Tous les effets | 1.69 | Donne tous les effets de potion | 
+| Soupe de Kitsun | 1.12 | Donne une soupe de bettrave |
+| Picasso | 1.40 | Donne une peinture |
+| Gâteau | 0.84 | Donne un gâteau |
+
+## Événements malchanceux

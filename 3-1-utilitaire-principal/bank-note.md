@@ -11,6 +11,3 @@ Pour créer un chèque, il faut insérer la commande suivante :
 Cette commande permet de créer un chèque avec le montant souhaité.
 
 Pour récupérer l'argent du chèque, il vous suffit simplement de faire un clic droit avec, en main.
-
-## Utilité
-Il est utile pour transmettre de l'argent à un autre joueur de manière sécurisée.
