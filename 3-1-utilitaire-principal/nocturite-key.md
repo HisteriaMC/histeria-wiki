@@ -4,22 +4,26 @@
 La clé en Nocturite est obtenable en votant sur le serveur dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
 Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
 
-## Utilité
-Grace à ces clés vous pouvez obtenir de l'équipement rare et de très bonne qualité :
-| Item                                                                                   | Probabilité (en %) |
-|:--------------------------------------------------------------------------------------:|:------------------:|
-| 5 [Parchemins d'enchantement](https://histeria.fr/wiki/objets/forge-note)                             | 10                 |
-| 1 [Nocturite compressée](https://histeria.fr/wiki/ressources/nocturite-compress)           | 3                  |
-| 8 [Terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt)                 | 10                 |
-| 32 [Graines de Nocturite](https://histeria.fr/wiki/ressources/nocturite-seed)              | 10                 |
-| 1 [Kill-Tag](https://histeria.fr/wiki/objets/kill-tag)                                 | 8                  |
-| 2 [Clés en Histerite](https://histeria.fr/wiki/clés/histerite-key)                   | 10                 |
-| 3 [Tickets de loterie](https://histeria.fr/wiki/objets/lottery-ticket)                 | 6                  |
-| 3 [Coeurs d'Histerite](https://histeria.fr/wiki/ressources/histerite-core)                 | 10                 |
-| 16 [Blocs d'Histerite](https://histeria.fr/wiki/ressources/histerite-block)                | 10                 |
-| 1 [Chèque](https://histeria.fr/wiki/objets/bank-note) 200 000 $              | 7                  |
-| 1 [Chèque](https://histeria.fr/wiki/objets/bank-note) 150 000 $              | 8                  |
-| 1 [Chèque](https://histeria.fr/wiki/objets/bank-note) 220 000 $              | 6                  |
-| 1 [Clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key)                    | 10                 |
-| 1 [Epée en Histerite](https://histeria.fr/wiki/outils/histerite-sword) Tranchant V     | 3                  |
-| 1 Bâton                                                                                | 9                  |
+Vous pouvez les utiliser sur les caisses aux spawns de chaque serveur.
+
+## Butin
+
+| Objet | Probabilité (%) |
+| --- | :---: |
+| 8 TNTs en Nocturite | 11.4 |
+| 32obsidiennes en Nocturite | 11.4 |
+| 5 parchemin | 11.4 |
+| 8 terres fertilisées | 11.4 |
+| 32 graines en Nocturite | 11.4 |
+| 2 clés en Histerite | 11.4 |
+| 3 coeurs en Histerite | 11.4 |
+| 16 blocs en Histerite | 11.4 |
+| Un clé en Nocturite | 11.4 |
+| Un chèque de 150 000 $ | 9.1 |
+| Un bâton | 9.1 |
+| Un chèque de 200 000 $ | 8.0 |
+| 3 tickets de loterie | 6.8 |
+| Un chèque de 250 000 $ | 6.8 |
+| 3 coffres-fort | 3.4 |
+| Un épée en Histerite tranchant V | 3.4 |
+| Une Nocturite compressée | 3.4 |
