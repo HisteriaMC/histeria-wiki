@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/demonic-seal.png%%
+%%name=Sceau d'Hadès%%
+%%weight=105%%
+
 # Sceau d'Hadès
 
 ## Description

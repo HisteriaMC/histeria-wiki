@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/boss-icon.png%%
-%%weight=212%%
+%%weight=222%%
 # Fonctionnement des boss
 
 ## Apparition
@@ -74,4 +74,4 @@ Voici la liste des boss disponibles en jeu :
 
 ### Récompenses uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 1 chance sur 9 d'obtenir la récompense du boss vaincu, la [clé boss](https://histeria.fr/wiki/clés/boss-key). Pour certains boss, et avec de la chance, ils peuvent donner leur arme au meilleur joueur.
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 1 chance sur 9 d'obtenir la récompense du boss vaincu, la [clé de boss](https://histeria.fr/wiki/clés/boss-key). Pour certains boss, et avec de la chance, ils peuvent donner leur arme au meilleur joueur.

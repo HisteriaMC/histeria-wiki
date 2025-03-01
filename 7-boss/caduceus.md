@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/caduceus.png%%
+%%name=Caducée d'Hermès%%
+%%weight=106%%
+
 # Caducée d'Hermès
 
 ## Description

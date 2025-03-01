@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/athena.png%%
 %%name=Athéna%%
-%%weight=208%%
+%%weight=118%%
 # Athéna
 
 ## Description 

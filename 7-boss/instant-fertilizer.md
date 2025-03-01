@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/instant-fertilizer.png%%
+%%name=Engrais de Déméter%%
+%%weight=101%%
+
 # Engrais de Déméter
 
 ## Description

@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/bursting-torch.png%%
+%%name=Torche d'Hestia%%
+%%weight=104%%
+
 # Torche d'Hestia
 
 ## Description

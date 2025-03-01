@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dupe-spell.png%%
+%%name=Malédiction d'Héra%%
+%%weight=103%%
+
 # Malédication d'Héra
 
 ## Description
