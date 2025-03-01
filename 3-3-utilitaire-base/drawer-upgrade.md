@@ -17,6 +17,8 @@ L'amélioration de commode vous permet d'améliorer la capacité de stockage d'u
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/drawer-upgrade.png
 -=-
 
+## Tableau descriptif
+
 | Nombre d'améliorations | Niv. Boite | Capacité |
 |:----------:|:----------------------:|:--------:|
 |1           |1                       |1024      |
