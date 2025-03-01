@@ -3,6 +3,7 @@
 ## Description
 
 À intervalles régulier, une question sera posée dans le chat. Le premier joueur qui y répond aura aléatoirement une des récompenses parmi la liste suivante:
+
 | Difficulté | Récompenses |
 | --- | --- |
 | 1 | Un chèque de 4 000 \$, un chèque de 2 500 \$, une clé de vote, un Lucky Block, un bloc en Histerite |

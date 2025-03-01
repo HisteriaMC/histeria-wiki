@@ -54,5 +54,5 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 135 | 3 [clés en Nocturite](https://histeria.fr/wiki/clés/nocturite-key) |
 | 140 | Demande libre au staff sous conditions |
 | 155 | 5 [clés en Nocturite](https://histeria.fr/wiki/clés/nocturite-key) |
-| 165 | 10€ Amazon - _limité_ |
-| 180 | 1 Tee-shirt Histeria - _max 10 par saison_ |
+| 165 | 5€ Amazon - _limité_ |
+| 180 | 1 Mug Histeria - _max 10 par saison_ |
