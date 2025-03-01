@@ -4,8 +4,9 @@
 Le ticket de loterie chanceux est une variante du ticket de loterie qui permet d'obtenir une grosse somme dans tous les cas.
 
 ## Récompenses
-| Probabilité | Montant |
-| --- | --- |
+
+| Probabilité (%) | Montant |
+| :---: | --- |
 | 7 | 5 000 $ |
 | 9 | 10 000 $ |
 | 23 | 25 000 $ |

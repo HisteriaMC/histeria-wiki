@@ -19,8 +19,10 @@ La pomme en Histerite est un excellent objet pour se soigner durant un combat.
 
 Pour pouvoir en fabriquer, il faut être niveau 15 dans le métier de tueur.
 
-## Utilité
-Cet objet vous donne les effets suivant :
+## Tableau descriptif
+
+Voici les effets obtenus en utilisant une pomme en Histerite:
+
 | Effet | Niveau | temps (en seconde) |
 |:-----:|:------:|:------------------:|
 | Absorption | 2 | 60 |
