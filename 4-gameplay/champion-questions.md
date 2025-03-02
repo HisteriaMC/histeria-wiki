@@ -1,3 +1,6 @@
+%%name=Questions de champion%%
+%%weight=505%%
+
 # Questions de champion
 
 ## Description

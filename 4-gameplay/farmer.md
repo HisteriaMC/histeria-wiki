@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/diamond-hoe.png%%
 %%name=Métier d'agriculteur%%
-%%weight=100%%
+%%weight=510%%
 
 # Métier d'agriculteur
 

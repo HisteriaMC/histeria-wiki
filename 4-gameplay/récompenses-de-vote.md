@@ -1,6 +1,5 @@
 %%name=Récompenses de vote%%
 %%weight=500%%
-
 # Récompenses de vote
 
 Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/ressources/histerite), 10 [cobblestone compressées](https://histeria.fr/wiki/ressources/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/clés/vote-key) et un [lucky block](https://histeria.fr/wiki/blocs/lucky-block). Les joueurs ont une chance sur 6 d'obtenir un [ticket de loterie](https://histeria.fr/wiki/objets/lottery-ticket), de même pour une graine en Nocturite. Le nombre de ticket de loterie ou de graine en Nocturite pouvant être obtenus avec de la chance passe à 2 pour les joueurs possédant le grade VIP, et à 3 pour les joueurs possédant le grade Interplanétaire ou Omega.

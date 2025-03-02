@@ -1,3 +1,7 @@
+%%name=Totem%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/totem-block.png%%
+%%weight=507%%
+
 # Totem
 
 ## Description

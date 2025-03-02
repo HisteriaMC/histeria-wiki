@@ -1,3 +1,7 @@
+%%name=Largage%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/airdrop.png%%
+%%weight=508%%
+
 # Largage
 
 ## Explication
