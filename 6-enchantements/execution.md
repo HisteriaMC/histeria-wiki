@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
+%%name=Execution%%
+%%weight=313%%
+
 # Execution
 
 ## Obtention

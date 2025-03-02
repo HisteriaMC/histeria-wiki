@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
+%%name=corruptt%%
+%%weight=315%%
+
 # Corrupt
 
 ## Informations

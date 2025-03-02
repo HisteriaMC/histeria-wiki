@@ -1,3 +1,7 @@
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
+%%name=Meteor%%
+%%weight=311%%
+
 # Meteor
 
 ## Informations
