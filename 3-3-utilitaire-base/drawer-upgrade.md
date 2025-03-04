@@ -1,3 +1,7 @@
+%%name=Amélioration de commode%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/drawer-upgrade.png%%
+%%weight=702%%
+
 # Amélioration de commode
 
 ## Description

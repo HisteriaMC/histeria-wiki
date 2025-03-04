@@ -1,3 +1,7 @@
+%%name=Sac à dos%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/backpack.png%%
+%%weight=704%%
+
 # Sac à dos
 ## Explications
 Le sac à dos est un objet qui permet de transporter plusieurs autres objets en un seul. Le sac à dos a 27 slots pouvant accueillir différents objets.

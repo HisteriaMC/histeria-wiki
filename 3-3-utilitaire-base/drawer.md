@@ -1,3 +1,7 @@
+%%name=Commode%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/drawer.png%%
+%%weight=703%%
+
 # Commode
 
 ## Description

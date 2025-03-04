@@ -1,6 +1,14 @@
+%%name=Blocs de décoration%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/decoration/chair.png%%
+%%weight=700%%
+
 # Blocs de décoration
 
 Chaque bloc est disponible au `/shop` ou par fabrication.
+
+## Bloc de néon
+
+![neon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/neon.webp)
 
 ## Chaise
 

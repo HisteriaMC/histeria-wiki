@@ -1,3 +1,7 @@
+%%name=Blocs de décoration%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/elevator.png%%
+%%weight=701%%
+
 # Ascenseur
 
 ## Utilité
