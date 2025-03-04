@@ -1,3 +1,7 @@
+%%name=Pomme en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png%%
+%%weight=807%%
+
 # Pomme en Histerite
 
 ## Description

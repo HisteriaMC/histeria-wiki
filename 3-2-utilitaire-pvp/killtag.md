@@ -1,3 +1,7 @@
+%%name=Kill-tag%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/killtag.png%%
+%%weight=806%%
+
 # Kill-Tag
 
 ## Description

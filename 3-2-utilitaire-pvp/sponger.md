@@ -1,3 +1,7 @@
+%%name=Bâton de sécheresse%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/sponger.png%%
+%%weight=802%%
+
 # Bâton de sécheresse
 
 ## Description

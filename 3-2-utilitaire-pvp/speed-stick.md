@@ -1,3 +1,7 @@
+%%name=Bâton de vitesse%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/speed-stick.png%%
+%%weight=804%%
+
 # Bâton de vitesse
 
 ## Description 

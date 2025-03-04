@@ -1,3 +1,7 @@
+%%name=Punching-ball%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/punching-ball.png%%
+%%weight=800%%
+
 # Punching-ball
 
 ## Description
