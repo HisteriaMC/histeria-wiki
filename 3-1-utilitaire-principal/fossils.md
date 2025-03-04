@@ -1,3 +1,7 @@
+%%name=Fossiles%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/fossils.webp.png%%
+%%weight=901%%
+
 # Les fossiles
 
 ## Description

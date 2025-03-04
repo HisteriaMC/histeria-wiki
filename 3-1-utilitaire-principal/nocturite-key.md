@@ -1,3 +1,7 @@
+%%name=Clé en Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-key.png%%
+%%weight=910%%
+
 # Clé en Nocturite
 
 ## Description

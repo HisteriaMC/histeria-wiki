@@ -1,3 +1,7 @@
+%%name=Bouteille de lumen%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lumen-bottle.png%%
+%%weight=907%%
+
 # Bouteille de lumen 
 
 ## Description

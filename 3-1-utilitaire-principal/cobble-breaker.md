@@ -1,3 +1,7 @@
+%%name=Brise-roche%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobble-breaker.png%%
+%%weight=900%%
+
 # Brise-roche
 
 ## Description

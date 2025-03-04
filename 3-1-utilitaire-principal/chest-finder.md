@@ -1,3 +1,7 @@
+%%name=Sac pochon%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-finder.png%%
+%%weight=903%%
+
 # Chercheur de coffre
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Sac pochon%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/itempack.png%%
+%%weight=902%%
+
 # Sac pochon
 
 ## Description

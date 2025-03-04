@@ -1,3 +1,7 @@
+%%name=Ticket de loterie chanceux%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/lucky-ticket.png%%
+%%weight=913%%
+
 # Ticket de loterie chanceux
 
 ## Explication
