@@ -1,3 +1,7 @@
+%%name=TNT en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-tnt.png%%
+%%weight=607%%
+
 # TNT en Histerite
 
 ## Description

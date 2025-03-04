@@ -1,3 +1,7 @@
+%%name=Alarm%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/detector.webp%%
+%%weight=614%%
+
 # Alarme
 
 ## Description

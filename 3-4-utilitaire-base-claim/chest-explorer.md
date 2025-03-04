@@ -1,3 +1,7 @@
+%%name=Explorateur de coffre%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-explorer.png%%
+%%weight=600%%
+
 # Explorateur de coffre
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Spike%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/spike.png%%
+%%weight=608%%
+
 # Spike
 
 ## Description

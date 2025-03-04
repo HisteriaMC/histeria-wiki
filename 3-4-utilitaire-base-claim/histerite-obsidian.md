@@ -1,3 +1,7 @@
+%%name=Obsidienne en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png%%
+%%weight=618%%
+
 #  Obsidienne en Histerite
 
 ## Description 

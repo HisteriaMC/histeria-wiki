@@ -1,3 +1,7 @@
+%%name=Catalyseur%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/catalyst.webp%%
+%%weight=613%%
+
 # Catalyseur
 
 ## Description

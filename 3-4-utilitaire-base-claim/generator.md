@@ -1,3 +1,7 @@
+%%name=Générateur%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/generator.webp%%
+%%weight=612%%
+
 # Générateur
 
 ## Description

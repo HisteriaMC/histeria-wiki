@@ -1,3 +1,7 @@
+%%name=TNT en Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-tnt.png%%
+%%weight=606%%
+
 # TNT en Nocturite
 
 ## Description

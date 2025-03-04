@@ -1,3 +1,7 @@
+%%name=Coffre-fort%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/vault.png%%
+%%weight=610%%
+
 # Coffre-fort
 
 ## Description

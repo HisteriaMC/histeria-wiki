@@ -1,3 +1,7 @@
+%%name=Pied de biche%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/vault-breacher.png%%
+%%weight=602%%
+
 # Pied de biche
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Altar%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/altar.png%%
+%%weight=603%%
+
 # Altar
 
 ## Description

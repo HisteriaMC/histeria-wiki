@@ -1,3 +1,7 @@
+%%name=Dynamite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/dynamite.png%%
+%%weight=601%%
+
 # Dynamite
 
 ## Description

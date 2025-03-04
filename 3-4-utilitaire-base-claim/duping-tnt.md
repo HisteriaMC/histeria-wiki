@@ -1,3 +1,7 @@
+%%name=TNT à dédoublement%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/duping-tnt.png%%
+%%weight=605%%
+
 # TNT à dédoublement
 
 ## Description

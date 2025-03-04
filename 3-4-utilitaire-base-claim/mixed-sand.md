@@ -1,3 +1,7 @@
+%%name=Sable mélangé%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/mixed-sand.png%%
+%%weight=609%%
+
 # Sable mélangé
 
 ## Description

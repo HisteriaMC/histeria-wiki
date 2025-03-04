@@ -1,3 +1,7 @@
+%%name=TNT IEM%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/iem-tnt.png%%
+%%weight=604%%
+
 # TNT à impulsion éléctromagnétique
 
 ## Description

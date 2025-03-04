@@ -1,3 +1,7 @@
+%%name=Obsidienne en Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-obsidian.png%%
+%%weight=617%%
+
 # Obsidienne en Nocturite
 
 ## Description 

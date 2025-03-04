@@ -1,3 +1,7 @@
+%%name=Réflecteur%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/reflector.webp%%
+%%weight=611%%
+
 # Réflecteur
 
 ## Description

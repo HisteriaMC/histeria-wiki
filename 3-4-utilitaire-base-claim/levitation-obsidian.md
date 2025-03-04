@@ -1,3 +1,7 @@
+%%name=Obsidienne de lévitation%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/levitation-obsidian.png%%
+%%weight=615%%
+
 # Obsidienne de lévitation
 
 ## Description 
