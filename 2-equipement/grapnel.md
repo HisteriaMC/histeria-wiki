@@ -1,3 +1,7 @@
+%%name=Grappin%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/grapnel.png%%
+%%weight=1001%%
+
 # Grappin
 
 ## Description

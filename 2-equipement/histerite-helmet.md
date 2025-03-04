@@ -1,3 +1,7 @@
+%%name=Casque en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-helmet.png%%
+%%weight=1016%%
+
 # Casque en Histerite
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Casque en Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-helmet.png%%
+%%weight=1012%%
+
 # Casque en Nocturite
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Marteau%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hammer.png%%
+%%weight=1002%%
+
 # Marteau
 
 ## Description

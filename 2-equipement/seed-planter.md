@@ -1,3 +1,7 @@
+%%name=Planteur de graines%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/seed-planter.png%%
+%%weight=1000%%
+
 # Planteur de graines
 
 ## Description

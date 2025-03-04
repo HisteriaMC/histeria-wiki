@@ -1,3 +1,7 @@
+%%name=Jambières en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-leggings.png%%
+%%weight=1014%%
+
 # Jambières en Histerite
 
 ## Description

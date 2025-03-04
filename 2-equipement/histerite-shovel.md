@@ -1,3 +1,7 @@
+%%name=Pelle en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-shovel.png%%
+%%weight=1004%%
+
 # Pelle en Histerite 
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Bottes en Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-boots.png%%
+%%weight=1009%%
+
 # Bottes en Nocturite
 
 ## Description

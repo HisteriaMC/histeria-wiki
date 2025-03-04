@@ -1,3 +1,7 @@
+%%name=Épée en Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-sword.png%%
+%%weight=1007%%
+
 # Épée en Histerite 
 
 ## Description
