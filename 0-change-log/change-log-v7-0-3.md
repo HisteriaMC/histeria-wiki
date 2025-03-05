@@ -1,6 +1,6 @@
 %%name=Change log V7.0.3%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/v7.png%%
-%%weight=803%%
+%%weight=1203%%
 
 # Change Log de la v7.0.3
 
