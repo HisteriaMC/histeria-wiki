@@ -1,3 +1,7 @@
+%%name=Cobblestone compressée%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/compressed-cobblestone.png%%
+%%weight=1101%%
+
 # Cobblestone compressée
 
 ## Description

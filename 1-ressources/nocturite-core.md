@@ -1,3 +1,7 @@
+%%name=Coeur de Nocturite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-core.png%%
+%%weight=1102%%
+
 # Coeur de Nocturite
 
 ## Description

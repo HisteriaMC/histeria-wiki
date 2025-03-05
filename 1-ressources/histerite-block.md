@@ -1,3 +1,7 @@
+%%name=Bloc d'Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-block.png%%
+%%weight=1112%%
+
 # Bloc d'Histerite
 
 ## Description

@@ -1,3 +1,7 @@
+%%name=Histerite%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-ingot.png%%
+%%weight=1113%%
+
 # Histerite
 
 ## Description
