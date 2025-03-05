@@ -6,7 +6,7 @@
 
 ## Description
 
-Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
+Le coeur de Nocturite est principalement utile pour fabriquer l'[armure en Nocturite](https://histeria.fr/wiki/2-equipement).
 
 ## Fabrication
 

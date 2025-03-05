@@ -6,7 +6,7 @@
 
 ## Description
 
-La Nocturite compressée est un élément essentiel pour l'obtention de différents objets en Nocturite tels que le [marteau](https://histeria.fr/wiki/2-equipement/tools) et le coeur de Nocturite.
+La Nocturite compressée est un élément essentiel pour l'obtention de différents objets en Nocturite tels que le [marteau](https://histeria.fr/wiki/2-equipement/hammer) et le coeur de Nocturite.
 
 ## Fabrication
 

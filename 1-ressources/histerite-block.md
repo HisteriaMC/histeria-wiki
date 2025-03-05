@@ -7,7 +7,7 @@
 ## Description
 Le bloc d'Histerite est le regroupement de 9 lingots d'Histerite.
 
-Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/2-equipement/farm), le [coffre en Histerite](https://histeria.fr/wiki/2-equipement/base), l'[obsidienne renforcée](https://histeria.fr/wiki/2-equipement/base) et bien plus encore.
+Il est très utilisé pour un grand nombre de crafts comme celui de la [terre fertilisée](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt), le [coffre en Histerite](https://histeria.fr/wiki/3-3-utilitaire-base/histerite-chest), l'[obsidienne en Histerite](https://histeria.fr/wiki/3-4-utilitaire-base/histerite-obsidian) et bien plus encore.
 
 ## Fabrication
 

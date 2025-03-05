@@ -10,6 +10,6 @@ Le fruit de Nocturite permet de fabriquer des cristaux de Nocturite.
 
 ## Obtention
 
-Il ne peut que s'obtenir en les récoltant sur des pousses de Nocturite, elles-mêmes plantées sur de la [terre fertilisée](https://histeria.fr/wiki/2-equipement/farm).
+Il ne peut que s'obtenir en les récoltant sur des pousses de Nocturite, elles-mêmes plantées sur de la [terre fertilisée](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt).
 
- Vous pourrez récolter des fruit de Nocturite seulement si la [pousse de Nocturite]() est au stage 3.
+ Vous pourrez récolter des fruit de Nocturite seulement si la [pousse de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-seeds) est au stage 3.
