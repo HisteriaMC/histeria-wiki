@@ -5,7 +5,7 @@
 # Amélioration de commode
 
 ## Description
-L'amélioration de commode vous permet d'améliorer la capacité de stockage d'une [commode](https://histeria.fr/wiki/2-equipement/base).
+L'amélioration de commode vous permet d'améliorer la capacité de stockage d'une [commode](https://histeria.fr/wiki/3-3-utilitaire-base/drawer).
 
 ## Craft
 -=-
