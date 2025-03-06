@@ -19,7 +19,7 @@ En ce début de version v7, les mdf ne sont pas encore à vendre.
 Pour éviter de se servir d'une maison de faction comme une base, les blocs pouvant stocker des objets sont interdits.
 
 ### Terres fertilisées  
-Il est également interdit d’utiliser vos maisons de factions comme ferme. C'est pourquoi les [terres fertilisées](https://histeria.fr/wiki/blocs/fertilized-dirt) sont limitées au nombre de 16.
+Il est également interdit d’utiliser vos maisons de factions comme ferme. C'est pourquoi les [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) sont limitées au nombre de 16.
 
 
 ## Améliorations

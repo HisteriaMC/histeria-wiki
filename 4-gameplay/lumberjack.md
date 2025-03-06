@@ -13,35 +13,35 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | Niveau | Récompense |
 |:---:|:---:|
 | 1 | Une pioche en diamant efficacité III |
-| 2 | 5 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 2 | 5 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
 | 3 | 15000 $ |
-| 4 | Craft de la [hache en Histerite](https://histeria.fr/wiki/2-equipement/tools) |
-| 5 | 3 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
-| 6 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
-| 7 | 8 [améliorations de commode](https://histeria.fr/wiki/2-equipement/base) |
-| 8 | Craft du [planeur](https://histeria.fr/wiki/2-equipement/other) |
-| 9 | 2 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
-| 10 | 16 [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-ressources) |
-| 11 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 12 | Un [plastron en Histerite](https://histeria.fr/wiki/2-equipement/histerite-armor) protection IV solidité IV |
+| 4 | Craft de la [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axe) |
+| 5 | 3 [parchemins](https://histeria.fr/wiki/6-enchantements/forge-note) |
+| 6 | Un [ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
+| 7 | 8 [améliorations de commode](https://histeria.fr/wiki/3-3-utilitaire-base/drawer-upgrade) |
+| 8 | Craft du [planeur](https://histeria.fr/wiki/3-1-utilitaire-principal/hang-glider) |
+| 9 | 2 [clés en Histerite](https://histeria.fr/wiki/3-1-utilitaire-principal/histerite-key) |
+| 10 | 16 [graines de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-seeds) |
+| 11 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite) |
+| 12 | Un [plastron en Histerite](https://histeria.fr/wiki/2-equipement/histerite-chestplate) protection IV solidité IV |
 | 13 | 50000 $ |
-| 14 | 24 [améliorations de commode](https://histeria.fr/wiki/2-equipement/base) |
-| 15 | 5 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
-| 16 | 8 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
-| 17 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
-| 18 | Une [hache en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité V |
-| 19 | 3 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
-| 20 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 21 | 15 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 14 | 24 [améliorations de commode](https://histeria.fr/wiki/3-3-utilitaire-base/drawer-upgrade) |
+| 15 | 5 [parchemins](https://histeria.fr/wiki/6-enchantements/forge-note) |
+| 16 | 8 [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) |
+| 17 | 10 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
+| 18 | Une [hache en Histerite](https://histeria.fr/wiki/é-equipement/histerite-axe) efficacité V |
+| 19 | 3 [clés en Histerite](https://histeria.fr/wiki/3-1-utilitaire-principal/histerite-key) |
+| 20 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-block) |
+| 21 | 15 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
 | 22 | 75000 $ |
-| 23 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
-| 24 | Une [hache en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité IV incassable |
-| 25 | 2 [clés en Nocturite](https://histeria.fr/wiki/clés/histerite-key) |
-| 26 | 4 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
-| 27 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
+| 23 | Un [ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
+| 24 | Une [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axe) efficacité IV incassable |
+| 25 | 2 [clés en Nocturite](https://histeria.fr/wiki/3-1-utilitaire-principal/nocturite-key) |
+| 26 | 4 [clés en Histerite](https://histeria.fr/wiki/3-1-utilitaire-principal/histerite-key) |
+| 27 | 10 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
 | 28 | 100000 $ |
-| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
-| 30 | Craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor) |
+| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
+| 30 | Craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-boots) |
 
 ## Moyen d'amélioration
 

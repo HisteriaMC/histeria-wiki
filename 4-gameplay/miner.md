@@ -13,34 +13,34 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | Niveau | Récompense |
 |:---:|:---:|
 | 1 | Une pioche en diamant efficacité III |
-| 2 | Un [casque en Histerite](https://histeria.fr/wiki/2-equipement/histerite-armor) |
+| 2 | Un [casque en Histerite](https://histeria.fr/wiki/2-equipement/histerite-helmet) |
 | 3 | 15000 $ |
-| 4 | Craft de la [pioche en Histerite](https://histeria.fr/wiki/2-equipement/tools) |
-| 5 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 6 | Un [ticket de loterie](https://histeria.fr/wiki/2-equipement/economy) |
-| 7 | 10 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
-| 8 | 3 [parchemins](https://histeria.fr/wiki/2-equipement/other) |
-| 9 | Craft du [brise-roche](https://histeria.fr/wiki/2-equipement/farm) |
-| 10 | Un [chercheur de coffres](https/::histeria.fr/wiki/2-equipement/pillage) |
-| 11 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 12 | Craft de l'[Histerite compressée](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 13 | Un [cave block](https://histeria.fr/wiki/2-equipement/pillage) |
-| 14 | Des [bottes en Histerite](https://histeria.fr/wiki/2-equipement/histerite-armor) protection IV solidité IV |
-| 15 | 15 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
-| 16 | 8 [terres fertilisées](https://histeria.fr/wiki/2-equipement/farm) |
-| 17 | 2 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
-| 18 | Craft du [coeur en Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 19 | 16 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
-| 20 | 20 [Lucky Blocks](https://histeria.fr/wiki/2-equipement/other) |
-| 21 | Craft du [marteau](https://histeria.fr/wiki/2-equipement/tools) |
+| 4 | Craft de la [pioche en Histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe) |
+| 5 | 16 [Histerites](https://histeria.fr/wiki/1-ressources/histerite) |
+| 6 | Un [ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
+| 7 | 10 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
+| 8 | 3 [parchemins](https://histeria.fr/wiki/6-enchantements/forge-note) |
+| 9 | Craft du [brise-roche](https://histeria.fr/wiki/3-1-utilitaire-principal/cobble-breaker) |
+| 10 | Un [chercheur de coffres](https/::histeria.fr/wiki/3-1-utilitaire-principal/chest-finder) |
+| 11 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-block) |
+| 12 | Craft de l'[Histerite compressée](https://histeria.fr/wiki/1-ressources/histerite-compress) |
+| 13 | Un [cave block](https://histeria.fr/wiki/3-1-utilitaire-principal/cave-block) |
+| 14 | Des [bottes en Histerite](https://histeria.fr/wiki/2-equipement/histerite-boots) protection IV solidité IV |
+| 15 | 15 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
+| 16 | 8 [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) |
+| 17 | 2 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
+| 18 | Craft du [coeur en Histerite](https://histeria.fr/wiki/1-ressources/histerite-core) |
+| 19 | 16 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-block) |
+| 20 | 20 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
+| 21 | Craft du [marteau](https://histeria.fr/wiki/2-equipement/hammer) |
 | 22 | 75000 $ |
-| 23 | Une [pioche en Histerite](https://histeria.fr/wiki/é-equipement/tools) efficacité IV incassable |
-| 24 | 256 [obsidiennes en Histerite](https://histeria.fr/wiki/2-equipement/obsidian) |
-| 25 | Craft du [sac à dos](https://histeria.fr/wiki/2-equipement/other) |
-| 26 | 3 [clés en Histerite](https://histeria.fr/wiki/2-equipement/keys) |
-| 27 | 2 [clés en Nocturite](https://histeria.fr/wiki/2-equipement/keys) |
+| 23 | Une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe) efficacité IV incassable |
+| 24 | 256 [obsidiennes en Histerite](https://histeria.fr/wiki/3-4-utilitaire-base-claim/histerite-obsidian) |
+| 25 | Craft du [sac à dos](https://histeria.fr/wiki/3-3-utilitaire-base/backpack) |
+| 26 | 3 [clés en Histerite](https://histeria.fr/wiki/3-1-utilitaire-principal/histerite-key) |
+| 27 | 2 [clés en Nocturite](https://histeria.fr/wiki/3-1-utilitaire-principal/nocturite-key) |
 | 28 | 100000 $ |
-| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/2-equipement/economy) |
+| 29 | 3 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
 | 30 | Craft du [plastron en Nocturite](https://histeria.fr/wiki/armures/nocturite-chestplate) |
 
 ## Moyen d'amélioration
@@ -77,9 +77,9 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | Minerai de lapis-lazuli des abîmes | 0 - 30 | 8 |
 | Minerai de redstone | 0 - 30 | 5 |
 | Minerai de redstone des abîmes | 0 - 30 | 6 |
-| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/other-ressources) | 0 - 12 | 18 |
-| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/other-ressources) | 13 - 18 | 28 |
-| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/other-ressources) | 19 - 30 | 18 |
-| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) | 0 - 19 | 20 |
-| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) | 19 - 24 | 40 |
-| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources) | 25 - 30 | 20 |
+| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/random-ore) | 0 - 12 | 18 |
+| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/random-ore) | 13 - 18 | 28 |
+| [Minerai aléatoire](https://histeria.fr/wiki/1-ressources/random-ore) | 19 - 30 | 18 |
+| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ore) | 0 - 19 | 20 |
+| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ore) | 19 - 24 | 40 |
+| [Minerai d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ore) | 25 - 30 | 20 |

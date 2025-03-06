@@ -35,7 +35,7 @@ Les builds de chaque monde faction renferment aussi quelques petits secrets ou e
 
 ## Maisons de faction
 
-Des [maisons de factions](https://histeria.fr/wiki/3-gameplay/mdf) sont disponibles dans un monde spécial sur chaque serveur faction.
+Des [maisons de factions](https://histeria.fr/wiki/4-gameplay/mdf) sont disponibles dans un monde spécial sur chaque serveur faction.
 
 # Le serveur faction 1
 
