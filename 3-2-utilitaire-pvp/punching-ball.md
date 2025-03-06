@@ -9,4 +9,4 @@ Le punching-ball est un clone de vous, il est invincible. Il ne vous attaque pas
 Vous pouvez le récupérer en le tapant avec une hache en bois.
 
 ## Obtention 
-Il peut être obtenu seulement dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
+Il peut être obtenu seulement dans les [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block).
