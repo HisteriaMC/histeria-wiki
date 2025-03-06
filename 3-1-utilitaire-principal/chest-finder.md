@@ -5,7 +5,7 @@
 # Chercheur de coffre
 
 ## Description
-Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de conteneur(s), comme les coffres, les tonneaux, les fours, etc... dans un carré de 7 chunks autour du joueur, ainsi que sa hauteur par rapport au joueur. Seul le [coffre en Nocturite](https://histeria.fr/wiki/2-equipement/base) n'est pas repéré par le chercheur de coffre.
+Le chercheur de coffre est utile pour trouver des bases à piller. Ce dernier donne le nombre de conteneur(s), comme les coffres, les tonneaux, les fours, etc... dans un carré de 7 chunks autour du joueur, ainsi que sa hauteur par rapport au joueur. Seul le [coffre en Nocturite](https://histeria.fr/wiki/3-3-utilitaire-base/nocturite-chest) n'est pas repéré par le chercheur de coffre.
 
 Le chercheur de coffre s'obtient via craft ou dans les boxs, il est également disponible au /shop.
 

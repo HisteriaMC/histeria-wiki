@@ -5,8 +5,8 @@
 # Clé en Nocturite
 
 ## Description
-La clé en Nocturite est obtenable en votant sur le serveur dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
-Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
+La clé en Nocturite est obtenable en votant sur le serveur dans des [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block).
+Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des serveurs factions et des serveurs minages.
 
 Vous pouvez les utiliser sur les caisses aux spawns de chaque serveur.
 

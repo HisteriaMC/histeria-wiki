@@ -5,7 +5,7 @@
 # Chèque
 
 ## Description 
-Le chèque est l'un des nombreux moyens permettant de faire circuler de d'argent sur le serveur. Il a un rôle capital dans [l'économie](https://histeria.fr/wiki/4-commandes/economy-commands). Il s'obtient à l'aide d'une commande.
+Le chèque est l'un des nombreux moyens permettant de faire circuler de d'argent sur le serveur. Il a un rôle capital dans l'économie. Il s'obtient à l'aide d'une commande.
 
 ## Création
 

@@ -5,7 +5,7 @@
 # Clé en Histerite
 
 ## Description
-La clé en Histerite est une clé intermédiaire entre la [clé de vote](https://histeria.fr/wiki/clés/vote-key) et la [clé en Nocturite](https://histeria.fr/wiki/clés/nocturite-key). Obtenable dans des [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block) et [kit Oméga](https://histeria.fr/wiki/récompenses/kits). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) et des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers).
+La clé en Histerite est une clé intermédiaire entre la [clé de vote](https://histeria.fr/wiki/3-1-utilitaire-principal/vote-key) et la [clé en Nocturite](https://histeria.fr/wiki/3-1-utilitaire-principal/nocturite-key). Obtenable dans des [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) et [kit Oméga](https://histeria.fr/wiki/4-gameplay/kits). Vous devez l'utiliser sur les boxs qui se trouvent aux spawns des serveurs factions et des serveurs minages.
 
 Vous pouvez les utiliser sur les caisses aux spawns de chaque serveur.
 

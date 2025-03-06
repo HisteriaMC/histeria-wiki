@@ -11,4 +11,4 @@ Elle peut également être utile dans sa base ou dans sa ferme afin que les autr
 Elle peut être utilisé pendant 48h avant de ne plus avoir de durabilité.
 
 ## Obtention
-La capuche est obtenable dans les [Lucky Blocks](https://histeria.fr/wiki/blocs/lucky-block).
+La capuche est obtenable dans les [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block).

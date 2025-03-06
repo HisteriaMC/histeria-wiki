@@ -10,7 +10,7 @@ Le planteur de graines est un objet permettant de planter des graines dans une c
 Zone de 3 x 3 pour les pommes de terre, carottes, graines de blé et graines de Nocturite.
 Zone de 1 x 10 pour les graines de pastèque et de citrouille.
 
-Il permet également de récolter des [fruits de Nocturite](https://histeria.fr/wiki/ressources/nocturite-fruit) sans avoir à casser la plantation. De plus, avec le planteur de graines, il y a 10% de chance de recevoir une graine en plus, et 25% de chance que la graine replantée soit déjà au stage 1.
+Il permet également de récolter des [fruits de Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-fruit) sans avoir à casser la plantation. De plus, avec le planteur de graines, il y a 10% de chance de recevoir une graine en plus, et 25% de chance que la graine replantée soit déjà au stage 1.
 
 ## Craft
 -=-

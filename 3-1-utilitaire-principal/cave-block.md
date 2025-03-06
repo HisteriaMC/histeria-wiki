@@ -7,7 +7,7 @@
 ## Description
 Le Cave Block est d'une grande utilité lors de vos recherches pour trouver des bases. En effet, ce bloc vous permet de voir ce qu'il se passe sous le sol. 
 
-Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande [/nightvision (/nv)](https://histeria.fr/wiki/commandes/graded-commands) si vous possédez un grade, ou bien d'avoir un [casque en Histerite](https://histeria.fr/wiki/armures/histerite-helmet) / [casque en Nocturite](https://histeria.fr/wiki/armures/nocturite-helmet) pour vous garantir une meilleure performance visuelle.
+Pour vous garantir une meilleure visibilité, nous vous conseillons l'utilisation de la commande `/nightvision` (/nv) si vous possédez un grade, ou bien d'avoir un [casque en Histerite](https://histeria.fr/wiki/2-equipement/histerite-helmet) / [casque en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-helmet) pour vous garantir une meilleure performance visuelle.
 
 ## Craft  
 -=-
