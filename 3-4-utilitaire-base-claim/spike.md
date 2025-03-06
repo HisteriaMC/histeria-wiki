@@ -5,7 +5,7 @@
 # Spike
 
 ## Description
-Le spike est fait à base [d'Histerite](https://histeria.fr/wiki/1-ressources/histerite-ressources). Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
+Le spike est fait à base d'Histerite. Il permet d'ajouter une défense supplémentaire à vos bases, inflige des dégâts au contact et détruit les items. Très utile contre les envahisseurs !
 
 ## Craft
 -=-
