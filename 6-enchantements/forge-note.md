@@ -14,6 +14,6 @@ Il est obtenable par les combats de boss en leur infligeant au minimum 250 dég�
 ## Mode d'emploi
 Le joueur doit avoir un parchemin et l'objet avec l'enchantement pouvant être amélioré dans son inventaire.
 
-Ensuite il doit se diriger vers une [enclume en Histerite](https://histeria.fr/wiki/blocs/histerite-anvil), située aux spawns des serveurs factions.
+Ensuite il doit se diriger vers une [enclume en Histerite](https://histeria.fr/wiki/6-enchantements/histerite-anvil), située aux spawns des serveurs factions.
 
 Il faut mettre l'objet enchanté dans la case à gauche et le parchemin dans la case du milieu, l'objet alors amélioré sera disponible dans la case de droite.

@@ -24,15 +24,15 @@ La catégorie **Notifications** englobe les 3 trois types de notifications que l
 
 - Le chat : Ces notifications se situent dans le chat, en haut à gauche de l'écran. Ces notifications surviennent par exemple lors d'une mort d'un joueur, lors d'une connexion ou déconnexion, et beaucoup plus encore. Les messages des joueurs sont également des notifications de chat pouvant être désactivés.
   
-- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/objets/fossils), lorsque le joueur gagne de l'xp pour un métier ou des lumen, ou lors d'un clear lag.
+- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/3_1_utilitaire-principal/fossils), lorsque le joueur gagne de l'xp pour un métier ou des lumen, ou lors d'un clear lag.
   
-- Les toasts : Ces notifications apparaîssent tout en haut de l'écran. Elles surviennent lors du [coffre d'arène](https://histeria.fr/wiki/mondes/arena-chest), lors d'un passage d'un niveau de métier, lors d'un recu d'argent, et lors d'une vente à l'hotel de vente.
+- Les toasts : Ces notifications apparaîssent tout en haut de l'écran. Elles surviennent lors du [coffre d'arène](https://histeria.fr/wiki/4-gameplay/legendary-chest), lors d'un passage d'un niveau de métier, lors d'un recu d'argent, et lors d'une vente à l'hotel de vente.
 
 ## Outils
 
 Cette catégorie permet de configurer les outils. Elle offre deux possibilités:
 
-La première est d'annuler le pouvoir spécial des outils moddés, comme la destruction de deux blocs à la fois pour la [pioche en histerite](https://histeria.fr/wiki/outils/histerite-pickaxe), lorsque  le joueur est accroupi.
+La première est d'annuler le pouvoir spécial des outils moddés, comme la destruction de deux blocs à la fois pour la [pioche en histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe), lorsque  le joueur est accroupi.
 
 La seconde est de filtrer les blocs obtenus grâce aux outils. Cela signifie que les blocs définis dans ce menu de configuration ne seront pas obtenu par le joueur.
 
@@ -40,7 +40,7 @@ La seconde est de filtrer les blocs obtenus grâce aux outils. Cela signifie que
 
 Cette petite catégorie s'occupe de la vente et des achats. Elle permet de choisir s'il faut une confirmation avant l'achat d'un objet ou d'un bloc, si le joueur peut acheter même si son inventaire est plein, et si le joueur peut vendre des objets sans valeur monétaire, comme des déchets. 
 
-Elle permet également de définir les objets à ne pas vendre avec la commande /sellinv, qui n'est disponible que pour les [joueurs gradés](https://histeria.fr/wiki/commandes/graded-commands).
+Elle permet également de définir les objets à ne pas vendre avec la commande /sellinv, qui n'est disponible que pour les [joueurs gradés](https://histeria.fr/wiki/5-commandes/graded-commands).
 
 ## Boxs
 

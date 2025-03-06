@@ -5,8 +5,8 @@
 # Corrupt
 
 ## Informations
-Improcable ! L'enchantement Corrupt est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-equipement/tools).
-Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et d'empêcher les [autres enchantements](https://histeria.fr/wiki/4-enchantements) de son adversaire de fonctionner (50% de malchance).
+Improcable ! L'enchantement Corrupt est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axe).
+Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et d'empêcher les [autres enchantements](https://histeria.fr/wiki/6-enchantements) de son adversaire de fonctionner (50% de malchance).
 
 **Niveau maximum :** 3
 

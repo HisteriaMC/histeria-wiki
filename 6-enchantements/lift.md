@@ -5,7 +5,7 @@
 # Lift
 
 ## Informations
-Wingardium Leviosa ! L'enchantement Lift est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/tools) ou une [hache en Histerite](https://histeria.fr/wiki/2-equipement/tools).
+Wingardium Leviosa ! L'enchantement Lift est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword) ou une [hache en Histerite](https://histeria.fr/wiki/2-equipement/histerite-axe).
 Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie supplémentaire à son adversaire et de propulser en l'air ce dernier.
 
 **Niveau maximum :** 3

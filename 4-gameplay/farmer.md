@@ -27,7 +27,7 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 12 | 3 [parchemins](https://histeria.fr/wiki/6-enchantements/forge-note) |
 | 13 | 50000 $ |
 | 14 | 5 [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) |
-| 15 | Craft de la [terre fertilisée](https://histeria.fr/wiki/2-equipement/farm) |
+| 15 | Craft de la [terre fertilisée](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) |
 | 16 | 15 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
 | 17 | 32 [Histerites](https://histeria.fr/wiki/1-ressources/histerite-ressources) |
 | 18 | 2 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |

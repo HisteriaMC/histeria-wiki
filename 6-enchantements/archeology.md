@@ -8,7 +8,7 @@
 Cet enchantement n'est disponible **que dans les coffres légendaires**
 
 ## Informations
-L'enchantement d'arène Archeology permet d'augmenter vos chances de trouver des fossiles. Il est fusionnable avec une [pioche](https://histeria.fr/wiki/2-equipement/tools) ou un [marteau](https://histeria.fr/wiki/2-equipement/tools).
+L'enchantement d'arène Archeology permet d'augmenter vos chances de trouver des fossiles. Il est fusionnable avec une [pioche](https://histeria.fr/wiki/2-equipement/histerite-pickaxe) ou un [marteau](https://histeria.fr/wiki/2-equipement/hammer).
 
 
 **Niveau maximum :** 3
