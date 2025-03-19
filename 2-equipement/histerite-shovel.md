@@ -31,7 +31,7 @@ Son usage est restreint à :
  ==- 
  ==- 
  ==- 
- -== https://raw.githubusercontent.com/ItamSurMc/histeria-wiki/main/.assets/items/histerite-shovel.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
 Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier d'agriculteur.
