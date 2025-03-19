@@ -10,24 +10,8 @@ Quand le porteur de l'enchantement est frappé, il a une chance de retirer tous 
 
 **Niveau maximum :** 3
 
-<table>
-  <tr>
-    <th>Niveau</th>
-    <th>Pourcentages d'activation</th>
-    <th>Effet</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>0.3%</td>
-    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>0.35%</td>
-    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>0.4%</td>
-    <td>Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur</td>
-</table>
+| Niveau | Pourcentage d'activation | Effet |
+| --- | --- | --- |
+| 1 | 0.3 % | Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur |
+| 1 | 0.35 % | Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur |
+| 1 | 0.4 % | Disparition des effets négatifs, s'il n'y en a pas, soigne un coeur |

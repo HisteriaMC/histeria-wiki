@@ -10,24 +10,8 @@ Quand le porteur de l'enchantement est frappé, il a une chance de cacher l'indi
 
 **Niveau maximum :** 3
 
-<table>
-  <tr>
-    <th>Niveau</th>
-    <th>Pourcentages d'activation</th>
-    <th>Effet</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>0.3%</td>
-    <td>Cache l'indicateur de vie</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>0.35%</td>
-    <td>Cache l'indicateur de vie</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>0.4%</td>
-    <td>Cache l'indicateur de vie</td>
-</table>
+| Niveau | Pourcentage d'activation | Effet |
+| --- | --- | --- |
+| 1 | 0.3 % | Cache l'indicateur de vie |
+| 1 | 0.35 % | Cache l'indicateur de vie |
+| 1 | 0.4 % | Cache l'indicateur de vie |
