@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/table.svg%%
 %%name=Table de craft%%
-%%weight=5%%
+%%weight=105%%
 
 # Table de craft API Markdown
 Dans ce tutoriel, nous allons voir comment realiser via les balises Markdown customisées différentes tables de craft.  
