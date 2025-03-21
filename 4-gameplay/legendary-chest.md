@@ -43,4 +43,4 @@ Le butin de chaque coffre est aléatoire entre 8 possibilités :
 ---
 - 4 pommes en Histerite
 - 2 bâtons de vitesse
-> Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archeology](https://histeria.fr/wiki/6-enchantements/archeologie), [Execution](https://histeria.fr/wiki/6-enchantements/execution) et [Gravity](https://histeria.fr/wiki/6-enchantements/gravity), soit également présent.
+> Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène, qui sont [Archeology](https://histeria.fr/wiki/6-enchantements/archeology), [Execution](https://histeria.fr/wiki/6-enchantements/execution) et [Gravity](https://histeria.fr/wiki/6-enchantements/gravity), soit également présent.
