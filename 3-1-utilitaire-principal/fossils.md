@@ -1,5 +1,5 @@
 %%name=Fossiles%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/fossils.webp.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/fossils.webp%%
 %%weight=901%%
 
 # Les fossiles

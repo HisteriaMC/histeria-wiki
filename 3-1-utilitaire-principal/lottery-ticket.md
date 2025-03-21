@@ -5,7 +5,7 @@
 # Ticket de loterie
 
 ## Description
-Le ticket de loterie est une aide économique pour les joueurs. Il s'obtient dans le [kit Oméga](https://histeria.fr/wiki/4-gameplay/kits), dans les [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block), en [votant](https://vote.histeria.fr), dans le calendrier de vote, dans plusieurs niveaux des différents métiers, dans les [boxs](https://histeria.fr/wiki/3-1-utilitaire-principal), mais il peut également s'acheter sur la [boutique](https://shop.histeria.fr/category/grade-a-vie-bedrock).
+Le ticket de loterie est une aide économique pour les joueurs. Il s'obtient dans le [kit Oméga](https://histeria.fr/wiki/4-gameplay/kits), dans les [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block), en [votant](https://vote.histeria.fr), dans le calendrier de vote, dans plusieurs niveaux des différents métiers, et dans les [boxs](https://histeria.fr/wiki/3-1-utilitaire-principal).
 
 ## Récompenses
 

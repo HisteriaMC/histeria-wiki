@@ -1,5 +1,5 @@
 %%name=Bouteille d'xp%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/xp-bottle.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/bottled-experience.png%%
 %%weight=906%%
 
 # Bouteille d'xp

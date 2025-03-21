@@ -4,8 +4,8 @@
 
 # Métier de bûcheron
 ## Description
-Le métier de bûcheron est l'un des 4 métiers d'Histeria. Pour l'augmenter efficacement, de grands arbres peuvent être trouvés dans les [mondes minages](https://histeria.fr/wiki/3-gameplay/minage-servers).
-La récompense finale est le craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-armor).
+Le métier de bûcheron est l'un des 4 métiers d'Histeria. Pour l'augmenter efficacement, de grands arbres peuvent être trouvés dans les [mondes minages](https://histeria.fr/wiki/4-gameplay/minage-servers).
+La récompense finale est le craft des [bottes en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-boots).
 L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses

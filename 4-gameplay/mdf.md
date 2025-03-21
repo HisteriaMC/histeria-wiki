@@ -4,7 +4,7 @@
 
 # Maisons de faction
 
-Les maisons de factions, parfois abrégés *MDF*, sont disponibles sur les 3 [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers) dans un monde dédié. Pour les visiter, un PNJ est présent au spawn de chaque serveur faction. Chaque faction ne peut posséder qu'une seule maison de faction.
+Les maisons de factions, parfois abrégés *MDF*, sont disponibles sur les 3 [serveurs factions](https://histeria.fr/wiki/4-gameplay/faction-servers) dans un monde dédié. Pour les visiter, un PNJ est présent au spawn de chaque serveur faction. Chaque faction ne peut posséder qu'une seule maison de faction.
 
 Il existe 2 tailles de maisons de factions, les prix de base ainsi que les tailles sont à consulter sur place : 
 - Maison de faction classique

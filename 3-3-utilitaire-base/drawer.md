@@ -5,7 +5,7 @@
 # Commode
 
 ## Description
-La commode est un bloc servant à stocker en très grosse quantité un seul type d'objet ou de bloc, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/3-3-utilitaire-principal/drawer-upgrade) pour augmenter leur capacité de stockage.
+La commode est un bloc servant à stocker en très grosse quantité un seul type d'objet ou de bloc, elle peut être améliorée grâce à des [améliorations de commode](https://histeria.fr/wiki/3-3-utilitaire-base/drawer-upgrade) pour augmenter leur capacité de stockage.
 
 Elle permet de contenir une grande quantité de stuff d'un seul type. Il en existe 5 niveaux différents.
 

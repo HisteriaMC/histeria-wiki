@@ -6,7 +6,7 @@
 
 ## Description 
 
-Le minerai aléatoire permet, une fois miné d'obtenir un objet aléatoire. Ce minerai est trouvable entre les couches 1 et 32 dans les [serveurs minage](https://histeria.fr/wiki/3-gameplay/minage-servers).
+Le minerai aléatoire permet, une fois miné d'obtenir un objet aléatoire. Ce minerai est trouvable entre les couches 1 et 32 dans les [serveurs minage](https://histeria.fr/wiki/4-gameplay/minage-servers).
 
 ## Butin
 

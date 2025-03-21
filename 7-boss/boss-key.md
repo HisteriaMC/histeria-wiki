@@ -5,7 +5,7 @@
 # Clé de boss
 
 ## Description
-La clé de boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/mondes/minage-servers) et [serveurs factions](https://histeria.fr/wiki/mondes/faction-servers).
+La clé de boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/4-gameplay/minage-servers) et [serveurs factions](https://histeria.fr/wiki/4-gameplay/faction-servers).
 
 Vous pouvez les utiliser sur les caisses aux spawns de chaque serveur.
 

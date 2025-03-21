@@ -4,8 +4,8 @@
 
 # Métier de mineur
 ## Description
-Le métier de mineur est l'un des 4 métiers d'Histeria. L'unique moyen de l'augmenter est d'aller miner, les [mondes minages](https://histeria.fr/wiki/mondes/minage-servers) sont prévus à cet effet.
-Le métier de mineur a comme récompense finale le craft du [plastron en Nocturite](https://histeria.fr/wiki/armures/nocturite-chestplate).
+Le métier de mineur est l'un des 4 métiers d'Histeria. L'unique moyen de l'augmenter est d'aller miner, les [mondes minages](https://histeria.fr/wiki/4-gameplay/minage-servers) sont prévus à cet effet.
+Le métier de mineur a comme récompense finale le craft du [plastron en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-chestplate).
 L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez les réinitialiser quand vous voulez.
 
 ## Récompenses
@@ -21,7 +21,7 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 7 | 10 [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block) |
 | 8 | 3 [parchemins](https://histeria.fr/wiki/6-enchantements/forge-note) |
 | 9 | Craft du [brise-roche](https://histeria.fr/wiki/3-1-utilitaire-principal/cobble-breaker) |
-| 10 | Un [chercheur de coffres](https/::histeria.fr/wiki/3-1-utilitaire-principal/chest-finder) |
+| 10 | Un [chercheur de coffres](https://histeria.fr/wiki/3-1-utilitaire-principal/chest-finder) |
 | 11 | 8 [blocs en Histerite](https://histeria.fr/wiki/1-ressources/histerite-block) |
 | 12 | Craft de l'[Histerite compressée](https://histeria.fr/wiki/1-ressources/histerite-compress) |
 | 13 | Un [cave block](https://histeria.fr/wiki/3-1-utilitaire-principal/cave-block) |
@@ -41,7 +41,7 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 27 | 2 [clés en Nocturite](https://histeria.fr/wiki/3-1-utilitaire-principal/nocturite-key) |
 | 28 | 100000 $ |
 | 29 | 3 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
-| 30 | Craft du [plastron en Nocturite](https://histeria.fr/wiki/armures/nocturite-chestplate) |
+| 30 | Craft du [plastron en Nocturite](https://histeria.fr/wiki/2-equipement/nocturite-chestplate) |
 
 ## Moyen d'amélioration
 
