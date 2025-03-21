@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/pencil.svg%%
 %%name=Guide de bonne pratique%%
-%%weight=102%%
+%%weight=2%%
 
 # Guide de bonne pratique
 
