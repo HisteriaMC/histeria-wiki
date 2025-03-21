@@ -1,4 +1,4 @@
-%%name=Terre fertile%%
+%%name=Terre fertilisée%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png%%
 %%weight=707%%
 
