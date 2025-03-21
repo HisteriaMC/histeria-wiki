@@ -5,7 +5,7 @@
 # Cobblestone compressée
 
 ## Description
-La cobblestone compressée est un condensé de pierre vous permettant d'obtenir des minerais en les concassant sur un [brise-roche](https://histeria.fr/wiki/2-equipement/farm). Celui-ci est disponible aux spawns des [serveurs faction](https://histeria.fr/wiki/4-gameplay/faction-servers) et [serveurs minage](https://histeria.fr/wiki/4-gameplay/minage-servers).
+La cobblestone compressée est un condensé de pierre vous permettant d'obtenir des minerais en les concassant sur un [brise-roche](https://histeria.fr/wiki/3-1-utilitaire-principal). Celui-ci est disponible aux spawns des [serveurs faction](https://histeria.fr/wiki/4-gameplay/faction-servers) et [serveurs minage](https://histeria.fr/wiki/4-gameplay/minage-servers).
 
 Il est possible d'en obtenir en la fabricant, mais également en minant avec une pioche enchantée avec l'enchantement [compressor](https://histeria.fr/wiki/6-enchantements/compressor)
 
