@@ -1,4 +1,4 @@
-%%weight=104%%
+%%weight=4%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/link.svg%%
 
 # Histerite Pickaxe

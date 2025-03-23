@@ -2,7 +2,7 @@
 %%weight=500%%
 # Récompenses de vote
 
-Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/1-ressources/histerite), 10 [cobblestone compressées](https://histeria.fr/wiki/1-ressources/compressed-cobblestone), une [clé de vote](https://histeria.fr/wiki/3-1-utilitaire-principal/vote-key) et un [lucky block](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block). Les joueurs ont une chance sur 6 d'obtenir un [ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket), de même pour une graine en Nocturite. Le nombre de ticket de loterie ou de graine en Nocturite pouvant être obtenus avec de la chance passe à 2 pour les joueurs possédant le grade VIP, et à 3 pour les joueurs possédant le grade Interplanétaire ou Omega.
+Voter pour le serveur est un bon moyen de nous soutenir. En le faisant, les joueurs peuvent obtenir un 9 [lingots d'Histerite](https://histeria.fr/wiki/1-ressources/histerite), 10 [cobblestone compressées](https://histeria.fr/wiki/1-ressources/cobblestone-compress), une [clé de vote](https://histeria.fr/wiki/3-1-utilitaire-principal/vote-key) et un [lucky block](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block). Les joueurs ont une chance sur 6 d'obtenir un [ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket), de même pour une graine en Nocturite. Le nombre de ticket de loterie ou de graine en Nocturite pouvant être obtenus avec de la chance passe à 2 pour les joueurs possédant le grade VIP, et à 3 pour les joueurs possédant le grade Interplanétaire ou Omega.
 
 Mais des récompenses bien plus intéressantes attendent les joueurs qui votent chaque jour de suite :
 
@@ -13,10 +13,10 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2 | Tous les [outils en Histerite](https://histeria.fr/wiki/2-equipement) |
 | 3 | 10 [lingots d'Histerite](https://histeria.fr/wiki/1-ressources/histerite) |
-| 4 | 1 [graine en Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-seed) |
-| 5 | 3 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principa/lottery-ticket) |
+| 4 | 1 [graine en Nocturite](https://histeria.fr/wiki/1-ressources/nocturite-seeds) |
+| 5 | 3 [tickets de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
 | 6 | 64 [spikes](https://histeria.fr/wiki/3-4-utilitaire-base-claim/spike) |
-| 7 | 128 [cobblestone compressées](https://histeria.fr/wiki/1-ressources/compressed-cobblestone) |
+| 7 | 128 [cobblestone compressées](https://histeria.fr/wiki/1-ressources/cobblestone-compress) |
 | 8 | Un [casque en Histerite](https://histeria.fr/wiki/2-equipement/histerite-helmet) & un [plastron en Histerite](https://histeria.fr/wiki/2-equipement/histerite-chestplate) |
 | 9 | Des [jambières en Histerite](https://histeria.fr/wiki/2-equipement/histerite-leggings) & des [bottes en Histerite](https://histeria.fr/wiki/2-equipement/histerite-boots) |
 | 10 | 16 [bâtons de soin](https://histeria.fr/wiki/3-2-utilitaire-pvp/heal-stick) |
@@ -29,7 +29,7 @@ Mais des récompenses bien plus intéressantes attendent les joueurs qui votent 
 | 17 | 128 [obsidiennes empoisonnées](https://histeria.fr/wiki/3-4-utilitaire-base-claim/poisonous-obsidian) |
 | 18 | 5 potions jetables de dégâts instantané II |
 | 19 | 128 [obsidiennes en Histerite](https://histeria.fr/wiki/3-4-utilitaire-base-claim/histerite-obsidian) |
-| 20 | 8 [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dir) |
+| 20 | 8 [terres fertilisées](https://histeria.fr/wiki/3-3-utilitaire-base/fertilized-dirt) |
 | 21 | 16 [commodes](https://histeria.fr/wiki/3-3-utilitaire-base/drawer) |
 | 22 | 48 [améliorations de commode](https://histeria.fr/wiki/3-3-utilitaire-base/drawer-upgrade) |
 | 23 | 32 [pommes en Histerite](https://histeria.fr/wiki/3-2-utilitaire-pvp/histerite-apple)|

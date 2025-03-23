@@ -24,7 +24,7 @@ La catégorie **Notifications** englobe les 3 trois types de notifications que l
 
 - Le chat : Ces notifications se situent dans le chat, en haut à gauche de l'écran. Ces notifications surviennent par exemple lors d'une mort d'un joueur, lors d'une connexion ou déconnexion, et beaucoup plus encore. Les messages des joueurs sont également des notifications de chat pouvant être désactivés.
   
-- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/3_1_utilitaire-principal/fossils), lorsque le joueur gagne de l'xp pour un métier ou des lumen, ou lors d'un clear lag.
+- Les pop-up : Ces notifications surviennent en bas au milieu de l'écran. Elles peuvent s'afficher lors de la découverte d'un [fossile](https://histeria.fr/wiki/3-1-utilitaire-principal/fossils), lorsque le joueur gagne de l'xp pour un métier ou des lumen, ou lors d'un clear lag.
   
 - Les toasts : Ces notifications apparaîssent tout en haut de l'écran. Elles surviennent lors du [coffre d'arène](https://histeria.fr/wiki/4-gameplay/legendary-chest), lors d'un passage d'un niveau de métier, lors d'un recu d'argent, et lors d'une vente à l'hotel de vente.
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/link.svg%%
 %%name=Liens utiles%%
-%%weight=101%%
+%%weight=1%%
 
 # Liens utiles
 

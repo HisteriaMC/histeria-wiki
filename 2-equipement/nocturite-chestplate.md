@@ -1,5 +1,5 @@
 %%name=Plastron en Nocturite%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/nocturite-chestplate.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-chestplate.png%%
 %%weight=1011%%
 
 # Plastron en Nocturite
