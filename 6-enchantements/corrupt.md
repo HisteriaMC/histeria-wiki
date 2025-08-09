@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
-%%name=corruptt%%
+%%name=Corrupt%%
 %%weight=315%%
 
 # Corrupt
@@ -15,3 +15,4 @@ Quand le porteur frappe un ennemi, il a une chance de retirer 1 coeur de vie sup
 | 1 | 0.6 % | Retire 1 coeur de vie à son adversaire et les enchantements de ce dernier sont désactivés |
 | 1 | 3.4 % | Retire 1 coeur de vie à son adversaire et les enchantements de ce dernier sont désactivés |
 | 1 | 3.6 % | Retire 1 coeur de vie à son adversaire et les enchantements de ce dernier sont désactivés |
+
