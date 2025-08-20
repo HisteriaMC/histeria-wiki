@@ -1,4 +1,4 @@
-%%name=Blocs de décoration%%
+%%name=Ascenceur%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/elevator.png%%
 %%weight=701%%
 
@@ -20,3 +20,4 @@ L'ascenseur permet de se déplacer entre l'ascenseur qui se trouve le plus proch
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/white-wool.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/elevator.png
 -=-
+
