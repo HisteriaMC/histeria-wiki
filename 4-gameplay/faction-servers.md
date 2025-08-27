@@ -39,7 +39,7 @@ Les builds de chaque monde faction renferment aussi quelques petits secrets ou e
 
 ## Maisons de faction
 
-Des [maisons de factions](https://histeria.fr/wiki/4-gameplay/mdf) sont disponibles dans le spawn des serveurs faction. En ce début de saison, elles ne sont pas dispon ibles à la vente.
+Des [maisons de factions](https://histeria.fr/wiki/4-gameplay/mdf) sont disponibles dans le spawn des serveurs faction. En ce début de saison, elles ne sont pas disponibles à la vente.
 
 # Le serveur faction 1
 
