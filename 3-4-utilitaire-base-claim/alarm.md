@@ -8,6 +8,8 @@
 
 Quand ce bloc posé dans le claim d'une faction est cassé, tous les joueurs de cette faction reçoivent un message.
 
+Comme les autres blocs pour les bases claim, elle est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 
 -=-

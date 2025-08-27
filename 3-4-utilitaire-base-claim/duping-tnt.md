@@ -8,6 +8,8 @@
 
 La TNT à dédoublement n'est pas très puissante, mais très efficace contre les défenses peu résistantes. Cette TNT se divise en 3 TNT avant d'exploser.
 
+Cette TNT est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft 
 
 -=-

@@ -7,6 +7,8 @@
 ## Description 
 L'obsidienne en Histerite est une variante de l'obsidienne reconnaissable avec ses traces rouges. Elle est plus résistante que l'obsidienne classique.
 
+Comme les autres blocs pour les bases claim, elle est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/obsidian.png

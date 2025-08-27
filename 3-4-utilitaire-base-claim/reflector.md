@@ -8,6 +8,8 @@
 
 Le réflecteur est un bloc de défense éléctrique qui renvoie toutes les TNT arrivant dans un rayon de 10x10x10 autour d'elle. Elle ne renvoie pas la TNT IEM.
 
+Comme les autres blocs pour les bases claim, il est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 
 -=-

@@ -8,6 +8,8 @@
 
 La TNT en Histerite est très utile pour affaiblir les défenses des bases claim.
 
+Cette TNT est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft 
 
 -=-

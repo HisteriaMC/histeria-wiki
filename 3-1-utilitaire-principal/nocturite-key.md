@@ -8,26 +8,31 @@
 La clé en Nocturite est obtenable en votant sur le serveur dans des [Lucky Blocks](https://histeria.fr/wiki/3-1-utilitaire-principal/lucky-block).
 Vous devez l'utiliser sur les boxs qui se trouvent dans les spawns des serveurs factions et des serveurs minages.
 
-Vous pouvez les utiliser sur les caisses aux spawns de chaque serveur.
+Vous pouvez l'utiliser sur la box **violette** aux spawns de chaque serveur.
 
 ## Butin
 
 | Objet | Probabilité (%) |
 | --- | :---: |
-| 8 TNTs en Nocturite | 11.4 |
-| 32obsidiennes en Nocturite | 11.4 |
-| 5 parchemin | 11.4 |
-| 8 terres fertilisées | 11.4 |
-| 32 graines en Nocturite | 11.4 |
-| 2 clés en Histerite | 11.4 |
-| 3 coeurs en Histerite | 11.4 |
-| 16 blocs en Histerite | 11.4 |
-| Un clé en Nocturite | 11.4 |
-| Un chèque de 150 000 $ | 9.1 |
-| Un bâton | 9.1 |
-| Un chèque de 200 000 $ | 8.0 |
-| 3 tickets de loterie | 6.8 |
-| Un chèque de 250 000 $ | 6.8 |
-| 3 coffres-fort | 3.4 |
-| Un épée en Histerite tranchant V | 3.4 |
-| Une Nocturite compressée | 3.4 |
+| Un sac d'argent épique | 15.91 |
+| 8 TNTs en Nocturite | 7.58 |
+| 32 obsidiennes en Nocturite | 7.58 |
+| 5 parchemin | 7.58 |
+| 8 terres fertilisées | 7.58 |
+| 32 graines en Nocturite | 7.58 |
+| 2 clés en Histerite | 7.58 |
+| 3 coeurs en Histerite | 7.58 |
+| 16 blocs en Histerite | 7.58 |
+| Un clé en Nocturite | 7.58 |
+| 3 tickets de loterie | 4.55 |
+| Un bâton | 3.03 |
+| 3 coffres-fort | 2.27 |
+| Une Nocturite compressée | 2.27 |
+| Un épée en Histerite tranchant V | 2.27 |
+| Un altar | 1.52 |
+
+Ce butin est visible en interagissant avec la box en nocturite.
+
+## Aperçu de la box en nocturite
+
+![box en nocturite](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/nocturite-box.png)

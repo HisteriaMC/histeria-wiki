@@ -20,6 +20,7 @@ Sur le serveur, vous avez la possibilité de vendre et d'acheter des objets dans
 |`/hdv sell <montant>`|Permet de vendre les objets en main au hdv|
 |`/hdv search <nom>`|Permet de rechercher un objet avec son nom|
 |`/shop`|Permet d'accéder au shop pour acheter ou vendre des objets|
+|`/lumenshop`|Permet d'accéder au shop pour acheter des objets avec du lumen|
 |  |  |
 |`/bank <montant>`|Permet de créer un chèque avec le montant souhaité|
 |`/lumenbottle <montant>`|Permet de créer une bouteille de lumen|
