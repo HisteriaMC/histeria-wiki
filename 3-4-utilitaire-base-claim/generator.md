@@ -8,6 +8,8 @@
 
 Le générateur est le moyen d'alimenter toutes les défenses nécessitant de l'éléctricité avec de l'Histerite.
 
+Comme les autres blocs pour les bases claim, il est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 
 -=-

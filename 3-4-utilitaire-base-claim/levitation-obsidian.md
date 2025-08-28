@@ -7,6 +7,8 @@
 ## Description 
 L'obsidienne de lévitation est une variante de l'obsidienne en Histerite, mais qui donne un effet de lévitation aux joueurs aux alentours une fois cassée.
 
+Comme les autres blocs pour les bases claim, elle est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png

@@ -8,6 +8,8 @@
 
 Le coffre-fort est un excellent moyen de garder votre équipement à l'abri. Il ne peut s'ouvrir par des ennemis qu'avec un pied de biche et un QTE.
 
+Comme les autres blocs pour les bases claim, il est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 
 -=-

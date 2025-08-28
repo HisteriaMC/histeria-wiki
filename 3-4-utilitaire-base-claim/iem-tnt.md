@@ -8,6 +8,8 @@
 
 La TNT à impulsion éléctromagnétique, abrégé TNT IEM, désactive les défenses éléctriques dans un rayon de 5 blocs durant 10 secondes, ce qui rend la base claim très vulnérable.
 
+Cette TNT est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft 
 
 -=-

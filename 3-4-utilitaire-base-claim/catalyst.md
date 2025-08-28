@@ -11,6 +11,8 @@ Le catalyseur est une défense éléctrique qui, alimenté, effectue une action 
 - aveuglement des ennemis
 - mise en statut de combat des ennemis
 
+Comme les autres blocs pour les bases claim, il est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 
 -=-

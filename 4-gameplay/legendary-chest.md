@@ -7,7 +7,7 @@
 
 ## Description
 
-Un coffre se trouve dans chaque arène et warzone. Il se remplit automatiquement de butin intéressant chaque heure ronde, avec un message en bas de l'écran dans chaque serveur faction: "La caisse de ravitaillement en arène est arrivée!"
+Un coffre se trouve dans chaque arène. Il se remplit automatiquement de butin intéressant chaque heure ronde, avec un message en bas de l'écran dans chaque serveur faction: "La caisse de ravitaillement en arène est arrivée!"
 
 ## Butin
 

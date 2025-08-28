@@ -7,6 +7,8 @@
 ## Description 
 L'obsidienne empoisonnée est une variante de l'obsidienne en Histerite, avec des teints verts. Une fois cette obsidienne cassée, le joueur obtient un effet de poison.
 
+Comme les autres blocs pour les bases claim, elle est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft
 -=-
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/histerite-obsidian.png

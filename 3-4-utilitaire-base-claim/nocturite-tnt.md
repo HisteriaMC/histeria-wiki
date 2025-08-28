@@ -8,6 +8,8 @@
 
 La TNT en Nocturite est le meilleur moyen de piller une base claim. Elle vient à bout de toutes les défenses, mais est très onéreuse.
 
+Cette TNT est aussi disponible à l'achat au `/lumenshop`.
+
 ## Craft 
 
 -=-
