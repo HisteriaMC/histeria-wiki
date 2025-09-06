@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chalice.png%%
 %%name=Calice de Dionysos%%
-%%weight=107%%
+%%weight=207%%
 
 # Calice de Dionysos
 

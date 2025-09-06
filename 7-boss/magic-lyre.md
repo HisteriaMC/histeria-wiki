@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/magic-lyre.png%%
 %%name=Lyre d'Appolon%%
-%%weight=108%%
+%%weight=208%%
 
 # Lyre d'Appolon
 

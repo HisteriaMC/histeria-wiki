@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/ares.png%%
-%%weight=119%%
+%%weight=218%%
 %%name=Arès%%
 # Arès
 

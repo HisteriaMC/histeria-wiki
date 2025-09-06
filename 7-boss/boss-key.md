@@ -1,13 +1,11 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png%%
 %%name=Clé de boss%%
-%%weight=110%%
+%%weight=223%%
 
 # Clé de boss
 
 ## Description
-La clé de boss est une clé obtenable en infligeant le plus de dégâts à un boss. Vous devez l'utiliser sur les box qui se trouvent dans le spawn des [serveurs minages](https://histeria.fr/wiki/4-gameplay/minage-servers) et [serveurs factions](https://histeria.fr/wiki/4-gameplay/faction-servers).
-
-Vous pouvez l'utiliser sur la box **blanche et jaune** aux spawns de chaque serveur.
+La clé de boss est une clé disponible en la construisant à partir de 9 [fragments de clé de boss](https://histeria.fr/wiki/7-boss/boss-key-shard). Vous pouvez l'utiliser sur la box **blanche et jaune** aux spawns de chaque serveur.
 
 ## Butin
 
@@ -25,6 +23,21 @@ Vous pouvez l'utiliser sur la box **blanche et jaune** aux spawns de chaque serv
 | Un totem en Histerite | 5.26 |
 
 Ce butin est visible en interagissant avec la box de boss.
+
+## Fabrication
+
+-=-
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png
+ -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key.png
+-=-
 
 ## Aperçu de la box de boss
 
