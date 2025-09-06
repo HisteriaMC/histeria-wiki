@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/love-potion.png%%
 %%name=Philtre d'amour d'Aphrodite%%
-%%weight=102%%
+%%weight=202%%
 
 # Philtre d'amour d'Aphrodite
 

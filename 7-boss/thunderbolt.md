@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/thunderbolt.png%%
 %%name=Éclair de Zeus%%
-%%weight=109%%
+%%weight=209%%
 
 # Éclair de Zeus
 

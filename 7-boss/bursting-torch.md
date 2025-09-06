@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/bursting-torch.png%%
 %%name=Torche d'Hestia%%
-%%weight=104%%
+%%weight=204%%
 
 # Torche d'Hestia
 
