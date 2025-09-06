@@ -37,4 +37,4 @@ Quand un Noctus est tué, le joueur peut recevoir entre 1 et 5 orbes d'expérien
 
 ## Aperçu du Noctus
 
-![Noctus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/mobs/bellum.png)
+![Noctus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/mobs/noctus.png)

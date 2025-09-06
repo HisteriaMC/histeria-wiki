@@ -20,8 +20,8 @@ Lors de l'utilisation du sac d'argent, le joueur reçoit une somme aléatoire en
 
 | Rareté | Intervalle |
 | --- | --- |
-| Commun | x $ - x $ |
-| Peu Commun| x $ - x $ |
-| Rare | x $ - x $ |
-| Epique |  x $ - x $ |
-| Légendaire |  x $ - x $ |
+| Commun | 700 $ - 10 000 $ |
+| Peu Commun| 1 750 $ - 33 000 $ |
+| Rare | 5 000 $ - 80 000 $ |
+| Epique |  20 000 $ - 210 000 $ |
+| Légendaire |  30 000 $ - 1 200 000 $ |
