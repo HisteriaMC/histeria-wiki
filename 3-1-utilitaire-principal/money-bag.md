@@ -1,5 +1,5 @@
 %%name=Sac d'argent%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/money-bag.webp%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/money-bag.png%%
 %%weight=915%%
 
 # Sac d'argent
