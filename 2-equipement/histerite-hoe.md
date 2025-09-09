@@ -25,4 +25,4 @@ Elle a 5 000 de durabilité.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-hoe.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 7 dans le métier d'agriculteur.

@@ -21,7 +21,7 @@ La pomme en Histerite est un excellent objet pour se soigner durant un combat.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-apple.png
 -=-
 
-Pour pouvoir en fabriquer, il faut être niveau 15 dans le métier de tueur.
+Pour pouvoir en fabriquer, il faut être niveau 7 dans le métier de tueur.
 
 ## Tableau descriptif
 

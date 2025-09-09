@@ -22,3 +22,5 @@ Il peut être utilisé pendant 30m avant de ne plus avoir de durabilité.
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/white-wool.png  
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hang-glider.png
 -=-
+
+Pour pouvoir le fabriquer, il faut être niveau 17 dans le métier de bûcheron.

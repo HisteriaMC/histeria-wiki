@@ -25,4 +25,4 @@ Il a 10 000 de durabilité.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hammer.png
 -=-
 
-Pour pouvoir le fabriquer, il faut être niveau 24 dans le métier de mineur.
+Pour pouvoir le fabriquer, il faut être niveau 37 dans le métier de mineur.

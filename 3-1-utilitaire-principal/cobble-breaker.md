@@ -26,3 +26,5 @@ Le brise-roche est disponible aux **spawns de chaque serveur**, mais il peut aus
  ==- https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/furnace.png
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/cobble-breaker.png
 -=-
+
+Pour pouvoir le fabriquer, il faut être niveau 6 du métier de mineur.

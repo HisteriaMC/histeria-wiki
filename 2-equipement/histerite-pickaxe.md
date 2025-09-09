@@ -25,4 +25,4 @@ Elle a 4 500 de durabilité.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-pickaxe.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 6 dans le métier de mineur.
+Pour pouvoir la fabriquer, il faut être niveau 7 dans le métier de mineur.

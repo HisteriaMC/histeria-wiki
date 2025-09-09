@@ -24,4 +24,4 @@ Lorsque vous utilisez ce bâton, il vous donne l'effet Vitesse II pendant 2 seco
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/speed-stick.png
 -=-
 
-Pour pouvoir en fabriquer, vous devez être niveau 21 dans le métier de tueur.
+Pour pouvoir en fabriquer, vous devez être niveau 7 dans le métier de tueur.

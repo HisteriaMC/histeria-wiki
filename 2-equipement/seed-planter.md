@@ -26,4 +26,4 @@ Il permet également de récolter des [fruits de Nocturite](https://histeria.fr/
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/seed-planter.png
 -=-
 
-Pour pouvoir le fabriquer, vous devez être niveau 20 dans le métier d'agriculteur.
+Pour pouvoir le fabriquer, vous devez être niveau 27 dans le métier d'agriculteur.

@@ -60,7 +60,7 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 45 | Craft des bottes en Nocturite |
 | 46 | 20 Lucky Blocks |
 | 47 | Un livre enchanté Weaken I |
-| 48 | Un bâton en Histerit (permanent) |
+| 48 | Un bâton en Histerite (permanent) |
 | 49 | 2 clés en Nocturite |
 | 50 | 2 Nocturite compressées |
 

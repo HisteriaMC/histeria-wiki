@@ -23,4 +23,4 @@ La terre fertilisée est indispensable pour faire pousser les [graines de Noctur
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/fertilized-dirt.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 15 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 17 dans le métier d'agriculteur.

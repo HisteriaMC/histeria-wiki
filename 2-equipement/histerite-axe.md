@@ -29,5 +29,5 @@ Elle a 17 points d'attaque.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-axe.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier de bûcheron.
+Pour pouvoir la fabriquer, il faut être niveau 7 dans le métier de bûcheron.
 

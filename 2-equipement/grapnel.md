@@ -27,6 +27,6 @@ Il a une durabilité de 10000 utilisations.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/grapnel.png
 -=-
 
-Pour pouvoir le fabriquer, il faut être niveau 21 dans le métier de tueur.
+Pour pouvoir le fabriquer, il faut être niveau 37 dans le métier de tueur.
 
 

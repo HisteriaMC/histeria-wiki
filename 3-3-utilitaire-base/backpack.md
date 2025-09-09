@@ -23,4 +23,4 @@ Il ne peut que en avoir 2 par coffre, et aucun dans les coffres de l'end.
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/backpack.png
 -=-
 
-Le craft du sac à dos se débloque au niveau 27 du métier de mineur.
+Le craft du sac à dos se débloque au niveau 37 du métier de .

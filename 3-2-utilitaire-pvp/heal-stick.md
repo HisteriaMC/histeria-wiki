@@ -23,4 +23,4 @@ Lorsque vous utilisez ce bâton, il vous soignera 3 coeurs. Il y a un temps de r
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/heal-stick.png
 -=-
 
-Pour pouvoir en fabriquer, il faut être niveau 21 dans le métier de tueur.
+Pour pouvoir en fabriquer, il faut être niveau 7 dans le métier de tueur.

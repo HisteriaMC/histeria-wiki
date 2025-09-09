@@ -21,7 +21,7 @@ Le plastron en Nocturite fait partie de la meilleure armure disponible sur Histe
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/armors/nocturite-chestplate.png
 -=-
 
-Pour pouvoir le fabriquer, vous devez être niveau 30 dans le métier de mineur.
+Pour pouvoir le fabriquer, vous devez être niveau 45 dans le métier de mineur.
 
 ## Tableau descriptif
 | Effets de potions | Points d'armure | Durabilité |

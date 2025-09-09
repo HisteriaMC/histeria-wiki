@@ -34,5 +34,5 @@ Son usage est restreint à :
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-shovel.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 4 dans le métier d'agriculteur.
+Pour pouvoir la fabriquer, il faut être niveau 7 dans le métier d'agriculteur.
 

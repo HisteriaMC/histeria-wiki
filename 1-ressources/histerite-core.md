@@ -23,4 +23,4 @@ Le coeur d'Histerite est un élément essentiel pour la fabrication de l'[armure
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-core.png
 -=-
 
-Pour pouvoir le fabriquer, il faut être niveau 18 dans le métier de mineur.
+Pour pouvoir le fabriquer, il faut être niveau 27 dans le métier de mineur.
