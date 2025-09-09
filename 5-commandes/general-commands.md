@@ -27,3 +27,4 @@ Certaines commandes plus générales peuvent être utilisées pour pouvoir obten
 |`/stats [player]`|Affiche des informations sur soi ou un joueur|
 |`/topstats`|Affiche le top-stats|
 |`/tps`|Affiche les TPS du serveur sur lequel vous êtes connecté|
+|`/modifiers`|Affiche les boosters de serveur et de joueurs actifs|

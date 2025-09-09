@@ -12,7 +12,7 @@ Lorsqu'un joueur interagit avec un booster, alors une durée, un multiplicateur 
 
 Les boosters sont disponibles dans les ruines.
 
-Voici un tableau qui montre les chances pour chaque modificateur.
+Voici un tableau qui montre les chances pour chaque modificateur. 
 
 | Modificateur | Pourcentage de chance |
 | --- | --- |
@@ -25,3 +25,7 @@ Voici un tableau qui montre les chances pour chaque modificateur.
 |  |  |
 | À l'échelle du joueur | 70 % |
 | À l'échelle du serveur | 30 % |
+
+## /modifiers
+
+La commande `/modifiers` permet de voir les boosters actifs, de serveur et de joueur.
