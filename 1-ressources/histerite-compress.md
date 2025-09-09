@@ -22,4 +22,4 @@ L'Histerite compressée est un élément essentiel pour la fabrication du coeur 
  -== https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-compress.png
 -=-
 
-Pour pouvoir la fabriquer, il faut être niveau 12 dans le métier de mineur.
+Pour pouvoir la fabriquer, il faut être niveau 17 dans le métier de mineur.
