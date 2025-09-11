@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hermes.png%%
-%%weight=212%%
+%%weight=219%%
 %%name=Hermès%%
 # Hermès
 

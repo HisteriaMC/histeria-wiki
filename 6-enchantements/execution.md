@@ -5,7 +5,7 @@
 # Execution
 
 ## Obtention
-Cet enchantement n'est disponible **que dans les coffres légendaires**
+Cet enchantement n'est disponible **que dans les ruines**
 
 ## Informations
 Déchaine le bourreau en toi ! L'enchantement d'arène Execution est fusionnable avec une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword).

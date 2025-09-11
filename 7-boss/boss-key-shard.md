@@ -1,6 +1,6 @@
 %%name=Fragment de clé de boss%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/boss-key-shard.png%%
-%%weight=224%%
+%%weight=231%%
 
 # Fragment de clé de boss
 

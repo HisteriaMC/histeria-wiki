@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/poseidon.png%%
 %%name=Poséidon%%
-%%weight=210%%
+%%weight=217%%
 # Poséidon
 
 ## Description 
@@ -15,8 +15,6 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 + Trident 
   - Tranchant V
   - Tsunami I
-
-> Le trident légendaire de Poséidon possède l'enchantement unique __Tsunami__, ayant le pouvoir de ralentir drastiquement ses adversaires de façon temporaire.
 
 ## Skin
 ![poseidon](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/poseidon.png)

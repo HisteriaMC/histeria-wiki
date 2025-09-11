@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/athena.png%%
 %%name=Athéna%%
-%%weight=217%%
+%%weight=224%%
 # Athéna
 
 ## Description 
@@ -15,8 +15,6 @@ Athena, la déesse de la sagesse, de la guerre stratégique, et des arts, se pro
 + Lance d'Athéna
   - Tranchant V
   - Retrive I
-
-> La lance d'Athéna possède l'enchantement unique **Retrive**, qui permet de voler 2 coeurs aux ennemis.
 
 ## Skin
 ![athena](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/athena.png)

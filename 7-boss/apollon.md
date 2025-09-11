@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/apollo.png%%
-%%weight=220%%
+%%weight=227%%
 # Apollon
 
 ## Description 
@@ -18,3 +18,7 @@ Apollon, le dieu grec du soleil, de la musique, de la poésie et des arts, se dr
 
 ## Skin
 ![apollo](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/apollo.png)
+
+## Butin spécial
+
+Hermès a une petite chance de donner ses sandales enchantées au meilleur joueur.
