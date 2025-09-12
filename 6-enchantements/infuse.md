@@ -8,10 +8,12 @@
 Expérience à tout va ! L'enchantement Infuse est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe).
 Quand le porteur casse un bloc, il gagne 5x plus d'expérience qu'en temps normal !
 
-**Niveau maximum :** 3
+**Niveau maximum :** 5
 
 | Niveau | Pourcentage d'activation | Effet |
 | --- | --- | --- |
-| 1 | 0.06 % | 5x plus d'expérience |
-| 1 | 0.07 % | 5x plus d'expérience |
-| 1 | 0.08 % | 5x plus d'expérience |
+| 1 | 0.8 % | 5x plus d'expérience |
+| 2 | 1 % | 5x plus d'expérience |
+| 3 | 1.2 % | 5x plus d'expérience |
+| 3 | 1.4 % | 5x plus d'expérience |
+| 3 | 1.6 % | 5x plus d'expérience |

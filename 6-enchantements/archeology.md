@@ -15,6 +15,6 @@ L'enchantement d'arène Archeology permet d'augmenter vos chances de trouver des
 
 | Niveau | Chances de trouver un fossile |
 | --- | --- |
-| 1 |	0.0972% |
-| 2 |	0.1134% |
-| 3 |	0.1296% |
+| 1 | 0.0972% |
+| 2 | 0.1134% |
+| 3 | 0.1296% |

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Gravity%%
-%%weight=309%%
+%%weight=308%%
 
 # Gravity
 
@@ -15,6 +15,6 @@ Quand le porteur de l'enchantement est frappé, il a une chance de donner double
 
 | Niveau | Pourcentage d'activation | Effet |
 | --- | --- | --- |
-| 1 | 0.3 % | Double saut toutes les 30s |
-| 1 | 0.35 % | Double saut toutes les 25s |
-| 1 | 0.4 % | Double saut toutes les 20s |
+| 1 | 0.5 % | Double saut toutes les 30s |
+| 2 | 0.625 % | Double saut toutes les 25s |
+| 3 | 0.75 % | Double saut toutes les 20s |

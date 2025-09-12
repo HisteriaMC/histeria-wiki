@@ -8,10 +8,4 @@
 L'enchantement Gaze est fusionnable avec une [pioche en Histerite](https://histeria.fr/wiki/2-equipement/histerite-pickaxe). Quand le porteur mine un minerai combustible, ce dernier est directement cuit.
 
 
-**Niveau maximum :** 3
-
-| Niveau | Pourcentage d'activation | Effet |
-| --- | --- | --- |
-| 1 | 0.06 % | Fabrique des cobblestones compressées |
-| 1 | 0.07 % | Fabrique des cobblestones compressées |
-| 1 | 0.08 % | Fabrique des cobblestones compressées |
+**Niveau maximum :** 1

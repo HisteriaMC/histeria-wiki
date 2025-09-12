@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Resilient%%
-%%weight=307%%
+%%weight=306%%
 
 # Resilient
 
