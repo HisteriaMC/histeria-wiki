@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Timber%%
-%%weight=303%%
+%%weight=319%%
 
 # Timber
 

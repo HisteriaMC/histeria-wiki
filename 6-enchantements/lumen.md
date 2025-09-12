@@ -1,6 +1,6 @@
 %%name=Lumen%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/lumen.png%%
-%%weight=319%%
+%%weight=324%%
 
 # Lumen
 

@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Gaze%%
-%%weight=301%%
+%%weight=304%%
 
 # Gaze
 

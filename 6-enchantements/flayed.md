@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book.webp%%
 %%name=Flayed%%
-%%weight=311%%
+%%weight=320%%
 
 # Flayed
 
