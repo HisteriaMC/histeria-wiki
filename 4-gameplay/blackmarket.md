@@ -6,9 +6,44 @@
 
 ## Description
 
-Le marché noir est un pnj disponible de 9h à 12h, et de 20h à 22h, qui échange des objets rares contre une somme d'argent qui augmente à chaque achat.
+Le marché noir est un pnj qui échange des objets rares et qui peut retirer des enchantements. Il se situe à différents endroits aléatoires dans la warzone de chaque serveur faction.
 
-Il se situe à différents endroits aléatoires dans chaque warzone de chaque faction:
-- Dans des temples aux coins de la warzone en faction 1
-- N'importe où en warzone en faction 2
+Après chaque service rendu, il se déplace à un autre endroit dans la warzone.
 
+## Horaires
+
+Le marché noir est disponible de 9h à 12h, et de 20h à 22h (heure de Paris/France)
+
+## Ressources achetables
+
+Voici la liste des objets disponibles à l'achat au marché noir:
+
+> **Objets peu rares:**
+> - 16 lingots d'histerite
+> - 16 pommes en histerite
+> - 16 bâtons de soin
+> - 64 spikes
+> - Un sac pochon
+> - 16 graines de nocturite
+> - 16 cristaux de nocturite
+> - 16 shurikens
+
+
+> **Objets rares:**
+> - Un parchemin d'enchantement
+> - Un punching-ball
+> - Un spawner à Lycos
+> - 8 terres fertiles
+
+> **Objets très rares:**
+> - Un kill-tag
+
+## Coût de désenchantement
+
+Pour désenchanter un objet, il faut payer un certain montant de lumen en fonction du pourcentage de chance de réussite et du niveau de l'enchantement.
+
+| % de chance de réussite | Coût en lumen |
+| :---: | :---: |
+| 25% | 250 / niveau |
+| 50% | 5000 / niveau |
+| 99% | 1000 / niveau |
