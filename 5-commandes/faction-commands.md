@@ -17,7 +17,7 @@ Les commandes de faction sont un ensemble de fonctionnalités conçues pour vous
 | `/f ally <faction>` | S'allier avec une autre faction |
 | `/f chat [all/faction/ally]` | Activer / Désactiver le chat de faction |
 | `/f claim [auto/circle/square]` | Claim un chunk |
-| `/f create <name>` | Créer une faction |
+| `/f create <name>` | Créer une faction (Attention, coûte 50 lingots d'histerite !) |
 | `/f demote <player>` | Rétrograder un membre de la faction |
 | `/f deposit <money>` | Déposer de la monnaie dans la banque de faction |
 | `/f description <texte>` | Définir la description de la faction |
