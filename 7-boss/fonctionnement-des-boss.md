@@ -55,7 +55,7 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
 + Des fragments de clé boss:
     - 1er - 1 fragment
     - 2e - 40% d'avoir 1 fragment
-    - 2e: - 20% de chance d'avoir un fragment
+    - 3e: - 20% de chance d'avoir un fragment
 
 ## Liste des boss
 Voici la liste des boss disponibles en jeu :

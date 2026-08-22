@@ -1,5 +1,5 @@
 %%name=Graines d'Histerite'%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-seed.png%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-seeds.png%%
 %%weight=1107%%
 
 # Graines d'Histerite
