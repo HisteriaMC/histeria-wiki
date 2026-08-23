@@ -48,14 +48,14 @@ seuls les joueurs ayant infligé __plus de 250 dégâts au boss__ recoivent les 
     - 2e ou mieux - (450 + Les dégâts infligés divisés par 100) multiplié par un nombre aléatoire entre __1.8 et 2__
     - 3e ou plus - le nombre aléatoire est entre __0.45 et 0.5__
 + Des parchemins d'enchantement :
-    - 1e - 3
+    - 1er - 3
     - 2e - 2 
     - 3e ou plus - 1 seul
     - plus de 2500 dégâts infligés - 50% de chance d'en avoir 1 ajouté au total
 + Des fragments de clé boss:
     - 1er - 1 fragment
     - 2e - 40% d'avoir 1 fragment
-    - 3e: - 20% de chance d'avoir un fragment
+    - 3e - 20% de chance d'avoir un fragment
 
 ## Liste des boss
 Voici la liste des boss disponibles en jeu :

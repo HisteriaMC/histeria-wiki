@@ -6,7 +6,7 @@
 
 ## Description
 
-Le marché noir est un pnj qui échange des objets rares et qui peut retirer des enchantements. Il se situe à différents endroits aléatoires dans la warzone de chaque serveur faction.
+Le marché noir est un PNJ qui échange des objets rares et qui peut retirer des enchantements. Il se situe à différents endroits aléatoires dans la warzone de chaque serveur faction.
 
 Après chaque service rendu, il se déplace à un autre endroit dans la warzone.
 
