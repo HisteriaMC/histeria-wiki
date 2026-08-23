@@ -12,6 +12,6 @@ La boîte aux lettres est un menu où le joueur recevra toute sorte de récompen
 
 La boîte aux lettres est accessible de deux manières : 
 - La commande `/mail`
-- Le bloc boîte au lettres situé aux hubs des serveurs factions
+- Le bloc boîte aux lettres situé aux hubs des serveurs factions
 
-Attention, au bout de 7 jours, les mails non récupérés disparaîssent.
+Attention, au bout de 7 jours, les mails non récupérés disparaissent.
