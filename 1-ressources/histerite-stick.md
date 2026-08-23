@@ -1,6 +1,6 @@
 %%name=Bâton d'Histerite%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-stick.png%%
-%%weight=1108%%
+%%weight=1110%%
 
 # Bâton d'Histerite
 

@@ -1,6 +1,6 @@
 %%name=Coeur d'Histerite%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/histerite-core.png%%
-%%weight=1110%%
+%%weight=1112%%
 
 # Coeur d'Histerite
 
