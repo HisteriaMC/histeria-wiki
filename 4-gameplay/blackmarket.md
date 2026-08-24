@@ -18,25 +18,25 @@ Le marché noir est disponible de 9h à 12h, et de 20h à 22h (heure de Paris/Fr
 
 Voici la liste des objets disponibles à l'achat au marché noir:
 
-> **Objets peu rares:**
-> - 16 lingots d'Histerite
-> - 16 pommes en Histerite
-> - 16 bâtons de soin
-> - 64 spikes
-> - Un sac pochon
-> - 16 graines de Nocturite
-> - 16 cristaux de Nocturite
-> - 16 shurikens
+**Objets peu rares:**
+- 16 lingots d'Histerite
+- 16 pommes en Histerite
+- 16 bâtons de soin
+- 64 spikes
+- Un sac pochon
+- 16 graines de Nocturite
+- 16 cristaux de Nocturite
+- 16 shurikens
 
 
-> **Objets rares:**
-> - Un parchemin d'enchantement
-> - Un punching-ball
-> - Un spawner à Lycos
-> - 8 terres fertiles
+**Objets rares:**
+- Un parchemin d'enchantement
+- Un punching-ball
+- Un spawner à Lycos
+- 8 terres fertiles
 
-> **Objets très rares:**
-> - Un kill-tag
+**Objets très rares:**
+- Un kill-tag
 
 ## Coût de désenchantement
 

@@ -34,3 +34,7 @@ Comme la série de quêtes de tutoriel, chaque quête se débloque en terminant 
 Ces quêtes sont disponible au nombre de trois au maximum. Il faut les activer via le menu, et quand elles sont terminées, il faut attendre 12 heures avant d'en réactiver une.
 
 Parmi ces quêtes récurrentes, les quêtes de recherche de coffre sont parfois disponibles. Dans ces cas-là, le joueur obtient une boussole qui pointe vers un coffre posé dans le même serveur où la quête a été activée.
+
+## Quêtes de faction
+
+Toutes les semaines, 3 nouvelles quêtes de faction sont disponibles, et chaque membre peut aider à les complêter.
