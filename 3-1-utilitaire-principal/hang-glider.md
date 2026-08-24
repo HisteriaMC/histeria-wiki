@@ -1,6 +1,6 @@
 %%name=Planeur%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/hang-glider.png%%
-%%weight=904%%
+%%weight=903%%
 
 # Planeur
 

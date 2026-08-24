@@ -1,6 +1,6 @@
 %%name=Bouteille de lumen%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/bottled-lumen.png%%
-%%weight=907%%
+%%weight=906%%
 
 # Bouteille de lumen 
 

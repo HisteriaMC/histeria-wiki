@@ -1,6 +1,6 @@
 %%name=Chercheur de coffre%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/chest-finder.png%%
-%%weight=903%%
+%%weight=902%%
 
 # Chercheur de coffre
 
