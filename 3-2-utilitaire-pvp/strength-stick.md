@@ -7,7 +7,7 @@
 ## Description
 Le bâton de force est l'un des quatre bâtons à effet sur le serveur avec le bâton de saut, le bâton de soin et le bâton de vitesse. Il est obtenable en le fabriquant.
 
-Lorsque vous utilisez ce bâton, il vous donnera un effet de force II pendant 15 secondes. Il y a un temps de recharge de 30 secondes entre chaque utilisation.
+Lorsque vous utilisez ce bâton, il vous donnera un effet de force I pendant 15 secondes. Il y a un temps de recharge de 30 secondes entre chaque utilisation.
 
 ## Fabrication
 -=-
