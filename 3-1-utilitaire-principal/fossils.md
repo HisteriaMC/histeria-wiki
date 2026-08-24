@@ -5,7 +5,7 @@
 # Les fossiles
 
 ## Description
-Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leur taux d'obtention peut augmenter grâce à l'enchantement [Archéologie](https://histeria.fr/wiki/6-enchantements/archeology). Il existe 5 raretés, et ils peuvent être étudiées par l'Archéologue aux spawns des serveurs factions.
+Les fossiles ne peuvent s'obtenir qu'en cassant de la pierre. Leur taux d'obtention peut augmenter grâce à l'enchantement [Archéologie](https://histeria.fr/wiki/6-enchantements/archeology). Il en existe 5 raretés, et ils peuvent être étudiés par l'Archéologue aux spawns des serveurs factions.
 
 L'Archéologue étudiera les fossiles pendant quelques secondes ou minutes, en fonction de la rareté des fossiles, et une fois l'étude terminée, il donne des récompenses.
 
