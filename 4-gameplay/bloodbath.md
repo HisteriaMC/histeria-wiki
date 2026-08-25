@@ -9,7 +9,7 @@
 Le Bain de Sang est un événement ayant lieu 3 fois par semaine (heures en France/Paris):
 - **les mercredis à 15h**
 - **les vendredis à 20h30**
-- **les diamches à 16h30**
+- **les dimaches à 16h30**
 
 L'arène est disponible avec `/bloodbath`. Le but est d'y aller pour tuer le plus de joueurs possible. Mais attention, la mort entraine la perte de 3 objets aléatoires de l'inventaire !
 
