@@ -6,7 +6,7 @@
 
 ## Description
 
-Le trident de Poséidon est l'arme du boss Poséidon. Une fois vaincu, il a une petite chance de le donner au joueur ayant infligé le plus de dégâts. Il inflige autant de points de dégâts qu'une épée en Histerite.
+Le trident de Poséidon est l'arme du boss Poséidon. Une fois vaincu, il a 4% de chance de le donner au joueur ayant infligé le plus de dégâts. Il inflige autant de points de dégâts qu'une épée en Histerite.
 
 Le trident sera toujours enchanté avec les enchantements *tranchant V* et *Tsunami I*, ce dernier étant spécifique au trident.
 

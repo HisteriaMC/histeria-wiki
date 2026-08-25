@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/aphrodite.png%%
-%%weight=228%%
+%%weight=232%%
 # Aphrodite
 
 ## Description 
@@ -17,4 +17,6 @@ Aphrodite, la déesse de l'amour, de la beauté et de la séduction, règne en t
 ## Skin
 ![aphrodite](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/aphrodite.png)
 
+## Butin spécial
 
+Aphrodite a 0.8% de chance de donner le glaive de l'Olympe au meilleur joueur.

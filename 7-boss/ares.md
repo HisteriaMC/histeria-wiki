@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/ares.png%%
-%%weight=225%%
+%%weight=229%%
 %%name=Arès%%
 # Arès
 
@@ -20,4 +20,4 @@ Ares, dieu de la guerre. Son célèbre plastron témoigne de sa puissance. Marqu
 
 ## Butin spécial
 
-Arès a une petite chance de donner son poitrail enchanté au meilleur joueur.
+Arès a 2% de chance de donner son poitrail enchanté au meilleur joueur.

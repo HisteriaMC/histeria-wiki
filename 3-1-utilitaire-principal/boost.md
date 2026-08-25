@@ -1,6 +1,6 @@
 %%name=Booster de métier%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/booster.webp%%
-%%weight=915%%
+%%weight=912%%
 
 # Booster de métier
 

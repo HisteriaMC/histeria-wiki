@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/zeus.png%%
-%%weight=226%%
+%%weight=230%%
 # Zeus
 
 ## Description 
@@ -19,3 +19,7 @@ Zeus est incontestablement le plus puissant boss que les joueurs peuvent combatt
   
 ## Skin
 ![zeus](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/zeus.png)
+
+## Butin spécial
+
+Aphrodite a 0.8% de chance de donner le glaive de l'Olympe au meilleur joueur.

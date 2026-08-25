@@ -6,7 +6,7 @@
 
 ## Description
 
-Les sandales d'Hermès sont la pièce d'armure du boss Hermès. Une fois vaincu, il a une petite chance de les donner au joueur ayant infligé le plus de dégâts. Ils ont les mêmes statistiques que les bottes en Nocturite.
+Les sandales d'Hermès sont la pièce d'armure du boss Hermès. Une fois vaincu, il 2% chance de les donner au joueur ayant infligé le plus de dégâts. Ils ont les mêmes statistiques que les bottes en Nocturite.
 
 Les sandales seront toujours enchantées avec les enchantements *protection IV* et *Reset I*, ce dernier étant spécifique aux sandales.
 

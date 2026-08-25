@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/athena.png%%
 %%name=Athéna%%
-%%weight=224%%
+%%weight=228%%
 # Athéna
 
 ## Description 
@@ -21,4 +21,4 @@ Athena, la déesse de la sagesse, de la guerre stratégique, et des arts, se pro
 
 ## Butin spécial
 
-Athéna a une petite chance de donner sa lance enchantée au meilleur joueur.
+Athéna a 4% de chance de donner sa lance enchantée au meilleur joueur.

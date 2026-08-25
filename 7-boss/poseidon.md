@@ -1,6 +1,6 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/poseidon.png%%
 %%name=Poséidon%%
-%%weight=217%%
+%%weight=221%%
 # Poséidon
 
 ## Description 
@@ -21,4 +21,4 @@ Poséidon, dieu des océans dont le trident en effraie plus d'un. Sa robustesse 
 
 ## Butin spécial
 
-Poséidon a une petite chance de donner son trident enchanté au meilleur joueur.
+Poséidon a 4% de chance de donner son trident enchanté au meilleur joueur.

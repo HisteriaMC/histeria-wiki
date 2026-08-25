@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hermes.png%%
-%%weight=219%%
+%%weight=223%%
 %%name=Hermès%%
 # Hermès
 
@@ -18,3 +18,7 @@ Messager des dieux, Hermès connaît tout les raccourcis, et possède une force 
 
 ## Skin
 ![hermes](https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/entities/boss/hermes.png)
+
+## Butin spécial
+
+Hermès a 2% de chance de donner ses sandales au meilleur joueur.

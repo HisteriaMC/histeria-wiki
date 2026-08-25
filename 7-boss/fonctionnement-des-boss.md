@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/events/boss-icon.png%%
-%%weight=229%%
+%%weight=233%%
 # Fonctionnement des boss
 
 ## Apparition
@@ -10,6 +10,9 @@ Les boss apparaîssent dans les 3 serveurs __faction__ à des heures précises :
  - 16h
  - 18h
  - 22h
+
+## Soldats de boss
+Plusieurs fois durant un combat contre un boss, des soldats apparaîssent. Les dégâts qui leur sont infligés comptent pour le classment.
 
 ## Le colisée
 Le colisée, accessible via la commande __/boss__ en jeu, vous permet d'accéder au lieu de combat contre les boss. Le PvP y est __désactivé__ mais __vous pouvez y perdre votre stuff__. 
@@ -74,7 +77,9 @@ Voici la liste des boss disponibles en jeu :
 |Arès               |Colisée                      |
 |Athéna             |Olympe                       |
 |Hestia             |Colisée                      |
+|Artémis            |Jardin élyséen               |
+|Héphaïstos         |Jardin élyséen               |
 
 ### Récompenses uniques
 
-Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 4% de chance de recevoir l'arme unique du boss (si le boss est Héra, Athéna, ou Poséidon), et 2% de chance pour l'armure unique du boss (si le boss est Hadès, Arès, Hestia ou Hermès).
+Le joueur le plus valeureux ayant infligé __le plus de dégâts__ au boss a 4% de chance de recevoir l'arme unique du boss (si le boss est Héra, Athéna, ou Poséidon), 2% de chance pour l'armure unique du boss (si le boss est Hadès, Arès, Hestia ou Hermès), 3% pour l'équipement unique du boss (si c'est Artémis ou Héphaïstos), ou 0.8% pour le glaive de l'Olympe (pour les autres boss)

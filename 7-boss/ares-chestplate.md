@@ -6,7 +6,7 @@
 
 ## Description
 
-Le poitrail d'Arès est la pièce d'armure du boss Arès. Une fois vaincu, il a une petite chance de le donner au joueur ayant infligé le plus de dégâts. Il a les mêmes statistiques que le plastron en Nocturite.
+Le poitrail d'Arès est la pièce d'armure du boss Arès. Une fois vaincu, il a 2% de chance de le donner au joueur ayant infligé le plus de dégâts. Il a les mêmes statistiques que le plastron en Nocturite.
 
 Le poitrail sera toujours enchanté avec les enchantements *protection IV* et *BloodIgnite I*, ce dernier étant spécifique à la couronne.
 

@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hestia.png%%
-%%weight=218%%
+%%weight=222%%
 # Hestia
 
 ## Description 
@@ -20,4 +20,4 @@ Hestia, déesse vénérée dans les arènes mythiques, se tient comme la gardien
 
 ## Butin spécial
 
-Hesta a une petite chance de donner son voile enchanté au meilleur joueur.
+Hesta a 2% de chance de donner son voile enchanté au meilleur joueur.

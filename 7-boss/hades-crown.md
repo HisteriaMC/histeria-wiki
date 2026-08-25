@@ -6,7 +6,7 @@
 
 ## Description
 
-La couronne d'Hadès est la pièce d'armure du boss Hadès. Une fois vaincu, il a une petite chance de la donner au joueur ayant infligé le plus de dégâts. Elle a les mêmes statistiques que le casque en Nocturite.
+La couronne d'Hadès est la pièce d'armure du boss Hadès. Une fois vaincu, il a 2% chance de la donner au joueur ayant infligé le plus de dégâts. Elle a les mêmes statistiques que le casque en Nocturite.
 
 La couronne sera toujours enchantée avec les enchantements *protection IV* et *Omnicient I*, ce dernier étant spécifique à la couronne.
 

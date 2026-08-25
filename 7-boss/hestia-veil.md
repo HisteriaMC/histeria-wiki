@@ -6,7 +6,7 @@
 
 ## Description
 
-Le voile d'Hestia est la pièce d'armure du boss Hestia. Une fois vaincue, elle a une petite chance de le donner au joueur ayant infligé le plus de dégâts. Il a les mêmes statistiques que les jambières en Nocturite.
+Le voile d'Hestia est la pièce d'armure du boss Hestia. Une fois vaincue, elle a 2% chance de le donner au joueur ayant infligé le plus de dégâts. Il a les mêmes statistiques que les jambières en Nocturite.
 
 Le voile sera toujours enchanté avec les enchantements *protection IV* et *FeatherWalk I*, ce dernier étant spécifique au voile.
 

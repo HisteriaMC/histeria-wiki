@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hades.png%%
-%%weight=221%%
+%%weight=225%%
 %%name=Hadès%%
 # Hades
 
@@ -23,4 +23,4 @@ Hades, le sombre seigneur des Enfers, se dresse en tant que maître implacable d
 
 ## Butin spécial
 
-Hadès a une petite chance de donner sa couronne enchantée au meilleur joueur.
+Hadès a 2% chance de donner sa couronne enchantée au meilleur joueur.

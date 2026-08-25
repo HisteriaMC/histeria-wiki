@@ -1,5 +1,5 @@
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/entities/boss/hera.png%%
-%%weight=220%%
+%%weight=224%%
 %%name=Héra%%
 # Héra
 
@@ -22,4 +22,4 @@ Héra, la reine majestueuse des dieux, se tient en tant que figure imposante au 
 
 ## Butin spécial
 
-Héra a une petite chance de donner son Sceptre du Lotus enchanté au meilleur joueur.
+Héra a 4% de chance de donner son Sceptre du Lotus enchanté au meilleur joueur.

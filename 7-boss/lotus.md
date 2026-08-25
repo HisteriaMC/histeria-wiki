@@ -6,7 +6,7 @@
 
 ## Description
 
-Le sceptre du lotus d'Héra est l'arme du boss Héra. Une fois vaincue, elle a une petite chance de le donner au joueur ayant infligé le plus de dégâts. Il inflige autant de points de dégâts qu'une épée en Histerite.
+Le sceptre du lotus d'Héra est l'arme du boss Héra. Une fois vaincue, elle a 4% de chance de le donner au joueur ayant infligé le plus de dégâts. Il inflige autant de points de dégâts qu'une épée en Histerite.
 
 Le sceptre du lotus sera toujours enchanté avec les enchantements *tranchant V* et *Clone I*, ce dernier étant spécifique au sceptre du lotus.
 
