@@ -1,6 +1,6 @@
 %%name=Quêtes%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/forge-note.png%%
-%%weight=516%%
+%%weight=512%%
 
 # Quêtes
 

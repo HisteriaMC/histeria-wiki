@@ -1,6 +1,6 @@
 %%name=Ruine%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/ruin.png%%
-%%weight=515%%
+%%weight=511%%
 
 # Ruine
 

@@ -1,6 +1,6 @@
 %%name=Boîte aux lettres%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/mailbox.png%%
-%%weight=514%%
+%%weight=510%%
 
 # Boîte aux lettres
 
@@ -12,6 +12,7 @@ La boîte aux lettres est un menu où le joueur recevra toute sorte de récompen
 
 La boîte aux lettres est accessible de deux manières : 
 - La commande `/mail`
-- Le bloc boîte aux lettres situé aux hubs des serveurs factions
+- Le bloc boîte aux lettres situé aux hubs des serveurs factions
+
 
 Attention, au bout de 7 jours, les mails non récupérés disparaissent.

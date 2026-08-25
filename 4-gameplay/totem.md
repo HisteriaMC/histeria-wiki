@@ -1,6 +1,6 @@
 %%name=Totem%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/totem-block.png%%
-%%weight=507%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/events/totem-icon.png%%
+%%weight=516%%
 
 # Totem
 

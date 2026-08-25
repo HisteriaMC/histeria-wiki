@@ -1,6 +1,6 @@
 %%name=Primes%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/star.png%%
-%%weight=517%%
+%%weight=513%%
 
 # Primes
 

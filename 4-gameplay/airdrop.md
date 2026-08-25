@@ -1,6 +1,6 @@
 %%name=Largage%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/airdrop.png%%
-%%weight=508%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/events/airdrop-icon.png%%
+%%weight=517%%
 
 # Largage
 

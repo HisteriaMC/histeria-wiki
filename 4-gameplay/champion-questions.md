@@ -1,6 +1,6 @@
 %%name=Questions de champion%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/icons/gold-trophy.png%%
-%%weight=505%%
+%%weight=515%%
 
 # Questions de champion
 

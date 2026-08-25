@@ -6,7 +6,7 @@
 
 Les maisons de factions, parfois abrégés *MDF*, sont disponibles dans le spawn des 2 serveurs faction. Chaque faction ne peut posséder qu'une seule maison de faction.
 
-En ce début de version v7.5, les mdf ne sont pas encore à vendre.
+En ce début de version v8, les mdf ne sont pas encore à vendre.
 
  
 ## Restrictions

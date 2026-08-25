@@ -1,6 +1,6 @@
 %%name=Coffre légendaire%%
 %%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/blocks/chest.png%%
-%%weight=509%%
+%%weight=505%%
 
 # Coffre légendaire
 
