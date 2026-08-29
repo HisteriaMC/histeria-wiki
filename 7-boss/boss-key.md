@@ -11,16 +11,16 @@ La clé de boss est une clé disponible en la construisant à partir de 9 [fragm
 
 | Objet de boss | Probabilité (%) |
 | --- | :---: |
-| Le calice de Dionysos | 10.53 |
-| L'éclair de Zeus | 10.53 |
-| La lyre d'Appolon | 10.53 |
-| Le caducée d'Hermès | 10.53 |
-| Le philtre d'amour d'Aphrodite | 10.53 |
-| La torche d'Hestia | 10.53 |
-| La malédiction d'Héra | 10.53 |
-| Le sceau d'Hadès | 10.53 |
-| L'engrais de Déméter | 10.53 |
-| Un totem en Histerite | 5.26 |
+| Le calice de Dionysos | 11.11 |
+| Le caducée d'Hermès | 11.11 |
+| La lyre d'Appolon | 11.11 |
+| Le sceau d'Hadès | 11.11 |
+| La torche d'Hestia | 11.11 |
+| La malédiction d'Héra | 11.11 |
+| Le philtre d'amour d'Aphrodite | 11.11 |
+| L'engrais de Déméter | 11.11 |
+| Un totem en Histerite | 7.41 |
+| L'éclair de Zeus | 3.70 |
 
 Ce butin est visible en interagissant avec la box de boss.
 

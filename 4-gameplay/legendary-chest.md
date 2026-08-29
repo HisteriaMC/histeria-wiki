@@ -11,36 +11,16 @@ Un coffre se trouve dans chaque arène. Il se remplit automatiquement de butin i
 
 ## Butin
 
-Le butin de chaque coffre est aléatoire entre 8 possibilités :
+Le butin de chaque coffre est aléatoire entre 9 possibilités :
 
 | Numéro | Butin |
 | :---: | :---: |
-| 1 | Une armure en histerite complète (Il y a 1 chance sur 6 pour que le plastron et les jambières soient enchantés protection 4, et 1 autre chance sur 6 pour que ce soit le casque et les bottes) |
-| | [Un ticket de loterie](https://histeria.fr/wiki/3-1-utilitaire-principal/lottery-ticket) |
-| | - |
-| 2 | [20 pommes en Histerite](https://histeria.fr/wiki/3-2-utilitaire-pvp/histerite-apple) |
-| | - |
-| 3 | 8 [bâtons de saut](https://histeria.fr/wiki/3-2-utilitaire-pvp/jump-stick) |
-| | 8 [bâtons de vitesse](https://histeria.fr/wiki/3-2-utilitaire-pvp/speed-stick) |
-| | 16 [bâtons de soin](https://histeria.fr/wiki/3-2-utilitaire-pvp/heal-stick) |
-| | 8 pommes en histerite |
-| | - |
-| 4 | 4 pommes en or |
-| | 1 totem d'immortalité |
-| | 16 poissons-globes |
-| | 32 carottes dorées |
-| | (Il y a 1 chance sur 6 pour que il y ait également une pomme dorée enchantée) |
-| | - |
-| 5 | 8 [shurikens](https://histeria.fr/wiki/3-2-utilitaire-pvp/shuriken) |
-| | 8 pommes en Histerite |
-| | Une [épée en Histerite](https://histeria.fr/wiki/2-equipement/histerite-sword) (Il y a 1 chance sur 9 pour que l'épée soit enchantée avec tranchant 5) |
-| | - |
-| 6 | 22 perles de l'Ender |
-| | - |
-| 7 | 22 bâtons de soin |
-| | Une [clé en Histerite](https://histeria.fr/wiki/3-1-utilitaire-principal/histerite-key) |
-| | Un [parchemin d'enchantement](https://histeria.fr/wiki/6-enchantements/forge-note) |
-| | - |
-| 8 | 4 pommes en Histerite |
-| | 2 bâtons de vitesse |
-| |  (Il y a 1 chance sur 8 pour que un livre enchanté contenant un enchantement d'arène soit également présent) |
+| 1 | 1 casque, 1 plastron, 1 paire de jambières et 1 paire de bottes en Histerite, plus 1 ticket de loterie. Chaque pièce a 20 % de chance d'être enchantée Protection IV |
+| 2 | 6 pommes en Histerite et 16 pommes en or |
+| 3 | 32 bâtons de saut, 24 bâtons de soin, 16 bâtons de vitesse et 3 pommes en Histerite |
+| 4 | 4 pommes en or, 1 totem d'immortalité, 1 pomme en or enchantée (11 % de chance), 32 carottes dorées et 16 poissons-globes |
+| 5 | 8 shurikens, 2 pommes en Histerite et 1 livre enchanté Tranchant V (11 % de chance) |
+| 6 | 20 perles de l'Ender |
+| 7 | 16 bâtons de soin, 4 parchemins d'enchantement et 1 clé en Histerite |
+| 8 | 4 bâtons de vitesse, 2 parchemins d'enchantement et un livre enchanté aléatoire parmi les enchantements légendaires (5 % de chance). |
+| 9 | 8 shurikens, 2 pommes en Histerite et 1 livre enchanté Puissance V (11 % de chance). |

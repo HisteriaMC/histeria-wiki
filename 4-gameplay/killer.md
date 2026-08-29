@@ -18,19 +18,19 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 4 | 16 shurikens |
 | 5 | Un générateur d'Hylide |
 | 6 | 8 bâtons de soin |
-| 7 | Craft des bâtons de soin, vitesse & saut |
+| 7 | Crafts de bâtons de soin, de vitesse, de saut et de force |
 | 8 | Un sac d'argent commun |
 | 9 | 2 clés en Histerite |
 | 10 | Un casque en Histerite protection IV |
 | 11 | 8 Lucky Blocks |
 | 12 | Un punching-ball |
-| 13 | Un sac d'argent peu commun |
+| 13 | Craft de l'arc en Histerite |
 | 14 | 3 clés en Histerite |
 | 15 | Un générateur de Lycos |
 | 16 | 10 Lucky Blocks |
 | 17 | Craft de la pomme en Histerite |
 | 18 | 64 pommes en or |
-| 19 | Un sac d'argent peu commun |
+| 19 | Un marqueur d'éliminations |
 | 20 | 8 pommes en Histerite |
 | 21 | 3 clés en Histerite |
 | 22 | Un générateur de Bellum |
@@ -39,45 +39,44 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 25 | Une clé en Nocturite |
 | 26 | 32 bâtons de soin |
 | 27 | 64 shurikens |
-| 28 | 2 sacs d'argent peu communs |
+| 28 | 8 bâtons de force |
 | 29 | 16 pommes en Histerite |
-| 30 | Une épée en Histerite tranchant IV |
-| 31 | 4 clés en Histerite |
-| 32 | Un générateur de Noctus |
-| 33 | 15 Lucky Blocks |
-| 34 | 3 sacs d'argent peu communs |
-| 35 | Lumen Boost: chance supplémentaire de gagner +1 lumen à chaque créature tuée |
-| 36 | 5 clés en Histerite |
-| 37 | Craft du grappin |
-| 38 | 15 Lucky Blocks |
-| 39 | Un Kill-Tag |
-| 40 | Permission d'utiliser `/freerepair` |
-| 41 | Un sac d'argent rare |
-| 42 | Un générateur de Sterox |
-| 43 | 6 clés en Histerite |
-| 44 | 4 tickets de loterie |
-| 45 | Craft des jambières en Nocturite |
-| 46 | 20 Lucky Blocks |
-| 47 | Un livre enchanté Weaken I |
+| 30 | Craft des jambières en Nocturite |
+| 31 | Une épée en Histerite tranchant IV |
+| 32 | 4 clés en Histerite |
+| 33 | Un générateur de Noctus |
+| 34 | 15 Lucky Blocks |
+| 35 | Un sac d'argent rare |
+| 36 | Bonus permanent qui donne plus de lumen en tuant des créatures |
+| 37 | 15 Lucky Blocks |
+| 38 | Craft du grappin |
+| 39 | Un codex d'enchantement |
+| 40 | Un Kill-Tag |
+| 41 | Permission d'utilisation de `/freerepair` |
+| 42 | Un livre enchanté Weaken I |
+| 43 | Un générateur de Sterox |
+| 44 | Une rune de créatures |
+| 45 | Une étoile du néant |
+| 46 | 22 Lucky Blocks |
+| 47 | Une rune d'épée |
 | 48 | Permission de modifier les couleurs des potions |
 | 49 | 2 clés en Nocturite |
-| 50 | 2 Nocturite compressées |
-
+| 50 | Craft de l'étoile du néant |
 
 ## Moyen d'amélioration
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
-| Joueur tué ou + de 250 dégats au boss | 0 - 12 | 750 |
+| Joueur tué ou + de 250 dégats au boss | 0 - 12 | 850 |
 | Joueur tué ou + de 250 dégats au boss | 13 - 25 | 500 |
-| Joueur tué ou + de 250 dégats au boss | 25 - 50 | 300 |
-| Hylide | 0 - 10 | 18 |
-| Hylide | 11 - 15 | 5 |
-| Lycos | 10 - 20 | 18 |
-| Lycos | 21 - 25 | 8 |
-| Bellum | 20 - 30 | 18 |
-| Bellum | 31 - 35 | 3 |
-| Noctus | 30 - 40 | 15 |
-| Noctus | 41 - 45 | 4 |
-| Sterox | 40 - 45 | 15 |
-| Sterox | 45 - 50 | 5 |
+| Joueur tué ou + de 250 dégats au boss | 25 - 50 | 350 |
+| Hylide | 0 - 10 | 12 |
+| Hylide | 11 - 15 | 3 |
+| Lycos | 10 - 20 | 13 |
+| Lycos | 21 - 25 | 5 |
+| Bellum | 20 - 30 | 12 |
+| Bellum | 31 - 35 | 2 |
+| Noctus | 30 - 40 | 10 |
+| Noctus | 41 - 45 | 3 |
+| Sterox | 40 - 45 | 10 |
+| Sterox | 46 - 50 | 3 |

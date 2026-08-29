@@ -33,46 +33,46 @@ Chaque fossile donne une récompense entre de l'argent, du lumen, de l'XP pour l
 
 | Type                   | Chance | Récompense              |
 | ---------------------- | ------ | ----------------------- |
-| Argent                 | 45 %   | entre 750 \$ et 1250 \$ |
-| Lumen                  | 35 %   | entre 10 et 25          |
-| XP du métier de mineur | 20 %   | entre 5 et 10 XP        |
+| Argent                 | 35 %   | entre 750 $ et 1250 $ |
+| Lumen                  | 55 %   | entre 15 et 30          |
+| XP du métier de mineur | 10 %   | entre 5 et 10 XP        |
 | Objets                 | 0 %    | -                       |
 
 ### Fossile rare
 
 | Type                   | Chance | Récompense               |
 | ---------------------- | ------ | ------------------------ |
-| Argent                 | 43 %   | entre 1110 \$ et 1700 \$ |
-| Lumen                  | 32 %   | entre 30 et 50           |
-| XP du métier de mineur | 22 %   | entre 25 et 40 XP        |
-| Objets                 | 3 %    | 1 clé de vote            |
+| Argent                 | 33 %   | entre 1100 $ et 1700 $ |
+| Lumen                  | 53 %   | entre 30 et 50           |
+| XP du métier de mineur | 12 %   | entre 25 et 40 XP        |
+| Objets                 | 2 %    | 1 clé de vote            |
 
 ### Fossile épique
 
 | Type                   | Chance | Récompense                     |
 | ---------------------- | ------ | ------------------------------ |
-| Argent                 | 40 %   | entre 2350 \$ et 3200 \$       |
-| Lumen                  | 30 %   | entre 100 et 140               |
-| XP du métier de mineur | 24 %   | entre 95 et 135 XP             |
-| Objets                 | 6 %    | 1 clé de vote ou 1 Lucky Block |
+| Argent                 | 31 %   | entre 1650 $ et 2350 $       |
+| Lumen                  | 51 %   | entre 65 et 95                |
+| XP du métier de mineur | 14 %   | entre 55 et 80 XP             |
+| Objets                 | 4 %    | 1 clé de vote ou 1 Lucky Block |
 
 ### Fossile légendaire
 
-| Type                   | Chance | Récompense               |
-| ---------------------- | ------ | ------------------------ |
-| Argent                 | 37 %   | entre 1650 \$ et 2350 \$ |
-| Lumen                  | 28 %   | entre 60 et 90           |
-| XP du métier de mineur | 25 %   | entre 55 et 80 XP        |
-| Objets                 | 10 %   | 1 clé en Histerite       |
+| Type                   | Chance | Récompense                           |
+| ---------------------- | ------ | ------------------------------------ |
+| Argent                 | 28 %   | entre 2350 $ et 3200 $               |
+| Lumen                  | 50 %   | entre 120 et 150                     |
+| XP du métier de mineur | 15 %   | entre 95 et 135 XP                   |
+| Objets                 | 7 %    | 1 clé en Histerite ou 3 Lucky Blocks |
 
 ### Fossile mythique
 
-| Type                   | Chance | Récompense               |
-| ---------------------- | ------ | ------------------------ |
-| Argent                 | 33 %   | entre 3200 \$ et 4200 \$ |
-| Lumen                  | 27 %   | entre 150 et 200         |
-| XP du métier de mineur | 25 %   | entre 150 et 200 XP      |
-| Objets                 | 15 %   | 1 clé en Histerite       |
+| Type                   | Chance | Récompense                                |
+| ---------------------- | ------ | ----------------------------------------- |
+| Argent                 | 19 %   | entre 3200 $ et 4200 $                    |
+| Lumen                  | 50 %   | entre 165 et 220                          |
+| XP du métier de mineur | 21 %   | entre 150 et 200 XP                       |
+| Objets                 | 10 %   | 2 clés en Histerite ou 5 Lucky Blocks     |
 
 ## Visuels 
 

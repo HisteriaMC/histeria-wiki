@@ -14,22 +14,27 @@ Vous pouvez l'utiliser sur la box **violette** aux spawns de chaque serveur.
 
 | Objet | Probabilité (%) |
 | --- | :---: |
-| Un sac d'argent épique | 15.91 |
-| 8 TNTs en Nocturite | 7.58 |
-| 32 obsidiennes en Nocturite | 7.58 |
-| 5 parchemin | 7.58 |
-| 8 terres fertilisées | 7.58 |
-| 32 graines en Nocturite | 7.58 |
-| 2 clés en Histerite | 7.58 |
-| 3 coeurs en Histerite | 7.58 |
-| 16 blocs en Histerite | 7.58 |
-| Un clé en Nocturite | 7.58 |
-| 3 tickets de loterie | 4.55 |
-| Un bâton | 3.03 |
-| 3 coffres-fort | 2.27 |
-| Une Nocturite compressée | 2.27 |
-| Un épée en Histerite tranchant V | 2.27 |
-| Un altar | 1.52 |
+| 1 sac d'argent épique | 12.73 |
+| 3 sacs d'argent rares | 12.12 |
+| 3 coeurs en Histerite | 6.06 |
+| 16 blocs d'Histerite | 6.06 |
+| 32 obsidiennes en Nocturite | 6.06 |
+| 16 terres fertilisées | 6.06 |
+| 32 graines de Nocturite | 6.06 |
+| 8 TNTs en Nocturite | 6.06 |
+| 5 parchemins d'enchantement | 6.06 |
+| 2 clés en Histerite | 6.06 |
+| 1 clé en Nocturite | 6.06 |
+| 1 codex d'enchantement | 3.03 |
+| 3 tickets de loterie | 3.64 |
+| 1 livre enchanté tranchant V | 1.82 |
+| 3 vaults | 1.82 |
+| 2 codex d'enchantement | 1.82 |
+| 1 Nocturite compressée | 1.82 |
+| 1 altar | 1.21 |
+| 20 Lucky Blocks | 2.42 |
+| 1 bâton | 2.42 |
+| 1 sac d'argent légendaire | 0.61 |
 
 Ce butin est visible en interagissant avec la box en nocturite.
 

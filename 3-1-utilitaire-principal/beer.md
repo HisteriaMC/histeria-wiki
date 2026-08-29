@@ -1,5 +1,5 @@
 %%name=Bière de CercleTour%%
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/beer.md%%
+%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/beer.png%%
 %%weight=917%%
 
 # Bière de CercleTour

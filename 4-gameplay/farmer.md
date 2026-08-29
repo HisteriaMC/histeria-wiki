@@ -19,8 +19,8 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 4 | 16 ascenseurs |
 | 5 | 5 Lucky Blocks |
 | 6 | Un ticket de loterie |
-| 7 | Craft de la pelle & de la houe en Histerite |
-| 8 | Un sac d'argent commun |
+| 7 | Crafts de la pelle et de la houe en Histerite |
+| 8 | 16 graines d'Histerite |
 | 9 | 2 clés en Histerite |
 | 10 | Des jambières en Histerite protection IV |
 | 11 | 8 Lucky Blocks |
@@ -31,7 +31,7 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 16 | 10 Lucky Blocks |
 | 17 | Craft de la terre fertilisée |
 | 18 | Un bâton de sécheresse |
-| 19 | Un sac d'argent peu commun |
+| 19 | Un marqueur de joueur |
 | 20 | 5 terres fertilisées |
 | 21 | 3 clés en Histerite |
 | 22 | 10 graines de Nocturite |
@@ -39,44 +39,45 @@ L'avancée des métiers est disponible avec la commande `/job`, et vous pouvez l
 | 24 | Des jambières en Histerite protection IV solidité IV |
 | 25 | Une clé en Nocturite |
 | 26 | 8 terres fertilisées |
-| 27 | Craft du planteur de graines |
-| 28 | 2 sacs d'argent peu communs |
+| 27 | Craft de la Nocturite compressée |
+| 28 | 3 sacs d'argent peu communs |
 | 29 | 20 graines de Nocturite |
-| 30 | Une pelle en Histerite efficacité V |
-| 31 | 4 clés en Histerite |
-| 32 | 10 terres fertilisées |
-| 33 | 15 Lucky Blocks |
-| 34 | 3 sacs d'argent peu communs |
-| 35 | Golden Crop: le joueur a désormais une chance de gagner de l'argent en cassant des cultures |
-| 36 | 5 clés en Histerite |
-| 37 | Craft de la Nocturite compressée |
-| 38 | 15 Lucky Blocks |
-| 39 | 6 TNT en Nocturite |
-| 40 | Permission d'utilisation de la commande `/sellinv` |
-| 41 | Un sac d'argent rare |
-| 42 | 20 terres fertilisées |
-| 43 | 6 clés en Histerite |
-| 44 | 4 tickets de loterie |
-| 45 | Craft des bottes en Nocturite |
-| 46 | 20 Lucky Blocks |
-| 47 | Un livre enchanté Weaken I |
-| 48 | Un bâton en Histerite (permanent) |
+| 30 | Craft des bottes en Nocturite |
+| 31 | Une pelle en Histerite efficacité V |
+| 32 | 4 clés en Histerite |
+| 33 | 10 terres fertilisées |
+| 34 | 15 Lucky Blocks |
+| 35 | Un sac d'argent rare |
+| 36 | Bonus permanent qui donne de l'argent en récoltant des cultures |
+| 37 | 5 clés en Histerite |
+| 38 | Craft du planteur de graines |
+| 39 | 15 Lucky Blocks |
+| 40 | Un codex d'enchantement |
+| 41 | Permission d'utilisation de `/sellinv` |
+| 42 | Un livre enchanté Flatten I |
+| 43 | 2 Codex d'enchantement |
+| 44 | Une rune d'arc |
+| 45 | Une étoile de la vie |
+| 46 | 22 Lucky Blocks |
+| 47 | Une rune d'armure |
+| 48 | 32 terres fertilisées |
 | 49 | 2 clés en Nocturite |
-| 50 | 2 Nocturite compressées |
-
+| 50 | Craft de l'étoile de la vie |
 
 ## Moyen d'amélioration
 
 | Source | Niveaux | Exprérience |
 |:---:|:---:|:---:|
 | Blé | 0 - 12 | 10 |
-| Patate | 0 - 12 | 15 |
-| Carotte | 13 - 25 | 10 |
-| Betterave | 13 - 25 | 10 |
-| Pousse de Nocturite | 22 - 38 | 15 |
-| Pousse de Nocturite | 39 - 50 | 5 |
-| Pastèque | 26 - 38 | 5 |
-| Pastèque | 38 - 42 | 1 |
+| Pommes de terre | 0 - 12 | 12 |
+| Carotte | 13 - 25 | 7 |
+| Betterave | 13 - 25 | 8 |
+| Pastèque | 26 - 38 | 4 |
+| Pastèque | 39 - 42 | 1 |
 | Citrouille | 26 - 38 | 5 |
-| Citrouille | 38 - 42 | 1 |
+| Citrouille | 39 - 42 | 1 |
+| Plante d'Histerite | 22 - 38 | 8 |
+| Plante d'Histerite | 39 - 50 | 3 |
+| Plante de Nocturite | 22 - 38 | 10 |
+| Plante de Nocturite | 39 - 50 | 4 |
 

@@ -22,11 +22,12 @@ Ce marchand se situe au fond des marais, dans une cabane en bois. Il propose, en
 | Shuriken ensanglanté | Un shuriken qui inflige des dégâts sur la durée | 1 000 $ | 500 | 4 griffes sylvestres et 4 fourrures dorées |
 | Boule de lumen | Immobilise l'ennemi | 1 500 $ | 750 | 16 larmes de lumen |
 | Ender pearl divisée | Une perle de l'end qui divise en l'air | 2 500 $ | 1 250 | 16 cornes d'Histerite et 16 griffes sylverstres |
-| Potion de purifiaction | Retire les effets négatifs | 10 000 $ | 5 000 | 32 larmes de lumen et 2 larmes primordiales |
 | Bouclier d'objet | Alerte lorsque l'objet va se casser | 15 000 $ | 7 500 | 32 filaments nocturnes et 2 filaments primordiaux |
 | Marqueur de joueur | Met le nom du joueur sur un objet | 20 000 $ | 10 000 | 4 griffes primordiales |
 | Marqueur d'éliminations | Compte le nombre d'élimination par un objet | 20 000 $ | 10 000 | 4 cornes primordiales |
 | Marqueur de blocs | Compte le nombre de blocs minés par un objet | 20 000 $ | 10 000 | 4 fourrures primordiales |
+| Marqueur d'éliminations de créatures | Compte le nombre d'élimination de créatures par un objet | 20 000 $ | 10 000 | 4 larmes primordiales |
+| Potion de purifiaction | Retire les effets négatifs | 55 000 $ | 15 000 | 16 larmes primordiales et 16 fourrures primordiales |
 | Codex d'enchantement | Améliore un enchantement au niveau max | 50 000 $ | 25 000 | 16 filaments primordiaux et 16 griffes primordiales |
 | Enchantement Gloom I | Invoque un Hylide sur l'adversaire | 50 000 $ | 27 500 | 32 larmes primordiales |
 | Casque de lumen | Avec l'armure entière, donne des boosts pour tuer des créatures | 150 000 $ | 100 000 | 32 larmes primordiales et 32 cornes primordiales |

@@ -6,7 +6,7 @@
 
 ## Explication
 
-Un colis apparaîtra chaque jour sur _l'un des 2 serveurs factions entre 18h et 23h_. Il tombera du ciel tout doucement, à 200 blocs de haut, autour du spawn dans un rayon de minimum **1000 blocs** jusqu'à **4000 blocs**. Si son ballon est frappé, il tombera bien plus vite. Le premier qui est sur les lieux au bon moment devra réussir une phase de déverouillage avant d'obtenir du butin intéressant !
+Un colis apparaîtra chaque jour sur _l'un des 2 serveurs factions entre 18h et 23h_. Il tombera du ciel tout doucement, à **260 blocs de haut**, autour du spawn dans un rayon de minimum **300 blocs** jusqu'à **1500 blocs**. Si son ballon est frappé, il tombera bien plus vite. Le premier qui est sur les lieux au bon moment devra réussir une phase de déverouillage avant d'obtenir du butin intéressant !
 
 ## Déverouillage
 
@@ -21,44 +21,47 @@ Voici ce que les joueurs peuvent obtenir:
 | :---: | :---: |
 | 1 | 32 pommes en or |
 | | 16 pommes en Histerite |
-| | Une pomme enchantée |
-| | 32 bâtons de vitesse |
-| |32 bâtons de saut |
-| | 48 bâtons de soin |
-| | - |
-| 2 | 32 pommes en or |
-| | 16 pommes en Histerite |
-| | Une pomme enchantée |
-| | 64 carottes en or |
-| | 32 bâtons de vitesse |
-| | 32 bâtons de saut |
-| | 8 terres fertilisées |
-| | - |
-| 3 | 32 pommes en or |
-| | Un totem d'immortalité |
-| | 24 bâtons de vitesse |
-| | 32 bâtons de saut |
-| | 32 shurikens|
-| | 4 parchemins|
-| | 2 clés en Histerite|
-| | - |
-| 4 | 72 pommes en or |
-| | 8 pommes en Histerite |
 | | 32 bâtons de soin |
-| | 48 perles de l'end |
-| | (15% de chance d'avoir un livre enchanté avec un enchantement d'arène) |
+| | 16 bâtons de vitesse |
+| | 16 bâtons de saut |
+| | 5 spawners de Hylide |
 | | - |
-| 5 | 32 pommes en or |
-| | 8 pommes en Histerite |
-| | 32 bâtons de soin |
-| | 16 perles de l'end |
-| | 2 armures complètes en Histerite (50% de chance que les armures soient protection IV) |
-| | 2 tickets de lotterie |
-| | 20% de chance d'avoir un ticket de lotterie chanceux |
+| 2 | 12 pommes en or |
+| | 8 perles de l'End |
+| | 4 pommes en Histerite |
+| | 8 bâtons de soin |
+| | Un booster de tueur (75% de chance) |
+| | Un booster de mineur (75% de chance) |
+| | Un booster de fermier (75% de chance) |
 | | - |
-| 6 | 48 pommes en or |
-| | 8 pommes en Histerite |
-| | 16 bâtons de soin |
-| | 32 shurikens |
-| | 4 parchemins |
-| | (33% de chance d'avoir une épée en Histerite tranchant V) |
+| 3 | 8 pommes en or |
+| | Un sac d'argent rare |
+| | 4 perles de l'End |
+| | 2 pommes en Histerite |
+| | Un casque en Histerite (Protection IV, 50% de chance) |
+| | Un plastron en Histerite (Protection IV, 50% de chance) |
+| | Un ticket de lotterie |
+| | Un ticket de lotterie chanceux (80% de chance) |
+| | - |
+| 4 | 16 terres fertilisées |
+| | Un sac d'argent rare |
+| | 16 carottes en or |
+| | 4 pommes en Histerite |
+| | 8 bâtons de vitesse |
+| | 8 bâtons de saut |
+| | 1 codex d'enchantement |
+| | - |
+| 5 | Un parchemin d'enchantement |
+| | 8 shurikens |
+| | 2 pommes en Histerite |
+| | 12 pommes en or |
+| | 8 bâtons de soin |
+| | Une hache en Histerite (Efficacité V + Timber I, 33% de chance) |
+| | - |
+| 6 | 8 shurikens |
+| | 4 bâtons de saut |
+| | Un parchemin d'enchantement |
+| | 2 bâtons de force |
+| | 4 bâtons de vitesse |
+| | Une clé en Histerite |
+| | 16 terres fertilisées |
